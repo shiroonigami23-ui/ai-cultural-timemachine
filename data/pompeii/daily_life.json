@@ -1,0 +1,57 @@
+{
+  "schedule": {
+      "sunrise": {
+          "time": "Approximately 6 AM",
+          "activities": ["Slaves begin work", "Bakers start baking", "Market setup", "Morning prayers"]
+      },
+      "morning": {
+          "time": "6 AM - 12 PM",
+          "activities": ["Business meetings", "Shopping at market", "Legal proceedings", "School for children"]
+      },
+      "midday": {
+          "time": "12 PM - 3 PM",
+          "activities": ["Main meal (cena)", "Rest during heat", "Bathing at public baths", "Exercise"]
+      },
+      "afternoon": {
+          "time": "3 PM - 6 PM",
+          "activities": ["Leisure activities", "Visiting friends", "Gambling at taverns", "Gladiator training"]
+      },
+      "evening": {
+          "time": "6 PM - 9 PM",
+          "activities": ["Light supper", "Reading by oil lamp", "Family time", "Early to bed for most"]
+      }
+  },
+
+  "food_and_drink": {
+      "staple_foods": ["Bread", "Olive oil", "Wine", "Garlic", "Onions", "Cheese", "Olives"],
+      "common_dishes": ["Puls (porridge)", "Moretum (herb cheese)", "Dormice (delicacy)", "Salted fish"],
+      "seasonings": ["Garum (fish sauce)", "Salt", "Honey", "Vinegar", "Herbs"],
+      "beverages": ["Wine (watered down)", "Posca (vinegar drink)", "Water", "Milk (for children)"],
+      "dining_customs": ["Reclining on couches", "Fingers for eating", "Shared dishes", "Entertainment during meals"]
+  },
+
+  "social_norms": {
+      "greetings": ["Salve (hello)", "Vale (goodbye)", "Bene (well)", "Gratias (thanks)"],
+      "etiquette": ["Right hand for eating", "Respect for elders", "Patron-client relationships", "Hospitality to guests"],
+      "clothing": ["Tunic for daily wear", "Toga for citizens", "Stola for married women", "Simple sandals"],
+      "gender_roles": ["Men: public life", "Women: domestic sphere", "Children: education varied by class"]
+  },
+
+  "economy": {
+      "currency": ["Sestertius", "Denarius", "Aureus"],
+      "prices": ["Loaf of bread: 1 as", "Liter of wine: 1 sestertius", "Tunic: 15 sestertii", "Slave: 2,000-6,000 sestertii"],
+      "occupations": ["Farmers", "Craftsmen", "Merchants", "Bankers", "Doctors", "Teachers", "Prostitutes"],
+      "trade_goods": ["Garum to Rome", "Wine from Vesuvius", "Olive oil", "Wool textiles", "Pottery"]
+  },
+
+  "unusual_facts": [
+      "Fast food was common (thermopolia)",
+      "Political campaign graffiti covered walls",
+      "Public toilets were social spaces",
+      "Gladiators were celebrities with fan clubs",
+      "Earthquakes were common before eruption",
+      "Many houses had erotic art",
+      "Water system had lead pipes",
+      "Bread was stamped with baker's name"
+  ]
+}
