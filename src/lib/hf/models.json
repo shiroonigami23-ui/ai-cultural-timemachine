@@ -1,0 +1,18 @@
+{
+  "pompeii": {
+    "text": "microsoft/Phi-3-mini-4k-instruct",
+    "image": "stabilityai/stable-diffusion-2-1",
+    "lora": "shiroonigami23-ui/sd-pompeii-lora",
+    "audio": "facebook/musicgen-small",
+    "quantized": true,
+    "size": "450MB",
+    "features": ["chat", "image_gen", "ambient_audio"]
+  },
+  "medieval": {
+    "text": "microsoft/Phi-3-mini-4k-instruct",
+    "image": "stabilityai/stable-diffusion-2-1",
+    "lora": "shiroonigami23-ui/sd-medieval-lora",
+    "status": "training",
+    "size": "520MB"
+  }
+}
