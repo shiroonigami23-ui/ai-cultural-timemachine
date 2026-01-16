@@ -1,0 +1,68 @@
+name: Train and Deploy Models
+
+on:
+  workflow_dispatch:
+    inputs:
+      era:
+        description: 'Era to train model for'
+        required: true
+        default: 'pompeii'
+      model_type:
+        description: 'Type of model to train'
+        required: true
+        default: 'text'
+        type: choice
+        options:
+          - text
+          - image
+          - audio
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday at midnight
+
+jobs:
+  train-model:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install huggingface-hub
+
+      - name: Train model
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python scripts/train_${{ github.event.inputs.model_type }}.py             --era ${{ github.event.inputs.era }}             --output models/${{ github.event.inputs.era }}_${{ github.event.inputs.model_type }}.bin
+
+      - name: Upload to Hugging Face
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python scripts/upload_to_hf.py             --model models/${{ github.event.inputs.era }}_${{ github.event.inputs.model_type }}.bin             --repo-id ${{ github.repository_owner }}/${{ github.event.inputs.era }}-${{ github.event.inputs.model_type }}-model
+
+      - name: Update model registry
+        run: |
+          python scripts/update_registry.py             --era ${{ github.event.inputs.era }}             --model-type ${{ github.event.inputs.model_type }}             --version $(date +%Y%m%d-%H%M%S)
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: "Update ${{ github.event.inputs.era }} ${{ github.event.inputs.model_type }} model"
+          title: "Model Update: ${{ github.event.inputs.era }} ${{ github.event.inputs.model_type }}"
+          body: |
+            Auto-generated PR with updated model weights.
+
+            **Changes:**
+            - Updated ${{ github.event.inputs.model_type }} model for ${{ github.event.inputs.era }}
+            - New model uploaded to Hugging Face
+            - Model registry updated
+          branch: "model-update-${{ github.event.inputs.era }}-${{ github.event.inputs.model_type }}"
+          delete-branch: true
