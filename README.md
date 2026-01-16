@@ -85,5 +85,9 @@ ai-cultural-timemachine/
 ## 📚 Further Information
 
 - **GitHub Repository**: [https://github.com/shiroonigami23-ui/ai-cultural-timemachine](https://github.com/shiroonigami23-ui/ai-cultural-timemachine)
-- **Contributing**: Check `CONTRIBUTING.md` (once created) for how to contribute to the project.
-- **Development Guide**: Refer to `DEVELOPMENT.md` (once created) for deeper insights into the development setup and architecture.
+- **Contributing Guidelines**: Read our [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to contribute.
+- **Development Guide**: Dive deeper into the architecture and setup with [DEVELOPMENT.md](DEVELOPMENT.md).
+- **Code of Conduct**: Please review our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+- **Security Policy**: Report vulnerabilities responsibly as per [SECURITY.md](SECURITY.md).
+- **Installation Script**: Automated setup using [install.sh](install.sh).
+- **Verification Script**: Check your setup with [verify_setup.js](verify_setup.js).
