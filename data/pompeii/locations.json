@@ -1,0 +1,67 @@
+{
+  "locations": [
+      {
+          "id": "forum",
+          "name": "The Forum",
+          "description": "Main public square, surrounded by temples and government buildings",
+          "activities": ["Political speeches", "Market trading", "Social gatherings", "Religious ceremonies"],
+          "sounds": ["Crowd chatter", "Market vendors", "Political orators", "Animal sounds"],
+          "smells": ["Incense", "Food stalls", "Animals", "Marble dust"],
+          "time_of_day": "Morning busiest, quieter in afternoon heat",
+          "key_features": ["Temple of Jupiter", "Basilica", "Market stalls", "Statues of emperors"],
+          "historical_notes": "Center of public life, where citizens conducted business and politics"
+      },
+      {
+          "id": "thermopolium",
+          "name": "Thermopolium of Vetutius Placidus",
+          "description": "Roman fast-food counter serving hot food and wine",
+          "activities": ["Quick meals", "Social drinking", "News exchange", "Business deals"],
+          "sounds": ["Cooking pots", "Customer chatter", "Wine pouring", "Coin counting"],
+          "smells": ["Stewing meat", "Garlic", "Wine", "Olive oil"],
+          "time_of_day": "Busy at all hours, peak during meal times",
+          "key_features": ["Food counter with dolia jars", "Fresco of household gods", "Seating area", "Kitchen"],
+          "historical_notes": "One of many thermopolia serving those without kitchen facilities"
+      },
+      {
+          "id": "stabian_baths",
+          "name": "Stabian Baths",
+          "description": "Public baths with hot, warm, and cold rooms",
+          "activities": ["Bathing", "Socializing", "Exercise", "Business meetings"],
+          "sounds": ["Water flowing", "Bathers chatting", "Massage", "Exercise grunts"],
+          "smells": ["Steam", "Essential oils", "Clean stone", "Human sweat"],
+          "time_of_day": "Afternoon most popular, open to all citizens",
+          "key_features": ["Frigidarium (cold)", "Tepidarium (warm)", "Caldarium (hot)", "Palaestra (exercise yard)"],
+          "historical_notes": "Separate hours for men and women, social center of Roman life"
+      },
+      {
+          "id": "house_of_faun",
+          "name": "House of the Faun",
+          "description": "Luxurious private residence of wealthy patrician family",
+          "activities": ["Family life", "Entertaining guests", "Business meetings", "Slave management"],
+          "sounds": ["Fountain water", "Slave footsteps", "Greek poetry readings", "Musical instruments"],
+          "smells": ["Perfumed oils", "Fresh flowers", "Baking bread", "Wax tablets"],
+          "time_of_day": "Morning business, afternoon leisure, evening banquets",
+          "key_features": ["Alexander Mosaic", "Atrium with impluvium", "Peristyle garden", "Private baths"],
+          "historical_notes": "Largest house in Pompeii, showing extreme wealth and Hellenistic influence"
+      },
+      {
+          "id": "amphitheater",
+          "name": "Pompeii Amphitheater",
+          "description": "Outdoor arena for gladiatorial games and spectacles",
+          "activities": ["Gladiator fights", "Animal hunts", "Public executions", "Festivals"],
+          "sounds": ["Crowd roars", "Trumpets", "Weapon clashes", "Animal growls"],
+          "smells": ["Sand", "Blood", "Animal dung", "Food vendors"],
+          "time_of_day": "Games held during daylight hours, especially holidays",
+          "key_features": ["Arena floor", "Seating tiers", "Gladiator barracks", "Animal pens"],
+          "historical_notes": "Oldest surviving Roman amphitheater, capacity 20,000 spectators"
+      }
+  ],
+
+  "location_connections": {
+      "forum": ["thermopolium", "stabian_baths", "house_of_faun"],
+      "thermopolium": ["forum", "amphitheater"],
+      "stabian_baths": ["forum", "house_of_faun"],
+      "house_of_faun": ["forum", "stabian_baths"],
+      "amphitheater": ["thermopolium"]
+  }
+}
