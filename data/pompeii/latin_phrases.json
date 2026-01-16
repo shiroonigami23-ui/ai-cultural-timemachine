@@ -1,0 +1,49 @@
+{
+  "common_greetings": [
+      {"latin": "Salve", "english": "Hello/Be well", "context": "General greeting"},
+      {"latin": "Vale", "english": "Goodbye/Be strong", "context": "Farewell"},
+      {"latin": "Quid agis?", "english": "How are you?", "context": "Casual inquiry"},
+      {"latin": "Bene, gratias", "english": "Well, thanks", "context": "Response to greeting"},
+      {"latin": "Et tu?", "english": "And you?", "context": "Returning question"}
+  ],
+
+  "market_phrases": [
+      {"latin": "Quanti constat?", "english": "How much does it cost?", "context": "Asking price"},
+      {"latin": "Nimis carum est", "english": "It's too expensive", "context": "Negotiating"},
+      {"latin": "Da mihi...", "english": "Give me...", "context": "Ordering goods"},
+      {"latin": "Habesne...?", "english": "Do you have...?", "context": "Inquiring about stock"},
+      {"latin": "Gratias tibi ago", "english": "I thank you", "context": "After purchase"}
+  ],
+
+  "food_and_drink": [
+      {"latin": "Da mihi vinum", "english": "Give me wine", "context": "Ordering drink"},
+      {"latin": "Panem, quaeso", "english": "Bread, please", "context": "Requesting bread"},
+      {"latin": "Sitis est", "english": "I am thirsty", "context": "Expressing thirst"},
+      {"latin": "Fames est", "english": "I am hungry", "context": "Expressing hunger"},
+      {"latin": "Hoc garum optimum est", "english": "This garum is excellent", "context": "Complimenting food"}
+  ],
+
+  "time_and_weather": [
+      {"latin": "Quota hora est?", "english": "What time is it?", "context": "Asking time"},
+      {"latin": "Calidus est", "english": "It is hot", "context": "Commenting on weather"},
+      {"latin": "Terra tremuit", "english": "The earth shook", "context": "Describing earthquake"},
+      {"latin": "Vesuvius fumum emittit", "english": "Vesuvius emits smoke", "context": "Noticing volcano"},
+      {"latin": "Caelum nubilum est", "english": "The sky is cloudy", "context": "Weather observation"}
+  ],
+
+  "emergency_phrases": [
+      {"latin": "Auxilium!", "english": "Help!", "context": "Emergency call"},
+      {"latin": "Fuge!", "english": "Run/Flee!", "context": "Warning of danger"},
+      {"latin": "Ignis!", "english": "Fire!", "context": "Warning of fire"},
+      {"latin": "Terra movet!", "english": "The earth moves!", "context": "Earthquake warning"},
+      {"latin": "Ad mare!", "english": "To the sea!", "context": "Escape direction"}
+  ],
+
+  "philosophical": [
+      {"latin": "Carpe diem", "english": "Seize the day", "context": "Enjoy present moment"},
+      {"latin": "Memento mori", "english": "Remember you must die", "context": "Life's brevity"},
+      {"latin": "Amor vincit omnia", "english": "Love conquers all", "context": "Power of love"},
+      {"latin": "Dum spiro, spero", "english": "While I breathe, I hope", "context": "Optimism"},
+      {"latin": "Tempora mutantur", "english": "Times change", "context": "Accepting change"}
+  ]
+}
