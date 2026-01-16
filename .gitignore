@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+.next/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+dist/
+out/
+build/
+
+# Runtime data
+*.pkl
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ML/Data
+*.h5
+*.pt
+*.tfevents*
+checkpoints/
