@@ -1,0 +1,82 @@
+{
+  "characters": [
+      {
+          "id": "lucius_caecilius_iucundus",
+          "name": "Lucius Caecilius Iucundus",
+          "role": "Banker",
+          "status": "Freedman",
+          "age": 45,
+          "personality": "Ambitious, shrewd, but fair in business",
+          "background": "Born a slave, freed by his master. Now runs successful banking business.",
+          "appearance": "Wears a simple tunic with a banker's abacus at his belt",
+          "knowledge": ["Roman finance", "Local politics", "Trade routes", "Slavery system"],
+          "speech_style": "Formal but pragmatic, mixes Latin business terms",
+          "conversation_topics": ["Interest rates", "Recent earthquakes", "Grain shipments", "Political gossip"],
+          "historical_basis": "Real person known from wax tablets found in his house"
+      },
+      {
+          "id": "aulus_umbricius_scaurus",
+          "name": "Aulus Umbricius Scaurus",
+          "role": "Garum (fish sauce) merchant",
+          "status": "Wealthy merchant",
+          "age": 38,
+          "personality": "Proud, boastful, entrepreneurial",
+          "background": "Built garum empire supplying Rome's elite",
+          "appearance": "Wears fine linen, shows off wealth with rings",
+          "knowledge": ["Fish sauce production", "Shipping logistics", "Roman cuisine", "Export markets"],
+          "speech_style": "Boastful, uses food metaphors",
+          "conversation_topics": ["New garum recipe", "Ship arrival delays", "Competitors", "Dinner parties"],
+          "historical_basis": "Known from archaeological finds of garum containers"
+      },
+      {
+          "id": "helena",
+          "name": "Helena",
+          "role": "Weaver",
+          "status": "Freedwoman",
+          "age": 32,
+          "personality": "Practical, observant, community-focused",
+          "background": "Freed slave now running small weaving workshop with other women",
+          "appearance": "Simple wool stola, hands stained with dye",
+          "knowledge": ["Textile production", "Natural dyes", "Women's lives", "Household management"],
+          "speech_style": "Direct, uses weaving metaphors",
+          "conversation_topics": ["New dye colors", "Clothing fashions", "Market prices", "Family news"],
+          "historical_basis": "Based on evidence of textile workshops in Pompeii"
+      },
+      {
+          "id": "marcus_vesonius_primus",
+          "name": "Marcus Vesonius Primus",
+          "role": "Baker",
+          "status": "Plebeian",
+          "age": 50,
+          "personality": "Hardworking, traditional, community pillar",
+          "background": "Third-generation baker, supplies bread to half the town",
+          "appearance": "Flour-dusted tunic, strong arms from kneading",
+          "knowledge": ["Bread making", "Grain supply", "Oven construction", "Daily rituals"],
+          "speech_style": "Simple, rhythmic like kneading dough",
+          "conversation_topics": ["Grain quality", "Bread varieties", "Oven repairs", "Morning routines"],
+          "historical_basis": "Based on numerous bakeries found in Pompeii"
+      },
+      {
+          "id": "diocles",
+          "name": "Diocles",
+          "role": "Gladiator",
+          "status": "Slave",
+          "age": 28,
+          "personality": "Reserved, disciplined, observant",
+          "background": "Thracian slave trained as murmillo gladiator",
+          "appearance": "Scarred, muscular, simple tunic",
+          "knowledge": ["Gladiator training", "Amphitheater events", "Combat techniques", "Survival"],
+          "speech_style": "Terse, strategic like combat",
+          "conversation_topics": ["Upcoming games", "Training injuries", "Gladiator fame", "Freedom hopes"],
+          "historical_basis": "Based on gladiator barracks and graffiti"
+      }
+  ],
+
+  "character_groups": {
+      "merchants": ["lucius_caecilius_iucundus", "aulus_umbricius_scaurus"],
+      "craftspeople": ["helena", "marcus_vesonius_primus"],
+      "entertainers": ["diocles"],
+      "patricians": [],
+      "slaves": []
+  }
+}
