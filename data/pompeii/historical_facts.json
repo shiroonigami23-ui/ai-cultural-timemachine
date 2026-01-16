@@ -1,0 +1,50 @@
+{
+  "era": "pompeii",
+  "year": 79,
+  "month": "August",
+  "day": 24,
+  "volcano": "Mount Vesuvius",
+  "population": "Approximately 11,000-15,000",
+  "discovered": "1748",
+  "preservation": "Excellent due to pyroclastic flow",
+  "significance": "Best-preserved Roman town, frozen in time",
+
+  "key_facts": [
+      "Pompeii was a thriving Roman port city",
+      "Destroyed by volcanic eruption in 79 AD",
+      "Buried under 4-6 meters of volcanic ash",
+      "Rediscovered in 1748 by Spanish engineer Rocque Joaquin de Alcubierre",
+      "Provides unparalleled insight into Roman daily life",
+      "Approximately 2/3 of the city has been excavated"
+  ],
+
+  "daily_life": {
+      "economy": ["Fishing", "Agriculture (wine, olive oil)", "Textile production", "Bakeries", "Thermopolia (fast food)"],
+      "social_classes": ["Patricians", "Equestrians", "Plebeians", "Freedmen", "Slaves"],
+      "entertainment": ["Amphitheater games", "Baths", "Theater", "Taverns", "Brothels"],
+      "religion": ["Roman polytheism", "Household gods (Lares)", "Temple of Jupiter", "Temple of Apollo", "Isis worship"],
+      "architecture": ["Atrium houses", "Insulae (apartment buildings)", "Public baths", "Forum", "Amphitheater"]
+  },
+
+  "notable_buildings": [
+      "House of the Faun",
+      "Villa of the Mysteries",
+      "Forum Baths",
+      "Lupanar (brothel)",
+      "Stabian Baths",
+      "Amphitheater",
+      "Temple of Apollo",
+      "Macellum (market)"
+  ],
+
+  "famous_discoveries": [
+      "Plaster casts of victims",
+      "Erotic art in brothels",
+      "Political graffiti",
+      "Commercial advertisements",
+      "Well-preserved frescoes",
+      "Mosaics (Alexander Mosaic)",
+      "Carbonized food",
+      "Household items"
+  ]
+}
