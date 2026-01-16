@@ -6,7 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy:setup": "./setup-deployment.sh",
+    "deploy:vercel": "vercel",
+    "deploy:prod": "vercel --prod",
+    "db:push": "./supabase.sh migrate",
+    "db:types": "./supabase.sh types",
+    "db:reset": "./supabase.sh reset",
+    "verify": "node verify_setup.js",
+    "postinstall": "chmod +x *.sh 2>/dev/null || true"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -21,7 +29,9 @@
     "postcss": "^8.4.0",
     "@xenova/transformers": "^2.15.0",
     "idb": "^8.0.0",
-    "lucide-react": "^0.309.0"
+    "lucide-react": "^0.309.0",
+    "@supabase/ssr": "^0.4.0",
+    "@supabase/supabase-js": "^2.39.0"
   },
   "devDependencies": {
     "@types/idb": "^7.0.0"
