@@ -25,6 +25,7 @@ jobs:
         run: npx tsc --noEmit
 
       - name: Lint
+        if: ${{ hashFiles('.eslintrc*', 'eslint.config.*') != '' }}
         run: npm run lint
 
       - name: Build
