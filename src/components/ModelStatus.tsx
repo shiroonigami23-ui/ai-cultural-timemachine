@@ -44,8 +44,8 @@ export default function ModelStatus() {
   }, []);
 
   const getBrowserCapability = () => {
-    const hasWebGPU = !!navigator.gpu;
-    const memory = navigator.deviceMemory || 4;
+    const hasWebGPU = !!(navigator as any).gpu;
+    const memory = (navigator as any).deviceMemory || 4;
     return {
       webGPU: hasWebGPU,
       memoryGB: memory,

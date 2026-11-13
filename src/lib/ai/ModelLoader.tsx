@@ -65,7 +65,7 @@ export default function ModelLoader({ eraId, modelType, onLoad, onProgress }: Mo
           }
         };
 
-        const loadedModel = await pipeline(config.task, config.model, {
+        const loadedModel = await pipeline(config.task as any, config.model, {
           progress_callback: progressCallback,
           quantized: config.quantized,
         });
