@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/hero.png" alt="AI Cultural Time Machine" width="100%">
+
 # 🕰️ AI Cultural Time Machine
 
 ### Chat with historical figures and explore reconstructed eras — AI running locally in your browser
