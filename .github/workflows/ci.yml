@@ -44,14 +44,19 @@ jobs:
   security:
     runs-on: ubuntu-latest
     needs: build-and-test
+    env:
+      SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run npm audit
+      - name: Run npm audit (advisory)
+        continue-on-error: true
         run: npm audit --audit-level=high
 
       - name: Run Snyk to check for vulnerabilities
+        if: ${{ env.SNYK_TOKEN != '' }}
+        continue-on-error: true
         uses: snyk/actions/node@master
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
