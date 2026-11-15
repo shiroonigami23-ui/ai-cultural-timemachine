@@ -1,0 +1,51 @@
+@file sites.json
+@fields name|year|when|stype|country|built_by|summary|wiki
+# Prehistoric & ancient sites|🗿
+Göbekli Tepe|-9500|c. 9500 BCE|Temple complex|Turkey|Hunter-gatherers|Megalithic pillars carved before farming, rewriting the story of civilisation.|Göbekli_Tepe
+Çatalhöyük|-7100|c. 7100–5700 BCE|Proto-city|Turkey|Neolithic farmers|Houses entered through roofs; no streets.|Çatalhöyük
+Bhimbetka rock shelters|-10000|Paleolithic onward|Rock art|India|Hunter-gatherers|Paintings of hunts and dances in Madhya Pradesh.|Bhimbetka_rock_shelters
+Mehrgarh|-7000|c. 7000–2500 BCE|Village|Pakistan|Neolithic farmers|One of South Asia's first farming villages; early dentistry.|Mehrgarh
+Stonehenge|-3000|c. 3000–2000 BCE|Megalith|UK|Neolithic Britons|Aligned with solstice sunrise and sunset.|Stonehenge
+Great Pyramid of Giza|-2560|c. 2560 BCE|Pyramid|Egypt|Pharaoh Khufu|The only surviving Ancient Wonder; tallest structure for ~3,800 years.|Great_Pyramid_of_Giza
+Mohenjo-daro|-2500|c. 2500–1900 BCE|City|Pakistan|Indus people|The Great Bath, drains and grid streets.|Mohenjo-daro
+Dholavira|-2650|c. 2650–1450 BCE|City|India (Gujarat)|Indus people|Water reservoirs and a signboard in Indus script; UNESCO 2021.|Dholavira
+Lothal|-2200|c. 2200–1500 BCE|Port town|India (Gujarat)|Indus people|Possibly the world's earliest known dock.|Lothal
+Rakhigarhi|-4600|c. 4600–1800 BCE|City|India (Haryana)|Indus people|Among the largest Indus sites; ancient DNA studied.|Rakhigarhi
+Knossos|-1900|c. 1900 BCE|Palace|Greece (Crete)|Minoans|Linked to the Minotaur legend.|Knossos
+Ziggurat of Ur|-2100|c. 2100 BCE|Temple|Iraq|Ur-Nammu|Stepped mud-brick temple.|Ziggurat_of_Ur
+Valley of the Kings|-1539|1539–1075 BCE|Royal tombs|Egypt|New Kingdom pharaohs|Tutankhamun's tomb was found in 1922.|Valley_of_the_Kings
+Abu Simbel|-1264|c. 1264 BCE|Temple|Egypt|Ramesses II|Moved in the 1960s to escape Lake Nasser.|Abu_Simbel
+Persepolis|-518|518 BCE|Palace city|Iran|Darius I|Burned by Alexander in 330 BCE.|Persepolis
+Parthenon|-447|447–432 BCE|Temple|Greece|Athenians (Pericles)|Symbol of Athenian democracy.|Parthenon
+Great Wall of China|-700|7th century BCE–1644 CE|Fortification|China|Many dynasties|Over 21,000 km including all branches.|Great_Wall_of_China
+Terracotta Army|-210|c. 210 BCE|Tomb|China|Qin Shi Huang|About 8,000 life-size soldiers.|Terracotta_Army
+Sanchi Stupa|-250|3rd century BCE|Stupa|India (MP)|Ashoka|Carved gateways tell the Buddha's life.|Sanchi
+Petra|-300|c. 4th century BCE|Rock city|Jordan|Nabataeans|Carved into rose-red cliffs.|Petra
+Colosseum|72|72–80 CE|Amphitheatre|Italy|Vespasian and Titus|Held ~50,000 spectators.|Colosseum
+Pompeii|-700|Destroyed 79 CE|Roman town|Italy|Romans|Frozen in ash; graffiti and bakeries survive.|Pompeii
+Pantheon|113|c. 113–125 CE|Temple|Italy|Hadrian|Still the largest unreinforced concrete dome.|Pantheon,_Rome
+Teotihuacan|-100|c. 100 BCE–550 CE|City|Mexico|Teotihuacanos|The Avenue of the Dead.|Teotihuacan
+Ajanta Caves|-200|2nd century BCE–5th century CE|Cave monastery|India (Maharashtra)|Buddhist monks|Painted murals of the Jataka tales.|Ajanta_Caves
+Nalanda Mahavihara|427|c. 427–1193|University|India (Bihar)|Gupta kings|Taught up to ~10,000 students; UNESCO site.|Nalanda_mahavihara
+Hagia Sophia|537|537|Church / mosque|Turkey|Justinian|The largest building in the world for centuries.|Hagia_Sophia
+Tikal|-400|c. 4th century BCE–10th century CE|Maya city|Guatemala|Maya|Temples rising above the jungle.|Tikal
+Borobudur|800|9th century|Buddhist temple|Indonesia|Sailendra dynasty|The largest Buddhist monument.|Borobudur
+Ellora Kailasa Temple|760|8th century|Rock-cut temple|India (Maharashtra)|Rashtrakutas|Carved top-down from a single rock.|Kailasa_temple,_Ellora
+Brihadeeswara Temple|1010|1010|Temple|India (Tamil Nadu)|Rajaraja Chola I|Its granite tower is ~66 m tall.|Brihadisvara_Temple,_Thanjavur
+Angkor Wat|1150|12th century|Temple|Cambodia|Suryavarman II|The largest religious monument.|Angkor_Wat
+Konark Sun Temple|1250|13th century|Temple|India (Odisha)|Narasimhadeva I|Built as the Sun god's chariot with 24 wheels.|Konark_Sun_Temple
+Khajuraho temples|950|950–1050|Temples|India (MP)|Chandelas|Famous for detailed sculpture.|Khajuraho_Group_of_Monuments
+Great Zimbabwe|1100|11th–15th century|City|Zimbabwe|Shona ancestors|Dry-stone walls without mortar.|Great_Zimbabwe
+Chichén Itzá|600|c. 600–1200|Maya city|Mexico|Maya|El Castillo casts a serpent shadow at the equinox.|Chichen_Itza
+Qutub Minar|1199|1199–1220|Minaret|India (Delhi)|Qutb ud-Din Aibak, Iltutmish|With the rust-resistant Iron Pillar nearby.|Qutb_Minar
+Hampi|1336|14th–16th century|Imperial city|India (Karnataka)|Vijayanagara|Ruins among giant boulders.|Hampi
+Machu Picchu|1450|c. 1450|Inca estate|Peru|Pachacuti|Rediscovered for the world in 1911.|Machu_Picchu
+Forbidden City|1406|1406–1420|Palace|China|Ming dynasty|Home of 24 emperors.|Forbidden_City
+Moai of Easter Island|1250|c. 1250–1500|Statues|Chile|Rapa Nui|Nearly 1,000 statues.|Moai
+Taj Mahal|1632|1632–1653|Mausoleum|India (Agra)|Shah Jahan|Built for Mumtaz Mahal; a 'teardrop on the cheek of eternity' (Tagore).|Taj_Mahal
+Red Fort|1639|1639–1648|Fort|India (Delhi)|Shah Jahan|India's PM hoists the flag here on Independence Day.|Red_Fort
+Golden Temple|1589|1589–1604|Gurdwara|India (Punjab)|Guru Arjan|Its langar feeds ~100,000 people a day.|Golden_Temple
+Fatehpur Sikri|1571|1571–1585|Capital city|India (UP)|Akbar|Abandoned within decades, maybe for lack of water.|Fatehpur_Sikri
+Gwalior Fort|300|8th century onward|Fort|India (MP)|Many dynasties|One of the oldest written zeros is carved in a temple here (876 CE).|Gwalior_Fort
+Jantar Mantar, Jaipur|1734|1734|Observatory|India (Rajasthan)|Sawai Jai Singh II|The world's largest stone sundial.|Jantar_Mantar,_Jaipur
+Versailles|1661|1661–1710|Palace|France|Louis XIV|Symbol of absolute monarchy.|Palace_of_Versailles

@@ -14,7 +14,10 @@
     "db:types": "./supabase.sh types",
     "db:reset": "./supabase.sh reset",
     "verify": "node verify_setup.js",
-    "postinstall": "chmod +x *.sh 2>/dev/null || true"
+    "postinstall": "chmod +x *.sh 2>/dev/null || true",
+    "prebuild": "node scripts/copy-history.js",
+    "predev": "node scripts/copy-history.js",
+    "history:build": "cd history && python3 scripts/build_site.py"
   },
   "dependencies": {
     "react": "^18.2.0",

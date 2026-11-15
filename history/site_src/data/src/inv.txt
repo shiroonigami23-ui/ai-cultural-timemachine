@@ -1,0 +1,73 @@
+@file inventions.json
+@fields name|year|when|where|by|impact|summary|wiki
+# Prehistoric & ancient|🔥
+Stone tools|-3300000|3.3 million years ago|Kenya (Lomekwi)|Early hominins|Butchery, survival|The first technology.|Stone_tool
+Control of fire|-1000000|~1 million years ago|Africa|Homo erectus|Cooking, warmth, protection|Cooking may have helped grow bigger brains.|Control_of_fire_by_early_humans
+Bow and arrow|-70000|~70,000–60,000 years ago|South Africa|Homo sapiens|Hunting at distance|Stone arrowheads at Sibudu Cave.|Bow_and_arrow
+Sewing needle|-50000|~50,000 years ago|Siberia (Denisova Cave)|Denisovans or early humans|Fitted clothing for cold climates|Allowed survival in the Ice Age north.|Sewing_needle
+Agriculture|-9500|~9500 BCE|Fertile Crescent and elsewhere|Neolithic farmers|Settled life, population growth|See the Neolithic Revolution.|Neolithic_Revolution
+Pottery|-18000|~18,000 BCE|China (Xianrendong)|Hunter-gatherers|Cooking and storage|Older than farming.|Pottery
+Wheel|-3500|~3500 BCE|Mesopotamia / Eastern Europe|Unknown|Transport, pottery wheel|First used for pots, then carts.|Wheel
+Writing|-3200|~3200 BCE|Sumer, Egypt|Scribes|History, law, literature|Invented independently in Mesopotamia, China and Mesoamerica.|History_of_writing
+Bronze|-3300|~3300 BCE|Near East|Metalworkers|Tools and weapons|Copper alloyed with tin.|Bronze
+Planned drainage|-2600|~2600 BCE|Indus Valley|Harappans|Urban hygiene|Covered drains under city streets.|Indus_Valley_Civilisation
+Iron smelting|-1200|~1200 BCE|Anatolia; India (independently?)|Smiths|Cheap tools and weapons|Iron at Indian sites may date to ~1800 BCE.|Ferrous_metallurgy
+Alphabet|-1800|~1800 BCE|Sinai / Levant|Semitic workers|Easy literacy|Phoenicians spread it.|Alphabet
+Zero and decimal place value|500|~5th–7th century CE|India|Aryabhata, Brahmagupta|All modern mathematics and computing|A dot for zero appears in the Bakhshali manuscript; Gwalior's 876 CE inscription shows a written zero.|0
+Wootz steel|-300|~300 BCE|South India|Tamil and Deccan smiths|Damascus blades|Prized across the ancient world.|Wootz_steel
+Paper|105|~105 CE (traditionally)|China|Cai Lun|Cheap writing material|Reached the Islamic world in the 8th century.|Paper
+Concrete|-200|~200 BCE|Rome|Roman builders|Domes, harbours|Roman concrete self-heals with seawater.|Roman_concrete
+Crystallised sugar|350|~350 CE|India|Gupta-era makers|Global sugar trade|'Sugar' comes from Sanskrit sharkara.|Sugar
+Cotton textiles and chintz|-5000|~5000 BCE|Indus region|Indian weavers|Clothing the world|Indian cloth dominated world trade until the 18th century.|Cotton
+Stirrup|300|~4th century CE|China / India (toe stirrups earlier)|Horsemen|Cavalry warfare|Toe stirrups appear in India ~2nd century BCE.|Stirrup
+Gunpowder|850|~9th century|China|Taoist alchemists|Firearms, cannons|Changed warfare forever.|Gunpowder
+Compass|1040|~11th century|China|Song navigators|Ocean navigation|Enabled the Age of Exploration.|Compass
+Movable type|1040|~1040|China|Bi Sheng|Printing|Korea's Jikji (1377) is the oldest surviving metal-type book.|Movable_type
+Printing press|1440|~1440|Germany|Johannes Gutenberg|Mass literacy, the Reformation|Printed the Gutenberg Bible.|Printing_press
+# Modern|⚙
+Telescope|1608|1608|Netherlands|Hans Lipperhey|Astronomy|Galileo turned it to the sky in 1609.|Telescope
+Mysorean rockets|1780|1780s|Mysore, India|Hyder Ali, Tipu Sultan|Iron-cased war rockets|Inspired Britain's Congreve rockets.|Mysorean_rockets
+Steam engine|1712|1712; improved 1769|Britain|Newcomen, James Watt|Industrial Revolution|Powered factories, ships, railways.|Steam_engine
+Vaccination|1796|1796|England|Edward Jenner|Ended smallpox (1980)|Variolation was practised earlier in India and China.|Vaccine
+Railway|1825|1825|England|George Stephenson|Mass transport|India's first train ran Bombay–Thane in 1853.|Rail_transport
+Telegraph|1837|1837|USA / Britain|Morse, Cooke & Wheatstone|Instant long-distance messages|Linked India to Britain by 1870.|Electrical_telegraph
+Photography|1826|1826|France|Niépce, Daguerre|Visual record of history|The oldest surviving photo is from 1826–27.|Photography
+Telephone|1876|1876|USA|Alexander Graham Bell|Voice communication|Patent disputed with Elisha Gray.|Telephone
+Light bulb|1879|1879|USA / Britain|Edison, Swan|Electric lighting|Changed daily life.|Incandescent_light_bulb
+Radio|1895|1895|Italy / India|Marconi; J. C. Bose demonstrated microwaves|Broadcasting|Bose's 1895 Kolkata demonstration used millimetre waves.|Radio
+Aeroplane|1903|1903|USA|Wright brothers|Air travel|First powered flight at Kitty Hawk.|Wright_brothers
+Antibiotics|1928|1928|Britain|Alexander Fleming|Saved hundreds of millions|Penicillin mass-produced in WWII.|Penicillin
+Computer|1945|1940s|USA / Britain|Turing, ENIAC team|Information Age|Turing's ideas underlie all computing.|Computer
+Nuclear energy|1942|1942|USA|Enrico Fermi|Power and weapons|First controlled chain reaction.|Nuclear_power
+Transistor|1947|1947|USA|Bardeen, Brattain, Shockley|Modern electronics|Billions now fit on one chip.|Transistor
+Green Revolution seeds|1960|1960s|Mexico, Philippines, India|Borlaug, Swaminathan|Averted famine|Semi-dwarf wheat and rice.|Green_Revolution
+Internet|1969|1969 (ARPANET), 1989 (Web)|USA, CERN|Cerf, Kahn, Berners-Lee|Global communication|Connects ~5.5 billion people.|Internet
+Smartphone|2007|2007|USA|Apple and others|Computing in every pocket|Changed daily life worldwide.|Smartphone
+UPI (Unified Payments Interface)|2016|2016|India|NPCI|Instant digital payments|Handles billions of transactions a month.|Unified_Payments_Interface
+Large language models|2018|2018 onward|USA and worldwide|AI labs|AI assistants|Transforming work and research.|Large_language_model
+@file ancient_species.json
+@fields name|scientific|lived|when|region|extinct_cause|summary|wiki
+# Ice Age & prehistoric animals|🦣
+Woolly mammoth|Mammuthus primigenius|-400000|~400,000–4,000 years ago|Northern Eurasia, North America|Climate warming and human hunting|The last survivors lived on Wrangel Island until ~4,000 years ago — after the Great Pyramid was built.|Woolly_mammoth
+Woolly rhinoceros|Coelodonta antiquitatis|-350000|~350,000–14,000 years ago|Northern Eurasia|Warming and hunting|Painted in Chauvet Cave.|Woolly_rhinoceros
+Smilodon (sabre-toothed cat)|Smilodon fatalis|-2500000|~2.5 million–10,000 years ago|Americas|Prey loss|Its 28 cm canines stabbed large prey.|Smilodon
+Cave lion|Panthera spelaea|-370000|~370,000–13,000 years ago|Eurasia|Climate, prey loss|Painted in European caves.|Cave_lion
+Cave bear|Ursus spelaeus|-300000|~300,000–25,000 years ago|Europe|Climate, competition with humans|Mostly vegetarian.|Cave_bear
+Irish elk|Megaloceros giganteus|-400000|~400,000–7,700 years ago|Eurasia|Climate change|Antlers spanned 3.6 m.|Irish_elk
+Megatherium (giant ground sloth)|Megatherium americanum|-5000000|~5 million–12,000 years ago|South America|Human hunting|Elephant-sized sloth.|Megatherium
+Glyptodon|Glyptodon clavipes|-2500000|~2.5 million–10,000 years ago|South America|Human hunting|A car-sized armadillo whose shells were used as shelters.|Glyptodon
+Diprotodon|Diprotodon optatum|-1600000|~1.6 million–40,000 years ago|Australia|Humans and climate|The largest marsupial ever.|Diprotodon
+Megalania|Varanus priscus|-1500000|~1.5 million–40,000 years ago|Australia|Humans and climate|A giant monitor lizard up to ~5 m.|Megalania
+Moa|Dinornis robustus|-2000000|Until ~1440 CE|New Zealand|Hunted by Māori settlers within ~150 years|Up to 3.6 m tall with neck stretched.|Moa
+Haast's eagle|Hieraaetus moorei|-1000000|Until ~1440 CE|New Zealand|Loss of moa prey|The largest eagle ever, preying on moa.|Haast's_eagle
+Dodo|Raphus cucullatus|-1000000|Until ~1662|Mauritius|Hunting and introduced animals|A symbol of human-caused extinction.|Dodo
+Steller's sea cow|Hydrodamalis gigas|-1000000|Until 1768|Bering Sea|Hunted 27 years after discovery|An 8–9 m sea cow.|Steller's_sea_cow
+Aurochs|Bos primigenius|-2000000|Until 1627|Eurasia, India, North Africa|Hunting, habitat loss|Wild ancestor of cattle; the last died in Poland in 1627.|Aurochs
+Passenger pigeon|Ectopistes migratorius|-1000000|Until 1914|North America|Mass hunting|Once billions; the last, Martha, died in 1914.|Passenger_pigeon
+Thylacine|Thylacinus cynocephalus|-4000000|Until 1936|Tasmania|Bounty hunting|The 'Tasmanian tiger'.|Thylacine
+Quagga|Equus quagga quagga|-100000|Until 1883|South Africa|Hunting|A half-striped zebra.|Quagga
+Great auk|Pinguinus impennis|-1000000|Until 1844|North Atlantic|Hunting for feathers|The original 'penguin'.|Great_auk
+Indian cheetah (Asiatic, in India)|Acinonyx jubatus venaticus|-100000|Declared extinct in India in 1952|India|Hunting, capture for coursing|Mughal emperors kept thousands for hunting.|Asiatic_cheetah
+Stegodon|Stegodon ganesa|-3000000|~3 million–~4,000 years ago (in places)|South and Southeast Asia|Climate, humans|An elephant relative with very long tusks; fossils found in the Siwaliks.|Stegodon
+Palaeoloxodon namadicus|Palaeoloxodon namadicus|-800000|~800,000–~24,000 years ago|India|Climate, humans|Possibly the largest land mammal ever, found in the Narmada valley.|Palaeoloxodon_namadicus
+Gigantopithecus|Gigantopithecus blacki|-2000000|~2 million–~300,000 years ago|China|Climate change and diet|The largest ape ever, up to 3 m.|Gigantopithecus

@@ -1,0 +1,111 @@
+@file festivals.json
+@fields name|region|season|origin|tradition|how|food|summary|wiki
+# Festivals of India|🪔
+Diwali|India and diaspora|Oct–Nov (Kartika new moon)|Ancient; mentioned in early Sanskrit texts|Hindu, Jain, Sikh|Oil lamps (diyas), rangoli, Lakshmi puja, fireworks|Sweets (mithai), laddoos|The festival of lights celebrating Rama's return to Ayodhya, Lakshmi and, for Jains, Mahavira's nirvana.|Diwali
+Holi|India, Nepal|March (Phalguna full moon)|Ancient; linked to Prahlad and Krishna legends|Hindu|Coloured powders and water, bonfire (Holika Dahan)|Gujiya, thandai|The festival of colours marking spring and good over evil.|Holi
+Durga Puja|West Bengal, Assam, Odisha, Tripura|Sept–Oct|16th century in its modern form|Hindu (Shakta)|Giant pandals and clay idols immersed in rivers|Bhog khichuri, sweets|Kolkata's Durga Puja is on UNESCO's intangible heritage list (2021).|Durga_Puja
+Navratri and Dussehra|India|Sept–Oct|Ancient|Hindu|Garba and dandiya dances; Ramlila; burning Ravana effigies|Fasting foods|Nine nights honouring the goddess, then Rama's victory.|Navaratri
+Ganesh Chaturthi|Maharashtra and beyond|Aug–Sept|Public form from 1893 (Lokmanya Tilak)|Hindu|Ganesha idols, processions, immersion|Modak|Tilak used public celebrations to unite people against British rule.|Ganesh_Chaturthi
+Pongal|Tamil Nadu|14–17 January|Sangam era|Tamil harvest festival|Boiling new rice until it overflows; cattle honoured (Mattu Pongal)|Sakkarai pongal|A thanksgiving to the Sun and cattle.|Pongal_(festival)
+Makar Sankranti|India|14–15 January|Ancient|Hindu harvest|Kites (Gujarat's Uttarayan), holy dips|Til-gul, khichdi|Marks the Sun's move into Capricorn.|Makar_Sankranti
+Onam|Kerala|Aug–Sept|Ancient|Kerala harvest|Pookalam flower carpets, snake-boat races, Pulikali|Onasadya feast on banana leaves|Welcomes the legendary king Mahabali.|Onam
+Bihu (Rongali)|Assam|Mid-April|Ancient agrarian|Assamese|Bihu dance, songs|Pitha, larus|Marks the Assamese new year and sowing.|Bihu
+Baisakhi|Punjab|13–14 April|Harvest; Khalsa founded 1699|Sikh, Punjabi|Bhangra, gurdwara visits|Kada prasad, langar|Guru Gobind Singh founded the Khalsa on Baisakhi.|Vaisakhi
+Eid al-Fitr|Worldwide|End of Ramadan (lunar)|7th century|Islam|Prayers, charity (zakat al-fitr), visiting family|Sheer khurma, biryani|Celebrates the end of the month of fasting.|Eid_al-Fitr
+Eid al-Adha|Worldwide|10 Dhu al-Hijjah|7th century|Islam|Sacrifice shared with the poor|Meat dishes|Remembers Ibrahim's willingness to sacrifice.|Eid_al-Adha
+Christmas|Worldwide; Goa, Kerala, Northeast India|25 December|4th century|Christian|Midnight mass, carols, stars and cribs|Plum cake, kulkuls|Celebrates the birth of Jesus.|Christmas
+Guru Nanak Jayanti (Gurpurab)|Punjab, worldwide|Kartika full moon|Since 16th century|Sikh|Akhand path, processions, langar|Langar meal|Birth of the first Sikh Guru.|Guru_Nanak_Gurpurab
+Buddha Purnima|India, Nepal, Asia|Vaisakha full moon (Apr–May)|Ancient|Buddhist|Prayers at Bodh Gaya, Sarnath|Kheer|Marks the Buddha's birth, enlightenment and death.|Vesak
+Mahavir Jayanti|India|Mar–Apr|Ancient|Jain|Processions, charity|Simple vegetarian food|Birth of Mahavira.|Mahavir_Janma_Kalyanak
+Hornbill Festival|Nagaland|1–10 December|2000|Naga tribes|Dances, crafts and games of 17 tribes|Smoked pork, rice beer|Named after the hornbill revered by the Nagas.|Hornbill_Festival
+Hemis Tsechu|Ladakh|June–July|17th century|Tibetan Buddhist|Masked cham dances|Butter tea, thukpa|Honours Padmasambhava.|Hemis_Monastery
+Pushkar Camel Fair|Rajasthan|Kartika (Oct–Nov)|Centuries old|Hindu, pastoral|Camel trading, races, pilgrimage|Malpua|One of the world's largest livestock fairs.|Pushkar_Fair
+Kumbh Mela|Prayagraj, Haridwar, Ujjain, Nashik|Every 12 years per site|Ancient (recorded by Xuanzang, 7th c.)|Hindu|Holy dip at river confluences|Community kitchens|The largest peaceful gathering on Earth; the 2025 Maha Kumbh drew hundreds of millions.|Kumbh_Mela
+Chhath Puja|Bihar, Jharkhand, eastern UP|Oct–Nov|Ancient|Hindu (Sun worship)|Standing in rivers at sunrise and sunset|Thekua|Offerings to the Sun and Chhathi Maiya.|Chhath
+Sarhul|Jharkhand|Spring|Ancient|Oraon, Munda, Ho (Sarna)|Worship of sal trees and nature|Rice beer (handia)|Celebrates the new year and sal blossoms.|Sarhul
+Hareli|Chhattisgarh|July–Aug|Ancient|Tribal and farming communities|Worshipping tools and cattle; gedi stilts|Chila|The first festival of the farming year.|Hareli
+# Festivals of the world|🎆
+Chinese New Year|China and diaspora|Jan–Feb|Over 3,000 years|Chinese|Red envelopes, lion dances, fireworks|Dumplings, fish|The Spring Festival and the world's largest annual migration.|Chinese_New_Year
+Nowruz|Iran, Central Asia, Parsis|Spring equinox (~21 March)|Over 3,000 years (Zoroastrian roots)|Persian|Haft-sin table, spring cleaning|Sabzi polo|The Persian New Year.|Nowruz
+Day of the Dead|Mexico|1–2 November|Aztec and Catholic roots|Mexican|Altars (ofrendas), marigolds, sugar skulls|Pan de muerto|Families welcome the spirits of the dead.|Day_of_the_Dead
+Inti Raymi|Peru|24 June|Inca|Andean|Festival of the Sun at Cusco|Chicha, maize|Revived Inca winter-solstice festival.|Inti_Raymi
+Hanukkah|Worldwide|Nov–Dec|2nd century BCE|Jewish|Lighting the menorah for eight nights|Latkes, sufganiyot|Remembers the rededication of the Temple.|Hanukkah
+Passover|Worldwide|Mar–Apr|Ancient|Jewish|Seder meal retelling the Exodus|Matzah|Commemorates liberation from slavery in Egypt.|Passover
+Easter|Worldwide|Mar–Apr|Early Christian|Christian|Services, eggs|Hot cross buns|Celebrates the resurrection of Jesus.|Easter
+Carnival of Rio|Brazil|Before Lent|18th–19th century|Brazilian|Samba parades|Feijoada|The world's largest carnival.|Rio_Carnival
+Songkran|Thailand|13–15 April|Ancient|Buddhist new year|Nationwide water fights|Khao chae|Washing away bad luck.|Songkran_(Thailand)
+Obon|Japan|August|Over 500 years|Buddhist|Bon odori dances; lanterns floated|Somen|Honours ancestors' spirits.|Bon_Festival
+Saturnalia|Ancient Rome|17–23 December|Roman|Roman religion|Role reversal, gifts, feasting|Feasts|Influenced later winter festivities.|Saturnalia
+Opet Festival|Ancient Egypt|Nile flood season|New Kingdom|Egyptian religion|Statues of Amun carried from Karnak to Luxor|Bread, beer|A great procession renewing the pharaoh's power.|Opet_Festival
+Olympic Games (ancient)|Ancient Greece|Every 4 years, summer|776 BCE|Greek religion|Athletics in honour of Zeus|Feast of sacrificed oxen|Held for over 1,000 years until ~393 CE.|Ancient_Olympic_Games
+@file peoples.json
+@fields name|region|era|lifestyle|food|culture|summary|wiki
+# Indigenous peoples & tribes of India|🏹
+Gond|Central India (MP, Chhattisgarh, Maharashtra, Telangana)|Ancient – today|Farmers and forest dwellers; once ruled the Gond kingdoms (Garha-Mandla)|Kodo and kutki millets, mahua|Gond painting, Pandavani songs|One of India's largest tribal groups, about 13 million people.|Gondi_people
+Bhil|Rajasthan, Gujarat, MP, Maharashtra|Ancient – today|Archers, farmers; fought Mughals beside Maharana Pratap|Maize, millets|Pithora painting, Bhagoria festival|India's largest tribal group.|Bhil_people
+Santhal|Jharkhand, West Bengal, Odisha|Ancient – today|Farmers; led the Santhal Hul rebellion of 1855|Rice, handia beer|Ol Chiki script, Sohrai festival|President Droupadi Murmu is Santhal.|Santal_people
+Munda|Jharkhand|Ancient – today|Farmers; Birsa Munda's Ulgulan (1899–1900)|Rice, millets|Sarna faith, khuntkatti land system|Their language belongs to the Austroasiatic family.|Munda_people
+Toda|Nilgiris, Tamil Nadu|Ancient – today|Buffalo herders|Buffalo milk, ghee|Barrel-vaulted bamboo huts, embroidered shawls|A tiny pastoral community of the Nilgiri grasslands.|Toda_people
+Sentinelese|North Sentinel Island, Andamans|Possibly 50,000+ years in the Andamans – today|Uncontacted hunter-gatherers|Fish, turtles, wild pigs, fruit|Reject all contact; protected by Indian law|One of the last uncontacted peoples on Earth.|Sentinelese
+Jarawa|Andaman Islands|Ancient – today|Hunter-gatherers|Wild pig, fish, honey|Bows and arrows|Their forest is crossed by the Andaman Trunk Road.|Jarawa_people
+Great Andamanese|Andaman Islands|Ancient – today|Formerly hunter-gatherers|Seafood|Languages nearly extinct|Fell from thousands to about 50 people after colonial contact.|Great_Andamanese
+Khasi|Meghalaya|Ancient – today|Matrilineal farmers; living root bridges|Rice, pork, jadoh|Property passes through the youngest daughter|One of the world's largest matrilineal societies.|Khasi_people
+Naga peoples|Nagaland, Manipur|Ancient – today|Village warriors and farmers; former headhunting|Rice, smoked pork, bamboo shoot|Morungs (youth dormitories), Hornbill Festival|Over a dozen tribes such as the Angami, Ao and Konyak.|Naga_people
+Apatani|Arunachal Pradesh|Ancient – today|Wet-rice farmers with fish in paddies|Rice, fish|Nose plugs and facial tattoos (old custom)|Ziro's rice–fish farming is a model of sustainability.|Apatani
+Bishnoi|Rajasthan|1485 – today|Desert farmers devoted to protecting trees and wildlife|Bajra, milk|29 rules of Guru Jambheshwar|In 1730, 363 Bishnois died protecting khejri trees at Khejarli.|Bishnoi
+Siddi|Gujarat, Karnataka|13th century – today|Descendants of East Africans|Local Indian food|Dhamal dance|Malik Ambar, a Siddi general, ruled the Deccan.|Siddi
+Maria and Muria Gond|Bastar, Chhattisgarh|Ancient – today|Forest farmers|Rice, mahua, red ant chutney|Ghotul youth dormitories|Famous for ghotul and bison-horn dances.|Muria_people
+Rabari|Gujarat, Rajasthan|Medieval – today|Nomadic camel and sheep herders|Milk, millet|Mirror-work embroidery|Kutch's iconic herders.|Rabari
+# Peoples of the ancient & wider world|🌍
+San (Bushmen)|Kalahari, southern Africa|Possibly 100,000+ years – today|Hunter-gatherers|Game, tubers, melons|Rock art, click languages, trance dances|One of the oldest continuous human lineages.|San_people
+Maasai|Kenya, Tanzania|~15th century – today|Semi-nomadic cattle herders|Milk, meat, blood|Warrior age-sets, beadwork|Live around the Serengeti and Mara.|Maasai_people
+Aboriginal Australians|Australia|~65,000 years – today|Hunter-gatherers using fire-stick farming|Kangaroo, yams, seeds|Dreaming stories, the oldest living culture|Their rock art and songlines map the continent.|Aboriginal_Australians
+Inuit|Arctic|~1,000 years – today|Hunters of seals, whales and caribou|Seal, whale blubber, fish|Igloos, kayaks, throat singing|Masters of survival in extreme cold.|Inuit
+Sámi|Northern Scandinavia, Russia|Ancient – today|Reindeer herders|Reindeer, fish|Joik songs|Europe's only recognised Indigenous people.|Sámi
+Ainu|Hokkaido, Japan|Ancient – today|Hunters and fishers|Salmon, deer|Bear ceremony (iyomante)|Recognised as Indigenous by Japan in 2019.|Ainu_people
+Yanomami|Amazon (Brazil, Venezuela)|Ancient – today|Forest villages in shabono roundhouses|Plantains, game, fish|Shamanism|Threatened by illegal gold mining.|Yanomami
+Lakota|North American Great Plains|Ancient – today|Bison hunters on horseback (after 1700)|Bison, berries|Sun Dance, tipis|Defeated Custer at Little Bighorn (1876).|Lakota_people
+Māori|New Zealand|~1300 – today|Polynesian voyagers who became farmers and warriors|Kūmara, fish, birds|Haka, tā moko tattoos|Arrived ~1300 CE; the Treaty of Waitangi (1840).|Māori_people
+Bedouin|Arabia, North Africa|Ancient – today|Nomadic camel and goat herders|Dates, camel milk, bread|Hospitality code, poetry|Masters of the desert.|Bedouin
+Mongols|Mongolia|Ancient – today|Nomadic herders in gers|Mutton, dairy, airag (fermented mare's milk)|Naadam games|Built the largest land empire.|Mongols
+Scythians|Eurasian steppe|~900–200 BCE|Nomadic horse warriors|Meat, mare's milk|Gold animal art, kurgan burials|Described by Herodotus.|Scythians
+Etruscans|Italy|~900–100 BCE|City-states|Grain, wine|Tomb paintings|Influenced early Rome.|Etruscan_civilization
+Neanderthals|Europe, Western Asia|~400,000–40,000 years ago|Hunter-gatherers|Mammoth, deer, plants|Burials, ochre, jewellery|Most living non-Africans carry ~1–2% Neanderthal DNA.|Neanderthal
+Denisovans|Asia|~300,000–30,000 years ago|Hunter-gatherers|Unknown|Known mainly from DNA|Their genes help Tibetans live at altitude.|Denisovan
+Homo floresiensis|Flores, Indonesia|~100,000–50,000 years ago|Small hunters|Stegodon, rats|Stone tools|The 1 m tall 'hobbit' humans.|Homo_floresiensis
+@file beliefs.json
+@fields name|founded|origin|founder|followers|texts|summary|wiki
+# Religions & philosophies|🕉
+Hinduism|-1500|Indian subcontinent|No single founder|~1.2 billion|Vedas, Upanishads, Bhagavad Gita, Ramayana, Mahabharata|One of the oldest living religions, with ideas of dharma, karma and moksha.|Hinduism
+Buddhism|-500|India (Bodh Gaya, Sarnath)|Gautama Buddha|~500 million|Tripitaka, sutras|Teaches the Four Noble Truths and the Eightfold Path.|Buddhism
+Jainism|-600|India|Mahavira (24th tirthankara)|~4–5 million|Agamas|Strict non-violence (ahimsa) toward all life.|Jainism
+Sikhism|1500|Punjab|Guru Nanak|~26 million|Guru Granth Sahib|Equality, honest work and service (seva).|Sikhism
+Zoroastrianism|-1500|Iran|Zarathustra|~100,000–200,000 (Parsis in India)|Avesta|An ancient faith of good vs evil; Parsis fled to Gujarat.|Zoroastrianism
+Judaism|-1200|Levant|Abraham, Moses (tradition)|~15 million|Torah, Talmud|The oldest Abrahamic religion.|Judaism
+Christianity|30|Judea|Jesus of Nazareth|~2.4 billion|Bible|The largest religion; reached Kerala by tradition with St Thomas (52 CE).|Christianity
+Islam|610|Arabia|Prophet Muhammad|~2 billion|Quran, Hadith|The second-largest religion.|Islam
+Confucianism|-500|China|Confucius|Influences East Asia|Analects|Ethics of family, duty and government.|Confucianism
+Taoism|-400|China|Laozi (tradition)|~10s of millions|Tao Te Ching|Harmony with the Tao (the Way).|Taoism
+Shinto|-300|Japan|No founder|~Japan widely|Kojiki|Worship of kami spirits.|Shinto
+Ancient Egyptian religion|-3100|Egypt|—|Extinct|Book of the Dead|Gods like Ra, Osiris and Isis; afterlife judgment.|Ancient_Egyptian_religion
+Greek religion and mythology|-1500|Greece|—|Extinct (revived by small groups)|Homer, Hesiod|Zeus and the Olympians.|Ancient_Greek_religion
+Norse religion|-500|Scandinavia|—|Extinct (revived)|Eddas|Odin, Thor and Ragnarök.|Old_Norse_religion
+Stoicism|-300|Athens|Zeno of Citium|Philosophy|Meditations (Marcus Aurelius)|Virtue and calm acceptance.|Stoicism
+Bhakti movement|600|South India|Alvars and Nayanars|Devotional movement|Tamil hymns, later Kabir, Mira, Tulsidas|Personal devotion over ritual and caste.|Bhakti_movement
+Sufism|700|Middle East, spread to India|—|Mystical Islam|Rumi's Masnavi|Dargahs of Ajmer and Nizamuddin; qawwali music.|Sufism
+# Writing systems|✍
+Cuneiform|-3200|Sumer|—|Extinct|Clay tablets|The first writing, pressed with reed styluses.|Cuneiform
+Egyptian hieroglyphs|-3200|Egypt|—|Extinct|Rosetta Stone (key)|Deciphered by Champollion in 1822.|Egyptian_hieroglyphs
+Indus script|-2600|Indus Valley|—|Undeciphered|Seals|Over 4,000 short inscriptions remain unread.|Indus_script
+Oracle bone script|-1250|China|—|Evolved into modern Chinese|Oracle bones|Ancestor of Chinese characters.|Oracle_bone_script
+Phoenician alphabet|-1050|Levant|—|Evolved|—|Ancestor of most alphabets.|Phoenician_alphabet
+Brahmi|-300|India|—|Evolved into most South and Southeast Asian scripts|Ashoka's edicts|Deciphered by James Prinsep in 1837.|Brahmi_script
+Kharosthi|-300|Gandhara|—|Extinct|Ashoka's NW edicts|Written right to left.|Kharosthi
+Tamil-Brahmi|-500|Tamil Nadu|—|Evolved into Tamil|Cave inscriptions|Early Tamil writing.|Tamil-Brahmi
+Devanagari|700|India|—|Used by ~600 million+|Hindi, Sanskrit, Marathi|Evolved from Brahmi via Gupta script.|Devanagari
+Greek alphabet|-800|Greece|—|In use|Homer|First to write vowels.|Greek_alphabet
+Latin alphabet|-700|Italy|—|The most used script|—|Used by ~70% of the world.|Latin_alphabet
+Arabic script|400|Arabia|—|In use|Quran|Also used for Persian and Urdu.|Arabic_script
+Maya script|-300|Mesoamerica|—|Deciphered in the 20th century|Dresden Codex|A full logo-syllabic writing system.|Maya_script
+Hangul|1443|Korea|King Sejong|In use|Hunminjeongeum|Designed to be easy to learn.|Hangul
+Ol Chiki|1925|India (Santhal)|Raghunath Murmu|In use|—|Script created for the Santali language.|Ol_Chiki_script

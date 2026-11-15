@@ -39,3 +39,7 @@ __pycache__/
 *.pt
 *.tfevents*
 checkpoints/
+
+# Generated copy of the history encyclopedia
+public/history/
+history/scripts/__pycache__/

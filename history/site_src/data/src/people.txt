@@ -1,0 +1,92 @@
+@file people.json
+@fields name|born|lived|role|region|known_for|summary|wiki
+# Rulers & conquerors|👑
+Hammurabi|-1810|c. 1810–1750 BCE|King|Babylon|Code of Hammurabi|Published one of the earliest written law codes.|Hammurabi
+Ramesses II|-1303|c. 1303–1213 BCE|Pharaoh|Egypt|Abu Simbel, Kadesh|Ruled 66 years; Egypt's most celebrated pharaoh.|Ramesses_II
+Hatshepsut|-1507|c. 1507–1458 BCE|Pharaoh|Egypt|A woman who ruled as king|Expanded trade to Punt.|Hatshepsut
+Cyrus the Great|-600|c. 600–530 BCE|King|Persia|Founded the Achaemenid Empire|The Cyrus Cylinder is called an early charter of rights.|Cyrus_the_Great
+Alexander the Great|-356|356–323 BCE|King|Macedon|Conquered from Greece to Punjab|Never lost a battle.|Alexander_the_Great
+Chandragupta Maurya|-350|c. 350–295 BCE|Emperor|India|Founded the Maurya Empire|Later became a Jain monk at Shravanabelagola.|Chandragupta_Maurya
+Ashoka|-304|c. 304–232 BCE|Emperor|India|Edicts, dhamma, Buddhism|His lion capital is India's national emblem.|Ashoka
+Qin Shi Huang|-259|259–210 BCE|Emperor|China|Unified China; Terracotta Army|Standardised script, coins, roads.|Qin_Shi_Huang
+Julius Caesar|-100|100–44 BCE|Dictator|Rome|Conquered Gaul; ended the Republic|His calendar (Julian) lasted 1,600 years.|Julius_Caesar
+Augustus|-63|63 BCE–14 CE|Emperor|Rome|First Roman emperor; Pax Romana|Ruled for 41 years.|Augustus
+Cleopatra|-69|69–30 BCE|Queen|Egypt|Last pharaoh|Spoke many languages; allied with Caesar and Antony.|Cleopatra
+Kanishka|78|fl. c. 127–150 CE|Emperor|Kushan Empire|Patron of Buddhism|Convened the Fourth Buddhist Council (traditional).|Kanishka
+Samudragupta|335|c. 335–375 CE|Emperor|India|'Napoleon of India'|Also a poet and veena player.|Samudragupta
+Justinian I|482|482–565|Emperor|Byzantium|Justinian Code, Hagia Sophia|Survived the plague named after him.|Justinian_I
+Harsha|590|c. 590–647|Emperor|North India|Patron of Nalanda; hosted Xuanzang|Wrote Sanskrit plays.|Harsha
+Charlemagne|748|748–814|Emperor|Francia|Unified Western Europe|Crowned emperor in 800.|Charlemagne
+Rajaraja Chola I|947|c. 947–1014|Emperor|South India|Brihadeeswara temple|Built the Chola navy.|Rajaraja_I
+Genghis Khan|1162|c. 1162–1227|Khagan|Mongolia|Founded the Mongol Empire|Created the largest contiguous land empire.|Genghis_Khan
+Razia Sultan|1205|1205–1240|Sultan|Delhi|First woman ruler of the Delhi Sultanate|Ruled 1236–1240.|Razia_Sultan
+Mansa Musa|1280|c. 1280–1337|Emperor|Mali|Perhaps the richest person in history|His Hajj crashed gold prices in Cairo.|Mansa_Musa
+Krishnadevaraya|1471|1471–1529|Emperor|Vijayanagara|Golden age of Hampi|Patron of Telugu and Kannada poets.|Krishnadevaraya
+Babur|1483|1483–1530|Emperor|India|Founded the Mughal Empire|Wrote the Baburnama memoir.|Babur
+Akbar|1542|1542–1605|Emperor|India|Religious tolerance (Sulh-i-kul), Din-i-Ilahi|Built Fatehpur Sikri.|Akbar
+Shah Jahan|1592|1592–1666|Emperor|India|Built the Taj Mahal|Imprisoned by his son Aurangzeb.|Shah_Jahan
+Elizabeth I|1533|1533–1603|Queen|England|Chartered the East India Company|Defeated the Spanish Armada (1588).|Elizabeth_I
+Chhatrapati Shivaji|1630|1630–1680|King|Maharashtra|Founded the Maratha state; navy; hill forts|Crowned in 1674 at Raigad.|Shivaji
+Peter the Great|1672|1672–1725|Tsar|Russia|Modernised Russia|Founded St Petersburg.|Peter_the_Great
+Maharaja Ranjit Singh|1780|1780–1839|Maharaja|Punjab|Sikh Empire|The 'Lion of Punjab'.|Ranjit_Singh
+Tipu Sultan|1751|1751–1799|Sultan|Mysore|Resisted the British; rockets|Died defending Srirangapatna.|Tipu_Sultan
+Napoleon Bonaparte|1769|1769–1821|Emperor|France|Napoleonic Code, conquests|Defeated at Waterloo.|Napoleon
+Queen Victoria|1819|1819–1901|Queen|Britain|Empress of India from 1876|Her era is the Victorian age.|Queen_Victoria
+# Freedom fighters & leaders|✊
+Rani Lakshmibai|1828|1828–1858|Queen of Jhansi|India|1857 uprising|Died fighting at Gwalior.|Rani_of_Jhansi
+Mangal Pandey|1827|1827–1857|Soldier|India|Sparked the 1857 uprising|Executed at Barrackpore.|Mangal_Pandey
+Mahatma Gandhi|1869|1869–1948|Leader|India|Satyagraha, non-violence, Salt March|Inspired civil-rights movements worldwide.|Mahatma_Gandhi
+Jawaharlal Nehru|1889|1889–1964|First Prime Minister|India|Built modern India's institutions|Wrote The Discovery of India.|Jawaharlal_Nehru
+B. R. Ambedkar|1891|1891–1956|Jurist, reformer|India|Chief architect of the Constitution; fought caste|Led a mass conversion to Buddhism in 1956.|B._R._Ambedkar
+Subhas Chandra Bose|1897|1897–1945|Leader|India|Indian National Army|'Give me blood and I will give you freedom.'|Subhas_Chandra_Bose
+Bhagat Singh|1907|1907–1931|Revolutionary|India|Martyr at 23|Executed in Lahore.|Bhagat_Singh
+Sardar Vallabhbhai Patel|1875|1875–1950|Leader|India|Integrated 560+ princely states|The 'Iron Man of India'.|Vallabhbhai_Patel
+Sarojini Naidu|1879|1879–1949|Poet, leader|India|First woman governor in India|'Nightingale of India'.|Sarojini_Naidu
+Birsa Munda|1875|1875–1900|Tribal leader|Jharkhand|Ulgulan rebellion for tribal land rights|His birthday (15 Nov) is Janjatiya Gaurav Divas.|Birsa_Munda
+Nelson Mandela|1918|1918–2013|President|South Africa|Ended apartheid|Imprisoned 27 years.|Nelson_Mandela
+Martin Luther King Jr.|1929|1929–1968|Civil rights leader|USA|'I Have a Dream'|Inspired by Gandhi.|Martin_Luther_King_Jr.
+Winston Churchill|1874|1874–1965|Prime Minister|Britain|WWII leadership|Opposed Indian independence.|Winston_Churchill
+Franklin D. Roosevelt|1882|1882–1945|President|USA|New Deal, WWII|Elected four times.|Franklin_D._Roosevelt
+Adolf Hitler|1889|1889–1945|Dictator|Germany|Started WWII; perpetrated the Holocaust|His regime murdered millions.|Adolf_Hitler
+Joseph Stalin|1878|1878–1953|Dictator|USSR|Industrialisation, purges, WWII victory|Millions died in famines and purges.|Joseph_Stalin
+Mao Zedong|1893|1893–1976|Chairman|China|Founded the PRC|The Great Leap Forward famine killed tens of millions.|Mao_Zedong
+# Thinkers, scientists & artists|📜
+Confucius|-551|551–479 BCE|Philosopher|China|Confucianism|Ethics of family and government.|Confucius
+Laozi|-571|6th century BCE (traditional)|Philosopher|China|Taoism, Tao Te Ching|Possibly legendary.|Laozi
+Gautama Buddha|-563|c. 5th century BCE|Teacher|India|Founded Buddhism|Taught the Middle Way.|The_Buddha
+Mahavira|-599|c. 599–527 BCE (traditional)|Teacher|India|24th Jain tirthankara|Taught ahimsa (non-violence).|Mahavira
+Socrates|-470|470–399 BCE|Philosopher|Athens|Socratic method|Sentenced to death by Athens.|Socrates
+Plato|-428|428–348 BCE|Philosopher|Athens|The Republic, the Academy|Student of Socrates.|Plato
+Aristotle|-384|384–322 BCE|Philosopher|Greece|Logic, biology, ethics|Tutored Alexander.|Aristotle
+Chanakya|-375|c. 375–283 BCE|Statesman|India|Arthashastra|Mentor of Chandragupta.|Chanakya
+Panini|-500|c. 6th–4th century BCE|Grammarian|Gandhara|Ashtadhyayi Sanskrit grammar|A rule system admired by modern linguists.|Pāṇini
+Archimedes|-287|287–212 BCE|Mathematician|Syracuse|Buoyancy, levers|Killed during the Roman siege.|Archimedes
+Sushruta|-600|c. 6th century BCE (debated)|Surgeon|India|Sushruta Samhita; plastic surgery|Described rhinoplasty.|Sushruta
+Charaka|-100|c. 1st century CE (debated)|Physician|India|Charaka Samhita, Ayurveda|Foundational medical text.|Charaka
+Thiruvalluvar|-100|c. 1st century BCE–5th century CE|Poet|Tamil Nadu|Thirukkural|1,330 couplets on ethics.|Thiruvalluvar
+Aryabhata|476|476–550|Astronomer|India|Earth rotates; π ≈ 3.1416; place value|India's first satellite was named after him.|Aryabhata
+Kalidasa|400|c. 4th–5th century|Poet|India|Abhijnanashakuntalam, Meghaduta|Sanskrit's greatest poet.|Kālidāsa
+Brahmagupta|598|598–668|Mathematician|India|Rules for zero and negatives|Brahmasphutasiddhanta.|Brahmagupta
+Adi Shankaracharya|788|c. 8th century|Philosopher|India|Advaita Vedanta|Founded four mathas.|Adi_Shankara
+Al-Khwarizmi|780|c. 780–850|Mathematician|Baghdad|Algebra; 'algorithm' derives from his name|Spread Indian numerals.|Muhammad_ibn_Musa_al-Khwarizmi
+Ibn Sina (Avicenna)|980|980–1037|Physician|Persia|Canon of Medicine|Used in Europe for 600 years.|Avicenna
+Al-Biruni|973|973–1050|Scholar|Central Asia, India|Kitab al-Hind on India|Measured Earth's radius.|Al-Biruni
+Bhaskara II|1114|1114–1185|Mathematician|India|Lilavati; early calculus ideas|Calculated planetary positions.|Bhāskara_II
+Ibn Battuta|1304|1304–1369|Traveller|Morocco|Travelled ~120,000 km incl. India|Served as a judge in Delhi.|Ibn_Battuta
+Kabir|1440|c. 1440–1518|Poet-saint|Varanasi|Bhakti dohas|Rejected caste and ritual.|Kabir
+Guru Nanak|1469|1469–1539|Founder of Sikhism|Punjab|Ek Onkar, equality, langar|First Sikh Guru.|Guru_Nanak
+Mirabai|1498|c. 1498–1547|Poet-saint|Rajasthan|Devotion to Krishna|Defied royal convention.|Meera
+Leonardo da Vinci|1452|1452–1519|Artist, inventor|Italy|Mona Lisa, notebooks|The model 'Renaissance man'.|Leonardo_da_Vinci
+Nicolaus Copernicus|1473|1473–1543|Astronomer|Poland|Sun-centred universe|Sparked the Scientific Revolution.|Nicolaus_Copernicus
+Galileo Galilei|1564|1564–1642|Scientist|Italy|Telescope discoveries|Tried by the Inquisition.|Galileo_Galilei
+Isaac Newton|1643|1643–1727|Scientist|England|Gravity, calculus, optics|Principia (1687).|Isaac_Newton
+Charles Darwin|1809|1809–1882|Naturalist|England|Evolution by natural selection|On the Origin of Species (1859).|Charles_Darwin
+Raja Ram Mohan Roy|1772|1772–1833|Reformer|Bengal|Campaigned against sati|Founded the Brahmo Samaj.|Ram_Mohan_Roy
+Savitribai Phule|1831|1831–1897|Educator|Maharashtra|First girls' school (1848, Pune)|India's first woman teacher.|Savitribai_Phule
+Swami Vivekananda|1863|1863–1902|Monk|India|Chicago speech (1893)|Brought Vedanta to the West.|Swami_Vivekananda
+Rabindranath Tagore|1861|1861–1941|Poet|Bengal|Gitanjali, Nobel 1913; national anthems|First non-European Nobel laureate in literature.|Rabindranath_Tagore
+Marie Curie|1867|1867–1934|Scientist|Poland/France|Radioactivity|Two Nobel Prizes in two sciences.|Marie_Curie
+Albert Einstein|1879|1879–1955|Physicist|Germany/USA|Relativity|E = mc².|Albert_Einstein
+C. V. Raman|1888|1888–1970|Physicist|India|Raman effect, Nobel 1930|National Science Day marks his discovery.|C._V._Raman
+Srinivasa Ramanujan|1887|1887–1920|Mathematician|India|Infinite series, partitions|Self-taught genius at Cambridge.|Srinivasa_Ramanujan
+A. P. J. Abdul Kalam|1931|1931–2015|Scientist, President|India|Missile programme|'Missile Man of India'.|A._P._J._Abdul_Kalam

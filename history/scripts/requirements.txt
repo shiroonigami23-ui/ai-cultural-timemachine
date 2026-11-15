@@ -1,0 +1,5 @@
+numpy>=1.24
+matplotlib>=3.7
+pillow>=9.5
+markdown>=3.5
+jinja2>=3.1

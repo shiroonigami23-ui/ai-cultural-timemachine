@@ -1,0 +1,952 @@
+{
+ "name": "Cultural Time Machine",
+ "logo": "⏳",
+ "kicker": "The encyclopedia of human history",
+ "tagline": "From the first stone tools and the Ice Age to Rome, the Mughals, the East India Company, two world wars and today: every era, empire, people, festival, belief and invention, with how people lived, what they ate and the species they shared the world with.",
+ "footer": "An independent history encyclopedia built from archaeology, ancient DNA, primary sources and peer-reviewed research. Part of the AI Cultural Time Machine project.",
+ "github": "shiroonigami23-ui/ai-cultural-timemachine",
+ "theme_default": "dark",
+ "reviewed": "2026-11-15",
+ "hero_anim": "embers",
+ "stats": [
+  [
+   "3.3 Myr",
+   "oldest stone tools"
+  ],
+  [
+   "300,000 yrs",
+   "Homo sapiens"
+  ],
+  [
+   "86",
+   "civilisations"
+  ],
+  [
+   "101",
+   "turning points"
+  ],
+  [
+   "~600",
+   "Herculaneum scrolls still sealed"
+  ],
+  [
+   "540+",
+   "catalog entries"
+  ]
+ ],
+ "featured": [
+  "india-through-the-ages",
+  "ice-ages-and-humans",
+  "east-india-company-and-the-raj",
+  "plagues-and-pandemics",
+  "daily-life-through-the-ages",
+  "rome-rise-and-fall"
+ ],
+ "repo_map": {},
+ "sections": [
+  {
+   "id": "origins",
+   "icon": "🦴",
+   "title": "Human Origins & the Ice Age",
+   "desc": "From the first hominins and the ice ages to the spread of modern humans and the invention of farming.",
+   "pages": [
+    "human-origins",
+    "ice-ages-and-humans",
+    "agricultural-revolution"
+   ]
+  },
+  {
+   "id": "ancient",
+   "icon": "🏺",
+   "title": "The Ancient World",
+   "desc": "The first cities and empires, Bronze Age collapse, the Axial Age and the rise and fall of Rome.",
+   "pages": [
+    "cradles-of-civilisation",
+    "indus-valley-civilisation",
+    "bronze-age-collapse",
+    "axial-age",
+    "rome-rise-and-fall"
+   ]
+  },
+  {
+   "id": "india",
+   "icon": "🇮🇳",
+   "title": "History of India",
+   "desc": "From Bhimbetka and the Indus to the Mauryas, Guptas, Cholas, Sultanate, Mughals and Marathas, the East India Company, the Raj and Independence.",
+   "pages": [
+    "india-through-the-ages",
+    "east-india-company-and-the-raj",
+    "freedom-struggle-and-partition"
+   ]
+  },
+  {
+   "id": "medieval",
+   "icon": "🏰",
+   "title": "The Medieval & Early Modern World",
+   "desc": "The Silk Road, the Islamic Golden Age, the Mongols, plagues and the Age of Exploration.",
+   "pages": [
+    "silk-road",
+    "islamic-golden-age",
+    "mongol-empire",
+    "plagues-and-pandemics",
+    "age-of-exploration"
+   ]
+  },
+  {
+   "id": "modern",
+   "icon": "🏭",
+   "title": "The Modern World",
+   "desc": "The Industrial Revolution, the world wars and decolonisation.",
+   "pages": [
+    "industrial-revolution",
+    "world-wars",
+    "decolonisation-and-the-modern-world"
+   ]
+  },
+  {
+   "id": "life",
+   "icon": "🍲",
+   "title": "Daily Life Through Time",
+   "desc": "How ordinary people lived, dressed, ate, worked and celebrated in every age.",
+   "pages": [
+    "daily-life-through-the-ages",
+    "food-through-history"
+   ]
+  },
+  {
+   "id": "data",
+   "icon": "📡",
+   "title": "Data & Tracker",
+   "desc": "Live archaeology tracker and open datasets.",
+   "pages": [
+    "tracker",
+    "open-datasets"
+   ]
+  }
+ ],
+ "collections": [
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "eras",
+   "icon": "⏳",
+   "title": "Eras & Ages",
+   "short": "From Pangaea to the Information Age",
+   "noun": "eras",
+   "file": "data/eras.json",
+   "sub_key": "when",
+   "desc": "Every era from deep time and human origins through the Ice Age, farming, the Bronze and Iron Ages, the classical, medieval and early modern worlds to today: how people lived, what they ate and which species shared their world.",
+   "facts": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "region",
+     "Region"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "life",
+     "How people lived"
+    ],
+    [
+     "food",
+     "What people ate"
+    ],
+    [
+     "species",
+     "Species of the time"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "region",
+     "Region"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Eras by age"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "summary",
+     "label": "📅 Events mentioned"
+    }
+   ],
+   "prompt": "Photorealistic, historically accurate reconstruction of everyday life during the {name} ({when}) in {region}: people, dwellings, tools, food and landscape, documentary film still, natural light, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "civilizations",
+   "icon": "🏛",
+   "title": "Civilisations & Empires",
+   "short": "86 civilisations from Sumer to the USSR",
+   "noun": "civilisations",
+   "file": "data/civilizations.json",
+   "sub_key": "when",
+   "desc": "Civilisations, kingdoms and empires of every continent: when they flourished, their capitals, what they are known for, how ordinary people lived and what they ate.",
+   "facts": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "region",
+     "Region"
+    ],
+    [
+     "capital",
+     "Capital(s)"
+    ],
+    [
+     "known_for",
+     "Known for"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "life",
+     "How people lived"
+    ],
+    [
+     "food",
+     "Food"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "region",
+     "Region"
+    ],
+    [
+     "capital",
+     "Capital"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Civilisations by region"
+    },
+    {
+     "type": "ranges",
+     "min": "start",
+     "max": "end",
+     "title": "Lifespan of every civilisation (years)"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "sites",
+     "mine": "known_for",
+     "label": "🗿 Monuments"
+    },
+    {
+     "type": "backname",
+     "coll": "people",
+     "theirs": "region",
+     "label": "👤 People"
+    }
+   ],
+   "prompt": "Photorealistic, historically accurate reconstruction of a busy street or court in the {name} ({when}) at its height in {region}, with period clothing, architecture and daily life, cinematic, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "events",
+   "icon": "📅",
+   "title": "Events That Shaped History",
+   "short": "101 turning points",
+   "noun": "events",
+   "file": "data/events.json",
+   "sub_key": "when",
+   "desc": "Ice ages, continental drift, eruptions, droughts, plagues and pandemics, conquests, revolutions, the East India Company, the 1857 uprising, the world wars, Partition and more.",
+   "facts": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "etype",
+     "Type"
+    ],
+    [
+     "region",
+     "Where"
+    ],
+    [
+     "impact",
+     "Impact"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "What happened"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "etype",
+     "Type"
+    ],
+    [
+     "region",
+     "Where"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Events by category"
+    },
+    {
+     "type": "count",
+     "key": "etype",
+     "title": "Events by type"
+    }
+   ],
+   "prompt": "Photorealistic, historically accurate documentary-style depiction of the {name} ({when}), {region}, cinematic, no gore, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "people",
+   "icon": "👤",
+   "title": "People of History",
+   "short": "Rulers, thinkers, freedom fighters",
+   "noun": "people",
+   "file": "data/people.json",
+   "sub_key": "role",
+   "desc": "Rulers and conquerors, freedom fighters, philosophers, scientists, poets and reformers from every age, with India's in depth.",
+   "facts": [
+    [
+     "lived",
+     "Lived"
+    ],
+    [
+     "role",
+     "Role"
+    ],
+    [
+     "region",
+     "Region"
+    ],
+    [
+     "known_for",
+     "Known for"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "lived",
+     "Lived"
+    ],
+    [
+     "role",
+     "Role"
+    ],
+    [
+     "region",
+     "Region"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "People by category"
+    },
+    {
+     "type": "timeline_count",
+     "key": "born",
+     "bin": 500,
+     "title": "Births by half-millennium"
+    }
+   ],
+   "prompt": "Painterly, historically accurate portrait of {name} ({lived}), {role} of {region}, period clothing and setting, museum-quality oil painting style, 4:5, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "sites",
+   "icon": "🗿",
+   "title": "Wonders & Archaeological Sites",
+   "short": "Pyramids to the Taj Mahal",
+   "noun": "sites",
+   "file": "data/sites.json",
+   "sub_key": "stype",
+   "desc": "Archaeological sites, temples, cities, tombs, forts and wonders, from Göbekli Tepe and Dholavira to Angkor Wat and the Taj Mahal.",
+   "facts": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "stype",
+     "Type"
+    ],
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "built_by",
+     "Built by"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "built_by",
+     "Built by"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "timeline_count",
+     "key": "year",
+     "bin": 1000,
+     "title": "Sites by millennium"
+    }
+   ],
+   "prompt": "Photorealistic photograph of {name} in {country} as it stands today, golden hour, wide angle, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "peoples",
+   "icon": "🏹",
+   "title": "Peoples & Tribes",
+   "short": "Adivasi, Indigenous & ancient peoples",
+   "noun": "peoples",
+   "file": "data/peoples.json",
+   "sub_key": "region",
+   "desc": "India's Adivasi communities and Indigenous and ancient peoples worldwide: how they live and lived, what they eat, and their culture.",
+   "facts": [
+    [
+     "region",
+     "Region"
+    ],
+    [
+     "era",
+     "Era"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "lifestyle",
+     "Way of life"
+    ],
+    [
+     "food",
+     "Food"
+    ],
+    [
+     "culture",
+     "Culture"
+    ]
+   ],
+   "columns": [
+    [
+     "region",
+     "Region"
+    ],
+    [
+     "era",
+     "Era"
+    ]
+   ],
+   "charts": [],
+   "prompt": "Respectful, photorealistic documentary photograph of the traditional landscape, dwellings and crafts of the {name} ({region}), no identifiable individuals, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "festivals",
+   "icon": "🪔",
+   "title": "Festivals & Celebrations",
+   "short": "Diwali to Day of the Dead",
+   "noun": "festivals",
+   "file": "data/festivals.json",
+   "sub_key": "season",
+   "desc": "Festivals of India and the world, ancient and living: origins, how they are celebrated and the food that goes with them.",
+   "facts": [
+    [
+     "region",
+     "Where"
+    ],
+    [
+     "season",
+     "When"
+    ],
+    [
+     "origin",
+     "Origin"
+    ],
+    [
+     "tradition",
+     "Tradition"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "how",
+     "How it is celebrated"
+    ],
+    [
+     "food",
+     "Festive food"
+    ]
+   ],
+   "columns": [
+    [
+     "region",
+     "Where"
+    ],
+    [
+     "season",
+     "When"
+    ]
+   ],
+   "charts": [],
+   "prompt": "Vibrant photorealistic photograph of {name} celebrations ({how}), festive atmosphere, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "beliefs",
+   "icon": "🕉",
+   "title": "Religions, Philosophies & Scripts",
+   "short": "Faiths and writing systems",
+   "noun": "entries",
+   "file": "data/beliefs.json",
+   "sub_key": "origin",
+   "desc": "The world's religions and philosophies, and the writing systems that recorded history, from cuneiform and Brahmi to Hangul and Ol Chiki.",
+   "facts": [
+    [
+     "founded",
+     "Began (year)"
+    ],
+    [
+     "origin",
+     "Origin"
+    ],
+    [
+     "founder",
+     "Founder"
+    ],
+    [
+     "followers",
+     "Followers / status"
+    ],
+    [
+     "texts",
+     "Key texts"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "origin",
+     "Origin"
+    ],
+    [
+     "followers",
+     "Followers"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Entries by kind"
+    }
+   ],
+   "prompt": "Photorealistic photograph of an ancient artefact or sacred site representing {name}, museum lighting, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "inventions",
+   "icon": "⚙",
+   "title": "Inventions & Discoveries",
+   "short": "Stone tools to AI",
+   "noun": "inventions",
+   "file": "data/inventions.json",
+   "sub_key": "when",
+   "desc": "The inventions that changed human life, with the many from India: zero, wootz steel, crystallised sugar, cotton textiles, Mysorean rockets and UPI.",
+   "facts": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "where",
+     "Where"
+    ],
+    [
+     "by",
+     "By"
+    ],
+    [
+     "impact",
+     "Impact"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "where",
+     "Where"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Inventions by age"
+    }
+   ],
+   "prompt": "Photorealistic museum photograph of an early example of the {name}, {where}, dramatic lighting, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "id": "ancient_species",
+   "icon": "🦣",
+   "title": "Species of Past Ages",
+   "short": "Mammoths, dodos, sabre-tooths",
+   "noun": "species",
+   "file": "data/ancient_species.json",
+   "sub_key": "scientific",
+   "desc": "Animals that lived alongside our ancestors and vanished: Ice Age megafauna, island giants and species driven extinct in historical times.",
+   "facts": [
+    [
+     "scientific",
+     "Scientific name"
+    ],
+    [
+     "when",
+     "When it lived"
+    ],
+    [
+     "region",
+     "Region"
+    ],
+    [
+     "extinct_cause",
+     "Why it vanished"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "region",
+     "Region"
+    ]
+   ],
+   "charts": [],
+   "prompt": "Photorealistic, scientifically accurate reconstruction of a living {name} ({scientific}) in its natural habitat in {region}, wildlife documentary still, 16:9, no text"
+  },
+  {
+   "id": "papers",
+   "icon": "📄",
+   "title": "Research Papers",
+   "short": "Read or download",
+   "noun": "papers",
+   "file": "data/papers.json",
+   "name_key": "name",
+   "sub_key": "authors",
+   "group_key": "topic",
+   "paperbox": true,
+   "no_prompt": true,
+   "studies": false,
+   "source_tpl": [],
+   "facts": [
+    [
+     "authors",
+     "Authors"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "journal",
+     "Journal"
+    ],
+    [
+     "doi",
+     "DOI"
+    ],
+    [
+     "access",
+     "Access"
+    ],
+    [
+     "license",
+     "Licence"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "What it found"
+    ]
+   ],
+   "columns": [
+    [
+     "authors",
+     "Authors"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "journal",
+     "Journal"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "topic",
+     "title": "Papers by topic"
+    }
+   ],
+   "desc": "Landmark papers in archaeology, ancient DNA and climate history. Openly licensed ones open in the built-in PDF reader."
+  }
+ ],
+ "tracker": [
+  {
+   "id": "herculaneum",
+   "icon": "📜",
+   "name": "Herculaneum scrolls",
+   "status": "PHerc. 1667 read in full without opening (25 Jun 2026)",
+   "next": "~600 unopened scrolls remain"
+  },
+  {
+   "id": "keeladi",
+   "icon": "🏺",
+   "name": "Keeladi (Tamil Nadu)",
+   "status": "11th phase since 18 Mar 2026: brick structures, drains, 1,300+ artefacts, iron furnace",
+   "next": "Ancient-DNA papers expected by Dec 2026"
+  },
+  {
+   "id": "indus",
+   "icon": "🔣",
+   "name": "Indus script",
+   "status": "Still undeciphered (~4,000+ inscriptions)",
+   "next": "Computational decipherment efforts"
+  },
+  {
+   "id": "adna",
+   "icon": "🧬",
+   "name": "Ancient DNA",
+   "status": "Rakhigarhi, Keeladi and Adichanallur genomes",
+   "next": "More South Asian genomes"
+  }
+ ],
+ "tracker_page": "data/tracker",
+ "nav_order": [
+  {
+   "id": "eras",
+   "title": "Eras"
+  },
+  {
+   "id": "civilizations",
+   "title": "Empires"
+  },
+  {
+   "id": "events",
+   "title": "Events"
+  },
+  {
+   "id": "india",
+   "title": "India"
+  },
+  {
+   "id": "life",
+   "title": "Daily life"
+  },
+  {
+   "id": "people",
+   "title": "People"
+  }
+ ],
+ "prompt_style": "Photorealistic, historically accurate, documentary style, 16:9, no text"
+}

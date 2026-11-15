@@ -1,0 +1,199 @@
+{
+ "charts": {
+  "ages": {
+   "type": "hbar",
+   "title": "How long each age lasted (years, log scale)",
+   "labels": [
+    "Paleolithic",
+    "Neolithic",
+    "Bronze Age",
+    "Iron Age",
+    "Classical",
+    "Medieval",
+    "Early modern",
+    "Modern"
+   ],
+   "values": [
+    3290000,
+    7000,
+    2100,
+    700,
+    1300,
+    1000,
+    350,
+    260
+   ],
+   "unit": " yr",
+   "source": "Approximate conventional ranges",
+   "log": true
+  },
+  "pop": {
+   "type": "line",
+   "title": "World population through history (millions, approx.)",
+   "x": [
+    "10000 BCE",
+    "3000 BCE",
+    "1 CE",
+    "1000",
+    "1500",
+    "1800",
+    "1900",
+    "1950",
+    "2000",
+    "2025"
+   ],
+   "series": [
+    {
+     "name": "World population",
+     "values": [
+      4,
+      45,
+      230,
+      300,
+      460,
+      990,
+      1650,
+      2500,
+      6150,
+      8200
+     ]
+    }
+   ],
+   "source": "HYDE / Our World in Data / UN (rounded)",
+   "ymin": 0
+  },
+  "pandemics": {
+   "type": "hbar",
+   "title": "Deadliest pandemics (estimated deaths, millions)",
+   "labels": [
+    "Black Death (1346–53)",
+    "Spanish flu (1918–20)",
+    "Plague of Justinian (541–)",
+    "HIV/AIDS (1981–)",
+    "Third plague pandemic",
+    "COVID-19 (reported)",
+    "Antonine Plague"
+   ],
+   "values": [
+    75,
+    50,
+    30,
+    40,
+    15,
+    7,
+    7
+   ],
+   "unit": " m",
+   "source": "Mid-range estimates (Wikipedia, WHO); highly uncertain for early pandemics"
+  },
+  "wars": {
+   "type": "hbar",
+   "title": "Deadliest conflicts (estimated deaths, millions)",
+   "labels": [
+    "World War II",
+    "Mongol conquests",
+    "Taiping Rebellion",
+    "World War I",
+    "Thirty Years' War",
+    "Partition violence (1947)"
+   ],
+   "values": [
+    75,
+    35,
+    25,
+    20,
+    8,
+    1
+   ],
+   "unit": " m",
+   "source": "Mid-range estimates; Partition estimates range 0.2–2 million"
+  },
+  "indiagdp": {
+   "type": "line",
+   "title": "India's share of world GDP (%, Maddison estimates)",
+   "x": [
+    "1",
+    "1000",
+    "1500",
+    "1600",
+    "1700",
+    "1820",
+    "1870",
+    "1913",
+    "1950",
+    "1973",
+    "2000",
+    "2024"
+   ],
+   "series": [
+    {
+     "name": "India",
+     "values": [
+      32,
+      28,
+      24,
+      22,
+      24,
+      16,
+      12,
+      7.5,
+      4.2,
+      3.1,
+      4.2,
+      8
+     ]
+    }
+   ],
+   "source": "Angus Maddison, The World Economy (2003); recent years PPP estimates, rounded",
+   "ymin": 0
+  },
+  "famine": {
+   "type": "vbar",
+   "title": "Major famines in British India (deaths, millions, mid estimates)",
+   "labels": [
+    "Bengal 1770",
+    "Chalisa 1783",
+    "1876–78",
+    "1896–97",
+    "1899–1900",
+    "Bengal 1943"
+   ],
+   "values": [
+    10,
+    11,
+    8,
+    5,
+    4,
+    2.5
+   ],
+   "unit": " m",
+   "source": "Mid-range historical estimates (Wikipedia, Davis 2001)"
+  }
+ },
+ "groups": [
+  {
+   "id": "long",
+   "title": "⏳ The long view",
+   "charts": [
+    "ages",
+    "pop"
+   ]
+  },
+  {
+   "id": "catastrophe",
+   "title": "🦠 Plagues, wars and famines",
+   "charts": [
+    "pandemics",
+    "wars",
+    "famine"
+   ]
+  },
+  {
+   "id": "india",
+   "title": "🇮🇳 India",
+   "charts": [
+    "indiagdp"
+   ]
+  }
+ ]
+}

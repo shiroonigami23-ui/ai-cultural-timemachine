@@ -47,6 +47,21 @@ export default function Home() {
         </div>
       </section>
 
+      {/* History Encyclopedia */}
+      <section className="mb-12 bg-gradient-to-r from-gray-900 to-gray-950 rounded-2xl p-8 border border-primary-900/40 text-center">
+        <h2 className="text-2xl font-bold mb-3">📜 Cultural Time Machine Encyclopedia</h2>
+        <p className="text-gray-300 mb-6 max-w-3xl mx-auto">
+          Explore 540+ entries on every era, civilisation, empire, event, festival, people and invention,
+          from the Ice Age to the East India Company, the world wars and today, with in-depth articles and live research.
+        </p>
+        <a
+          href="/history/index.html"
+          className="inline-block px-6 py-3 rounded-xl bg-primary-600 hover:bg-primary-500 text-white font-semibold"
+        >
+          Open the encyclopedia →
+        </a>
+      </section>
+
       {/* Era Selection */}
       <section className="bg-gray-900 rounded-2xl p-8 border border-gray-800">
         <h2 className="text-2xl font-bold mb-6 text-center">Choose Your Era</h2>

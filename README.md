@@ -29,6 +29,35 @@
 - **Training notebooks** for text and image models
 - **Supabase** schema for accounts and saved journeys
 
+## 📜 Cultural Time Machine Encyclopedia (new)
+
+A full **history encyclopedia** now ships with the app in [`history/`](history/). It has **540+ catalog entries** and **23 in-depth articles** spanning every era from Pangaea and human origins to today.
+
+| Catalog | Entries | What's inside |
+|---|---|---|
+| ⏳ Eras & Ages | 40 | Deep time, Paleolithic, Ice Age, Neolithic, Bronze/Iron Age, Vedic, Classical, Medieval, Mughal, Colonial, Industrial, World Wars, Information Age. Each covers **how people lived, what they ate and the species of the time** |
+| 🏛 Civilisations & Empires | 86 | Sumer to the USSR: capitals, achievements, daily life, food |
+| 📅 Events | 101 | Ice ages, continental drift, Toba, droughts, plagues, Roman conquests, Plassey, the East India Company, 1857, both world wars, Partition |
+| 👤 People | 87 | Rulers, freedom fighters, thinkers and scientists |
+| 🗿 Sites & Wonders | 48 | Göbekli Tepe, Dholavira, Pyramids, Angkor, Taj Mahal |
+| 🏹 Peoples & Tribes | 31 | Gond, Bhil, Santhal, Khasi, Sentinelese, San, Inuit, Māori, Neanderthals |
+| 🪔 Festivals | 36 | Diwali to Day of the Dead: origin, how it is celebrated, festive food |
+| 🕉 Religions, Philosophies & Scripts | 32 | From cuneiform and Brahmi to Hangul and Ol Chiki |
+| ⚙ Inventions | 43 | Stone tools to UPI and LLMs |
+| 🦣 Species of Past Ages | 23 | Mammoths, Smilodon, dodo, aurochs, *Palaeoloxodon namadicus* |
+| 📄 Research papers | 14 | Ancient DNA, Indus, climate and collapse |
+
+Every entry page loads a **live photo**, the **full Wikipedia article** in collapsible sections and **OpenAlex research papers**. The site also has animated statistics, a live archaeology tracker (the Herculaneum scrolls, Keeladi), a timeline, a glossary and a full bibliography.
+
+<p align="center"><img src="assets/screens/encyclopedia-home.png" width="49%" alt="Encyclopedia home"> <img src="assets/screens/encyclopedia-events.png" width="49%" alt="Events catalog"></p>
+
+**How to open it:**
+- **In the app:** the home page links to `/history/index.html`. `npm run dev` and `npm run build` copy the encyclopedia into `public/history` automatically (`scripts/copy-history.js`).
+- **On GitHub Pages:** the workflow `.github/workflows/history-pages.yml` builds and deploys it. Enable it once under **Settings → Pages → Source: GitHub Actions**. The site will then be at https://shiroonigami23-ui.github.io/ai-cultural-timemachine/.
+- **Rebuild after editing:** run `npm run history:build`, or `cd history && python3 scripts/build_site.py`. You need Python 3 and `pip install -r history/scripts/requirements.txt`.
+- **Reuse the data in the app:** load the JSON catalogs in `history/site_src/data/*.json`.
+- **Missing images:** [`history/prompts.md`](history/prompts.md) lists a Nano Banana prompt and a save path for every entry. Only generate the ones the site's *Photo status* page reports as missing, then rebuild.
+
 ## 🧩 Features
 
 | Feature | What it does |
