@@ -1,0 +1,122 @@
+---
+title: Timeline: Middle East
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (66 entries).
+level: Timeline
+---
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (66 entries).
+
+:::collapse Deep prehistory (before 10,000 BCE) (3)
+<div class="timeline">
+<div class="ev"><span class="yr">300,000 yr ago</span>: 📅 Technology: <a href="/wiki/events/regular-hearths-qesem-cave.html">Regular hearths (Qesem Cave)</a> — Fire becomes routine</div>
+<div class="ev"><span class="yr">55,000 yr ago</span>: 📅 Evolution: <a href="/wiki/events/neanderthal-sapiens-interbreeding.html">Neanderthal–sapiens interbreeding</a> — Neanderthal DNA in non-Africans</div>
+<div class="ev"><span class="yr">12,500 yr ago</span>: 📅 Society: <a href="/wiki/events/natufian-culture-and-first-villages.html">Natufian culture and first villages</a> — First settled villages before farming</div>
+</div>
+:::
+
+:::collapse Neolithic and first farmers (10,000–3000 BCE) (8)
+<div class="timeline">
+<div class="ev"><span class="yr">9500 BCE</span>: 📅 Culture: <a href="/wiki/events/g-bekli-tepe-built.html">Göbekli Tepe built</a> — Monumental building before farming</div>
+<div class="ev"><span class="yr">9500 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/g-bekli-tepe.html">Göbekli Tepe</a> — Hunter-gatherers</div>
+<div class="ev"><span class="yr">8000 BCE</span>: 📅 Construction: <a href="/wiki/events/jericho-walls-and-tower.html">Jericho walls and tower</a> — One of the oldest towns</div>
+<div class="ev"><span class="yr">7100 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/atalh-y-k.html">Çatalhöyük</a> — Neolithic farmers</div>
+<div class="ev"><span class="yr">4500 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/sumer.html">Sumer</a> — c. 4500–1900 BCE</div>
+<div class="ev"><span class="yr">3500 BCE</span>: 📅 Technology: <a href="/wiki/events/wheel-and-wagon.html">Wheel and wagon</a> — Transport revolution</div>
+<div class="ev"><span class="yr">3500 BCE</span>: 📅 Urbanisation: <a href="/wiki/events/uruk-the-first-city.html">Uruk, the first city</a> — Birth of cities and writing</div>
+<div class="ev"><span class="yr">3200 BCE</span>: 📅 Invention: <a href="/wiki/events/invention-of-writing.html">Invention of writing</a> — Recorded history begins</div>
+</div>
+:::
+
+:::collapse !Bronze Age (3000–1200 BCE) (11)
+<div class="timeline">
+<div class="ev"><span class="yr">2334 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/akkadian-empire.html">Akkadian Empire</a> — c. 2334–2154 BCE</div>
+<div class="ev"><span class="yr">2334 BCE</span>: 📅 Conquest: <a href="/wiki/events/sargon-founds-akkad.html">Sargon founds Akkad</a> — The first empire</div>
+<div class="ev"><span class="yr">2100 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/ziggurat-of-ur.html">Ziggurat of Ur</a> — Ur-Nammu</div>
+<div class="ev"><span class="yr">2025 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/assyria.html">Assyria</a> — c. 2025–609 BCE</div>
+<div class="ev"><span class="yr">1894 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/babylonia.html">Babylonia</a> — c. 1894–539 BCE</div>
+<div class="ev"><span class="yr">1810 BCE</span>: 👤 Born: <a href="/wiki/people/hammurabi.html">Hammurabi</a> — Code of Hammurabi</div>
+<div class="ev"><span class="yr">1800 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/alphabet.html">Alphabet</a> — Sinai / Levant</div>
+<div class="ev"><span class="yr">1754 BCE</span>: 📅 Law: <a href="/wiki/events/code-of-hammurabi.html">Code of Hammurabi</a> — Written law</div>
+<div class="ev"><span class="yr">1650 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/hittite-empire.html">Hittite Empire</a> — c. 1650–1180 BCE</div>
+<div class="ev"><span class="yr">1500 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/phoenicia.html">Phoenicia</a> — c. 1500–300 BCE</div>
+<div class="ev"><span class="yr">1274 BCE</span>: 📅 War: <a href="/wiki/events/battle-of-kadesh.html">Battle of Kadesh</a> — Led to the first known peace treaty</div>
+</div>
+:::
+
+:::collapse !Iron Age (1200–500 BCE) (9)
+<div class="timeline">
+<div class="ev"><span class="yr">1200 BCE</span>: 📅 Technology: <a href="/wiki/events/iron-smelting-spreads.html">Iron smelting spreads</a> — Iron Age begins</div>
+<div class="ev"><span class="yr">1050 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ancient-israel-and-judah.html">Ancient Israel and Judah</a> — c. 1050–586 BCE</div>
+<div class="ev"><span class="yr">612 BCE</span>: 📅 War: <a href="/wiki/events/fall-of-nineveh.html">Fall of Nineveh</a> — End of Assyria</div>
+<div class="ev"><span class="yr">600 BCE</span>: 👤 Born: <a href="/wiki/people/cyrus-the-great.html">Cyrus the Great</a> — Founded the Achaemenid Empire</div>
+<div class="ev"><span class="yr">587 BCE</span>: 📅 Conquest: <a href="/wiki/events/babylonian-captivity.html">Babylonian captivity</a> — Jewish exile</div>
+<div class="ev"><span class="yr">550 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/achaemenid-persian-empire.html">Achaemenid Persian Empire</a> — 550–330 BCE</div>
+<div class="ev"><span class="yr">550 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/achaemenid-dynasty.html">Achaemenid dynasty</a> — Cyrus overthrew the Medes and conquered Babylon.</div>
+<div class="ev"><span class="yr">539 BCE</span>: 📅 Conquest: <a href="/wiki/events/cyrus-takes-babylon.html">Cyrus takes Babylon</a> — Persian Empire</div>
+<div class="ev"><span class="yr">518 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/persepolis.html">Persepolis</a> — Darius I</div>
+</div>
+:::
+
+:::collapse !Classical age (500 BCE–500 CE) (7)
+<div class="timeline">
+<div class="ev"><span class="yr">490 BCE</span>: 📅 War: <a href="/wiki/events/persian-wars.html">Persian Wars</a> — Marathon, Thermopylae, Salamis</div>
+<div class="ev"><span class="yr">331 BCE</span>: 📅 Conquest: <a href="/wiki/events/alexander-conquers-persia.html">Alexander conquers Persia</a> — Hellenistic age</div>
+<div class="ev"><span class="yr">312 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/seleucid-dynasty.html">Seleucid dynasty</a> — Alexander&#x27;s general took the eastern conquests.</div>
+<div class="ev"><span class="yr">300 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/petra.html">Petra</a> — Nabataeans</div>
+<div class="ev"><span class="yr">247 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/parthian-empire.html">Parthian Empire</a> — Nomadic Parni took Iran from the Seleucids.</div>
+<div class="ev"><span class="yr">30 CE</span>: 📅 Religion: <a href="/wiki/events/crucifixion-of-jesus.html">Crucifixion of Jesus</a> — Birth of Christianity</div>
+<div class="ev"><span class="yr">224 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/sasanian-empire.html">Sasanian Empire</a> — Ardashir overthrew the Parthians.</div>
+</div>
+:::
+
+:::collapse !Early medieval (500–1000) (10)
+<div class="timeline">
+<div class="ev"><span class="yr">537 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/hagia-sophia.html">Hagia Sophia</a> — Justinian</div>
+<div class="ev"><span class="yr">622 CE</span>: 📅 Religion: <a href="/wiki/events/hijra-and-rise-of-islam.html">Hijra and rise of Islam</a> — Islamic calendar begins</div>
+<div class="ev"><span class="yr">624 CE</span>: 📅 War: <a href="/wiki/events/battle-of-badr.html">Battle of Badr</a> — Early Muslim victory</div>
+<div class="ev"><span class="yr">632 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/rashidun-caliphate.html">Rashidun Caliphate</a> — Successors of the Prophet united Arabia and conquered Persia and Byzantine provinces.</div>
+<div class="ev"><span class="yr">636 CE</span>: 📅 War: <a href="/wiki/events/battle-of-qadisiyyah.html">Battle of Qadisiyyah</a> — Fall of Sasanian Persia</div>
+<div class="ev"><span class="yr">661 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/umayyad-caliphate.html">Umayyad Caliphate</a> — Won the first civil war.</div>
+<div class="ev"><span class="yr">750 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/abbasid-caliphate.html">Abbasid Caliphate</a> — Revolution from Khurasan.</div>
+<div class="ev"><span class="yr">780 CE</span>: 👤 Born: <a href="/wiki/people/al-khwarizmi.html">Al-Khwarizmi</a> — Algebra; &#x27;algorithm&#x27; derives from his name</div>
+<div class="ev"><span class="yr">900 CE</span>: ⚙ Invention: <a href="/wiki/inventions/windmill.html">Windmill</a> — Persia</div>
+<div class="ev"><span class="yr">980 CE</span>: 👤 Born: <a href="/wiki/people/ibn-sina-avicenna.html">Ibn Sina (Avicenna)</a> — Canon of Medicine</div>
+</div>
+:::
+
+:::collapse !Late medieval (1000–1500) (11)
+<div class="timeline">
+<div class="ev"><span class="yr">1037</span>: 👑 Dynasty: <a href="/wiki/dynasties/seljuk-empire.html">Seljuk Empire</a> — Turkic nomads took Baghdad (1055).</div>
+<div class="ev"><span class="yr">1071</span>: 📅 War: <a href="/wiki/events/battle-of-manzikert.html">Battle of Manzikert</a> — Turks enter Anatolia</div>
+<div class="ev"><span class="yr">1096</span>: 📅 War: <a href="/wiki/events/first-crusade.html">First Crusade</a> — Crusaders take Jerusalem</div>
+<div class="ev"><span class="yr">1171</span>: 👑 Dynasty: <a href="/wiki/dynasties/ayyubid-dynasty.html">Ayyubid dynasty</a> — Saladin took Egypt and recaptured Jerusalem (1187).</div>
+<div class="ev"><span class="yr">1187</span>: 📅 War: <a href="/wiki/events/saladin-retakes-jerusalem.html">Saladin retakes Jerusalem</a> — End of the Crusader kingdom&#x27;s core</div>
+<div class="ev"><span class="yr">1256</span>: 👑 Dynasty: <a href="/wiki/dynasties/ilkhanate.html">Ilkhanate</a> — Mongol conquest of Persia.</div>
+<div class="ev"><span class="yr">1258</span>: 📅 Destruction: <a href="/wiki/events/sack-of-baghdad.html">Sack of Baghdad</a> — End of the Abbasid Caliphate; House of Wisdom destroyed</div>
+<div class="ev"><span class="yr">1260</span>: 📅 War: <a href="/wiki/events/battle-of-ain-jalut.html">Battle of Ain Jalut</a> — Mongol advance halted</div>
+<div class="ev"><span class="yr">1299</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ottoman-empire.html">Ottoman Empire</a> — 1299–1922</div>
+<div class="ev"><span class="yr">1299</span>: 👑 Dynasty: <a href="/wiki/dynasties/ottoman-dynasty.html">Ottoman dynasty</a> — A frontier beylik grew through ghazi warfare.</div>
+<div class="ev"><span class="yr">1453</span>: 📅 Conquest: <a href="/wiki/events/fall-of-constantinople.html">Fall of Constantinople</a> — End of the Byzantine Empire</div>
+</div>
+:::
+
+:::collapse Early modern (1500–1800) (3)
+<div class="timeline">
+<div class="ev"><span class="yr">1501</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/safavid-iran.html">Safavid Iran</a> — 1501–1736</div>
+<div class="ev"><span class="yr">1501</span>: 👑 Dynasty: <a href="/wiki/dynasties/safavid-dynasty.html">Safavid dynasty</a> — A Sufi order turned dynasty.</div>
+<div class="ev"><span class="yr">1789</span>: 👑 Dynasty: <a href="/wiki/dynasties/qajar-dynasty.html">Qajar dynasty</a> — Turkmen tribe reunited Iran.</div>
+</div>
+:::
+
+:::collapse Industrial and imperial age (1800–1945) (1)
+<div class="timeline">
+<div class="ev"><span class="yr">1923</span>: 📅 Politics: <a href="/wiki/events/turkish-republic-founded.html">Turkish Republic founded</a> — End of Ottoman rule</div>
+</div>
+:::
+
+:::collapse Contemporary (1945–today) (3)
+<div class="timeline">
+<div class="ev"><span class="yr">1948</span>: 📅 Politics: <a href="/wiki/events/creation-of-israel-and-the-nakba.html">Creation of Israel and the Nakba</a> — Displacement of ~700,000 Palestinians</div>
+<div class="ev"><span class="yr">1979</span>: 📅 Revolution: <a href="/wiki/events/iranian-revolution.html">Iranian Revolution</a> — Islamic Republic</div>
+<div class="ev"><span class="yr">2010</span>: 📅 Uprising: <a href="/wiki/events/arab-spring.html">Arab Spring</a> — Regime changes and civil wars</div>
+</div>
+:::

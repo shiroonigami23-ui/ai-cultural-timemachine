@@ -1,0 +1,57 @@
+@file languages.json
+@fields name|family|start|origin_when|homeland|speakers|script|descendants|summary|wiki
+# Language families|🗣
+Indo-European|Family|-4500|~4500–2500 BCE (debated)|Pontic–Caspian steppe or Anatolia (debated)|~3.3 billion|Many|Indo-Iranian, Germanic, Romance, Slavic, Celtic, Greek, Armenian, Albanian|The largest family; Sanskrit, Latin and Greek were key to discovering it (William Jones, 1786).|Indo-European_languages
+Dravidian|Family|-4000|~4000–2500 BCE|South Asia|~250 million|Tamil, Telugu, Kannada, Malayalam scripts (Brahmi-derived)|Tamil, Telugu, Kannada, Malayalam, Brahui, Gondi, Tulu|South India's native family; some link it to the Indus civilisation (unproven).|Dravidian_languages
+Sino-Tibetan|Family|-6000|~6000–4000 BCE|Yellow River basin (likely)|~1.4 billion|Chinese characters, Tibetan, Burmese, Meitei|Chinese languages, Tibetan, Burmese, Meitei, Bodo, Newar|The second-largest family, spoken from China to Northeast India.|Sino-Tibetan_languages
+Austroasiatic|Family|-4000|~4000 BCE|Southeast Asia|~120 million|Latin, Khmer, Ol Chiki|Vietnamese, Khmer, Santali, Mundari, Ho, Khasi|Includes India's Munda languages and Khasi.|Austroasiatic_languages
+Afroasiatic|Family|-10000|~10,000 BCE or earlier|North-East Africa or the Levant|~500 million|Arabic, Hebrew, Ge'ez, Latin|Arabic, Hebrew, Amharic, Hausa, Somali, Berber, Ancient Egyptian|Includes the oldest written languages (Egyptian, Akkadian).|Afroasiatic_languages
+Niger–Congo|Family|-5000|~5000 BCE (Bantu expansion from ~1000 BCE)|West Africa|~700 million|Latin; N'Ko; Adlam|Yoruba, Igbo, Swahili, Zulu, Shona, Fula|The largest family by number of languages (~1,500).|Niger–Congo_languages
+Austronesian|Family|-3500|~3500 BCE|Taiwan|~380 million|Latin, Baybayin (historic)|Malay/Indonesian, Javanese, Tagalog, Malagasy, Māori, Hawaiian|Spread from Taiwan to Madagascar and Easter Island, the widest spread before 1500.|Austronesian_languages
+Turkic|Family|-500|~500 BCE|Mongolia and Siberia|~200 million|Old Turkic runes; Arabic; Latin; Cyrillic|Turkish, Uzbek, Kazakh, Azerbaijani, Uyghur, Yakut|Spread by nomadic empires.|Turkic_languages
+Uralic|Family|-4000|~4000 BCE|Ural Mountains region|~25 million|Latin; Cyrillic|Finnish, Estonian, Hungarian, Sámi|A non-Indo-European family in Europe.|Uralic_languages
+Japonic|Family|-1000|~1000 BCE in Japan|Korean Peninsula or Japan|~125 million|Kanji, kana|Japanese, Ryukyuan|Brought by Yayoi rice farmers.|Japonic_languages
+Koreanic|Family|-1000|~1000 BCE|Korean Peninsula|~80 million|Hangul|Korean, Jeju|A small family with a scientific alphabet.|Koreanic_languages
+Kra–Dai|Family|-1000|~1000 BCE|Southern China|~95 million|Thai, Lao scripts|Thai, Lao, Shan, Zhuang|Spread south into Thailand and Laos.|Kra–Dai_languages
+Uto-Aztecan|Family|-3000|~3000 BCE|Mexico or US Southwest|~2 million|Latin|Nahuatl, Hopi, Shoshone, Comanche|Nahuatl was the Aztec language.|Uto-Aztecan_languages
+Mayan|Family|-2200|~2200 BCE|Guatemalan highlands|~6 million|Maya script (historic), Latin|K'iche', Yucatec, Q'eqchi'|The Maya wrote these languages in glyphs.|Mayan_languages
+Quechuan|Family|-500|~500 BCE–500 CE|Central Peru|~8 million|Quipu (records), Latin|Quechua varieties|Language of the Inca administration.|Quechuan_languages
+Pama–Nyungan|Family|-4000|~6,000 years ago|Australia|~0.05 million|Latin|Warlpiri, Pitjantjatjara, Yolŋu|Covers most of Australia; many languages endangered.|Pama–Nyungan_languages
+Khoe–Kwadi and Kx'a|Family|-20000|Very ancient|Southern Africa|~0.3 million|Latin|ǃXóõ, Khoekhoe, Juǀ'hoan|Click languages possibly among the oldest lineages.|Khoisan_languages
+Isolates: Basque and Burushaski|Isolates|-5000|Unknown|Pyrenees; Hunza (Pakistan)|~1 million|Latin; Urdu script|—|Languages with no known relatives, survivors of older linguistic layers.|Language_isolate
+# Ancient & classical languages|📜
+Sumerian|Isolate|-3200|~3200 BCE (written)|Mesopotamia|Extinct (~1800 BCE as spoken)|Cuneiform|None|The first written language.|Sumerian_language
+Akkadian|Semitic|-2500|~2500 BCE|Mesopotamia|Extinct|Cuneiform|None|The diplomatic language of the Bronze Age (Amarna letters).|Akkadian_language
+Ancient Egyptian|Afroasiatic|-3200|~3200 BCE|Egypt|Extinct (survives in Coptic liturgy)|Hieroglyphs, hieratic, demotic, Coptic|Coptic|Written for over 4,000 years.|Egyptian_language
+Hittite|Indo-European (Anatolian)|-1700|~1700 BCE|Anatolia|Extinct|Cuneiform|None|The oldest written Indo-European language.|Hittite_language
+Vedic Sanskrit|Indo-Aryan|-1500|~1500 BCE|Northwest India|Extinct as Vedic|Oral, later Brahmi/Devanagari|Classical Sanskrit, Prakrits|Preserved orally with extraordinary accuracy in the Rigveda.|Vedic_Sanskrit
+Classical Sanskrit|Indo-Aryan|-500|~500 BCE (Panini)|India|Liturgical; ~25,000 speakers declared|Devanagari and many scripts|Influenced most Indian languages|Language of the Mahabharata, Kalidasa and Indian science.|Sanskrit
+Prakrits and Pali|Indo-Aryan|-500|~500 BCE|India|Extinct as spoken|Brahmi|Hindi, Bengali, Marathi, Sinhala and others|The everyday languages of Buddha's and Ashoka's time; Pali preserves Buddhist scriptures.|Prakrit
+Old Tamil|Dravidian|-300|~300 BCE|Tamil Nadu|Evolved into modern Tamil|Tamil-Brahmi|Tamil, Malayalam|Language of Sangam poetry; Tamil is one of the oldest living classical languages.|Old_Tamil
+Avestan and Old Persian|Indo-Iranian|-1000|~1000–500 BCE|Iran|Extinct|Avestan script; Old Persian cuneiform|Middle Persian, Persian|Language of Zoroastrian scripture and Darius's inscriptions.|Avestan
+Aramaic|Semitic|-1000|~1000 BCE|Syria|~0.5 million (Neo-Aramaic)|Aramaic alphabet|Syriac, Neo-Aramaic|Lingua franca of the Persian Empire and the language of Jesus.|Aramaic
+Biblical Hebrew|Semitic|-1000|~1000 BCE|Levant|Revived as Modern Hebrew (~9 million)|Paleo-Hebrew, Hebrew square script|Modern Hebrew|The only language successfully revived from liturgical use (19th–20th c.).|Biblical_Hebrew
+Ancient Greek|Hellenic|-1450|~1450 BCE (Mycenaean)|Greece|Evolved into Modern Greek|Linear B, Greek alphabet|Modern Greek|Language of Homer, Plato and the New Testament.|Ancient_Greek
+Latin|Italic|-700|~700 BCE|Latium, Italy|Liturgical|Latin alphabet|Italian, Spanish, French, Portuguese, Romanian|Language of Rome; ancestor of the Romance languages.|Latin
+Classical Chinese|Sinitic|-500|~500 BCE|China|Literary|Chinese characters|Mandarin, Cantonese and others (literary influence on Japanese, Korean, Vietnamese)|Language of Confucius and imperial exams.|Classical_Chinese
+Old Norse|Germanic|700|~700 CE|Scandinavia|Extinct|Runes|Icelandic, Norwegian, Swedish, Danish|Language of the Vikings and sagas.|Old_Norse
+Classical Arabic|Semitic|400|~4th–7th century CE|Arabia|Liturgical and literary standard|Arabic script|Modern Standard Arabic, Arabic dialects|Language of the Quran and the Islamic Golden Age.|Classical_Arabic
+Classical Persian|Indo-Iranian|900|~9th century CE|Iran, Central Asia|Evolved into Persian/Dari/Tajik|Perso-Arabic|Persian; influenced Urdu|Court language of the Mughals for 300 years.|Persian_language
+Nahuatl (Classical)|Uto-Aztecan|1300|~14th century|Valley of Mexico|~1.7 million (modern)|Aztec glyphs, then Latin|Modern Nahuatl|Gave English 'chocolate', 'tomato' and 'avocado'.|Classical_Nahuatl
+# Modern world languages|🌐
+English|Germanic|450|~450 CE (Old English)|England|~1.5 billion (incl. second language)|Latin|Scots, varieties worldwide|From Anglo-Saxon through Norman French influence to a global lingua franca.|English_language
+Hindi–Urdu (Hindustani)|Indo-Aryan|1200|~12th–13th century|North India|~600 million+|Devanagari; Perso-Arabic (Urdu)|—|Grew from Khari Boli with Persian and Arabic vocabulary; Amir Khusrau wrote in early Hindavi.|Hindustani_language
+Bengali|Indo-Aryan|1000|~1000 CE (Charyapada)|Bengal|~270 million|Bengali script|—|Language of Tagore; its defence (1952) is remembered as International Mother Language Day.|Bengali_language
+Marathi|Indo-Aryan|1100|~11th century|Maharashtra|~83 million|Devanagari (Modi historically)|—|Language of Dnyaneshwar and the Maratha state.|Marathi_language
+Telugu|Dravidian|575|~575 CE (inscriptions)|Andhra Pradesh, Telangana|~95 million|Telugu script|—|Called the 'Italian of the East' for its vowel endings.|Telugu_language
+Kannada|Dravidian|450|~450 CE (Halmidi inscription)|Karnataka|~60 million|Kannada script|—|A classical language with eight Jnanpith awards.|Kannada
+Malayalam|Dravidian|900|~9th century|Kerala|~38 million|Malayalam script|—|Split from Tamil around the 9th century.|Malayalam
+Punjabi|Indo-Aryan|1100|~11th century|Punjab|~150 million|Gurmukhi; Shahmukhi|—|Language of the Guru Granth Sahib.|Punjabi_language
+Mandarin Chinese|Sinitic|1300|~14th century (Ming standard)|Northern China|~1.1 billion|Simplified and traditional characters|—|The most spoken first language.|Mandarin_Chinese
+Spanish|Romance|900|~9th–10th century|Castile|~560 million|Latin|—|Spread by the Spanish Empire.|Spanish_language
+Arabic (modern)|Semitic|600|~7th century spread|Arabia to Morocco|~370 million|Arabic script|Many dialects|Spread with Islam.|Arabic
+Swahili|Bantu|800|~8th century|East African coast|~200 million|Latin (Arabic historically)|—|A trade language mixing Bantu and Arabic.|Swahili_language
+Russian|Slavic|1100|~11th century (Old East Slavic)|Kievan Rus'|~255 million|Cyrillic|—|Cyrillic was created for Slavs in the 9th–10th century.|Russian_language
+Portuguese|Romance|1100|~12th century|Portugal|~260 million|Latin|—|Brazil has most speakers.|Portuguese_language
+French|Romance|842|842 CE (Oaths of Strasbourg)|France|~310 million|Latin|—|Language of diplomacy for centuries.|French_language
+Esperanto|Constructed|1887|1887|Poland (Zamenhof)|~100,000–2 million|Latin|—|The most successful invented language.|Esperanto

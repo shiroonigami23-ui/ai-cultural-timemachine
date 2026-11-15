@@ -1,0 +1,86 @@
+sumer|Middle East|City-states ruled by priest-kings (ensi, lugal) and temple councils|Mud-brick ziggurats, walled cities, reed houses|Cuneiform writing, the wheel, the plough, irrigation canals, base-60 counting (our 60-minute hour), bronze|Rose as farming villages on the Tigris–Euphrates plain grew around temples and irrigation|Conquered by Akkad, revived under Ur III, then faded as salinisation ruined fields and Amorites took over|Writing, cities, law codes and literature (Gilgamesh)
+akkadian-empire|Middle East|Centralised empire under a king with governors|Palaces, victory steles (Naram-Sin)|Standing army, standardised weights|Sargon conquered Sumerian cities|Drought (4.2 ka event), Gutian invasions, revolts|The model of empire for later Mesopotamian rulers
+babylonia|Middle East|Kingdom with written law and bureaucracy|Ishtar Gate, ziggurat Etemenanki (Tower of Babel)|Astronomy, algebra, the 360° circle|Hammurabi united Mesopotamia (~1760 BCE)|Hittite sack (1595 BCE); later Neo-Babylonian empire fell to Cyrus (539 BCE)|Law, astronomy and mathematics inherited by Greeks and Indians
+assyria|Middle East|Militarised monarchy with deportation policy|Palaces of Nineveh with relief sculptures|Iron weapons, siege engines, a postal road system|Expanded from Assur through repeated campaigns|Civil war; Babylonians and Medes destroyed Nineveh (612 BCE)|First great iron-age empire; Ashurbanipal's library
+ancient-egypt|Africa|Divine pharaoh, priests, scribes and nomarchs|Pyramids, temples (Karnak), rock tombs|Hieroglyphs, papyrus, the 365-day calendar, surgery, glass|Unification of Upper and Lower Egypt around 3100 BCE|Foreign conquests: Persians, Greeks, finally Rome (30 BCE)|Monumental architecture, medicine, the calendar
+hittite-empire|Middle East|King with a council (panku) and vassal treaties|Fortified capital Hattusa|Early iron working, chariot warfare|Unified Anatolian city-states|Bronze Age collapse (~1180 BCE)|The world's first known peace treaty
+phoenicia|Middle East|Merchant city-state monarchies|Harbour cities, Carthage|The alphabet, purple dye, glass, open-sea navigation|Trading cities on the Levant coast after 1200 BCE|Absorbed by Assyria, Persia and Alexander; Carthage fell to Rome|The alphabet behind Greek, Latin and Arabic scripts
+ancient-israel-and-judah|Middle East|Monarchy, later priestly rule|Solomon's Temple (traditional)|Hebrew alphabet writing|United monarchy under Saul, David and Solomon (traditional)|Assyria destroyed Israel (722 BCE); Babylon destroyed Judah (587 BCE)|Monotheism and scriptures of three religions
+kingdom-of-kush|Africa|Kings and powerful queens (kandakes)|Nubian pyramids at Meroë|Iron smelting at scale|Broke free of Egypt and later ruled it (25th dynasty)|Aksum's conquest (~350 CE)|Africa's iron-working centre
+carthage|Africa|Merchant republic with elected suffetes|Cothon military harbour|Naval engineering, agriculture manuals (Mago)|Phoenician colony grew into a sea empire|Destroyed by Rome in 146 BCE|Rival that shaped Rome
+achaemenid-persian-empire|Middle East|King of kings with satraps|Persepolis, Pasargadae|Royal Road, qanats, postal relays, coinage (daric)|Cyrus conquered Media, Lydia and Babylon|Alexander's conquest (330 BCE)|Model of tolerant multi-ethnic rule
+aksum|Africa|King with tributary states|Giant stelae, palaces|Own coinage, Ge'ez script|Controlled Red Sea trade|Islamic expansion cut trade|Ethiopian Christianity and Ge'ez
+ghana-empire|Africa|Divine king (ghana) with Soninke nobles|Twin-town capital Koumbi Saleh|Gold and salt trade organisation|Controlled trans-Saharan gold|Almoravid pressure and drought|West Africa's first great empire
+mali-empire|Africa|Mansa with provinces and griots|Djinguereber Mosque (Timbuktu)|Manuscript libraries, gold economy|Sundiata defeated Sosso (1235)|Succession disputes, Songhai rise|Timbuktu's learning
+songhai-empire|Africa|Askia emperors with provinces|Tomb of Askia (Gao)|Large river navy|Sonni Ali captured Timbuktu|Moroccan musketeers at Tondibi (1591)|Largest West African empire
+great-zimbabwe|Africa|Kings ruling from a hilltop complex|Dry-stone walls without mortar|Gold trade, cattle wealth|Controlled gold exports to the coast|Trade shifted; resources exhausted|Gave Zimbabwe its name
+swahili-city-states|Africa|Independent sultan-ruled towns|Coral-stone mosques (Kilwa)|Monsoon sailing dhows|Trade with Arabia, India, China|Portuguese attacks after 1500|Swahili language and culture
+kingdom-of-benin|Africa|Oba (king) with chiefs and guilds|Huge earthen walls and moats|Bronze casting|Grew as a forest kingdom|British punitive expedition (1897)|Benin Bronzes
+ottoman-empire|Middle East|Sultan, viziers, janissaries; millet system for faiths|Süleymaniye Mosque (Sinan)|Gunpowder artillery, devshirme administration|Osman's frontier state expanded into Anatolia and the Balkans|Military decline, nationalism, WWI defeat|Six centuries of multi-ethnic rule
+safavid-iran|Middle East|Shah with Qizilbash and later slave soldiers|Isfahan's Naqsh-e Jahan square|Carpet and silk industries|Ismail I united Iran|Afghan invasion (1722)|Shia Iran
+indus-valley-civilisation|South Asia|Unknown; possibly councils or merchant elites (no clear palaces)|Grid cities, baked-brick houses, Great Bath, reservoirs|Standard weights, drainage, bead drilling, cotton textiles, possible dockyard|Grew from Mehrgarh-era farming villages over 4,000 years|Monsoon weakening, river shifts, trade decline (from ~1900 BCE)|Urban planning; possible continuity in Indian culture
+vedic-india|South Asia|Tribal chiefs (rajan) with assemblies (sabha, samiti)|Wooden and thatch villages|Iron ploughs (later), horse chariots, Vedic oral recitation|Pastoral Indo-Aryan clans settled the Punjab and Ganga plains|Transformed into territorial kingdoms (mahajanapadas)|Vedas, Sanskrit, ritual traditions
+magadha|South Asia|Monarchy|Rajgir's cyclopean walls|War elephants, catapults (mahashilakantaka)|Rich iron mines and fertile soil|Became the Mauryan empire|Seat of Buddhism and Jainism
+maurya-empire|South Asia|Centralised monarchy with ministers, spies and provinces (Arthashastra)|Pataliputra palace, Sanchi stupa, polished pillars|Roads, irrigation, a standing army|Chandragupta defeated the Nandas|Weak successors after Ashoka; Shunga coup|Ashoka's edicts and the lion capital
+satavahana-dynasty|South Asia|Monarchy with powerful queens|Karla caves, Amaravati stupa|Coinage with ship motifs|Rose in the Deccan|Fragmentation|Deccan trade with Rome
+sangam-era-tamilakam|South Asia|Three crowned kings (Chera, Chola, Pandya) and chieftains|Brick towns like Keeladi|Iron working, Tamil-Brahmi writing, overseas trade|Port trade with Rome and Southeast Asia|Kalabhra interregnum|Sangam poetry and Tamil classical culture
+kushan-empire|Central Asia|Emperor ('devaputra')|Gandhara Buddhist art|Gold coinage, Silk Road control|Yuezhi nomads unified Bactria|Sasanian and Gupta pressure|Mahayana Buddhism's spread
+gupta-empire|South Asia|Monarchy with feudatories|Early stone temples (Deogarh), Udayagiri caves|Decimal numerals, zero, Aryabhata's astronomy, iron pillar|Marriage alliance and conquests|Huna invasions, breakaway governors|India's classical golden age
+pallava-dynasty|South Asia|Monarchy|Shore Temple, rathas of Mamallapuram|Dravidian temple architecture|Rose in Kanchipuram|Defeated by Cholas|Spread of Indian scripts to Southeast Asia
+chalukya-dynasty|South Asia|Monarchy|Badami caves, Pattadakal|Vesara temple style|Rose in Karnataka|Rashtrakutas|Temple architecture
+rashtrakuta-dynasty|South Asia|Monarchy|Kailasa temple at Ellora|Rock-cut engineering|Overthrew Chalukyas|Western Chalukyas|Ellora
+chola-empire|South Asia|Monarchy with elected village assemblies|Brihadeeswara, Gangaikonda Cholapuram|Bronze casting, navy, irrigation (Kallanai)|Vijayalaya took Thanjavur|Pandya and Hoysala rise|Bronzes, temples, maritime influence
+pala-empire|South Asia|Elected founder; Buddhist monarchy|Somapura Mahavihara|Pala art|Gopala was elected|Senas|Last great Buddhist empire in India
+delhi-sultanate|South Asia|Sultan with iqta land grants|Qutub Minar, Alai Darwaza|Persian wheel, paper, true arch and dome|Muhammad of Ghor's conquests|Timur's sack, provincial breakaway|Indo-Islamic architecture and Hindustani
+vijayanagara-empire|South Asia|Monarchy with nayaka governors|Hampi's temples and bazaars|Water tanks and aqueducts|Founded by Harihara and Bukka|Battle of Talikota (1565)|South Indian art and Carnatic music
+ahom-kingdom|South Asia|King with paik labour system|Rang Ghar, Talatal Ghar|Buranji chronicles, gunpowder|Tai settlers under Sukaphaa|Burmese invasions, British annexation|Assamese identity
+mughal-empire|South Asia|Emperor with mansabdari nobility|Taj Mahal, Red Fort, Fatehpur Sikri|Gunpowder warfare, revenue survey (zabt), miniature painting|Babur's victory at Panipat|Succession wars, Marathas, British|Indo-Persian culture, cuisine and architecture
+maratha-confederacy|South Asia|Chhatrapati and Peshwa with confederate chiefs|Hill forts (Raigad, Sindhudurg)|Guerrilla warfare, navy|Shivaji's rebellion against the Mughals|Panipat 1761, Anglo-Maratha Wars|Regional pride and resistance
+sikh-empire|South Asia|Maharaja with secular court|Golden Temple gilding|European-trained army|Ranjit Singh unified misls|Anglo-Sikh Wars|Sikh statehood memory
+kingdom-of-mysore|South Asia|Wodeyar kings, then Hyder Ali and Tipu|Srirangapatna|Iron-cased rockets|Rise of Hyder Ali|Fall of Srirangapatna (1799)|Rocketry
+east-india-company-rule|South Asia|Company directors in London and governors-general|Fort William, Writers' Building|Survey of India, telegraph (later)|Victory at Plassey|1857 rebellion|Colonial administration
+british-raj|South Asia|Viceroy under the British Crown|Indo-Saracenic buildings, New Delhi|Railways, telegraph, census|Crown took over after 1857|Independence movement, WWII|Modern Indian state institutions
+xia-and-shang-china|East Asia|King with diviners|Palaces at Erlitou and Yinxu|Bronze casting, oracle-bone writing, chariots|Yellow River farming chiefdoms|Zhou conquest|Chinese writing
+zhou-dynasty|East Asia|Feudal kingdom under the Mandate of Heaven|Ritual bronze vessels|Iron tools, crossbows (late)|Overthrew the Shang|Warring States|Confucian and Taoist philosophy
+qin-dynasty|East Asia|Legalist autocracy|Terracotta Army, early Great Wall|Standardised script, roads, weights|Conquest of the six states|Revolts after harsh rule|Unified China
+han-dynasty|East Asia|Emperor with Confucian bureaucracy|Tombs, watchtowers|Paper, seismoscope, blast furnaces|Liu Bang's victory|Yellow Turbans, warlords|Han identity, Silk Road
+tang-dynasty|East Asia|Emperor with civil-service exams|Chang'an's grid city|Woodblock printing, porcelain|Li Yuan's rise|An Lushan rebellion|Golden age of poetry
+song-dynasty|East Asia|Emperor and scholar-officials|Pagodas|Gunpowder weapons, compass, movable type, paper money|Coup by Zhao Kuangyin|Mongol conquest|Commercial revolution
+yuan-dynasty|East Asia|Mongol emperor|Dadu (Beijing)|Grand Canal extension|Kublai Khan's conquest|Rebellions|Opened China to Eurasia
+ming-dynasty|East Asia|Emperor with eunuch officials|Forbidden City, stone Great Wall|Treasure ships|Zhu Yuanzhang expelled the Mongols|Peasant revolts, Manchu conquest|Porcelain and exploration
+qing-dynasty|East Asia|Manchu emperor|Summer Palace|—|Manchu conquest|Opium Wars, Taiping, 1911|Modern China's borders
+goguryeo-baekje-and-silla|East Asia|Monarchies; Silla's bone-rank system|Gyeongju tombs|Cheomseongdae observatory|Three rival kingdoms|Silla unified, then fragmented|Korean identity
+joseon-korea|East Asia|Confucian monarchy|Gyeongbokgung|Hangul, rain gauge, turtle ships|Yi Seong-gye's coup|Japanese annexation|Hangul alphabet
+heian-japan|East Asia|Emperor with Fujiwara regents|Byōdō-in|Kana writing|Capital moved to Heian-kyō|Rise of samurai|Tale of Genji
+edo-japan-tokugawa|East Asia|Shogun and daimyo|Himeji Castle|Woodblock prints|Sekigahara|Meiji Restoration|Kabuki, ukiyo-e
+funan|Southeast Asia|Indianised monarchy|Oc Eo port|Canals|Maritime trade|Chenla|Early Southeast Asian state
+srivijaya|Southeast Asia|Maritime monarchy|Muara Takus|Navigation|Strait control|Chola raids|Buddhist learning
+khmer-empire|Southeast Asia|God-king (devaraja)|Angkor Wat, Bayon|Barays (reservoirs)|Jayavarman II's independence|Ayutthaya and failing water systems|Angkor
+majapahit|Southeast Asia|Monarchy with ministers|Trowulan|Navy|Raden Wijaya|Sultanates|Indonesian unity ideal
+polynesian-voyagers|Oceania|Chiefdoms|Marae, moai|Double-hulled canoes, star navigation|Sailing from Taiwan and Samoa|—|Settled the Pacific
+minoan-civilisation|Europe|Palace-based society|Knossos|Plumbing, frescoes|Cretan trade|Thera eruption, Mycenaean takeover|Aegean art
+mycenaean-greece|Europe|Palace kings (wanax)|Lion Gate|Linear B|Mainland warrior states|Bronze Age collapse|Homeric legends
+classical-greece|Europe|City-states: democracy (Athens), oligarchy (Sparta)|Parthenon|Philosophy, geometry, theatre|Greek victories over Persia|Peloponnesian War, Macedon|Democracy and philosophy
+macedonian-empire|Europe|Monarchy|Aigai tombs|Phalanx tactics|Philip II and Alexander|Split among generals|Hellenistic culture
+roman-republic|Europe|Senate, consuls and assemblies|Temples, aqueducts|Roads, legions|Conquest of Italy|Civil wars|Republican ideals
+roman-empire|Europe|Emperor|Colosseum, Pantheon|Concrete, aqueducts, law|Augustus|Crises, invasions|Law, Latin, Christianity
+byzantine-empire|Europe|Emperor with bureaucracy|Hagia Sophia|Greek fire|Eastern Roman continuity|Ottoman conquest|Orthodox Christianity
+celts|Europe|Tribal chiefs and druids|Hill forts, oppida|Iron working, chain mail|Spread across Europe|Roman conquest|Celtic languages and art
+vikings|Europe|Jarls and assemblies (thing)|Longhouses|Longships, navigation|Raiding and trading|Christianisation, kingdoms|Iceland's parliament
+holy-roman-empire|Europe|Elected emperor|Cathedrals|Printing (Gutenberg)|Charlemagne|Napoleon|Federal traditions
+kievan-rus|Europe|Grand prince|Saint Sophia, Kyiv|—|Varangian rule|Mongol invasion|East Slavic culture
+spanish-empire|Europe|Monarchy with viceroys|Colonial cathedrals|Galleons|Columbus and conquistadors|Independence wars|Spanish language worldwide
+portuguese-empire|Europe|Monarchy|Forts|Caravels|Henry the Navigator|Decolonisation|First global sea empire
+british-empire|Europe|Parliament and Crown|Colonial cities|Steamships, railways|Trade companies and navy|Decolonisation|English and Commonwealth
+russian-empire|Europe|Tsar|St Petersburg|—|Peter the Great|1917 revolution|Russian expansion
+soviet-union|Europe|One-party state|Stalinist buildings|Space programme, nuclear power|1917 revolution|1991 dissolution|Cold War legacy
+norte-chico-caral|Americas|Unknown elites|Pyramids at Caral|Quipu (possible)|Coastal fishing and farming|Decline|Oldest American civilisation
+olmec|Americas|Chiefs|Colossal heads|Rubber, possible writing|Gulf farming|Environmental change|Mesoamerican culture
+maya-civilisation|Americas|Divine kings (k'uhul ajaw)|Pyramids of Tikal|Writing, zero, calendar|Village growth|Drought and warfare (~800–900 CE)|Maya peoples today
+teotihuacan|Americas|Collective rule (debated)|Pyramids of the Sun and Moon|Urban planning|Obsidian trade|Fire and revolt (~550)|Aztec reverence
+aztec-empire|Americas|Tlatoani and Triple Alliance|Templo Mayor|Chinampas|Mexica alliance|Spanish conquest, smallpox|Mexican identity
+inca-empire|Americas|Sapa Inca with mit'a labour|Machu Picchu, Sacsayhuamán|Roads, quipu, terraces|Pachacuti's conquests|Civil war, smallpox, Pizarro|Andean heritage
+ancestral-puebloans|Americas|Village councils|Cliff dwellings, kivas|Dry farming|Maize farming|Great drought|Pueblo peoples
+mississippian-culture|Americas|Chiefdoms|Monks Mound|Maize farming|Cahokia's rise|Decline|Mound-building heritage
+haudenosaunee-confederacy|Americas|Confederacy council|Longhouses|Three Sisters farming|Great Law of Peace|Colonial wars|Democratic ideals
+united-states|Americas|Federal republic|Capitol|Industrial and digital technology|Revolution|—|Superpower

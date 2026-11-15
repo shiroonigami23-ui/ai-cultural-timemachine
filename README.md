@@ -31,21 +31,27 @@
 
 ## 📜 Cultural Time Machine Encyclopedia (new)
 
-A full **history encyclopedia** now ships with the app in [`history/`](history/). It has **540+ catalog entries** and **23 in-depth articles** spanning every era from Pangaea and human origins to today.
+A full **history encyclopedia** now ships with the app in [`history/`](history/). It has **900+ catalog entries** and **48 in-depth articles** spanning every era from Pangaea and human origins to today.
 
 | Catalog | Entries | What's inside |
 |---|---|---|
-| ⏳ Eras & Ages | 40 | Deep time, Paleolithic, Ice Age, Neolithic, Bronze/Iron Age, Vedic, Classical, Medieval, Mughal, Colonial, Industrial, World Wars, Information Age. Each covers **how people lived, what they ate and the species of the time** |
-| 🏛 Civilisations & Empires | 86 | Sumer to the USSR: capitals, achievements, daily life, food |
-| 📅 Events | 101 | Ice ages, continental drift, Toba, droughts, plagues, Roman conquests, Plassey, the East India Company, 1857, both world wars, Partition |
+| 🌳 Branching timeline | 674 dated items | Civilisations and dynasties of 10 regions side by side, plus a full timeline for each region |
+| 🦴 Human species | 27 | From *Sahelanthropus* and Lucy to *Homo erectus*, Neanderthals, Denisovans and us: brain size, height, tools, firsts |
+| ⏳ Eras & Ages | 40 | Deep time to the Information Age: how people lived, what they ate, the species of the time |
+| 🏛 Civilisations & Empires | 86 | Government, daily life, food, construction, technology, how each rose and how it fell, and its legacy |
+| 👑 Dynasties & Rulers | 98 | Founders, capitals, notable rulers, how each gained and lost power |
+| 📅 Events | 247 | Human evolution, ice ages, eruptions, plagues, conquests, the East India Company, 1857, both world wars, Partition; each tagged with its region |
 | 👤 People | 87 | Rulers, freedom fighters, thinkers and scientists |
-| 🗿 Sites & Wonders | 48 | Göbekli Tepe, Dholavira, Pyramids, Angkor, Taj Mahal |
-| 🏹 Peoples & Tribes | 31 | Gond, Bhil, Santhal, Khasi, Sentinelese, San, Inuit, Māori, Neanderthals |
-| 🪔 Festivals | 36 | Diwali to Day of the Dead: origin, how it is celebrated, festive food |
-| 🕉 Religions, Philosophies & Scripts | 32 | From cuneiform and Brahmi to Hangul and Ol Chiki |
-| ⚙ Inventions | 43 | Stone tools to UPI and LLMs |
-| 🦣 Species of Past Ages | 23 | Mammoths, Smilodon, dodo, aurochs, *Palaeoloxodon namadicus* |
-| 📄 Research papers | 14 | Ancient DNA, Indus, climate and collapse |
+| 🗿 Sites & Wonders | 48 | Göbekli Tepe, Dholavira, the Pyramids, Angkor, the Taj Mahal |
+| 🗣 Languages | 52 | Language families, ancient and modern languages, scripts and descendants |
+| 🏹 Peoples & Tribes | 31 | Hunter-gatherers, Adivasi and Indigenous peoples, Neanderthals |
+| 🪔 Festivals | 36 | Origins, how they are celebrated, festive food |
+| 🕉 Religions, Philosophies & Scripts | 32 | Cuneiform to Ol Chiki |
+| ⚙ Inventions | 81 | Fire, cooking, clothing, iron, zero, steel, printing, AI |
+| 🦣 Species of Past Ages | 23 | Mammoths, *Smilodon*, the dodo, the aurochs |
+| 📄 Research papers | 14 | Ancient DNA, the Indus, climate and collapse |
+
+There are **48 long articles**, including: from the trees to two feet; fire and cooking; the human family tree; hunter-gatherer life; the evolution of language; how iron changed everything; how empires and monarchy rose and fell; region-by-region histories of Africa, the Middle East, Europe, East Asia, Southeast Asia and Oceania, the Americas and the steppe; and India from Bhimbetka to today. Entries link to related entries within the encyclopedia: people to their dynasties, events to the civilisations and people involved, sites to the people who built them, and languages to their descendants.
 
 Every entry page loads a **live photo**, the **full Wikipedia article** in collapsible sections and **OpenAlex research papers**. The site also has animated statistics, a live archaeology tracker (the Herculaneum scrolls, Keeladi), a timeline, a glossary and a full bibliography.
 

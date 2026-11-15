@@ -4,6 +4,12 @@ All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased] - 2026-11-15
+### Added (expansion)
+- Branching regional timeline: an SVG swimlane of civilisations and dynasties, plus 10 region timelines (`history/scripts/make_timelines.py`).
+- New catalogs: 27 human species, 98 dynasties (with how each rose and fell) and 52 languages; 146 more events tagged by region; 38 more inventions.
+- Each civilisation now covers its government, construction, technology, rise, fall and legacy.
+- 25 new articles on human evolution, fire, language, iron, empires and regional histories.
+- Links between related entries across all catalogs.
 ### Added
 - `history/`: Cultural Time Machine Encyclopedia with 40 eras, 86 civilisations, 101 events, 87 people, 48 sites, 31 peoples and tribes, 36 festivals, 32 religions and scripts, 43 inventions, 23 extinct species and 14 papers, plus 23 in-depth articles.
 - Animated statistics, a live archaeology tracker, an embers hero animation, scroll-reveal and count-up animations.

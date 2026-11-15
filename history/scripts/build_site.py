@@ -277,10 +277,10 @@ def related_html(c, it):
             def _key(o):
                 n = re.sub(r"\s*\(.*?\)", "", o[oc.get("name_key", "name")].lower())
                 return n.replace(" ocean", "").replace(" sea", "") if oc["id"] == "seas" else n
-            hits = [o for o in items if o is not it and re.search(r"(?<![\w-])" + re.escape(_key(o)) + r"(?![\w-])", txt)]
+            hits = [o for o in items if o is not it and re.search(r"(?<![\w-])" + re.escape(_key(o)) + r"(?:s|es)?(?![\w-])", txt)]
         elif t == "backname":
             nm = re.sub(r"\s*\(.*?\)", "", it[c.get("name_key", "name")]).lower()
-            hits = [o for o in items if re.search(r"(?<![\w-])" + re.escape(nm) + r"(?![\w-])", str(o.get(L["theirs"], "")).lower())]
+            hits = [o for o in items if re.search(r"(?<![\w-])" + re.escape(nm) + r"(?:s|es)?(?![\w-])", str(o.get(L["theirs"], "")).lower())]
         else:
             hits = []
         if not hits:

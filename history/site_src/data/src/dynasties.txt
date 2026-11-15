@@ -1,0 +1,105 @@
+@file dynasties.json
+@fields name|start|end|when|lane|capital|founder|notable|rise|fall|wiki
+# South Asia|🪷
+Haryanka dynasty|-544|-413|544–413 BCE|South Asia|Rajagriha, Pataliputra|Bimbisara|Ajatashatru|Bimbisara expanded Magadha by marriage alliances and conquest of Anga.|Overthrown by the Shishunagas amid patricide and unrest.|Haryanka_dynasty
+Nanda Empire|-345|-322|345–322 BCE|South Asia|Pataliputra|Mahapadma Nanda|Dhana Nanda|A low-born founder conquered the Kshatriya kingdoms, building a huge army and treasury.|Unpopular taxation; overthrown by Chandragupta and Chanakya.|Nanda_Empire
+Maurya dynasty|-322|-185|322–185 BCE|South Asia|Pataliputra|Chandragupta Maurya|Bindusara, Ashoka|Chandragupta defeated the Nandas and Seleucus I, unifying most of the subcontinent.|Weak successors; the last king Brihadratha was killed by his general Pushyamitra Shunga.|Maurya_Empire
+Shunga dynasty|-185|-73|185–73 BCE|South Asia|Pataliputra, Vidisha|Pushyamitra Shunga|Agnimitra|A military coup against the last Maurya.|Replaced by the Kanva dynasty.|Shunga_Empire
+Indo-Greek kingdoms|-200|10|200 BCE–10 CE|South Asia|Taxila, Sagala|Demetrius I|Menander I (Milinda)|Greek rulers from Bactria moved into Punjab.|Absorbed by Indo-Scythians and Kushans.|Indo-Greek_Kingdom
+Satavahana dynasty|-100|220|c. 100 BCE–220 CE|South Asia|Pratishthana, Amaravati|Simuka|Gautamiputra Satakarni|Rose in the Deccan after Mauryan decline, controlling trade with Rome.|Split into smaller kingdoms (Ikshvakus, Abhiras).|Satavahana_dynasty
+Western Kshatrapas|35|415|35–415 CE|South Asia|Ujjain|Bhumaka|Rudradaman I|Saka satraps ruling Gujarat and Malwa; Rudradaman's Junagadh inscription is early classical Sanskrit.|Conquered by Chandragupta II.|Western_Satraps
+Gupta dynasty|320|550|c. 320–550 CE|South Asia|Pataliputra|Sri Gupta / Chandragupta I|Samudragupta, Chandragupta II|Marriage alliance with the Licchavis and conquests by Samudragupta.|Huna invasions, feudatories breaking away.|Gupta_Empire
+Vakataka dynasty|250|500|c. 250–500 CE|South Asia|Vatsagulma|Vindhyashakti|Prabhavatigupta|Deccan power allied with the Guptas; patrons of Ajanta.|Declined in the 6th century.|Vakataka_dynasty
+Pushyabhuti (Vardhana) dynasty|500|647|c. 500–647|South Asia|Thanesar, Kannauj|Pushyabhuti|Harsha|Rose after the Gupta collapse.|Ended with Harsha's death without an heir.|Pushyabhuti_dynasty
+Gurjara-Pratihara dynasty|730|1036|c. 730–1036|South Asia|Kannauj|Nagabhata I|Mihira Bhoja|Resisted Arab expansion from Sindh.|Weakened by Ghaznavid raids.|Gurjara-Pratihara_dynasty
+Pala dynasty|750|1161|c. 750–1161|South Asia|Pataliputra, Gauda|Gopala (elected)|Dharmapala, Devapala|Gopala was elected by chiefs to end anarchy.|Overthrown by the Senas.|Pala_Empire
+Rashtrakuta dynasty|753|982|753–982|South Asia|Manyakheta|Dantidurga|Amoghavarsha I, Krishna III|Overthrew the Badami Chalukyas.|Defeated by the Western Chalukyas.|Rashtrakuta_dynasty
+Chola dynasty (Imperial)|848|1279|848–1279|South Asia|Thanjavur, Gangaikonda Cholapuram|Vijayalaya|Rajaraja I, Rajendra I|Vijayalaya captured Thanjavur from the Muttaraiyars.|Defeated by the Pandyas and Hoysalas.|Chola_dynasty
+Western Chalukyas (Kalyani)|973|1189|973–1189|South Asia|Kalyani|Tailapa II|Vikramaditya VI|Revived Chalukya power after the Rashtrakutas.|Fell to Hoysalas and Yadavas.|Western_Chalukya_Empire
+Hoysala Empire|1026|1343|1026–1343|South Asia|Belur, Halebidu|Nripa Kama II|Vishnuvardhana|Rose from hill chieftains of Karnataka.|Delhi Sultanate raids.|Hoysala_Empire
+Kakatiya dynasty|1163|1323|1163–1323|South Asia|Warangal|Prola II|Rudrama Devi|Feudatories who became independent.|Conquered by the Tughlaqs.|Kakatiya_dynasty
+Eastern Ganga dynasty|1078|1434|1078–1434|South Asia|Kalinganagar, Cuttack|Anantavarman Chodaganga|Narasimhadeva I|Unified Odisha.|Replaced by the Gajapatis.|Eastern_Ganga_dynasty
+Mamluk (Slave) dynasty|1206|1290|1206–1290|South Asia|Delhi|Qutb ud-Din Aibak|Iltutmish, Razia, Balban|Slave generals of Muhammad of Ghor took power.|Overthrown by the Khaljis.|Mamluk_dynasty_(Delhi)
+Khalji dynasty|1290|1320|1290–1320|South Asia|Delhi|Jalaluddin Khalji|Alauddin Khalji|Turkic-Afghan nobles seized the throne.|Murders and a palace coup.|Khalji_dynasty
+Tughlaq dynasty|1320|1414|1320–1414|South Asia|Delhi (Tughlaqabad)|Ghiyasuddin Tughlaq|Muhammad bin Tughlaq, Firuz Shah|Took power after the Khaljis.|Timur's sack of Delhi (1398).|Tughlaq_dynasty
+Lodi dynasty|1451|1526|1451–1526|South Asia|Delhi, Agra|Bahlul Lodi|Sikandar Lodi|Afghan chiefs restored the Sultanate.|Defeated by Babur at Panipat.|Lodi_dynasty
+Bahmani Sultanate|1347|1527|1347–1527|South Asia|Gulbarga, Bidar|Alauddin Bahman Shah|Mahmud Gawan (minister)|Revolt against Muhammad bin Tughlaq.|Split into five Deccan sultanates.|Bahmani_Sultanate
+Sangama, Saluva and Tuluva dynasties (Vijayanagara)|1336|1646|1336–1646|South Asia|Hampi|Harihara I and Bukka|Krishnadevaraya|Founded to resist the Sultanate in the south.|Defeat at Talikota (1565).|Vijayanagara_Empire
+Mughal dynasty|1526|1857|1526–1857|South Asia|Agra, Fatehpur Sikri, Lahore, Delhi|Babur|Akbar, Shah Jahan, Aurangzeb|Babur's cannons won at Panipat; Akbar built an empire of alliances.|Wars of succession, Maratha and Sikh rise, Nadir Shah's raid (1739), British takeover.|Mughal_Empire
+Suri dynasty|1540|1556|1540–1556|South Asia|Delhi|Sher Shah Suri|Sher Shah|Sher Shah ousted Humayun.|Humayun returned with Persian help.|Sur_Empire
+Rajput kingdoms of Mewar (Sisodia)|1326|1948|1326–1948|South Asia|Chittor, Udaipur|Hammir Singh|Rana Kumbha, Rana Sanga, Maharana Pratap|Recaptured Chittor from the Khaljis.|Merged into India in 1948.|Kingdom_of_Mewar
+Ahom dynasty|1228|1826|1228–1826|South Asia|Garhgaon, Rangpur|Sukaphaa|Lachit Borphukan (general)|Tai settlers from Myanmar.|Burmese invasions, then British annexation.|Ahom_kingdom
+Maratha Empire (Bhonsle and Peshwas)|1674|1818|1674–1818|South Asia|Raigad, Satara, Pune|Shivaji|Bajirao I, Nana Phadnavis|Shivaji's guerrilla state, expanded under the Peshwas.|Panipat (1761) and Anglo-Maratha Wars.|Maratha_Confederacy
+Sikh Empire (Sukerchakia)|1799|1849|1799–1849|South Asia|Lahore|Ranjit Singh|Ranjit Singh|Unified the Sikh misls.|Anglo-Sikh Wars.|Sikh_Empire
+Mysore (Wodeyar and Hyder Ali)|1399|1950|1399–1950|South Asia|Mysore, Srirangapatna|Yaduraya|Hyder Ali, Tipu Sultan|Wodeyar rulers; Hyder Ali seized power in 1761.|Tipu's defeat (1799); Wodeyars restored under British.|Kingdom_of_Mysore
+Nizams of Hyderabad (Asaf Jahi)|1724|1948|1724–1948|South Asia|Hyderabad|Asaf Jah I|Mir Osman Ali Khan|A Mughal governor declared autonomy.|Annexed by India (Operation Polo, 1948).|Hyderabad_State
+# Middle East & Central Asia|🕌
+Achaemenid dynasty|-550|-330|550–330 BCE|Middle East|Persepolis|Cyrus the Great|Darius I, Xerxes|Cyrus overthrew the Medes and conquered Babylon.|Defeated by Alexander.|Achaemenid_Empire
+Seleucid dynasty|-312|-63|312–63 BCE|Middle East|Antioch, Seleucia|Seleucus I|Antiochus III|Alexander's general took the eastern conquests.|Lost lands to Parthians and Rome.|Seleucid_Empire
+Parthian Empire|-247|224|247 BCE–224 CE|Middle East|Ctesiphon|Arsaces I|Mithridates I|Nomadic Parni took Iran from the Seleucids.|Overthrown by the Sasanians.|Parthian_Empire
+Sasanian Empire|224|651|224–651|Middle East|Ctesiphon|Ardashir I|Shapur I, Khosrow I|Ardashir overthrew the Parthians.|Exhausted by war with Byzantium, conquered by the Arabs.|Sasanian_Empire
+Rashidun Caliphate|632|661|632–661|Middle East|Medina|Abu Bakr|Umar, Uthman, Ali|Successors of the Prophet united Arabia and conquered Persia and Byzantine provinces.|Civil war (fitna).|Rashidun_Caliphate
+Umayyad Caliphate|661|750|661–750|Middle East|Damascus|Muawiya I|Abd al-Malik|Won the first civil war.|Abbasid revolution.|Umayyad_Caliphate
+Abbasid Caliphate|750|1258|750–1258|Middle East|Baghdad|As-Saffah|Harun al-Rashid, al-Ma'mun|Revolution from Khurasan.|Mongol sack of Baghdad.|Abbasid_Caliphate
+Fatimid Caliphate|909|1171|909–1171|Africa|Cairo|Abdullah al-Mahdi|Al-Mu'izz|Shia movement in North Africa; founded Cairo.|Saladin abolished it.|Fatimid_Caliphate
+Seljuk Empire|1037|1194|1037–1194|Middle East|Isfahan|Tughril Beg|Alp Arslan, Malik Shah|Turkic nomads took Baghdad (1055).|Fragmentation, Crusades.|Seljuk_Empire
+Ayyubid dynasty|1171|1260|1171–1260|Middle East|Cairo|Saladin|Saladin|Saladin took Egypt and recaptured Jerusalem (1187).|Mamluk coup.|Ayyubid_dynasty
+Mamluk Sultanate (Egypt)|1250|1517|1250–1517|Africa|Cairo|Aybak|Baibars|Slave soldiers seized power; defeated the Mongols at Ain Jalut (1260).|Ottoman conquest.|Mamluk_Sultanate
+Ilkhanate|1256|1335|1256–1335|Middle East|Tabriz|Hulagu Khan|Ghazan|Mongol conquest of Persia.|Collapsed without a successor.|Ilkhanate
+Timurid Empire|1370|1507|1370–1507|Central Asia|Samarkand, Herat|Timur|Shah Rukh, Ulugh Beg|Timur's conquests from Delhi to Ankara.|Uzbeks and Safavids.|Timurid_Empire
+Ottoman dynasty|1299|1922|1299–1922|Middle East|Bursa, Edirne, Istanbul|Osman I|Mehmed II, Suleiman I|A frontier beylik grew through ghazi warfare.|WWI defeat; Atatürk's republic.|Ottoman_Empire
+Safavid dynasty|1501|1736|1501–1736|Middle East|Tabriz, Isfahan|Ismail I|Abbas I|A Sufi order turned dynasty.|Afghan invasion (1722).|Safavid_Iran
+Qajar dynasty|1789|1925|1789–1925|Middle East|Tehran|Agha Mohammad Khan|Naser al-Din Shah|Turkmen tribe reunited Iran.|Coup by Reza Khan.|Qajar_Iran
+Kushan dynasty|30|375|c. 30–375 CE|Central Asia|Purushapura, Mathura|Kujula Kadphises|Kanishka|Yuezhi nomads unified Bactria and North India.|Sasanian and Gupta pressure.|Kushan_Empire
+Hephthalites (White Huns)|440|560|c. 440–560|Central Asia|Balkh|—|Toramana, Mihirakula|Nomads who invaded Persia and India.|Destroyed by Sasanians and Turks.|Hephthalite_Empire
+Göktürk Khaganate|552|744|552–744|Central Asia|Ötüken|Bumin Qaghan|Istämi|First Turkic empire.|Uyghur takeover.|Turkic_Khaganate
+# East & Southeast Asia|🏯
+Xia dynasty (traditional)|-2070|-1600|c. 2070–1600 BCE|East Asia|Erlitou (possibly)|Yu the Great|—|Legendary flood-tamer founded it.|Overthrown by the Shang.|Xia_dynasty
+Shang dynasty|-1600|-1046|c. 1600–1046 BCE|East Asia|Yin (Anyang)|Tang|Wu Ding, Fu Hao|Overthrew the Xia (traditional).|Defeated by the Zhou at Muye.|Shang_dynasty
+Zhou dynasty|-1046|-256|1046–256 BCE|East Asia|Haojing, Luoyang|King Wu|Duke of Zhou|Claimed the Mandate of Heaven.|Fragmented into the Warring States.|Zhou_dynasty
+Qin dynasty|-221|-206|221–206 BCE|East Asia|Xianyang|Qin Shi Huang|Li Si|Conquered the six Warring States.|Revolts after harsh rule.|Qin_dynasty
+Han dynasty|-206|220|206 BCE–220 CE|East Asia|Chang'an, Luoyang|Liu Bang|Emperor Wu|A peasant rebel leader won the civil war.|Yellow Turban rebellion, warlords.|Han_dynasty
+Sui dynasty|581|618|581–618|East Asia|Daxing (Chang'an)|Emperor Wen|Emperor Yang|Reunified China after 300 years of division.|Failed Korean wars, revolts.|Sui_dynasty
+Tang dynasty|618|907|618–907|East Asia|Chang'an|Li Yuan|Taizong, Wu Zetian, Xuanzong|Seized power in the Sui collapse.|An Lushan rebellion, then warlords.|Tang_dynasty
+Song dynasty|960|1279|960–1279|East Asia|Kaifeng, Hangzhou|Zhao Kuangyin|Huizong, Zhu Xi|A military coup.|Mongol conquest.|Song_dynasty
+Yuan dynasty|1271|1368|1271–1368|East Asia|Dadu|Kublai Khan|Kublai Khan|Mongol conquest of China.|Red Turban rebellion.|Yuan_dynasty
+Ming dynasty|1368|1644|1368–1644|East Asia|Nanjing, Beijing|Zhu Yuanzhang|Yongle, Zheng He|A peasant rebel expelled the Mongols.|Peasant revolt and Manchu conquest.|Ming_dynasty
+Qing dynasty|1644|1912|1644–1912|East Asia|Beijing|Nurhaci / Shunzhi|Kangxi, Qianlong, Cixi|Manchu conquest of Ming China.|Opium Wars, Taiping, 1911 revolution.|Qing_dynasty
+Yamato and imperial Japan|250|2026|c. 250 CE–today|East Asia|Nara, Kyoto, Tokyo|Emperor Jimmu (legendary)|Prince Shotoku, Emperor Meiji|Yamato clan unified Japan.|Still reigning: the world's oldest continuous monarchy.|Imperial_House_of_Japan
+Kamakura shogunate|1185|1333|1185–1333|East Asia|Kamakura|Minamoto no Yoritomo|Hojo regents|Won the Genpei War.|Overthrown by Emperor Go-Daigo's allies.|Kamakura_shogunate
+Tokugawa shogunate|1603|1868|1603–1868|East Asia|Edo|Tokugawa Ieyasu|Ieyasu|Victory at Sekigahara (1600).|Meiji Restoration.|Tokugawa_shogunate
+Goryeo|918|1392|918–1392|East Asia|Kaesong|Wang Geon|—|Unified the Later Three Kingdoms.|General Yi Seong-gye's coup.|Goryeo
+Joseon dynasty|1392|1897|1392–1897|East Asia|Hanseong|Yi Seong-gye|Sejong the Great|Military coup.|Japanese annexation (1910).|Joseon
+Khmer Empire (Angkor)|802|1431|802–1431|Southeast Asia|Angkor|Jayavarman II|Suryavarman II, Jayavarman VII|Declared a god-king independent of Java.|Ayutthaya's sack of Angkor; water-system failure.|Khmer_Empire
+Srivijaya|650|1377|c. 650–1377|Southeast Asia|Palembang|Dapunta Hyang|—|Controlled the Malacca Strait trade.|Chola raids, Majapahit conquest.|Srivijaya
+Pagan Kingdom|849|1297|849–1297|Southeast Asia|Bagan|Anawrahta (expansion)|Kyansittha|Unified Burma.|Mongol invasions.|Pagan_Kingdom
+Ayutthaya Kingdom|1351|1767|1351–1767|Southeast Asia|Ayutthaya|Uthong|Naresuan|Siamese kingdom grew rich on trade.|Burmese sack (1767).|Ayutthaya_Kingdom
+Đại Việt (Lý and Trần)|1009|1400|1009–1400|Southeast Asia|Thăng Long (Hanoi)|Lý Thái Tổ|Trần Hưng Đạo|Independence from China.|Ming invasion.|Lý_dynasty
+Majapahit|1293|1527|1293–1527|Southeast Asia|Trowulan|Raden Wijaya|Gajah Mada (minister)|Used Mongol invaders to defeat rivals.|Rise of Islamic sultanates.|Majapahit
+Malacca Sultanate|1400|1511|c. 1400–1511|Southeast Asia|Malacca|Parameswara|—|Port on the strait.|Portuguese conquest.|Malacca_Sultanate
+# Europe|⚔
+Julio-Claudian dynasty|-27|68|27 BCE–68 CE|Europe|Rome|Augustus|Tiberius, Claudius, Nero|Augustus ended the civil wars.|Nero's suicide.|Julio-Claudian_dynasty
+Constantinian dynasty|306|363|306–363|Europe|Rome, Constantinople|Constantine I|Constantine|Constantine won the civil wars and adopted Christianity.|Death of Julian.|Constantinian_dynasty
+Carolingian dynasty|751|987|751–987|Europe|Aachen|Pepin the Short|Charlemagne|Mayors of the palace replaced the Merovingians.|Division of the empire.|Carolingian_dynasty
+House of Wessex and Anglo-Saxon England|886|1066|886–1066|Europe|Winchester|Alfred the Great|Athelstan|Resisted the Vikings.|Norman conquest.|House_of_Wessex
+Normans and Plantagenets|1066|1485|1066–1485|Europe|London|William the Conqueror|Henry II, Edward I|Norman invasion.|Wars of the Roses.|House_of_Plantagenet
+Tudor dynasty|1485|1603|1485–1603|Europe|London|Henry VII|Henry VIII, Elizabeth I|Won Bosworth.|Elizabeth died childless.|House_of_Tudor
+Habsburg dynasty|1273|1918|1273–1918|Europe|Vienna, Madrid|Rudolf I|Charles V, Maria Theresa|Clever marriages ('Let others wage war; you, happy Austria, marry').|WWI defeat.|House_of_Habsburg
+Bourbon dynasty (France)|1589|1792|1589–1792|Europe|Paris, Versailles|Henry IV|Louis XIV|Henry IV ended the religious wars.|French Revolution.|House_of_Bourbon
+Romanov dynasty|1613|1917|1613–1917|Europe|Moscow, St Petersburg|Michael I|Peter the Great, Catherine the Great|Elected after the Time of Troubles.|Revolution; family executed in 1918.|House_of_Romanov
+Hohenzollern (Prussia and Germany)|1701|1918|1701–1918|Europe|Berlin|Frederick I|Frederick the Great, Wilhelm I|Prussian militarism unified Germany (1871).|WWI defeat.|House_of_Hohenzollern
+Macedonian dynasty (Byzantine)|867|1056|867–1056|Europe|Constantinople|Basil I|Basil II|Basil I murdered his patron.|No heirs.|Macedonian_dynasty
+Palaiologos dynasty|1259|1453|1259–1453|Europe|Constantinople|Michael VIII|Constantine XI|Recaptured Constantinople from the Latins.|Ottoman conquest.|Palaiologos_dynasty
+Rurikid dynasty|862|1598|862–1598|Europe|Novgorod, Kyiv, Moscow|Rurik|Vladimir the Great, Ivan IV|Varangian chieftains invited to rule.|Death of Feodor I.|Rurik_dynasty
+Piast and Jagiellonian Poland|960|1572|960–1572|Europe|Kraków|Mieszko I|Casimir the Great, Władysław II Jagiełło|Christianisation and union with Lithuania.|Elective monarchy.|Jagiellonian_dynasty
+# Africa & the Americas|🌍
+Old Kingdom of Egypt|-2686|-2181|c. 2686–2181 BCE|Africa|Memphis|Djoser|Khufu, Khafre|Centralised pharaohs built pyramids.|Drought, provincial governors.|Old_Kingdom_of_Egypt
+New Kingdom of Egypt|-1550|-1070|c. 1550–1070 BCE|Africa|Thebes|Ahmose I|Hatshepsut, Akhenaten, Ramesses II|Expelled the Hyksos.|Bronze Age collapse.|New_Kingdom_of_Egypt
+Ptolemaic dynasty|-305|-30|305–30 BCE|Africa|Alexandria|Ptolemy I|Cleopatra VII|Alexander's general took Egypt.|Roman annexation.|Ptolemaic_Kingdom
+Keita dynasty (Mali)|1235|1670|1235–1670|Africa|Niani|Sundiata Keita|Mansa Musa|Sundiata defeated Sosso at Kirina.|Songhai rise.|Keita_dynasty
+Solomonic dynasty (Ethiopia)|1270|1974|1270–1974|Africa|Gondar, Addis Ababa|Yekuno Amlak|Menelik II, Haile Selassie|Claimed descent from Solomon and Sheba.|1974 revolution.|Solomonic_dynasty
+Zulu Kingdom|1816|1897|1816–1897|Africa|Ulundi|Shaka|Cetshwayo|Shaka's military reforms.|Anglo-Zulu War.|Zulu_Kingdom
+Ashanti Empire|1701|1901|1701–1901|Africa|Kumasi|Osei Tutu|Yaa Asantewaa (queen mother)|Golden Stool unified clans.|British annexation.|Ashanti_Empire
+Maya dynasties of Tikal|-100|900|c. 100 BCE–900 CE|Americas|Tikal|Yax Ehb Xook|Jasaw Chan K'awiil I|Rival to Calakmul.|Classic Maya collapse.|Tikal
+Aztec rulers (Tlatoani)|1376|1521|1376–1521|Americas|Tenochtitlan|Acamapichtli|Itzcoatl, Moctezuma II|Triple Alliance with Texcoco and Tlacopan.|Spanish conquest.|List_of_rulers_of_Tenochtitlan
+Inca Sapa Inca line|1438|1533|1438–1533|Americas|Cusco|Pachacuti|Topa Inca, Huayna Capac|Pachacuti defeated the Chanka.|Civil war, smallpox, Pizarro.|Sapa_Inca

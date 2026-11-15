@@ -13,7 +13,14 @@
 "wiki": "Sumer",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "sumer"
+"slug": "sumer",
+"lane": "Middle East",
+"government": "City-states ruled by priest-kings (ensi, lugal) and temple councils",
+"architecture": "Mud-brick ziggurats, walled cities, reed houses",
+"technology": "Cuneiform writing, the wheel, the plough, irrigation canals, base-60 counting (our 60-minute hour), bronze",
+"rise": "Rose as farming villages on the Tigris–Euphrates plain grew around temples and irrigation",
+"fall": "Conquered by Akkad, revived under Ur III, then faded as salinisation ruined fields and Amorites took over",
+"legacy": "Writing, cities, law codes and literature (Gilgamesh)"
 },
 {
 "name": "Akkadian Empire",
@@ -29,7 +36,14 @@
 "wiki": "Akkadian_Empire",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "akkadian-empire"
+"slug": "akkadian-empire",
+"lane": "Middle East",
+"government": "Centralised empire under a king with governors",
+"architecture": "Palaces, victory steles (Naram-Sin)",
+"technology": "Standing army, standardised weights",
+"rise": "Sargon conquered Sumerian cities",
+"fall": "Drought (4.2 ka event), Gutian invasions, revolts",
+"legacy": "The model of empire for later Mesopotamian rulers"
 },
 {
 "name": "Babylonia",
@@ -45,7 +59,14 @@
 "wiki": "Babylonia",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "babylonia"
+"slug": "babylonia",
+"lane": "Middle East",
+"government": "Kingdom with written law and bureaucracy",
+"architecture": "Ishtar Gate, ziggurat Etemenanki (Tower of Babel)",
+"technology": "Astronomy, algebra, the 360° circle",
+"rise": "Hammurabi united Mesopotamia (~1760 BCE)",
+"fall": "Hittite sack (1595 BCE); later Neo-Babylonian empire fell to Cyrus (539 BCE)",
+"legacy": "Law, astronomy and mathematics inherited by Greeks and Indians"
 },
 {
 "name": "Assyria",
@@ -61,7 +82,14 @@
 "wiki": "Assyria",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "assyria"
+"slug": "assyria",
+"lane": "Middle East",
+"government": "Militarised monarchy with deportation policy",
+"architecture": "Palaces of Nineveh with relief sculptures",
+"technology": "Iron weapons, siege engines, a postal road system",
+"rise": "Expanded from Assur through repeated campaigns",
+"fall": "Civil war; Babylonians and Medes destroyed Nineveh (612 BCE)",
+"legacy": "First great iron-age empire; Ashurbanipal's library"
 },
 {
 "name": "Ancient Egypt",
@@ -77,7 +105,14 @@
 "wiki": "Ancient_Egypt",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "ancient-egypt"
+"slug": "ancient-egypt",
+"lane": "Africa",
+"government": "Divine pharaoh, priests, scribes and nomarchs",
+"architecture": "Pyramids, temples (Karnak), rock tombs",
+"technology": "Hieroglyphs, papyrus, the 365-day calendar, surgery, glass",
+"rise": "Unification of Upper and Lower Egypt around 3100 BCE",
+"fall": "Foreign conquests: Persians, Greeks, finally Rome (30 BCE)",
+"legacy": "Monumental architecture, medicine, the calendar"
 },
 {
 "name": "Hittite Empire",
@@ -93,7 +128,14 @@
 "wiki": "Hittites",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "hittite-empire"
+"slug": "hittite-empire",
+"lane": "Middle East",
+"government": "King with a council (panku) and vassal treaties",
+"architecture": "Fortified capital Hattusa",
+"technology": "Early iron working, chariot warfare",
+"rise": "Unified Anatolian city-states",
+"fall": "Bronze Age collapse (~1180 BCE)",
+"legacy": "The world's first known peace treaty"
 },
 {
 "name": "Phoenicia",
@@ -109,7 +151,14 @@
 "wiki": "Phoenicia",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "phoenicia"
+"slug": "phoenicia",
+"lane": "Middle East",
+"government": "Merchant city-state monarchies",
+"architecture": "Harbour cities, Carthage",
+"technology": "The alphabet, purple dye, glass, open-sea navigation",
+"rise": "Trading cities on the Levant coast after 1200 BCE",
+"fall": "Absorbed by Assyria, Persia and Alexander; Carthage fell to Rome",
+"legacy": "The alphabet behind Greek, Latin and Arabic scripts"
 },
 {
 "name": "Ancient Israel and Judah",
@@ -125,7 +174,14 @@
 "wiki": "History_of_ancient_Israel_and_Judah",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "ancient-israel-and-judah"
+"slug": "ancient-israel-and-judah",
+"lane": "Middle East",
+"government": "Monarchy, later priestly rule",
+"architecture": "Solomon's Temple (traditional)",
+"technology": "Hebrew alphabet writing",
+"rise": "United monarchy under Saul, David and Solomon (traditional)",
+"fall": "Assyria destroyed Israel (722 BCE); Babylon destroyed Judah (587 BCE)",
+"legacy": "Monotheism and scriptures of three religions"
 },
 {
 "name": "Kingdom of Kush",
@@ -141,7 +197,14 @@
 "wiki": "Kingdom_of_Kush",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "kingdom-of-kush"
+"slug": "kingdom-of-kush",
+"lane": "Africa",
+"government": "Kings and powerful queens (kandakes)",
+"architecture": "Nubian pyramids at Meroë",
+"technology": "Iron smelting at scale",
+"rise": "Broke free of Egypt and later ruled it (25th dynasty)",
+"fall": "Aksum's conquest (~350 CE)",
+"legacy": "Africa's iron-working centre"
 },
 {
 "name": "Carthage",
@@ -157,7 +220,14 @@
 "wiki": "Ancient_Carthage",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "carthage"
+"slug": "carthage",
+"lane": "Africa",
+"government": "Merchant republic with elected suffetes",
+"architecture": "Cothon military harbour",
+"technology": "Naval engineering, agriculture manuals (Mago)",
+"rise": "Phoenician colony grew into a sea empire",
+"fall": "Destroyed by Rome in 146 BCE",
+"legacy": "Rival that shaped Rome"
 },
 {
 "name": "Achaemenid Persian Empire",
@@ -173,7 +243,14 @@
 "wiki": "Achaemenid_Empire",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "achaemenid-persian-empire"
+"slug": "achaemenid-persian-empire",
+"lane": "Middle East",
+"government": "King of kings with satraps",
+"architecture": "Persepolis, Pasargadae",
+"technology": "Royal Road, qanats, postal relays, coinage (daric)",
+"rise": "Cyrus conquered Media, Lydia and Babylon",
+"fall": "Alexander's conquest (330 BCE)",
+"legacy": "Model of tolerant multi-ethnic rule"
 },
 {
 "name": "Aksum",
@@ -189,7 +266,14 @@
 "wiki": "Kingdom_of_Aksum",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "aksum"
+"slug": "aksum",
+"lane": "Africa",
+"government": "King with tributary states",
+"architecture": "Giant stelae, palaces",
+"technology": "Own coinage, Ge'ez script",
+"rise": "Controlled Red Sea trade",
+"fall": "Islamic expansion cut trade",
+"legacy": "Ethiopian Christianity and Ge'ez"
 },
 {
 "name": "Ghana Empire",
@@ -205,7 +289,14 @@
 "wiki": "Ghana_Empire",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "ghana-empire"
+"slug": "ghana-empire",
+"lane": "Africa",
+"government": "Divine king (ghana) with Soninke nobles",
+"architecture": "Twin-town capital Koumbi Saleh",
+"technology": "Gold and salt trade organisation",
+"rise": "Controlled trans-Saharan gold",
+"fall": "Almoravid pressure and drought",
+"legacy": "West Africa's first great empire"
 },
 {
 "name": "Mali Empire",
@@ -221,7 +312,14 @@
 "wiki": "Mali_Empire",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "mali-empire"
+"slug": "mali-empire",
+"lane": "Africa",
+"government": "Mansa with provinces and griots",
+"architecture": "Djinguereber Mosque (Timbuktu)",
+"technology": "Manuscript libraries, gold economy",
+"rise": "Sundiata defeated Sosso (1235)",
+"fall": "Succession disputes, Songhai rise",
+"legacy": "Timbuktu's learning"
 },
 {
 "name": "Songhai Empire",
@@ -237,7 +335,14 @@
 "wiki": "Songhai_Empire",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "songhai-empire"
+"slug": "songhai-empire",
+"lane": "Africa",
+"government": "Askia emperors with provinces",
+"architecture": "Tomb of Askia (Gao)",
+"technology": "Large river navy",
+"rise": "Sonni Ali captured Timbuktu",
+"fall": "Moroccan musketeers at Tondibi (1591)",
+"legacy": "Largest West African empire"
 },
 {
 "name": "Great Zimbabwe",
@@ -253,7 +358,14 @@
 "wiki": "Great_Zimbabwe",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "great-zimbabwe"
+"slug": "great-zimbabwe",
+"lane": "Africa",
+"government": "Kings ruling from a hilltop complex",
+"architecture": "Dry-stone walls without mortar",
+"technology": "Gold trade, cattle wealth",
+"rise": "Controlled gold exports to the coast",
+"fall": "Trade shifted; resources exhausted",
+"legacy": "Gave Zimbabwe its name"
 },
 {
 "name": "Swahili city-states",
@@ -269,7 +381,14 @@
 "wiki": "Swahili_culture",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "swahili-city-states"
+"slug": "swahili-city-states",
+"lane": "Africa",
+"government": "Independent sultan-ruled towns",
+"architecture": "Coral-stone mosques (Kilwa)",
+"technology": "Monsoon sailing dhows",
+"rise": "Trade with Arabia, India, China",
+"fall": "Portuguese attacks after 1500",
+"legacy": "Swahili language and culture"
 },
 {
 "name": "Kingdom of Benin",
@@ -285,7 +404,14 @@
 "wiki": "Kingdom_of_Benin",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "kingdom-of-benin"
+"slug": "kingdom-of-benin",
+"lane": "Africa",
+"government": "Oba (king) with chiefs and guilds",
+"architecture": "Huge earthen walls and moats",
+"technology": "Bronze casting",
+"rise": "Grew as a forest kingdom",
+"fall": "British punitive expedition (1897)",
+"legacy": "Benin Bronzes"
 },
 {
 "name": "Ottoman Empire",
@@ -301,7 +427,14 @@
 "wiki": "Ottoman_Empire",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "ottoman-empire"
+"slug": "ottoman-empire",
+"lane": "Middle East",
+"government": "Sultan, viziers, janissaries; millet system for faiths",
+"architecture": "Süleymaniye Mosque (Sinan)",
+"technology": "Gunpowder artillery, devshirme administration",
+"rise": "Osman's frontier state expanded into Anatolia and the Balkans",
+"fall": "Military decline, nationalism, WWI defeat",
+"legacy": "Six centuries of multi-ethnic rule"
 },
 {
 "name": "Safavid Iran",
@@ -317,7 +450,14 @@
 "wiki": "Safavid_Iran",
 "group": "Ancient Near East & Africa",
 "emoji": "🏺",
-"slug": "safavid-iran"
+"slug": "safavid-iran",
+"lane": "Middle East",
+"government": "Shah with Qizilbash and later slave soldiers",
+"architecture": "Isfahan's Naqsh-e Jahan square",
+"technology": "Carpet and silk industries",
+"rise": "Ismail I united Iran",
+"fall": "Afghan invasion (1722)",
+"legacy": "Shia Iran"
 },
 {
 "name": "Indus Valley Civilisation",
@@ -333,7 +473,14 @@
 "wiki": "Indus_Valley_Civilisation",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "indus-valley-civilisation"
+"slug": "indus-valley-civilisation",
+"lane": "South Asia",
+"government": "Unknown; possibly councils or merchant elites (no clear palaces)",
+"architecture": "Grid cities, baked-brick houses, Great Bath, reservoirs",
+"technology": "Standard weights, drainage, bead drilling, cotton textiles, possible dockyard",
+"rise": "Grew from Mehrgarh-era farming villages over 4,000 years",
+"fall": "Monsoon weakening, river shifts, trade decline (from ~1900 BCE)",
+"legacy": "Urban planning; possible continuity in Indian culture"
 },
 {
 "name": "Vedic India",
@@ -349,7 +496,14 @@
 "wiki": "Vedic_period",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "vedic-india"
+"slug": "vedic-india",
+"lane": "South Asia",
+"government": "Tribal chiefs (rajan) with assemblies (sabha, samiti)",
+"architecture": "Wooden and thatch villages",
+"technology": "Iron ploughs (later), horse chariots, Vedic oral recitation",
+"rise": "Pastoral Indo-Aryan clans settled the Punjab and Ganga plains",
+"fall": "Transformed into territorial kingdoms (mahajanapadas)",
+"legacy": "Vedas, Sanskrit, ritual traditions"
 },
 {
 "name": "Magadha",
@@ -365,7 +519,14 @@
 "wiki": "Magadha",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "magadha"
+"slug": "magadha",
+"lane": "South Asia",
+"government": "Monarchy",
+"architecture": "Rajgir's cyclopean walls",
+"technology": "War elephants, catapults (mahashilakantaka)",
+"rise": "Rich iron mines and fertile soil",
+"fall": "Became the Mauryan empire",
+"legacy": "Seat of Buddhism and Jainism"
 },
 {
 "name": "Maurya Empire",
@@ -381,7 +542,14 @@
 "wiki": "Maurya_Empire",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "maurya-empire"
+"slug": "maurya-empire",
+"lane": "South Asia",
+"government": "Centralised monarchy with ministers, spies and provinces (Arthashastra)",
+"architecture": "Pataliputra palace, Sanchi stupa, polished pillars",
+"technology": "Roads, irrigation, a standing army",
+"rise": "Chandragupta defeated the Nandas",
+"fall": "Weak successors after Ashoka; Shunga coup",
+"legacy": "Ashoka's edicts and the lion capital"
 },
 {
 "name": "Satavahana dynasty",
@@ -397,7 +565,14 @@
 "wiki": "Satavahana_dynasty",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "satavahana-dynasty"
+"slug": "satavahana-dynasty",
+"lane": "South Asia",
+"government": "Monarchy with powerful queens",
+"architecture": "Karla caves, Amaravati stupa",
+"technology": "Coinage with ship motifs",
+"rise": "Rose in the Deccan",
+"fall": "Fragmentation",
+"legacy": "Deccan trade with Rome"
 },
 {
 "name": "Sangam-era Tamilakam",
@@ -413,7 +588,14 @@
 "wiki": "Sangam_period",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "sangam-era-tamilakam"
+"slug": "sangam-era-tamilakam",
+"lane": "South Asia",
+"government": "Three crowned kings (Chera, Chola, Pandya) and chieftains",
+"architecture": "Brick towns like Keeladi",
+"technology": "Iron working, Tamil-Brahmi writing, overseas trade",
+"rise": "Port trade with Rome and Southeast Asia",
+"fall": "Kalabhra interregnum",
+"legacy": "Sangam poetry and Tamil classical culture"
 },
 {
 "name": "Kushan Empire",
@@ -429,7 +611,14 @@
 "wiki": "Kushan_Empire",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "kushan-empire"
+"slug": "kushan-empire",
+"lane": "Central Asia",
+"government": "Emperor ('devaputra')",
+"architecture": "Gandhara Buddhist art",
+"technology": "Gold coinage, Silk Road control",
+"rise": "Yuezhi nomads unified Bactria",
+"fall": "Sasanian and Gupta pressure",
+"legacy": "Mahayana Buddhism's spread"
 },
 {
 "name": "Gupta Empire",
@@ -445,7 +634,14 @@
 "wiki": "Gupta_Empire",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "gupta-empire"
+"slug": "gupta-empire",
+"lane": "South Asia",
+"government": "Monarchy with feudatories",
+"architecture": "Early stone temples (Deogarh), Udayagiri caves",
+"technology": "Decimal numerals, zero, Aryabhata's astronomy, iron pillar",
+"rise": "Marriage alliance and conquests",
+"fall": "Huna invasions, breakaway governors",
+"legacy": "India's classical golden age"
 },
 {
 "name": "Pallava dynasty",
@@ -461,7 +657,14 @@
 "wiki": "Pallava_dynasty",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "pallava-dynasty"
+"slug": "pallava-dynasty",
+"lane": "South Asia",
+"government": "Monarchy",
+"architecture": "Shore Temple, rathas of Mamallapuram",
+"technology": "Dravidian temple architecture",
+"rise": "Rose in Kanchipuram",
+"fall": "Defeated by Cholas",
+"legacy": "Spread of Indian scripts to Southeast Asia"
 },
 {
 "name": "Chalukya dynasty",
@@ -477,7 +680,14 @@
 "wiki": "Chalukya_dynasty",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "chalukya-dynasty"
+"slug": "chalukya-dynasty",
+"lane": "South Asia",
+"government": "Monarchy",
+"architecture": "Badami caves, Pattadakal",
+"technology": "Vesara temple style",
+"rise": "Rose in Karnataka",
+"fall": "Rashtrakutas",
+"legacy": "Temple architecture"
 },
 {
 "name": "Rashtrakuta dynasty",
@@ -493,7 +703,14 @@
 "wiki": "Rashtrakuta_dynasty",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "rashtrakuta-dynasty"
+"slug": "rashtrakuta-dynasty",
+"lane": "South Asia",
+"government": "Monarchy",
+"architecture": "Kailasa temple at Ellora",
+"technology": "Rock-cut engineering",
+"rise": "Overthrew Chalukyas",
+"fall": "Western Chalukyas",
+"legacy": "Ellora"
 },
 {
 "name": "Chola Empire",
@@ -509,7 +726,14 @@
 "wiki": "Chola_dynasty",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "chola-empire"
+"slug": "chola-empire",
+"lane": "South Asia",
+"government": "Monarchy with elected village assemblies",
+"architecture": "Brihadeeswara, Gangaikonda Cholapuram",
+"technology": "Bronze casting, navy, irrigation (Kallanai)",
+"rise": "Vijayalaya took Thanjavur",
+"fall": "Pandya and Hoysala rise",
+"legacy": "Bronzes, temples, maritime influence"
 },
 {
 "name": "Pala Empire",
@@ -525,7 +749,14 @@
 "wiki": "Pala_Empire",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "pala-empire"
+"slug": "pala-empire",
+"lane": "South Asia",
+"government": "Elected founder; Buddhist monarchy",
+"architecture": "Somapura Mahavihara",
+"technology": "Pala art",
+"rise": "Gopala was elected",
+"fall": "Senas",
+"legacy": "Last great Buddhist empire in India"
 },
 {
 "name": "Delhi Sultanate",
@@ -541,7 +772,14 @@
 "wiki": "Delhi_Sultanate",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "delhi-sultanate"
+"slug": "delhi-sultanate",
+"lane": "South Asia",
+"government": "Sultan with iqta land grants",
+"architecture": "Qutub Minar, Alai Darwaza",
+"technology": "Persian wheel, paper, true arch and dome",
+"rise": "Muhammad of Ghor's conquests",
+"fall": "Timur's sack, provincial breakaway",
+"legacy": "Indo-Islamic architecture and Hindustani"
 },
 {
 "name": "Vijayanagara Empire",
@@ -557,7 +795,14 @@
 "wiki": "Vijayanagara_Empire",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "vijayanagara-empire"
+"slug": "vijayanagara-empire",
+"lane": "South Asia",
+"government": "Monarchy with nayaka governors",
+"architecture": "Hampi's temples and bazaars",
+"technology": "Water tanks and aqueducts",
+"rise": "Founded by Harihara and Bukka",
+"fall": "Battle of Talikota (1565)",
+"legacy": "South Indian art and Carnatic music"
 },
 {
 "name": "Ahom kingdom",
@@ -573,7 +818,14 @@
 "wiki": "Ahom_kingdom",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "ahom-kingdom"
+"slug": "ahom-kingdom",
+"lane": "South Asia",
+"government": "King with paik labour system",
+"architecture": "Rang Ghar, Talatal Ghar",
+"technology": "Buranji chronicles, gunpowder",
+"rise": "Tai settlers under Sukaphaa",
+"fall": "Burmese invasions, British annexation",
+"legacy": "Assamese identity"
 },
 {
 "name": "Mughal Empire",
@@ -589,7 +841,14 @@
 "wiki": "Mughal_Empire",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "mughal-empire"
+"slug": "mughal-empire",
+"lane": "South Asia",
+"government": "Emperor with mansabdari nobility",
+"architecture": "Taj Mahal, Red Fort, Fatehpur Sikri",
+"technology": "Gunpowder warfare, revenue survey (zabt), miniature painting",
+"rise": "Babur's victory at Panipat",
+"fall": "Succession wars, Marathas, British",
+"legacy": "Indo-Persian culture, cuisine and architecture"
 },
 {
 "name": "Maratha Confederacy",
@@ -605,7 +864,14 @@
 "wiki": "Maratha_Confederacy",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "maratha-confederacy"
+"slug": "maratha-confederacy",
+"lane": "South Asia",
+"government": "Chhatrapati and Peshwa with confederate chiefs",
+"architecture": "Hill forts (Raigad, Sindhudurg)",
+"technology": "Guerrilla warfare, navy",
+"rise": "Shivaji's rebellion against the Mughals",
+"fall": "Panipat 1761, Anglo-Maratha Wars",
+"legacy": "Regional pride and resistance"
 },
 {
 "name": "Sikh Empire",
@@ -621,7 +887,14 @@
 "wiki": "Sikh_Empire",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "sikh-empire"
+"slug": "sikh-empire",
+"lane": "South Asia",
+"government": "Maharaja with secular court",
+"architecture": "Golden Temple gilding",
+"technology": "European-trained army",
+"rise": "Ranjit Singh unified misls",
+"fall": "Anglo-Sikh Wars",
+"legacy": "Sikh statehood memory"
 },
 {
 "name": "Kingdom of Mysore",
@@ -637,7 +910,14 @@
 "wiki": "Kingdom_of_Mysore",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "kingdom-of-mysore"
+"slug": "kingdom-of-mysore",
+"lane": "South Asia",
+"government": "Wodeyar kings, then Hyder Ali and Tipu",
+"architecture": "Srirangapatna",
+"technology": "Iron-cased rockets",
+"rise": "Rise of Hyder Ali",
+"fall": "Fall of Srirangapatna (1799)",
+"legacy": "Rocketry"
 },
 {
 "name": "East India Company rule",
@@ -653,7 +933,14 @@
 "wiki": "Company_rule_in_India",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "east-india-company-rule"
+"slug": "east-india-company-rule",
+"lane": "South Asia",
+"government": "Company directors in London and governors-general",
+"architecture": "Fort William, Writers' Building",
+"technology": "Survey of India, telegraph (later)",
+"rise": "Victory at Plassey",
+"fall": "1857 rebellion",
+"legacy": "Colonial administration"
 },
 {
 "name": "British Raj",
@@ -669,7 +956,14 @@
 "wiki": "British_Raj",
 "group": "South Asia",
 "emoji": "🪷",
-"slug": "british-raj"
+"slug": "british-raj",
+"lane": "South Asia",
+"government": "Viceroy under the British Crown",
+"architecture": "Indo-Saracenic buildings, New Delhi",
+"technology": "Railways, telegraph, census",
+"rise": "Crown took over after 1857",
+"fall": "Independence movement, WWII",
+"legacy": "Modern Indian state institutions"
 },
 {
 "name": "Xia and Shang China",
@@ -685,7 +979,14 @@
 "wiki": "Shang_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "xia-and-shang-china"
+"slug": "xia-and-shang-china",
+"lane": "East Asia",
+"government": "King with diviners",
+"architecture": "Palaces at Erlitou and Yinxu",
+"technology": "Bronze casting, oracle-bone writing, chariots",
+"rise": "Yellow River farming chiefdoms",
+"fall": "Zhou conquest",
+"legacy": "Chinese writing"
 },
 {
 "name": "Zhou dynasty",
@@ -701,7 +1002,14 @@
 "wiki": "Zhou_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "zhou-dynasty"
+"slug": "zhou-dynasty",
+"lane": "East Asia",
+"government": "Feudal kingdom under the Mandate of Heaven",
+"architecture": "Ritual bronze vessels",
+"technology": "Iron tools, crossbows (late)",
+"rise": "Overthrew the Shang",
+"fall": "Warring States",
+"legacy": "Confucian and Taoist philosophy"
 },
 {
 "name": "Qin dynasty",
@@ -717,7 +1025,14 @@
 "wiki": "Qin_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "qin-dynasty"
+"slug": "qin-dynasty",
+"lane": "East Asia",
+"government": "Legalist autocracy",
+"architecture": "Terracotta Army, early Great Wall",
+"technology": "Standardised script, roads, weights",
+"rise": "Conquest of the six states",
+"fall": "Revolts after harsh rule",
+"legacy": "Unified China"
 },
 {
 "name": "Han dynasty",
@@ -733,7 +1048,14 @@
 "wiki": "Han_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "han-dynasty"
+"slug": "han-dynasty",
+"lane": "East Asia",
+"government": "Emperor with Confucian bureaucracy",
+"architecture": "Tombs, watchtowers",
+"technology": "Paper, seismoscope, blast furnaces",
+"rise": "Liu Bang's victory",
+"fall": "Yellow Turbans, warlords",
+"legacy": "Han identity, Silk Road"
 },
 {
 "name": "Tang dynasty",
@@ -749,7 +1071,14 @@
 "wiki": "Tang_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "tang-dynasty"
+"slug": "tang-dynasty",
+"lane": "East Asia",
+"government": "Emperor with civil-service exams",
+"architecture": "Chang'an's grid city",
+"technology": "Woodblock printing, porcelain",
+"rise": "Li Yuan's rise",
+"fall": "An Lushan rebellion",
+"legacy": "Golden age of poetry"
 },
 {
 "name": "Song dynasty",
@@ -765,7 +1094,14 @@
 "wiki": "Song_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "song-dynasty"
+"slug": "song-dynasty",
+"lane": "East Asia",
+"government": "Emperor and scholar-officials",
+"architecture": "Pagodas",
+"technology": "Gunpowder weapons, compass, movable type, paper money",
+"rise": "Coup by Zhao Kuangyin",
+"fall": "Mongol conquest",
+"legacy": "Commercial revolution"
 },
 {
 "name": "Yuan dynasty",
@@ -781,7 +1117,14 @@
 "wiki": "Yuan_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "yuan-dynasty"
+"slug": "yuan-dynasty",
+"lane": "East Asia",
+"government": "Mongol emperor",
+"architecture": "Dadu (Beijing)",
+"technology": "Grand Canal extension",
+"rise": "Kublai Khan's conquest",
+"fall": "Rebellions",
+"legacy": "Opened China to Eurasia"
 },
 {
 "name": "Ming dynasty",
@@ -797,7 +1140,14 @@
 "wiki": "Ming_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "ming-dynasty"
+"slug": "ming-dynasty",
+"lane": "East Asia",
+"government": "Emperor with eunuch officials",
+"architecture": "Forbidden City, stone Great Wall",
+"technology": "Treasure ships",
+"rise": "Zhu Yuanzhang expelled the Mongols",
+"fall": "Peasant revolts, Manchu conquest",
+"legacy": "Porcelain and exploration"
 },
 {
 "name": "Qing dynasty",
@@ -813,7 +1163,14 @@
 "wiki": "Qing_dynasty",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "qing-dynasty"
+"slug": "qing-dynasty",
+"lane": "East Asia",
+"government": "Manchu emperor",
+"architecture": "Summer Palace",
+"technology": "—",
+"rise": "Manchu conquest",
+"fall": "Opium Wars, Taiping, 1911",
+"legacy": "Modern China's borders"
 },
 {
 "name": "Goguryeo, Baekje and Silla",
@@ -829,7 +1186,14 @@
 "wiki": "Three_Kingdoms_of_Korea",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "goguryeo-baekje-and-silla"
+"slug": "goguryeo-baekje-and-silla",
+"lane": "East Asia",
+"government": "Monarchies; Silla's bone-rank system",
+"architecture": "Gyeongju tombs",
+"technology": "Cheomseongdae observatory",
+"rise": "Three rival kingdoms",
+"fall": "Silla unified, then fragmented",
+"legacy": "Korean identity"
 },
 {
 "name": "Joseon Korea",
@@ -845,7 +1209,14 @@
 "wiki": "Joseon",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "joseon-korea"
+"slug": "joseon-korea",
+"lane": "East Asia",
+"government": "Confucian monarchy",
+"architecture": "Gyeongbokgung",
+"technology": "Hangul, rain gauge, turtle ships",
+"rise": "Yi Seong-gye's coup",
+"fall": "Japanese annexation",
+"legacy": "Hangul alphabet"
 },
 {
 "name": "Heian Japan",
@@ -861,7 +1232,14 @@
 "wiki": "Heian_period",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "heian-japan"
+"slug": "heian-japan",
+"lane": "East Asia",
+"government": "Emperor with Fujiwara regents",
+"architecture": "Byōdō-in",
+"technology": "Kana writing",
+"rise": "Capital moved to Heian-kyō",
+"fall": "Rise of samurai",
+"legacy": "Tale of Genji"
 },
 {
 "name": "Edo Japan (Tokugawa)",
@@ -877,7 +1255,14 @@
 "wiki": "Edo_period",
 "group": "East Asia",
 "emoji": "🏯",
-"slug": "edo-japan-tokugawa"
+"slug": "edo-japan-tokugawa",
+"lane": "East Asia",
+"government": "Shogun and daimyo",
+"architecture": "Himeji Castle",
+"technology": "Woodblock prints",
+"rise": "Sekigahara",
+"fall": "Meiji Restoration",
+"legacy": "Kabuki, ukiyo-e"
 },
 {
 "name": "Funan",
@@ -893,7 +1278,14 @@
 "wiki": "Funan",
 "group": "Southeast Asia & Pacific",
 "emoji": "🛕",
-"slug": "funan"
+"slug": "funan",
+"lane": "Southeast Asia",
+"government": "Indianised monarchy",
+"architecture": "Oc Eo port",
+"technology": "Canals",
+"rise": "Maritime trade",
+"fall": "Chenla",
+"legacy": "Early Southeast Asian state"
 },
 {
 "name": "Srivijaya",
@@ -909,7 +1301,14 @@
 "wiki": "Srivijaya",
 "group": "Southeast Asia & Pacific",
 "emoji": "🛕",
-"slug": "srivijaya"
+"slug": "srivijaya",
+"lane": "Southeast Asia",
+"government": "Maritime monarchy",
+"architecture": "Muara Takus",
+"technology": "Navigation",
+"rise": "Strait control",
+"fall": "Chola raids",
+"legacy": "Buddhist learning"
 },
 {
 "name": "Khmer Empire",
@@ -925,7 +1324,14 @@
 "wiki": "Khmer_Empire",
 "group": "Southeast Asia & Pacific",
 "emoji": "🛕",
-"slug": "khmer-empire"
+"slug": "khmer-empire",
+"lane": "Southeast Asia",
+"government": "God-king (devaraja)",
+"architecture": "Angkor Wat, Bayon",
+"technology": "Barays (reservoirs)",
+"rise": "Jayavarman II's independence",
+"fall": "Ayutthaya and failing water systems",
+"legacy": "Angkor"
 },
 {
 "name": "Majapahit",
@@ -941,7 +1347,14 @@
 "wiki": "Majapahit",
 "group": "Southeast Asia & Pacific",
 "emoji": "🛕",
-"slug": "majapahit"
+"slug": "majapahit",
+"lane": "Southeast Asia",
+"government": "Monarchy with ministers",
+"architecture": "Trowulan",
+"technology": "Navy",
+"rise": "Raden Wijaya",
+"fall": "Sultanates",
+"legacy": "Indonesian unity ideal"
 },
 {
 "name": "Polynesian voyagers",
@@ -957,7 +1370,14 @@
 "wiki": "Polynesian_navigation",
 "group": "Southeast Asia & Pacific",
 "emoji": "🛕",
-"slug": "polynesian-voyagers"
+"slug": "polynesian-voyagers",
+"lane": "Oceania",
+"government": "Chiefdoms",
+"architecture": "Marae, moai",
+"technology": "Double-hulled canoes, star navigation",
+"rise": "Sailing from Taiwan and Samoa",
+"fall": "—",
+"legacy": "Settled the Pacific"
 },
 {
 "name": "Minoan civilisation",
@@ -973,7 +1393,14 @@
 "wiki": "Minoan_civilization",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "minoan-civilisation"
+"slug": "minoan-civilisation",
+"lane": "Europe",
+"government": "Palace-based society",
+"architecture": "Knossos",
+"technology": "Plumbing, frescoes",
+"rise": "Cretan trade",
+"fall": "Thera eruption, Mycenaean takeover",
+"legacy": "Aegean art"
 },
 {
 "name": "Mycenaean Greece",
@@ -989,7 +1416,14 @@
 "wiki": "Mycenaean_Greece",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "mycenaean-greece"
+"slug": "mycenaean-greece",
+"lane": "Europe",
+"government": "Palace kings (wanax)",
+"architecture": "Lion Gate",
+"technology": "Linear B",
+"rise": "Mainland warrior states",
+"fall": "Bronze Age collapse",
+"legacy": "Homeric legends"
 },
 {
 "name": "Classical Greece",
@@ -1005,7 +1439,14 @@
 "wiki": "Classical_Greece",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "classical-greece"
+"slug": "classical-greece",
+"lane": "Europe",
+"government": "City-states: democracy (Athens), oligarchy (Sparta)",
+"architecture": "Parthenon",
+"technology": "Philosophy, geometry, theatre",
+"rise": "Greek victories over Persia",
+"fall": "Peloponnesian War, Macedon",
+"legacy": "Democracy and philosophy"
 },
 {
 "name": "Macedonian Empire",
@@ -1021,7 +1462,14 @@
 "wiki": "Macedonia_(ancient_kingdom)",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "macedonian-empire"
+"slug": "macedonian-empire",
+"lane": "Europe",
+"government": "Monarchy",
+"architecture": "Aigai tombs",
+"technology": "Phalanx tactics",
+"rise": "Philip II and Alexander",
+"fall": "Split among generals",
+"legacy": "Hellenistic culture"
 },
 {
 "name": "Roman Republic",
@@ -1037,7 +1485,14 @@
 "wiki": "Roman_Republic",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "roman-republic"
+"slug": "roman-republic",
+"lane": "Europe",
+"government": "Senate, consuls and assemblies",
+"architecture": "Temples, aqueducts",
+"technology": "Roads, legions",
+"rise": "Conquest of Italy",
+"fall": "Civil wars",
+"legacy": "Republican ideals"
 },
 {
 "name": "Roman Empire",
@@ -1053,7 +1508,14 @@
 "wiki": "Roman_Empire",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "roman-empire"
+"slug": "roman-empire",
+"lane": "Europe",
+"government": "Emperor",
+"architecture": "Colosseum, Pantheon",
+"technology": "Concrete, aqueducts, law",
+"rise": "Augustus",
+"fall": "Crises, invasions",
+"legacy": "Law, Latin, Christianity"
 },
 {
 "name": "Byzantine Empire",
@@ -1069,7 +1531,14 @@
 "wiki": "Byzantine_Empire",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "byzantine-empire"
+"slug": "byzantine-empire",
+"lane": "Europe",
+"government": "Emperor with bureaucracy",
+"architecture": "Hagia Sophia",
+"technology": "Greek fire",
+"rise": "Eastern Roman continuity",
+"fall": "Ottoman conquest",
+"legacy": "Orthodox Christianity"
 },
 {
 "name": "Celts",
@@ -1085,7 +1554,14 @@
 "wiki": "Celts",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "celts"
+"slug": "celts",
+"lane": "Europe",
+"government": "Tribal chiefs and druids",
+"architecture": "Hill forts, oppida",
+"technology": "Iron working, chain mail",
+"rise": "Spread across Europe",
+"fall": "Roman conquest",
+"legacy": "Celtic languages and art"
 },
 {
 "name": "Vikings",
@@ -1101,7 +1577,14 @@
 "wiki": "Vikings",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "vikings"
+"slug": "vikings",
+"lane": "Europe",
+"government": "Jarls and assemblies (thing)",
+"architecture": "Longhouses",
+"technology": "Longships, navigation",
+"rise": "Raiding and trading",
+"fall": "Christianisation, kingdoms",
+"legacy": "Iceland's parliament"
 },
 {
 "name": "Holy Roman Empire",
@@ -1117,7 +1600,14 @@
 "wiki": "Holy_Roman_Empire",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "holy-roman-empire"
+"slug": "holy-roman-empire",
+"lane": "Europe",
+"government": "Elected emperor",
+"architecture": "Cathedrals",
+"technology": "Printing (Gutenberg)",
+"rise": "Charlemagne",
+"fall": "Napoleon",
+"legacy": "Federal traditions"
 },
 {
 "name": "Kievan Rus'",
@@ -1133,7 +1623,14 @@
 "wiki": "Kievan_Rus'",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "kievan-rus"
+"slug": "kievan-rus",
+"lane": "Europe",
+"government": "Grand prince",
+"architecture": "Saint Sophia, Kyiv",
+"technology": "—",
+"rise": "Varangian rule",
+"fall": "Mongol invasion",
+"legacy": "East Slavic culture"
 },
 {
 "name": "Spanish Empire",
@@ -1149,7 +1646,14 @@
 "wiki": "Spanish_Empire",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "spanish-empire"
+"slug": "spanish-empire",
+"lane": "Europe",
+"government": "Monarchy with viceroys",
+"architecture": "Colonial cathedrals",
+"technology": "Galleons",
+"rise": "Columbus and conquistadors",
+"fall": "Independence wars",
+"legacy": "Spanish language worldwide"
 },
 {
 "name": "Portuguese Empire",
@@ -1165,7 +1669,14 @@
 "wiki": "Portuguese_Empire",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "portuguese-empire"
+"slug": "portuguese-empire",
+"lane": "Europe",
+"government": "Monarchy",
+"architecture": "Forts",
+"technology": "Caravels",
+"rise": "Henry the Navigator",
+"fall": "Decolonisation",
+"legacy": "First global sea empire"
 },
 {
 "name": "British Empire",
@@ -1181,7 +1692,14 @@
 "wiki": "British_Empire",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "british-empire"
+"slug": "british-empire",
+"lane": "Europe",
+"government": "Parliament and Crown",
+"architecture": "Colonial cities",
+"technology": "Steamships, railways",
+"rise": "Trade companies and navy",
+"fall": "Decolonisation",
+"legacy": "English and Commonwealth"
 },
 {
 "name": "Russian Empire",
@@ -1197,7 +1715,14 @@
 "wiki": "Russian_Empire",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "russian-empire"
+"slug": "russian-empire",
+"lane": "Europe",
+"government": "Tsar",
+"architecture": "St Petersburg",
+"technology": "—",
+"rise": "Peter the Great",
+"fall": "1917 revolution",
+"legacy": "Russian expansion"
 },
 {
 "name": "Soviet Union",
@@ -1213,7 +1738,14 @@
 "wiki": "Soviet_Union",
 "group": "Europe",
 "emoji": "⚔",
-"slug": "soviet-union"
+"slug": "soviet-union",
+"lane": "Europe",
+"government": "One-party state",
+"architecture": "Stalinist buildings",
+"technology": "Space programme, nuclear power",
+"rise": "1917 revolution",
+"fall": "1991 dissolution",
+"legacy": "Cold War legacy"
 },
 {
 "name": "Norte Chico (Caral)",
@@ -1229,7 +1761,14 @@
 "wiki": "Norte_Chico_civilization",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "norte-chico-caral"
+"slug": "norte-chico-caral",
+"lane": "Americas",
+"government": "Unknown elites",
+"architecture": "Pyramids at Caral",
+"technology": "Quipu (possible)",
+"rise": "Coastal fishing and farming",
+"fall": "Decline",
+"legacy": "Oldest American civilisation"
 },
 {
 "name": "Olmec",
@@ -1245,7 +1784,14 @@
 "wiki": "Olmecs",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "olmec"
+"slug": "olmec",
+"lane": "Americas",
+"government": "Chiefs",
+"architecture": "Colossal heads",
+"technology": "Rubber, possible writing",
+"rise": "Gulf farming",
+"fall": "Environmental change",
+"legacy": "Mesoamerican culture"
 },
 {
 "name": "Maya civilisation",
@@ -1261,7 +1807,14 @@
 "wiki": "Maya_civilization",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "maya-civilisation"
+"slug": "maya-civilisation",
+"lane": "Americas",
+"government": "Divine kings (k'uhul ajaw)",
+"architecture": "Pyramids of Tikal",
+"technology": "Writing, zero, calendar",
+"rise": "Village growth",
+"fall": "Drought and warfare (~800–900 CE)",
+"legacy": "Maya peoples today"
 },
 {
 "name": "Teotihuacan",
@@ -1277,7 +1830,14 @@
 "wiki": "Teotihuacan",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "teotihuacan"
+"slug": "teotihuacan",
+"lane": "Americas",
+"government": "Collective rule (debated)",
+"architecture": "Pyramids of the Sun and Moon",
+"technology": "Urban planning",
+"rise": "Obsidian trade",
+"fall": "Fire and revolt (~550)",
+"legacy": "Aztec reverence"
 },
 {
 "name": "Aztec Empire",
@@ -1293,7 +1853,14 @@
 "wiki": "Aztec_Empire",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "aztec-empire"
+"slug": "aztec-empire",
+"lane": "Americas",
+"government": "Tlatoani and Triple Alliance",
+"architecture": "Templo Mayor",
+"technology": "Chinampas",
+"rise": "Mexica alliance",
+"fall": "Spanish conquest, smallpox",
+"legacy": "Mexican identity"
 },
 {
 "name": "Inca Empire",
@@ -1309,7 +1876,14 @@
 "wiki": "Inca_Empire",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "inca-empire"
+"slug": "inca-empire",
+"lane": "Americas",
+"government": "Sapa Inca with mit'a labour",
+"architecture": "Machu Picchu, Sacsayhuamán",
+"technology": "Roads, quipu, terraces",
+"rise": "Pachacuti's conquests",
+"fall": "Civil war, smallpox, Pizarro",
+"legacy": "Andean heritage"
 },
 {
 "name": "Ancestral Puebloans",
@@ -1325,7 +1899,14 @@
 "wiki": "Ancestral_Puebloans",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "ancestral-puebloans"
+"slug": "ancestral-puebloans",
+"lane": "Americas",
+"government": "Village councils",
+"architecture": "Cliff dwellings, kivas",
+"technology": "Dry farming",
+"rise": "Maize farming",
+"fall": "Great drought",
+"legacy": "Pueblo peoples"
 },
 {
 "name": "Mississippian culture",
@@ -1341,7 +1922,14 @@
 "wiki": "Mississippian_culture",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "mississippian-culture"
+"slug": "mississippian-culture",
+"lane": "Americas",
+"government": "Chiefdoms",
+"architecture": "Monks Mound",
+"technology": "Maize farming",
+"rise": "Cahokia's rise",
+"fall": "Decline",
+"legacy": "Mound-building heritage"
 },
 {
 "name": "Haudenosaunee Confederacy",
@@ -1357,7 +1945,14 @@
 "wiki": "Iroquois",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "haudenosaunee-confederacy"
+"slug": "haudenosaunee-confederacy",
+"lane": "Americas",
+"government": "Confederacy council",
+"architecture": "Longhouses",
+"technology": "Three Sisters farming",
+"rise": "Great Law of Peace",
+"fall": "Colonial wars",
+"legacy": "Democratic ideals"
 },
 {
 "name": "United States",
@@ -1373,6 +1968,13 @@
 "wiki": "United_States",
 "group": "The Americas",
 "emoji": "🌽",
-"slug": "united-states"
+"slug": "united-states",
+"lane": "Americas",
+"government": "Federal republic",
+"architecture": "Capitol",
+"technology": "Industrial and digital technology",
+"rise": "Revolution",
+"fall": "—",
+"legacy": "Superpower"
 }
 ]

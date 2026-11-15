@@ -10,7 +10,8 @@
 "wiki": "Pangaea",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "breakup-of-pangaea"
+"slug": "breakup-of-pangaea",
+"lane": "Global"
 },
 {
 "name": "Chicxulub asteroid impact",
@@ -23,7 +24,8 @@
 "wiki": "Chicxulub_crater",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "chicxulub-asteroid-impact"
+"slug": "chicxulub-asteroid-impact",
+"lane": "Global"
 },
 {
 "name": "Onset of the Quaternary ice ages",
@@ -36,7 +38,8 @@
 "wiki": "Quaternary_glaciation",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "onset-of-the-quaternary-ice-ages"
+"slug": "onset-of-the-quaternary-ice-ages",
+"lane": "Global"
 },
 {
 "name": "Toba super-eruption",
@@ -49,7 +52,8 @@
 "wiki": "Youngest_Toba_eruption",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "toba-super-eruption"
+"slug": "toba-super-eruption",
+"lane": "South Asia"
 },
 {
 "name": "Last Glacial Maximum",
@@ -62,7 +66,8 @@
 "wiki": "Last_Glacial_Maximum",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "last-glacial-maximum"
+"slug": "last-glacial-maximum",
+"lane": "Global"
 },
 {
 "name": "Younger Dryas",
@@ -75,7 +80,8 @@
 "wiki": "Younger_Dryas",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "younger-dryas"
+"slug": "younger-dryas",
+"lane": "Global"
 },
 {
 "name": "Quaternary megafauna extinction",
@@ -88,7 +94,8 @@
 "wiki": "Late_Pleistocene_extinctions",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "quaternary-megafauna-extinction"
+"slug": "quaternary-megafauna-extinction",
+"lane": "Global"
 },
 {
 "name": "End of the Green Sahara",
@@ -101,7 +108,8 @@
 "wiki": "African_humid_period",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "end-of-the-green-sahara"
+"slug": "end-of-the-green-sahara",
+"lane": "Africa"
 },
 {
 "name": "4.2-kiloyear drought",
@@ -114,7 +122,8 @@
 "wiki": "4.2-kiloyear_event",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "4-2-kiloyear-drought"
+"slug": "4-2-kiloyear-drought",
+"lane": "Global"
 },
 {
 "name": "Thera (Santorini) eruption",
@@ -127,7 +136,8 @@
 "wiki": "Minoan_eruption",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "thera-santorini-eruption"
+"slug": "thera-santorini-eruption",
+"lane": "Global"
 },
 {
 "name": "Eruption of Vesuvius",
@@ -140,7 +150,8 @@
 "wiki": "Eruption_of_Mount_Vesuvius_in_79_AD",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "eruption-of-vesuvius"
+"slug": "eruption-of-vesuvius",
+"lane": "Europe"
 },
 {
 "name": "Volcanic winter of 536",
@@ -153,7 +164,8 @@
 "wiki": "Volcanic_winter_of_536",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "volcanic-winter-of-536"
+"slug": "volcanic-winter-of-536",
+"lane": "Global"
 },
 {
 "name": "Tambora eruption",
@@ -166,7 +178,8 @@
 "wiki": "1815_eruption_of_Mount_Tambora",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "tambora-eruption"
+"slug": "tambora-eruption",
+"lane": "South Asia"
 },
 {
 "name": "Krakatoa eruption",
@@ -179,7 +192,8 @@
 "wiki": "1883_eruption_of_Krakatoa",
 "group": "Earth & climate shocks",
 "emoji": "🌋",
-"slug": "krakatoa-eruption"
+"slug": "krakatoa-eruption",
+"lane": "Southeast Asia"
 },
 {
 "name": "Plague of Athens",
@@ -192,7 +206,8 @@
 "wiki": "Plague_of_Athens",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "plague-of-athens"
+"slug": "plague-of-athens",
+"lane": "Europe"
 },
 {
 "name": "Antonine Plague",
@@ -205,7 +220,8 @@
 "wiki": "Antonine_Plague",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "antonine-plague"
+"slug": "antonine-plague",
+"lane": "Global"
 },
 {
 "name": "Plague of Justinian",
@@ -218,7 +234,8 @@
 "wiki": "Plague_of_Justinian",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "plague-of-justinian"
+"slug": "plague-of-justinian",
+"lane": "Global"
 },
 {
 "name": "Black Death",
@@ -231,7 +248,8 @@
 "wiki": "Black_Death",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "black-death"
+"slug": "black-death",
+"lane": "Global"
 },
 {
 "name": "Smallpox in the Americas",
@@ -244,7 +262,8 @@
 "wiki": "Columbian_exchange",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "smallpox-in-the-americas"
+"slug": "smallpox-in-the-americas",
+"lane": "Europe"
 },
 {
 "name": "Cholera pandemics",
@@ -257,7 +276,8 @@
 "wiki": "Cholera_outbreaks_and_pandemics",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "cholera-pandemics"
+"slug": "cholera-pandemics",
+"lane": "Global"
 },
 {
 "name": "Third plague pandemic",
@@ -270,7 +290,8 @@
 "wiki": "Third_plague_pandemic",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "third-plague-pandemic"
+"slug": "third-plague-pandemic",
+"lane": "Global"
 },
 {
 "name": "Spanish flu",
@@ -283,7 +304,8 @@
 "wiki": "1918_flu_pandemic",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "spanish-flu"
+"slug": "spanish-flu",
+"lane": "Global"
 },
 {
 "name": "HIV/AIDS pandemic",
@@ -296,7 +318,8 @@
 "wiki": "HIV/AIDS",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "hiv-aids-pandemic"
+"slug": "hiv-aids-pandemic",
+"lane": "Global"
 },
 {
 "name": "COVID-19 pandemic",
@@ -309,7 +332,8 @@
 "wiki": "COVID-19_pandemic",
 "group": "Plagues & pandemics",
 "emoji": "🦠",
-"slug": "covid-19-pandemic"
+"slug": "covid-19-pandemic",
+"lane": "Global"
 },
 {
 "name": "Invention of writing",
@@ -322,7 +346,8 @@
 "wiki": "History_of_writing",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "invention-of-writing"
+"slug": "invention-of-writing",
+"lane": "Middle East"
 },
 {
 "name": "Unification of Egypt",
@@ -335,7 +360,8 @@
 "wiki": "Narmer",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "unification-of-egypt"
+"slug": "unification-of-egypt",
+"lane": "Africa"
 },
 {
 "name": "Battle of Kadesh",
@@ -348,7 +374,8 @@
 "wiki": "Battle_of_Kadesh",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "battle-of-kadesh"
+"slug": "battle-of-kadesh",
+"lane": "Middle East"
 },
 {
 "name": "Founding of Rome",
@@ -361,7 +388,8 @@
 "wiki": "Founding_of_Rome",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "founding-of-rome"
+"slug": "founding-of-rome",
+"lane": "Europe"
 },
 {
 "name": "Buddha's enlightenment",
@@ -374,7 +402,8 @@
 "wiki": "The_Buddha",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "buddhas-enlightenment"
+"slug": "buddhas-enlightenment",
+"lane": "South Asia"
 },
 {
 "name": "Persian Wars",
@@ -387,7 +416,8 @@
 "wiki": "Greco-Persian_Wars",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "persian-wars"
+"slug": "persian-wars",
+"lane": "Middle East"
 },
 {
 "name": "Alexander's invasion of India",
@@ -400,7 +430,8 @@
 "wiki": "Indian_campaign_of_Alexander_the_Great",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "alexanders-invasion-of-india"
+"slug": "alexanders-invasion-of-india",
+"lane": "South Asia"
 },
 {
 "name": "Kalinga War",
@@ -413,7 +444,8 @@
 "wiki": "Kalinga_War",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "kalinga-war"
+"slug": "kalinga-war",
+"lane": "South Asia"
 },
 {
 "name": "Unification of China under Qin",
@@ -426,7 +458,8 @@
 "wiki": "Qin_Shi_Huang",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "unification-of-china-under-qin"
+"slug": "unification-of-china-under-qin",
+"lane": "East Asia"
 },
 {
 "name": "Punic Wars",
@@ -439,7 +472,8 @@
 "wiki": "Punic_Wars",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "punic-wars"
+"slug": "punic-wars",
+"lane": "East Asia"
 },
 {
 "name": "Roman conquest of Gaul",
@@ -452,7 +486,8 @@
 "wiki": "Gallic_Wars",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "roman-conquest-of-gaul"
+"slug": "roman-conquest-of-gaul",
+"lane": "Europe"
 },
 {
 "name": "Roman conquest of Britain",
@@ -465,7 +500,8 @@
 "wiki": "Roman_conquest_of_Britain",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "roman-conquest-of-britain"
+"slug": "roman-conquest-of-britain",
+"lane": "Europe"
 },
 {
 "name": "Assassination of Julius Caesar",
@@ -478,7 +514,8 @@
 "wiki": "Assassination_of_Julius_Caesar",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "assassination-of-julius-caesar"
+"slug": "assassination-of-julius-caesar",
+"lane": "Europe"
 },
 {
 "name": "Crucifixion of Jesus",
@@ -491,7 +528,8 @@
 "wiki": "Crucifixion_of_Jesus",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "crucifixion-of-jesus"
+"slug": "crucifixion-of-jesus",
+"lane": "Middle East"
 },
 {
 "name": "Fall of the Western Roman Empire",
@@ -504,7 +542,8 @@
 "wiki": "Fall_of_the_Western_Roman_Empire",
 "group": "Ancient & classical turning points",
 "emoji": "🏛",
-"slug": "fall-of-the-western-roman-empire"
+"slug": "fall-of-the-western-roman-empire",
+"lane": "Europe"
 },
 {
 "name": "Hijra and rise of Islam",
@@ -517,7 +556,8 @@
 "wiki": "Hijrah",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "hijra-and-rise-of-islam"
+"slug": "hijra-and-rise-of-islam",
+"lane": "Middle East"
 },
 {
 "name": "Arab conquest of Sindh",
@@ -530,7 +570,8 @@
 "wiki": "Umayyad_campaigns_in_India",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "arab-conquest-of-sindh"
+"slug": "arab-conquest-of-sindh",
+"lane": "South Asia"
 },
 {
 "name": "Battle of Tours",
@@ -543,7 +584,8 @@
 "wiki": "Battle_of_Tours",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "battle-of-tours"
+"slug": "battle-of-tours",
+"lane": "Europe"
 },
 {
 "name": "Battle of Talas",
@@ -556,7 +598,8 @@
 "wiki": "Battle_of_Talas",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "battle-of-talas"
+"slug": "battle-of-talas",
+"lane": "East Asia"
 },
 {
 "name": "Chola naval expedition to Srivijaya",
@@ -569,7 +612,8 @@
 "wiki": "Chola_invasion_of_Srivijaya",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "chola-naval-expedition-to-srivijaya"
+"slug": "chola-naval-expedition-to-srivijaya",
+"lane": "Southeast Asia"
 },
 {
 "name": "Battle of Hastings",
@@ -582,7 +626,8 @@
 "wiki": "Battle_of_Hastings",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "battle-of-hastings"
+"slug": "battle-of-hastings",
+"lane": "Europe"
 },
 {
 "name": "First Crusade",
@@ -595,7 +640,8 @@
 "wiki": "First_Crusade",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "first-crusade"
+"slug": "first-crusade",
+"lane": "Middle East"
 },
 {
 "name": "Second Battle of Tarain",
@@ -608,7 +654,8 @@
 "wiki": "Second_Battle_of_Tarain",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "second-battle-of-tarain"
+"slug": "second-battle-of-tarain",
+"lane": "South Asia"
 },
 {
 "name": "Mongol conquests",
@@ -621,7 +668,8 @@
 "wiki": "Mongol_invasions_and_conquests",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "mongol-conquests"
+"slug": "mongol-conquests",
+"lane": "East Asia"
 },
 {
 "name": "Destruction of Nalanda",
@@ -634,7 +682,8 @@
 "wiki": "Nalanda_mahavihara",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "destruction-of-nalanda"
+"slug": "destruction-of-nalanda",
+"lane": "South Asia"
 },
 {
 "name": "Magna Carta",
@@ -647,7 +696,8 @@
 "wiki": "Magna_Carta",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "magna-carta"
+"slug": "magna-carta",
+"lane": "Europe"
 },
 {
 "name": "Sack of Baghdad",
@@ -660,7 +710,8 @@
 "wiki": "Siege_of_Baghdad_(1258)",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "sack-of-baghdad"
+"slug": "sack-of-baghdad",
+"lane": "Middle East"
 },
 {
 "name": "Fall of Constantinople",
@@ -673,7 +724,8 @@
 "wiki": "Fall_of_Constantinople",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "fall-of-constantinople"
+"slug": "fall-of-constantinople",
+"lane": "Middle East"
 },
 {
 "name": "Gutenberg printing press",
@@ -686,7 +738,8 @@
 "wiki": "Printing_press",
 "group": "Medieval",
 "emoji": "🏰",
-"slug": "gutenberg-printing-press"
+"slug": "gutenberg-printing-press",
+"lane": "Europe"
 },
 {
 "name": "Columbus reaches the Americas",
@@ -699,7 +752,8 @@
 "wiki": "Voyages_of_Christopher_Columbus",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "columbus-reaches-the-americas"
+"slug": "columbus-reaches-the-americas",
+"lane": "Americas"
 },
 {
 "name": "Vasco da Gama reaches India",
@@ -712,7 +766,8 @@
 "wiki": "Vasco_da_Gama",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "vasco-da-gama-reaches-india"
+"slug": "vasco-da-gama-reaches-india",
+"lane": "South Asia"
 },
 {
 "name": "First Battle of Panipat",
@@ -725,7 +780,8 @@
 "wiki": "First_Battle_of_Panipat",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "first-battle-of-panipat"
+"slug": "first-battle-of-panipat",
+"lane": "South Asia"
 },
 {
 "name": "Fall of Tenochtitlan",
@@ -738,7 +794,8 @@
 "wiki": "Fall_of_Tenochtitlan",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "fall-of-tenochtitlan"
+"slug": "fall-of-tenochtitlan",
+"lane": "Americas"
 },
 {
 "name": "Spanish conquest of the Inca",
@@ -751,7 +808,8 @@
 "wiki": "Spanish_conquest_of_the_Inca_Empire",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "spanish-conquest-of-the-inca"
+"slug": "spanish-conquest-of-the-inca",
+"lane": "Americas"
 },
 {
 "name": "Battle of Talikota",
@@ -764,7 +822,8 @@
 "wiki": "Battle_of_Talikota",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "battle-of-talikota"
+"slug": "battle-of-talikota",
+"lane": "South Asia"
 },
 {
 "name": "Founding of the East India Company",
@@ -777,7 +836,8 @@
 "wiki": "East_India_Company",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "founding-of-the-east-india-company"
+"slug": "founding-of-the-east-india-company",
+"lane": "South Asia"
 },
 {
 "name": "Atlantic slave trade",
@@ -790,7 +850,8 @@
 "wiki": "Atlantic_slave_trade",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "atlantic-slave-trade"
+"slug": "atlantic-slave-trade",
+"lane": "Africa"
 },
 {
 "name": "Thirty Years' War",
@@ -803,7 +864,8 @@
 "wiki": "Thirty_Years'_War",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "thirty-years-war"
+"slug": "thirty-years-war",
+"lane": "Europe"
 },
 {
 "name": "Battle of Plassey",
@@ -816,7 +878,8 @@
 "wiki": "Battle_of_Plassey",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "battle-of-plassey"
+"slug": "battle-of-plassey",
+"lane": "South Asia"
 },
 {
 "name": "Third Battle of Panipat",
@@ -829,7 +892,8 @@
 "wiki": "Third_Battle_of_Panipat",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "third-battle-of-panipat"
+"slug": "third-battle-of-panipat",
+"lane": "South Asia"
 },
 {
 "name": "Battle of Buxar",
@@ -842,7 +906,8 @@
 "wiki": "Battle_of_Buxar",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "battle-of-buxar"
+"slug": "battle-of-buxar",
+"lane": "South Asia"
 },
 {
 "name": "Great Bengal Famine",
@@ -855,7 +920,8 @@
 "wiki": "Bengal_famine_of_1770",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "great-bengal-famine"
+"slug": "great-bengal-famine",
+"lane": "South Asia"
 },
 {
 "name": "American Revolution",
@@ -868,7 +934,8 @@
 "wiki": "American_Revolution",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "american-revolution"
+"slug": "american-revolution",
+"lane": "Americas"
 },
 {
 "name": "French Revolution",
@@ -881,7 +948,8 @@
 "wiki": "French_Revolution",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "french-revolution"
+"slug": "french-revolution",
+"lane": "Europe"
 },
 {
 "name": "Haitian Revolution",
@@ -894,7 +962,8 @@
 "wiki": "Haitian_Revolution",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "haitian-revolution"
+"slug": "haitian-revolution",
+"lane": "Africa"
 },
 {
 "name": "Napoleonic Wars",
@@ -907,7 +976,8 @@
 "wiki": "Napoleonic_Wars",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "napoleonic-wars"
+"slug": "napoleonic-wars",
+"lane": "Europe"
 },
 {
 "name": "Indian Rebellion of 1857",
@@ -920,7 +990,8 @@
 "wiki": "Indian_Rebellion_of_1857",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "indian-rebellion-of-1857"
+"slug": "indian-rebellion-of-1857",
+"lane": "South Asia"
 },
 {
 "name": "Opium Wars",
@@ -933,7 +1004,8 @@
 "wiki": "Opium_Wars",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "opium-wars"
+"slug": "opium-wars",
+"lane": "South Asia"
 },
 {
 "name": "Abolition of slavery in the British Empire",
@@ -946,7 +1018,8 @@
 "wiki": "Slavery_Abolition_Act_1833",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "abolition-of-slavery-in-the-british-empire"
+"slug": "abolition-of-slavery-in-the-british-empire",
+"lane": "South Asia"
 },
 {
 "name": "American Civil War",
@@ -959,7 +1032,8 @@
 "wiki": "American_Civil_War",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "american-civil-war"
+"slug": "american-civil-war",
+"lane": "Americas"
 },
 {
 "name": "Scramble for Africa",
@@ -972,7 +1046,8 @@
 "wiki": "Scramble_for_Africa",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "scramble-for-africa"
+"slug": "scramble-for-africa",
+"lane": "Africa"
 },
 {
 "name": "Great Famine of 1876–78",
@@ -985,7 +1060,8 @@
 "wiki": "Great_Famine_of_1876–1878",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "great-famine-of-1876-78"
+"slug": "great-famine-of-1876-78",
+"lane": "South Asia"
 },
 {
 "name": "Founding of the Indian National Congress",
@@ -998,7 +1074,8 @@
 "wiki": "Indian_National_Congress",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "founding-of-the-indian-national-congress"
+"slug": "founding-of-the-indian-national-congress",
+"lane": "South Asia"
 },
 {
 "name": "Partition of Bengal",
@@ -1011,7 +1088,8 @@
 "wiki": "Partition_of_Bengal_(1905)",
 "group": "Age of empires & colonialism",
 "emoji": "⛵",
-"slug": "partition-of-bengal"
+"slug": "partition-of-bengal",
+"lane": "South Asia"
 },
 {
 "name": "World War I",
@@ -1024,7 +1102,8 @@
 "wiki": "World_War_I",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "world-war-i"
+"slug": "world-war-i",
+"lane": "Global"
 },
 {
 "name": "Russian Revolution",
@@ -1037,7 +1116,8 @@
 "wiki": "Russian_Revolution",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "russian-revolution"
+"slug": "russian-revolution",
+"lane": "Europe"
 },
 {
 "name": "Jallianwala Bagh massacre",
@@ -1050,7 +1130,8 @@
 "wiki": "Jallianwala_Bagh_massacre",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "jallianwala-bagh-massacre"
+"slug": "jallianwala-bagh-massacre",
+"lane": "South Asia"
 },
 {
 "name": "Non-Cooperation Movement",
@@ -1063,7 +1144,8 @@
 "wiki": "Non-cooperation_movement",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "non-cooperation-movement"
+"slug": "non-cooperation-movement",
+"lane": "South Asia"
 },
 {
 "name": "Great Depression",
@@ -1076,7 +1158,8 @@
 "wiki": "Great_Depression",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "great-depression"
+"slug": "great-depression",
+"lane": "Global"
 },
 {
 "name": "Salt March",
@@ -1089,7 +1172,8 @@
 "wiki": "Salt_March",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "salt-march"
+"slug": "salt-march",
+"lane": "South Asia"
 },
 {
 "name": "World War II",
@@ -1102,7 +1186,8 @@
 "wiki": "World_War_II",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "world-war-ii"
+"slug": "world-war-ii",
+"lane": "Global"
 },
 {
 "name": "The Holocaust",
@@ -1115,7 +1200,8 @@
 "wiki": "The_Holocaust",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "the-holocaust"
+"slug": "the-holocaust",
+"lane": "Europe"
 },
 {
 "name": "Quit India Movement",
@@ -1128,7 +1214,8 @@
 "wiki": "Quit_India_Movement",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "quit-india-movement"
+"slug": "quit-india-movement",
+"lane": "South Asia"
 },
 {
 "name": "Bengal famine of 1943",
@@ -1141,7 +1228,8 @@
 "wiki": "Bengal_famine_of_1943",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "bengal-famine-of-1943"
+"slug": "bengal-famine-of-1943",
+"lane": "South Asia"
 },
 {
 "name": "Atomic bombings of Hiroshima and Nagasaki",
@@ -1154,7 +1242,8 @@
 "wiki": "Atomic_bombings_of_Hiroshima_and_Nagasaki",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "atomic-bombings-of-hiroshima-and-nagasaki"
+"slug": "atomic-bombings-of-hiroshima-and-nagasaki",
+"lane": "East Asia"
 },
 {
 "name": "Indian Independence and Partition",
@@ -1167,7 +1256,8 @@
 "wiki": "Partition_of_India",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "indian-independence-and-partition"
+"slug": "indian-independence-and-partition",
+"lane": "South Asia"
 },
 {
 "name": "Indian Constitution adopted",
@@ -1180,7 +1270,8 @@
 "wiki": "Constitution_of_India",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "indian-constitution-adopted"
+"slug": "indian-constitution-adopted",
+"lane": "South Asia"
 },
 {
 "name": "Chinese Revolution",
@@ -1193,7 +1284,8 @@
 "wiki": "Chinese_Communist_Revolution",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "chinese-revolution"
+"slug": "chinese-revolution",
+"lane": "East Asia"
 },
 {
 "name": "Decolonisation of Africa and Asia",
@@ -1206,7 +1298,8 @@
 "wiki": "Decolonization",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "decolonisation-of-africa-and-asia"
+"slug": "decolonisation-of-africa-and-asia",
+"lane": "South Asia"
 },
 {
 "name": "Bangladesh Liberation War",
@@ -1219,7 +1312,8 @@
 "wiki": "Bangladesh_Liberation_War",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "bangladesh-liberation-war"
+"slug": "bangladesh-liberation-war",
+"lane": "South Asia"
 },
 {
 "name": "Moon landing",
@@ -1232,7 +1326,8 @@
 "wiki": "Apollo_11",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "moon-landing"
+"slug": "moon-landing",
+"lane": "Americas"
 },
 {
 "name": "Fall of the Berlin Wall",
@@ -1245,7 +1340,8 @@
 "wiki": "Fall_of_the_Berlin_Wall",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "fall-of-the-berlin-wall"
+"slug": "fall-of-the-berlin-wall",
+"lane": "Europe"
 },
 {
 "name": "Dissolution of the Soviet Union",
@@ -1258,7 +1354,8 @@
 "wiki": "Dissolution_of_the_Soviet_Union",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "dissolution-of-the-soviet-union"
+"slug": "dissolution-of-the-soviet-union",
+"lane": "Global"
 },
 {
 "name": "Indian economic liberalisation",
@@ -1271,7 +1368,8 @@
 "wiki": "Economic_liberalisation_in_India",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "indian-economic-liberalisation"
+"slug": "indian-economic-liberalisation",
+"lane": "South Asia"
 },
 {
 "name": "September 11 attacks",
@@ -1284,7 +1382,8 @@
 "wiki": "September_11_attacks",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "september-11-attacks"
+"slug": "september-11-attacks",
+"lane": "Americas"
 },
 {
 "name": "2004 Indian Ocean tsunami",
@@ -1297,7 +1396,8 @@
 "wiki": "2004_Indian_Ocean_earthquake_and_tsunami",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "2004-indian-ocean-tsunami"
+"slug": "2004-indian-ocean-tsunami",
+"lane": "South Asia"
 },
 {
 "name": "Chandrayaan-3 lands on the Moon",
@@ -1310,6 +1410,2051 @@
 "wiki": "Chandrayaan-3",
 "group": "World wars & modern era",
 "emoji": "🌐",
-"slug": "chandrayaan-3-lands-on-the-moon"
+"slug": "chandrayaan-3-lands-on-the-moon",
+"lane": "South Asia"
+},
+{
+"name": "Human–chimpanzee split",
+"year": -6500000,
+"when": "~7–6 million years ago",
+"etype": "Evolution",
+"lane": "Africa",
+"region": "Africa",
+"impact": "Start of the human lineage",
+"summary": "Our ancestors diverged from those of chimpanzees, probably in a mosaic of forest and woodland.",
+"wiki": "Chimpanzee–human_last_common_ancestor",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "human-chimpanzee-split"
+},
+{
+"name": "First upright walking",
+"year": -4400000,
+"when": "~4.4 million years ago (Ardi)",
+"etype": "Evolution",
+"lane": "Africa",
+"region": "Ethiopia",
+"impact": "Freed the hands; energy-efficient travel",
+"summary": "Ardipithecus walked upright on the ground but still climbed trees; leaving the forest canopy was gradual.",
+"wiki": "Bipedalism",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "first-upright-walking"
+},
+{
+"name": "Laetoli footprints",
+"year": -3660000,
+"when": "3.66 million years ago",
+"etype": "Evolution",
+"lane": "Africa",
+"region": "Tanzania",
+"impact": "Proof of fully upright walking",
+"summary": "Three hominins walked through wet volcanic ash, leaving the oldest human-like footprints.",
+"wiki": "Laetoli",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "laetoli-footprints"
+},
+{
+"name": "First stone tools (Lomekwi)",
+"year": -3300000,
+"when": "3.3 million years ago",
+"etype": "Technology",
+"lane": "Africa",
+"region": "Kenya",
+"impact": "Start of technology",
+"summary": "Large stone cores and flakes made before the genus Homo appeared.",
+"wiki": "Lomekwi",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "first-stone-tools-lomekwi"
+},
+{
+"name": "Oldowan toolmaking",
+"year": -2600000,
+"when": "2.6 million years ago",
+"etype": "Technology",
+"lane": "Africa",
+"region": "Ethiopia (Gona)",
+"impact": "Butchery of large animals",
+"summary": "Sharp flakes let early humans cut meat and break bones for marrow.",
+"wiki": "Oldowan",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "oldowan-toolmaking"
+},
+{
+"name": "Homo erectus leaves Africa",
+"year": -1850000,
+"when": "~1.85 million years ago",
+"etype": "Migration",
+"lane": "Central Asia",
+"region": "Dmanisi, Georgia",
+"impact": "First humans in Eurasia",
+"summary": "Small-brained humans reached the Caucasus and soon East Asia.",
+"wiki": "Dmanisi_hominins",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "homo-erectus-leaves-africa"
+},
+{
+"name": "Acheulean hand-axes",
+"year": -1760000,
+"when": "1.76 million years ago",
+"etype": "Technology",
+"lane": "Africa",
+"region": "Kenya; India (Attirampakkam ~1.5 Mya)",
+"impact": "Planned, symmetrical tools",
+"summary": "The longest-lasting tool tradition, used for over 1.5 million years.",
+"wiki": "Acheulean",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "acheulean-hand-axes"
+},
+{
+"name": "Controlled fire at Wonderwerk Cave",
+"year": -1000000,
+"when": "~1 million years ago",
+"etype": "Technology",
+"lane": "Africa",
+"region": "South Africa",
+"impact": "Warmth, cooking, protection",
+"summary": "Burned bones and plant ash show fire inside a cave a million years ago.",
+"wiki": "Control_of_fire_by_early_humans",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "controlled-fire-at-wonderwerk-cave"
+},
+{
+"name": "Regular hearths (Qesem Cave)",
+"year": -300000,
+"when": "~300,000 years ago",
+"etype": "Technology",
+"lane": "Middle East",
+"region": "Israel",
+"impact": "Fire becomes routine",
+"summary": "Repeated hearth use shows fire had become part of daily life.",
+"wiki": "Qesem_Cave",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "regular-hearths-qesem-cave"
+},
+{
+"name": "Schöningen spears",
+"year": -300000,
+"when": "~300,000 years ago",
+"etype": "Technology",
+"lane": "Europe",
+"region": "Germany",
+"impact": "Big-game hunting",
+"summary": "Wooden throwing spears found with butchered horses.",
+"wiki": "Schöningen_spears",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "sch-ningen-spears"
+},
+{
+"name": "Homo sapiens at Jebel Irhoud",
+"year": -300000,
+"when": "~300,000 years ago",
+"etype": "Evolution",
+"lane": "Africa",
+"region": "Morocco",
+"impact": "Origin of our species",
+"summary": "The oldest known Homo sapiens fossils.",
+"wiki": "Jebel_Irhoud",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "homo-sapiens-at-jebel-irhoud"
+},
+{
+"name": "Blombos Cave engravings",
+"year": -75000,
+"when": "~75,000 years ago",
+"etype": "Culture",
+"lane": "Africa",
+"region": "South Africa",
+"impact": "Early symbolic thought",
+"summary": "Engraved ochre and shell beads show abstract symbols.",
+"wiki": "Blombos_Cave",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "blombos-cave-engravings"
+},
+{
+"name": "Arrival in Australia",
+"year": -65000,
+"when": "~65,000 years ago",
+"etype": "Migration",
+"lane": "Oceania",
+"region": "Australia (Madjedbebe)",
+"impact": "Long sea crossings",
+"summary": "People crossed open water to reach Sahul.",
+"wiki": "Prehistory_of_Australia",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "arrival-in-australia"
+},
+{
+"name": "Neanderthal–sapiens interbreeding",
+"year": -55000,
+"when": "~60,000–45,000 years ago",
+"etype": "Evolution",
+"lane": "Middle East",
+"region": "Middle East; Europe",
+"impact": "Neanderthal DNA in non-Africans",
+"summary": "Our ancestors mixed with Neanderthals, leaving ~1–2% of their DNA in most people today.",
+"wiki": "Neanderthal_genetics",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "neanderthal-sapiens-interbreeding"
+},
+{
+"name": "Oldest figurative cave art (Sulawesi)",
+"year": -51200,
+"when": "~51,200 years ago",
+"etype": "Culture",
+"lane": "Southeast Asia",
+"region": "Indonesia",
+"impact": "Earliest known narrative art",
+"summary": "A painted scene of humans and a pig in Leang Karampuang.",
+"wiki": "Leang_Karampuang",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "oldest-figurative-cave-art-sulawesi"
+},
+{
+"name": "Neanderthal extinction",
+"year": -40000,
+"when": "~40,000 years ago",
+"etype": "Extinction",
+"lane": "Europe",
+"region": "Europe",
+"impact": "Homo sapiens alone in Europe",
+"summary": "Small populations, competition and climate shifts ended the Neanderthals.",
+"wiki": "Neanderthal_extinction",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "neanderthal-extinction"
+},
+{
+"name": "Chauvet Cave paintings",
+"year": -36000,
+"when": "~36,000 years ago",
+"etype": "Culture",
+"lane": "Europe",
+"region": "France",
+"impact": "Masterful Ice Age art",
+"summary": "Lions, rhinos and horses painted with shading and perspective.",
+"wiki": "Chauvet_Cave",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "chauvet-cave-paintings"
+},
+{
+"name": "Dog domestication",
+"year": -23000,
+"when": "~23,000–15,000 years ago",
+"etype": "Domestication",
+"lane": "Central Asia",
+"region": "Siberia / Eurasia",
+"impact": "First domestic animal",
+"summary": "Wolves became dogs alongside Ice Age hunters.",
+"wiki": "Origin_of_the_domestic_dog",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "dog-domestication"
+},
+{
+"name": "White Sands footprints",
+"year": -21000,
+"when": "~23,000–21,000 years ago",
+"etype": "Migration",
+"lane": "Americas",
+"region": "New Mexico, USA",
+"impact": "Earliest firm evidence of people in the Americas",
+"summary": "Human footprints in ancient lake mud.",
+"wiki": "White_Sands_National_Park",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "white-sands-footprints"
+},
+{
+"name": "Clovis culture",
+"year": -11000,
+"when": "~13,000 years ago",
+"etype": "Culture",
+"lane": "Americas",
+"region": "North America",
+"impact": "Big-game hunting of mammoths",
+"summary": "Fluted spear points spread across North America.",
+"wiki": "Clovis_culture",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "clovis-culture"
+},
+{
+"name": "Natufian culture and first villages",
+"year": -12500,
+"when": "~15,000–11,500 years ago",
+"etype": "Society",
+"lane": "Middle East",
+"region": "Levant",
+"impact": "First settled villages before farming",
+"summary": "Hunter-gatherers harvested wild grains and built stone houses.",
+"wiki": "Natufian_culture",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "natufian-culture-and-first-villages"
+},
+{
+"name": "Göbekli Tepe built",
+"year": -9500,
+"when": "~9500 BCE",
+"etype": "Culture",
+"lane": "Middle East",
+"region": "Turkey",
+"impact": "Monumental building before farming",
+"summary": "Carved stone pillars raised by hunter-gatherers.",
+"wiki": "Göbekli_Tepe",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "g-bekli-tepe-built"
+},
+{
+"name": "Jericho walls and tower",
+"year": -8000,
+"when": "~8000 BCE",
+"etype": "Construction",
+"lane": "Middle East",
+"region": "Palestine",
+"impact": "One of the oldest towns",
+"summary": "A stone tower and wall around an early farming town.",
+"wiki": "Tower_of_Jericho",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "jericho-walls-and-tower"
+},
+{
+"name": "Rice cultivation in the Yangtze",
+"year": -7000,
+"when": "~7000 BCE",
+"etype": "Agriculture",
+"lane": "East Asia",
+"region": "China",
+"impact": "Rice farming begins",
+"summary": "Shangshan and Hemudu villages grew rice.",
+"wiki": "Domestication_of_rice",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "rice-cultivation-in-the-yangtze"
+},
+{
+"name": "Maize domestication",
+"year": -7000,
+"when": "~9,000 years ago",
+"etype": "Agriculture",
+"lane": "Americas",
+"region": "Mexico",
+"impact": "Staple of the Americas",
+"summary": "Teosinte was bred into maize in the Balsas valley.",
+"wiki": "Maize",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "maize-domestication"
+},
+{
+"name": "Copper smelting",
+"year": -5000,
+"when": "~5000 BCE",
+"etype": "Technology",
+"lane": "Europe",
+"region": "Serbia (Belovode); Iran",
+"impact": "Start of metallurgy",
+"summary": "The earliest known smelted copper.",
+"wiki": "Copper_Age",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "copper-smelting"
+},
+{
+"name": "Horse domestication",
+"year": -2200,
+"when": "~2200 BCE (modern horses)",
+"etype": "Domestication",
+"lane": "Central Asia",
+"region": "Pontic–Caspian steppe",
+"impact": "Mobility, warfare, chariots",
+"summary": "Ancient DNA shows today's horses descend from steppe horses domesticated around 4,200 years ago.",
+"wiki": "Domestication_of_the_horse",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "horse-domestication"
+},
+{
+"name": "Wheel and wagon",
+"year": -3500,
+"when": "~3500 BCE",
+"etype": "Technology",
+"lane": "Middle East",
+"region": "Mesopotamia; Pontic steppe",
+"impact": "Transport revolution",
+"summary": "Solid wooden wheels appeared almost simultaneously across Eurasia.",
+"wiki": "Wheel",
+"group": "Human evolution & prehistory",
+"emoji": "🦴",
+"slug": "wheel-and-wagon"
+},
+{
+"name": "Narmer unifies Egypt",
+"year": -3100,
+"when": "~3100 BCE",
+"etype": "State formation",
+"lane": "Africa",
+"region": "Egypt",
+"impact": "First nation-state",
+"summary": "The Narmer Palette shows a king wearing both crowns.",
+"wiki": "Narmer",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "narmer-unifies-egypt"
+},
+{
+"name": "Uruk, the first city",
+"year": -3500,
+"when": "~3500 BCE",
+"etype": "Urbanisation",
+"lane": "Middle East",
+"region": "Iraq",
+"impact": "Birth of cities and writing",
+"summary": "Uruk grew to over 40,000 people.",
+"wiki": "Uruk",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "uruk-the-first-city"
+},
+{
+"name": "Great Pyramid built",
+"year": -2560,
+"when": "~2560 BCE",
+"etype": "Construction",
+"lane": "Africa",
+"region": "Egypt",
+"impact": "Tallest structure for 3,800 years",
+"summary": "Built for Khufu by organised paid crews.",
+"wiki": "Great_Pyramid_of_Giza",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "great-pyramid-built"
+},
+{
+"name": "Sargon founds Akkad",
+"year": -2334,
+"when": "~2334 BCE",
+"etype": "Conquest",
+"lane": "Middle East",
+"region": "Mesopotamia",
+"impact": "The first empire",
+"summary": "Sargon united Sumerian city-states.",
+"wiki": "Sargon_of_Akkad",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "sargon-founds-akkad"
+},
+{
+"name": "Indus mature urban phase",
+"year": -2600,
+"when": "~2600 BCE",
+"etype": "Urbanisation",
+"lane": "South Asia",
+"region": "Indus Valley",
+"impact": "South Asia's first cities",
+"summary": "Harappa, Mohenjo-daro and Dholavira flourish.",
+"wiki": "Indus_Valley_Civilisation",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "indus-mature-urban-phase"
+},
+{
+"name": "Code of Hammurabi",
+"year": -1754,
+"when": "~1754 BCE",
+"etype": "Law",
+"lane": "Middle East",
+"region": "Babylon",
+"impact": "Written law",
+"summary": "282 laws carved on a stele.",
+"wiki": "Code_of_Hammurabi",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "code-of-hammurabi"
+},
+{
+"name": "Thera eruption",
+"year": -1600,
+"when": "~1600 BCE",
+"etype": "Natural disaster",
+"lane": "Europe",
+"region": "Aegean",
+"impact": "Minoan decline",
+"summary": "A massive eruption buried Akrotiri.",
+"wiki": "Minoan_eruption",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "thera-eruption"
+},
+{
+"name": "Hyksos expelled from Egypt",
+"year": -1550,
+"when": "~1550 BCE",
+"etype": "War",
+"lane": "Africa",
+"region": "Egypt",
+"impact": "New Kingdom begins",
+"summary": "Ahmose I drove out Asian rulers.",
+"wiki": "Hyksos",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "hyksos-expelled-from-egypt"
+},
+{
+"name": "Akhenaten's religious revolution",
+"year": -1350,
+"when": "~1350 BCE",
+"etype": "Religion",
+"lane": "Africa",
+"region": "Egypt",
+"impact": "Short-lived worship of the Aten",
+"summary": "A pharaoh promoted a single sun-disc god.",
+"wiki": "Akhenaten",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "akhenatens-religious-revolution"
+},
+{
+"name": "Trojan War (traditional)",
+"year": -1200,
+"when": "~1200 BCE",
+"etype": "War",
+"lane": "Europe",
+"region": "Anatolia",
+"impact": "Legend of Homer's Iliad",
+"summary": "Excavations at Hisarlik show a destroyed city around this time.",
+"wiki": "Trojan_War",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "trojan-war-traditional"
+},
+{
+"name": "Iron smelting spreads",
+"year": -1200,
+"when": "~1200 BCE",
+"etype": "Technology",
+"lane": "Middle East",
+"region": "Anatolia, Levant, India",
+"impact": "Iron Age begins",
+"summary": "Cheap iron tools made farming and armies larger.",
+"wiki": "Iron_Age",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "iron-smelting-spreads"
+},
+{
+"name": "Rigveda composed",
+"year": -1500,
+"when": "~1500–1200 BCE",
+"etype": "Literature",
+"lane": "South Asia",
+"region": "Punjab",
+"impact": "Oldest Indian text",
+"summary": "Hymns preserved orally for millennia.",
+"wiki": "Rigveda",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "rigveda-composed"
+},
+{
+"name": "Olympic Games founded",
+"year": -776,
+"when": "776 BCE",
+"etype": "Culture",
+"lane": "Europe",
+"region": "Greece",
+"impact": "Greek unity through sport",
+"summary": "Held every four years for over 1,000 years.",
+"wiki": "Ancient_Olympic_Games",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "olympic-games-founded"
+},
+{
+"name": "Rome founded (legend)",
+"year": -753,
+"when": "753 BCE",
+"etype": "City founding",
+"lane": "Europe",
+"region": "Italy",
+"impact": "Rome begins",
+"summary": "Romulus and Remus legend.",
+"wiki": "Founding_of_Rome",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "rome-founded-legend"
+},
+{
+"name": "Fall of Nineveh",
+"year": -612,
+"when": "612 BCE",
+"etype": "War",
+"lane": "Middle East",
+"region": "Iraq",
+"impact": "End of Assyria",
+"summary": "Babylonians and Medes destroyed the Assyrian capital.",
+"wiki": "Battle_of_Nineveh_(612_BC)",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "fall-of-nineveh"
+},
+{
+"name": "Babylonian captivity",
+"year": -587,
+"when": "587 BCE",
+"etype": "Conquest",
+"lane": "Middle East",
+"region": "Jerusalem",
+"impact": "Jewish exile",
+"summary": "Nebuchadnezzar destroyed the First Temple.",
+"wiki": "Babylonian_captivity",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "babylonian-captivity"
+},
+{
+"name": "Cyrus takes Babylon",
+"year": -539,
+"when": "539 BCE",
+"etype": "Conquest",
+"lane": "Middle East",
+"region": "Babylon",
+"impact": "Persian Empire",
+"summary": "Cyrus freed the exiled Jews.",
+"wiki": "Fall_of_Babylon",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "cyrus-takes-babylon"
+},
+{
+"name": "Athenian democracy",
+"year": -508,
+"when": "508 BCE",
+"etype": "Politics",
+"lane": "Europe",
+"region": "Athens",
+"impact": "Rule by citizens",
+"summary": "Cleisthenes' reforms.",
+"wiki": "Athenian_democracy",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "athenian-democracy"
+},
+{
+"name": "Battle of Marathon",
+"year": -490,
+"when": "490 BCE",
+"etype": "War",
+"lane": "Europe",
+"region": "Greece",
+"impact": "Greek victory over Persia",
+"summary": "The legend of the runner.",
+"wiki": "Battle_of_Marathon",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "battle-of-marathon"
+},
+{
+"name": "Peloponnesian War",
+"year": -431,
+"when": "431–404 BCE",
+"etype": "War",
+"lane": "Europe",
+"region": "Greece",
+"impact": "Athens defeated by Sparta",
+"summary": "Recorded by Thucydides.",
+"wiki": "Peloponnesian_War",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "peloponnesian-war"
+},
+{
+"name": "Death of Socrates",
+"year": -399,
+"when": "399 BCE",
+"etype": "Philosophy",
+"lane": "Europe",
+"region": "Athens",
+"impact": "Martyr of free inquiry",
+"summary": "Condemned for impiety.",
+"wiki": "Trial_of_Socrates",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "death-of-socrates"
+},
+{
+"name": "Alexander conquers Persia",
+"year": -331,
+"when": "331 BCE",
+"etype": "Conquest",
+"lane": "Middle East",
+"region": "Gaugamela",
+"impact": "Hellenistic age",
+"summary": "Alexander defeated Darius III.",
+"wiki": "Battle_of_Gaugamela",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "alexander-conquers-persia"
+},
+{
+"name": "Chandragupta–Seleucus treaty",
+"year": -303,
+"when": "~303 BCE",
+"etype": "Diplomacy",
+"lane": "South Asia",
+"region": "North-west India",
+"impact": "Mauryas gain the northwest",
+"summary": "Seleucus traded lands for 500 war elephants.",
+"wiki": "Seleucid–Mauryan_war",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "chandragupta-seleucus-treaty"
+},
+{
+"name": "Ashoka's edicts",
+"year": -260,
+"when": "~260 BCE",
+"etype": "Politics",
+"lane": "South Asia",
+"region": "India",
+"impact": "First Indian moral state",
+"summary": "Rock edicts in Brahmi and Kharosthi.",
+"wiki": "Edicts_of_Ashoka",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "ashokas-edicts"
+},
+{
+"name": "Great Wall unified by Qin",
+"year": -215,
+"when": "~215 BCE",
+"etype": "Construction",
+"lane": "East Asia",
+"region": "China",
+"impact": "Northern defence",
+"summary": "Earlier walls joined under Qin Shi Huang.",
+"wiki": "Great_Wall_of_China",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "great-wall-unified-by-qin"
+},
+{
+"name": "Silk Road opened (Zhang Qian)",
+"year": -138,
+"when": "138–126 BCE",
+"etype": "Trade",
+"lane": "Central Asia",
+"region": "China to Central Asia",
+"impact": "Eurasian trade network",
+"summary": "Han envoy Zhang Qian reached Bactria.",
+"wiki": "Zhang_Qian",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "silk-road-opened-zhang-qian"
+},
+{
+"name": "Spartacus revolt",
+"year": -73,
+"when": "73–71 BCE",
+"etype": "Uprising",
+"lane": "Europe",
+"region": "Italy",
+"impact": "Largest slave revolt",
+"summary": "Crushed by Crassus.",
+"wiki": "Third_Servile_War",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "spartacus-revolt"
+},
+{
+"name": "Battle of Actium",
+"year": -31,
+"when": "31 BCE",
+"etype": "War",
+"lane": "Europe",
+"region": "Greece",
+"impact": "Rome's empire begins",
+"summary": "Octavian defeated Antony and Cleopatra.",
+"wiki": "Battle_of_Actium",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "battle-of-actium"
+},
+{
+"name": "Teutoburg Forest",
+"year": 9,
+"when": "9 CE",
+"etype": "War",
+"lane": "Europe",
+"region": "Germany",
+"impact": "Rome stops at the Rhine",
+"summary": "Three legions destroyed by Arminius.",
+"wiki": "Battle_of_the_Teutoburg_Forest",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "teutoburg-forest"
+},
+{
+"name": "Kanishka's council",
+"year": 127,
+"when": "~127 CE",
+"etype": "Religion",
+"lane": "South Asia",
+"region": "Kashmir",
+"impact": "Spread of Mahayana Buddhism",
+"summary": "Kushan patronage.",
+"wiki": "Kanishka",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "kanishkas-council"
+},
+{
+"name": "Yellow Turban rebellion",
+"year": 184,
+"when": "184 CE",
+"etype": "Uprising",
+"lane": "East Asia",
+"region": "China",
+"impact": "Han collapse",
+"summary": "Peasant revolt led to warlordism and the Three Kingdoms.",
+"wiki": "Yellow_Turban_Rebellion",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "yellow-turban-rebellion"
+},
+{
+"name": "Crisis of the Third Century",
+"year": 235,
+"when": "235–284",
+"etype": "Collapse",
+"lane": "Europe",
+"region": "Roman Empire",
+"impact": "Near collapse of Rome",
+"summary": "Over 20 emperors in 50 years.",
+"wiki": "Crisis_of_the_Third_Century",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "crisis-of-the-third-century"
+},
+{
+"name": "Constantine legalises Christianity",
+"year": 313,
+"when": "313 CE",
+"etype": "Religion",
+"lane": "Europe",
+"region": "Rome",
+"impact": "Christian Europe",
+"summary": "Edict of Milan.",
+"wiki": "Edict_of_Milan",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "constantine-legalises-christianity"
+},
+{
+"name": "Sack of Rome by Visigoths",
+"year": 410,
+"when": "410 CE",
+"etype": "War",
+"lane": "Europe",
+"region": "Rome",
+"impact": "Shock to the Roman world",
+"summary": "Alaric's army sacked Rome.",
+"wiki": "Sack_of_Rome_(410)",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "sack-of-rome-by-visigoths"
+},
+{
+"name": "Huna invasions of India",
+"year": 460,
+"when": "~460–530",
+"etype": "Invasion",
+"lane": "South Asia",
+"region": "North India",
+"impact": "Gupta decline",
+"summary": "Toramana and Mihirakula attacked northern India.",
+"wiki": "Alchon_Huns",
+"group": "Ancient world",
+"emoji": "🏺",
+"slug": "huna-invasions-of-india"
+},
+{
+"name": "Battle of Badr",
+"year": 624,
+"when": "624 CE",
+"etype": "War",
+"lane": "Middle East",
+"region": "Arabia",
+"impact": "Early Muslim victory",
+"summary": "Muslims defeated the Meccans.",
+"wiki": "Battle_of_Badr",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "battle-of-badr"
+},
+{
+"name": "Battle of Qadisiyyah",
+"year": 636,
+"when": "636 CE",
+"etype": "War",
+"lane": "Middle East",
+"region": "Iraq",
+"impact": "Fall of Sasanian Persia",
+"summary": "Arab armies defeated the Persians.",
+"wiki": "Battle_of_al-Qadisiyyah",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "battle-of-qadisiyyah"
+},
+{
+"name": "Xuanzang's journey to India",
+"year": 629,
+"when": "629–645",
+"etype": "Travel",
+"lane": "South Asia",
+"region": "India",
+"impact": "Chinese record of Indian life",
+"summary": "Studied at Nalanda and brought texts to China.",
+"wiki": "Xuanzang",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "xuanzangs-journey-to-india"
+},
+{
+"name": "Tang–Tibet wars",
+"year": 670,
+"when": "670–822",
+"etype": "War",
+"lane": "East Asia",
+"region": "Tibet",
+"impact": "Rise of the Tibetan Empire",
+"summary": "Songtsen Gampo's successors rivalled the Tang.",
+"wiki": "Tibetan_Empire",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "tang-tibet-wars"
+},
+{
+"name": "An Lushan rebellion",
+"year": 755,
+"when": "755–763",
+"etype": "Uprising",
+"lane": "East Asia",
+"region": "China",
+"impact": "Millions dead; Tang weakened",
+"summary": "One of the deadliest conflicts of pre-modern times.",
+"wiki": "An_Lushan_rebellion",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "an-lushan-rebellion"
+},
+{
+"name": "Charlemagne crowned emperor",
+"year": 800,
+"when": "800 CE",
+"etype": "Politics",
+"lane": "Europe",
+"region": "Rome",
+"impact": "Holy Roman Empire",
+"summary": "Crowned by Pope Leo III.",
+"wiki": "Charlemagne",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "charlemagne-crowned-emperor"
+},
+{
+"name": "Viking raid on Lindisfarne",
+"year": 793,
+"when": 793,
+"etype": "War",
+"lane": "Europe",
+"region": "England",
+"impact": "Viking Age begins",
+"summary": "Monks massacred at a famous monastery.",
+"wiki": "Lindisfarne",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "viking-raid-on-lindisfarne"
+},
+{
+"name": "Battle of Manzikert",
+"year": 1071,
+"when": 1071,
+"etype": "War",
+"lane": "Middle East",
+"region": "Anatolia",
+"impact": "Turks enter Anatolia",
+"summary": "Seljuks defeated Byzantium.",
+"wiki": "Battle_of_Manzikert",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "battle-of-manzikert"
+},
+{
+"name": "Mahmud of Ghazni raids Somnath",
+"year": 1025,
+"when": 1025,
+"etype": "Invasion",
+"lane": "South Asia",
+"region": "Gujarat",
+"impact": "Plunder of temple wealth",
+"summary": "One of 17 raids into India.",
+"wiki": "Mahmud_of_Ghazni",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "mahmud-of-ghazni-raids-somnath"
+},
+{
+"name": "Angkor Wat built",
+"year": 1150,
+"when": "~1113–1150",
+"etype": "Construction",
+"lane": "Southeast Asia",
+"region": "Cambodia",
+"impact": "Largest religious monument",
+"summary": "Built by Suryavarman II.",
+"wiki": "Angkor_Wat",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "angkor-wat-built"
+},
+{
+"name": "Saladin retakes Jerusalem",
+"year": 1187,
+"when": 1187,
+"etype": "War",
+"lane": "Middle East",
+"region": "Jerusalem",
+"impact": "End of the Crusader kingdom's core",
+"summary": "After the Battle of Hattin.",
+"wiki": "Siege_of_Jerusalem_(1187)",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "saladin-retakes-jerusalem"
+},
+{
+"name": "Fourth Crusade sacks Constantinople",
+"year": 1204,
+"when": 1204,
+"etype": "War",
+"lane": "Europe",
+"region": "Constantinople",
+"impact": "Byzantine collapse",
+"summary": "Crusaders attacked a Christian city.",
+"wiki": "Fourth_Crusade",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "fourth-crusade-sacks-constantinople"
+},
+{
+"name": "Battle of Ain Jalut",
+"year": 1260,
+"when": 1260,
+"etype": "War",
+"lane": "Middle East",
+"region": "Palestine",
+"impact": "Mongol advance halted",
+"summary": "Mamluks defeated the Mongols.",
+"wiki": "Battle_of_Ain_Jalut",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "battle-of-ain-jalut"
+},
+{
+"name": "Marco Polo in China",
+"year": 1275,
+"when": "1275–1292",
+"etype": "Travel",
+"lane": "East Asia",
+"region": "Yuan China",
+"impact": "European fascination with Asia",
+"summary": "His book inspired Columbus.",
+"wiki": "Marco_Polo",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "marco-polo-in-china"
+},
+{
+"name": "Mongol invasions of Japan",
+"year": 1274,
+"when": "1274 and 1281",
+"etype": "War",
+"lane": "East Asia",
+"region": "Japan",
+"impact": "'Kamikaze' storms",
+"summary": "Typhoons wrecked Kublai's fleets.",
+"wiki": "Mongol_invasions_of_Japan",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "mongol-invasions-of-japan"
+},
+{
+"name": "Great Famine of Europe",
+"year": 1315,
+"when": "1315–1317",
+"etype": "Famine",
+"lane": "Europe",
+"region": "Northern Europe",
+"impact": "Millions dead",
+"summary": "Rain-ruined harvests at the start of the Little Ice Age.",
+"wiki": "Great_Famine_of_1315–1317",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "great-famine-of-europe"
+},
+{
+"name": "Hundred Years' War",
+"year": 1337,
+"when": "1337–1453",
+"etype": "War",
+"lane": "Europe",
+"region": "France and England",
+"impact": "National identities formed",
+"summary": "Joan of Arc; the longbow at Agincourt.",
+"wiki": "Hundred_Years'_War",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "hundred-years-war"
+},
+{
+"name": "Timur sacks Delhi",
+"year": 1398,
+"when": 1398,
+"etype": "War",
+"lane": "South Asia",
+"region": "Delhi",
+"impact": "Tughlaq collapse",
+"summary": "Tens of thousands killed.",
+"wiki": "Timur's_invasion_of_India",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "timur-sacks-delhi"
+},
+{
+"name": "Zheng He's voyages",
+"year": 1405,
+"when": "1405–1433",
+"etype": "Exploration",
+"lane": "East Asia",
+"region": "Indian Ocean",
+"impact": "Ming maritime power",
+"summary": "Treasure fleets reached Calicut and East Africa.",
+"wiki": "Zheng_He",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "zheng-hes-voyages"
+},
+{
+"name": "Battle of Grunwald",
+"year": 1410,
+"when": 1410,
+"etype": "War",
+"lane": "Europe",
+"region": "Poland",
+"impact": "Teutonic Knights defeated",
+"summary": "One of medieval Europe's largest battles.",
+"wiki": "Battle_of_Grunwald",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "battle-of-grunwald"
+},
+{
+"name": "Fall of Granada and Reconquista",
+"year": 1492,
+"when": 1492,
+"etype": "War",
+"lane": "Europe",
+"region": "Spain",
+"impact": "End of Muslim rule in Iberia",
+"summary": "Expulsion of Jews followed.",
+"wiki": "Fall_of_Granada",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "fall-of-granada-and-reconquista"
+},
+{
+"name": "Portuguese take Goa",
+"year": 1510,
+"when": 1510,
+"etype": "Colonialism",
+"lane": "South Asia",
+"region": "Goa",
+"impact": "European colony in India",
+"summary": "Afonso de Albuquerque captured it.",
+"wiki": "Portuguese_conquest_of_Goa",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "portuguese-take-goa"
+},
+{
+"name": "Protestant Reformation",
+"year": 1517,
+"when": 1517,
+"etype": "Religion",
+"lane": "Europe",
+"region": "Germany",
+"impact": "Split of Western Christianity",
+"summary": "Luther's 95 theses.",
+"wiki": "Reformation",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "protestant-reformation"
+},
+{
+"name": "Battle of Khanwa",
+"year": 1527,
+"when": 1527,
+"etype": "War",
+"lane": "South Asia",
+"region": "Rajasthan",
+"impact": "Mughal rule secured",
+"summary": "Babur defeated Rana Sanga.",
+"wiki": "Battle_of_Khanwa",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "battle-of-khanwa"
+},
+{
+"name": "Second Battle of Panipat",
+"year": 1556,
+"when": 1556,
+"etype": "War",
+"lane": "South Asia",
+"region": "Haryana",
+"impact": "Akbar's reign begins",
+"summary": "Hemu defeated.",
+"wiki": "Second_Battle_of_Panipat",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "second-battle-of-panipat"
+},
+{
+"name": "Battle of Haldighati",
+"year": 1576,
+"when": 1576,
+"etype": "War",
+"lane": "South Asia",
+"region": "Rajasthan",
+"impact": "Symbol of Rajput resistance",
+"summary": "Maharana Pratap fought Akbar's army.",
+"wiki": "Battle_of_Haldighati",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "battle-of-haldighati"
+},
+{
+"name": "Spanish Armada defeated",
+"year": 1588,
+"when": 1588,
+"etype": "War",
+"lane": "Europe",
+"region": "English Channel",
+"impact": "English naval rise",
+"summary": "Storms and fireships scattered the fleet.",
+"wiki": "Spanish_Armada",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "spanish-armada-defeated"
+},
+{
+"name": "Imjin War",
+"year": 1592,
+"when": "1592–1598",
+"etype": "War",
+"lane": "East Asia",
+"region": "Korea",
+"impact": "Japanese invasion repelled",
+"summary": "Admiral Yi's turtle ships.",
+"wiki": "Imjin_War",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "imjin-war"
+},
+{
+"name": "Battle of Sekigahara",
+"year": 1600,
+"when": 1600,
+"etype": "War",
+"lane": "East Asia",
+"region": "Japan",
+"impact": "Tokugawa peace",
+"summary": "Decided Japan's unification.",
+"wiki": "Battle_of_Sekigahara",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "battle-of-sekigahara"
+},
+{
+"name": "Dutch East India Company founded",
+"year": 1602,
+"when": 1602,
+"etype": "Trade",
+"lane": "Europe",
+"region": "Netherlands",
+"impact": "First public company",
+"summary": "Monopoly on Asian spice trade.",
+"wiki": "Dutch_East_India_Company",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "dutch-east-india-company-founded"
+},
+{
+"name": "Jamestown founded",
+"year": 1607,
+"when": 1607,
+"etype": "Colonialism",
+"lane": "Americas",
+"region": "Virginia",
+"impact": "English America",
+"summary": "First permanent English colony.",
+"wiki": "Jamestown,_Virginia",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "jamestown-founded"
+},
+{
+"name": "English Civil War",
+"year": 1642,
+"when": "1642–1651",
+"etype": "War",
+"lane": "Europe",
+"region": "England",
+"impact": "King executed",
+"summary": "Charles I beheaded (1649).",
+"wiki": "English_Civil_War",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "english-civil-war"
+},
+{
+"name": "Manchu conquest of China",
+"year": 1644,
+"when": 1644,
+"etype": "Conquest",
+"lane": "East Asia",
+"region": "Beijing",
+"impact": "Qing dynasty",
+"summary": "Ming collapsed after Li Zicheng's revolt.",
+"wiki": "Transition_from_Ming_to_Qing",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "manchu-conquest-of-china"
+},
+{
+"name": "Shivaji's coronation",
+"year": 1674,
+"when": 1674,
+"etype": "Politics",
+"lane": "South Asia",
+"region": "Raigad",
+"impact": "Maratha kingdom",
+"summary": "Crowned Chhatrapati.",
+"wiki": "Shivaji",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "shivajis-coronation"
+},
+{
+"name": "Glorious Revolution",
+"year": 1688,
+"when": 1688,
+"etype": "Politics",
+"lane": "Europe",
+"region": "England",
+"impact": "Parliamentary supremacy",
+"summary": "Bill of Rights (1689).",
+"wiki": "Glorious_Revolution",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "glorious-revolution"
+},
+{
+"name": "Death of Aurangzeb",
+"year": 1707,
+"when": 1707,
+"etype": "Politics",
+"lane": "South Asia",
+"region": "Deccan",
+"impact": "Mughal decline",
+"summary": "Succession wars followed.",
+"wiki": "Aurangzeb",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "death-of-aurangzeb"
+},
+{
+"name": "Nadir Shah sacks Delhi",
+"year": 1739,
+"when": 1739,
+"etype": "War",
+"lane": "South Asia",
+"region": "Delhi",
+"impact": "Peacock Throne and Koh-i-Noor taken",
+"summary": "A massacre in Delhi.",
+"wiki": "Nadir_Shah's_invasion_of_the_Mughal_Empire",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "nadir-shah-sacks-delhi"
+},
+{
+"name": "Seven Years' War",
+"year": 1756,
+"when": "1756–1763",
+"etype": "World war",
+"lane": "Global",
+"region": "Global",
+"impact": "Britain dominates India and North America",
+"summary": "Called the first world war.",
+"wiki": "Seven_Years'_War",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "seven-years-war"
+},
+{
+"name": "Black Hole of Calcutta",
+"year": 1756,
+"when": 1756,
+"etype": "War",
+"lane": "South Asia",
+"region": "Calcutta",
+"impact": "Pretext for Plassey",
+"summary": "A disputed incident used in British propaganda.",
+"wiki": "Black_Hole_of_Calcutta",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "black-hole-of-calcutta"
+},
+{
+"name": "Treaty of Allahabad",
+"year": 1765,
+"when": 1765,
+"etype": "Colonialism",
+"lane": "South Asia",
+"region": "Allahabad",
+"impact": "Company gains diwani",
+"summary": "The Company became Bengal's tax collector.",
+"wiki": "Treaty_of_Allahabad",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "treaty-of-allahabad"
+},
+{
+"name": "Watt's steam engine",
+"year": 1776,
+"when": 1776,
+"etype": "Technology",
+"lane": "Europe",
+"region": "Britain",
+"impact": "Industrial power",
+"summary": "Efficient steam power for factories.",
+"wiki": "Watt_steam_engine",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "watts-steam-engine"
+},
+{
+"name": "Permanent Settlement",
+"year": 1793,
+"when": 1793,
+"etype": "Colonialism",
+"lane": "South Asia",
+"region": "Bengal",
+"impact": "Zamindari system",
+"summary": "Fixed land revenue.",
+"wiki": "Permanent_Settlement",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "permanent-settlement"
+},
+{
+"name": "Fall of Srirangapatna",
+"year": 1799,
+"when": 1799,
+"etype": "War",
+"lane": "South Asia",
+"region": "Mysore",
+"impact": "Tipu Sultan killed",
+"summary": "British control of the south.",
+"wiki": "Siege_of_Seringapatam_(1799)",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "fall-of-srirangapatna"
+},
+{
+"name": "Battle of Waterloo",
+"year": 1815,
+"when": 1815,
+"etype": "War",
+"lane": "Europe",
+"region": "Belgium",
+"impact": "End of Napoleon",
+"summary": "Wellington and Blücher won.",
+"wiki": "Battle_of_Waterloo",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "battle-of-waterloo"
+},
+{
+"name": "Latin American independence",
+"year": 1810,
+"when": "1810–1826",
+"etype": "Independence",
+"lane": "Americas",
+"region": "South America",
+"impact": "New republics",
+"summary": "Bolívar and San Martín led wars of independence.",
+"wiki": "Spanish_American_wars_of_independence",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "latin-american-independence"
+},
+{
+"name": "Abolition of sati",
+"year": 1829,
+"when": 1829,
+"etype": "Reform",
+"lane": "South Asia",
+"region": "Bengal",
+"impact": "Social reform",
+"summary": "Campaign led by Ram Mohan Roy.",
+"wiki": "Sati_(practice)",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "abolition-of-sati"
+},
+{
+"name": "Macaulay's Minute on Education",
+"year": 1835,
+"when": 1835,
+"etype": "Colonialism",
+"lane": "South Asia",
+"region": "India",
+"impact": "English education",
+"summary": "Created an English-educated class.",
+"wiki": "Macaulay's_Minute",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "macaulays-minute-on-education"
+},
+{
+"name": "Irish Great Famine",
+"year": 1845,
+"when": "1845–1852",
+"etype": "Famine",
+"lane": "Europe",
+"region": "Ireland",
+"impact": "~1 million dead, 1 million emigrated",
+"summary": "Potato blight and British policy.",
+"wiki": "Great_Famine_(Ireland)",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "irish-great-famine"
+},
+{
+"name": "Revolutions of 1848",
+"year": 1848,
+"when": 1848,
+"etype": "Revolution",
+"lane": "Europe",
+"region": "Europe",
+"impact": "Spread of liberalism",
+"summary": "A wave across Europe.",
+"wiki": "Revolutions_of_1848",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "revolutions-of-1848"
+},
+{
+"name": "First Indian railway",
+"year": 1853,
+"when": "16 April 1853",
+"etype": "Technology",
+"lane": "South Asia",
+"region": "Bombay–Thane",
+"impact": "Rail transport in India",
+"summary": "34 km run.",
+"wiki": "Rail_transport_in_India",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "first-indian-railway"
+},
+{
+"name": "Taiping Rebellion",
+"year": 1850,
+"when": "1850–1864",
+"etype": "Civil war",
+"lane": "East Asia",
+"region": "China",
+"impact": "20–30 million dead",
+"summary": "Led by a man claiming to be Jesus's brother.",
+"wiki": "Taiping_Rebellion",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "taiping-rebellion"
+},
+{
+"name": "Meiji Restoration",
+"year": 1868,
+"when": 1868,
+"etype": "Politics",
+"lane": "East Asia",
+"region": "Japan",
+"impact": "Rapid modernisation",
+"summary": "End of the shogunate.",
+"wiki": "Meiji_Restoration",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "meiji-restoration"
+},
+{
+"name": "Suez Canal opens",
+"year": 1869,
+"when": 1869,
+"etype": "Construction",
+"lane": "Africa",
+"region": "Egypt",
+"impact": "Shorter route to India",
+"summary": "Cut sailing distance by ~7,000 km.",
+"wiki": "Suez_Canal",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "suez-canal-opens"
+},
+{
+"name": "German unification",
+"year": 1871,
+"when": 1871,
+"etype": "Politics",
+"lane": "Europe",
+"region": "Germany",
+"impact": "New great power",
+"summary": "Bismarck's wars.",
+"wiki": "Unification_of_Germany",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "german-unification"
+},
+{
+"name": "Berlin Conference",
+"year": 1884,
+"when": "1884–1885",
+"etype": "Colonialism",
+"lane": "Africa",
+"region": "Berlin",
+"impact": "Partition of Africa",
+"summary": "No Africans were invited.",
+"wiki": "Berlin_Conference",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "berlin-conference"
+},
+{
+"name": "Battle of Adwa",
+"year": 1896,
+"when": 1896,
+"etype": "War",
+"lane": "Africa",
+"region": "Ethiopia",
+"impact": "Ethiopia stays independent",
+"summary": "Menelik II defeated Italy.",
+"wiki": "Battle_of_Adwa",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "battle-of-adwa"
+},
+{
+"name": "Wright brothers' flight",
+"year": 1903,
+"when": 1903,
+"etype": "Technology",
+"lane": "Americas",
+"region": "USA",
+"impact": "Powered flight",
+"summary": "12 seconds at Kitty Hawk.",
+"wiki": "Wright_Flyer",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "wright-brothers-flight"
+},
+{
+"name": "Russo-Japanese War",
+"year": 1904,
+"when": "1904–1905",
+"etype": "War",
+"lane": "East Asia",
+"region": "Manchuria",
+"impact": "First Asian victory over a European power",
+"summary": "Inspired anti-colonial movements.",
+"wiki": "Russo-Japanese_War",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "russo-japanese-war"
+},
+{
+"name": "Xinhai Revolution",
+"year": 1911,
+"when": 1911,
+"etype": "Revolution",
+"lane": "East Asia",
+"region": "China",
+"impact": "End of imperial China",
+"summary": "Sun Yat-sen's republic.",
+"wiki": "1911_Revolution",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "xinhai-revolution"
+},
+{
+"name": "Champaran Satyagraha",
+"year": 1917,
+"when": 1917,
+"etype": "Freedom struggle",
+"lane": "South Asia",
+"region": "Bihar",
+"impact": "Gandhi's first Indian movement",
+"summary": "Against forced indigo farming.",
+"wiki": "Champaran_Satyagraha",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "champaran-satyagraha"
+},
+{
+"name": "Turkish Republic founded",
+"year": 1923,
+"when": 1923,
+"etype": "Politics",
+"lane": "Middle East",
+"region": "Turkey",
+"impact": "End of Ottoman rule",
+"summary": "Atatürk's reforms.",
+"wiki": "Republic_of_Turkey",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "turkish-republic-founded"
+},
+{
+"name": "Chinese Civil War",
+"year": 1927,
+"when": "1927–1949",
+"etype": "Civil war",
+"lane": "East Asia",
+"region": "China",
+"impact": "Communist victory",
+"summary": "Long March (1934–35).",
+"wiki": "Chinese_Civil_War",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "chinese-civil-war"
+},
+{
+"name": "Spanish Civil War",
+"year": 1936,
+"when": "1936–1939",
+"etype": "Civil war",
+"lane": "Europe",
+"region": "Spain",
+"impact": "Franco's dictatorship",
+"summary": "Rehearsal for WWII.",
+"wiki": "Spanish_Civil_War",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "spanish-civil-war"
+},
+{
+"name": "Battle of Stalingrad",
+"year": 1942,
+"when": "1942–1943",
+"etype": "War",
+"lane": "Europe",
+"region": "USSR",
+"impact": "Turning point of WWII",
+"summary": "Nearly 2 million casualties.",
+"wiki": "Battle_of_Stalingrad",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "battle-of-stalingrad"
+},
+{
+"name": "Battles of Imphal and Kohima",
+"year": 1944,
+"when": 1944,
+"etype": "War",
+"lane": "South Asia",
+"region": "Manipur, Nagaland",
+"impact": "Japan's invasion of India stopped",
+"summary": "Called Britain's greatest battle.",
+"wiki": "Battle_of_Imphal",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "battles-of-imphal-and-kohima"
+},
+{
+"name": "United Nations founded",
+"year": 1945,
+"when": 1945,
+"etype": "Politics",
+"lane": "Global",
+"region": "San Francisco",
+"impact": "Postwar order",
+"summary": "India was a founding member.",
+"wiki": "United_Nations",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "united-nations-founded"
+},
+{
+"name": "Indonesian independence",
+"year": 1945,
+"when": "1945–1949",
+"etype": "Independence",
+"lane": "Southeast Asia",
+"region": "Indonesia",
+"impact": "End of Dutch rule",
+"summary": "Sukarno declared independence.",
+"wiki": "Indonesian_National_Revolution",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "indonesian-independence"
+},
+{
+"name": "Creation of Israel and the Nakba",
+"year": 1948,
+"when": 1948,
+"etype": "Politics",
+"lane": "Middle East",
+"region": "Palestine",
+"impact": "Displacement of ~700,000 Palestinians",
+"summary": "Arab–Israeli war followed.",
+"wiki": "1948_Palestine_war",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "creation-of-israel-and-the-nakba"
+},
+{
+"name": "Assassination of Gandhi",
+"year": 1948,
+"when": "30 January 1948",
+"etype": "Politics",
+"lane": "South Asia",
+"region": "Delhi",
+"impact": "Nation in mourning",
+"summary": "Killed by Nathuram Godse.",
+"wiki": "Assassination_of_Mahatma_Gandhi",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "assassination-of-gandhi"
+},
+{
+"name": "Korean War",
+"year": 1950,
+"when": "1950–1953",
+"etype": "War",
+"lane": "East Asia",
+"region": "Korea",
+"impact": "Divided peninsula",
+"summary": "An armistice, never a peace treaty.",
+"wiki": "Korean_War",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "korean-war"
+},
+{
+"name": "Ghana's independence",
+"year": 1957,
+"when": 1957,
+"etype": "Independence",
+"lane": "Africa",
+"region": "Ghana",
+"impact": "First sub-Saharan colony freed",
+"summary": "Kwame Nkrumah.",
+"wiki": "Ghana",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "ghanas-independence"
+},
+{
+"name": "Sino-Indian War",
+"year": 1962,
+"when": 1962,
+"etype": "War",
+"lane": "South Asia",
+"region": "Himalaya",
+"impact": "Border dispute",
+"summary": "China won a short war.",
+"wiki": "Sino-Indian_war",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "sino-indian-war"
+},
+{
+"name": "Cuban Missile Crisis",
+"year": 1962,
+"when": 1962,
+"etype": "Cold War",
+"lane": "Americas",
+"region": "Cuba",
+"impact": "Nuclear brink",
+"summary": "Thirteen days.",
+"wiki": "Cuban_Missile_Crisis",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "cuban-missile-crisis"
+},
+{
+"name": "Green Revolution in India",
+"year": 1966,
+"when": "1966–1978",
+"etype": "Agriculture",
+"lane": "South Asia",
+"region": "Punjab",
+"impact": "Food self-sufficiency",
+"summary": "High-yield wheat and rice.",
+"wiki": "Green_Revolution_in_India",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "green-revolution-in-india"
+},
+{
+"name": "Emergency in India",
+"year": 1975,
+"when": "1975–1977",
+"etype": "Politics",
+"lane": "South Asia",
+"region": "India",
+"impact": "Civil liberties suspended",
+"summary": "Indira Gandhi's rule by decree.",
+"wiki": "The_Emergency_(India)",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "emergency-in-india"
+},
+{
+"name": "Iranian Revolution",
+"year": 1979,
+"when": 1979,
+"etype": "Revolution",
+"lane": "Middle East",
+"region": "Iran",
+"impact": "Islamic Republic",
+"summary": "Shah overthrown.",
+"wiki": "Iranian_Revolution",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "iranian-revolution"
+},
+{
+"name": "Bhopal gas tragedy",
+"year": 1984,
+"when": 1984,
+"etype": "Disaster",
+"lane": "South Asia",
+"region": "Bhopal",
+"impact": "Thousands killed by toxic gas",
+"summary": "The worst industrial disaster.",
+"wiki": "Bhopal_disaster",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "bhopal-gas-tragedy"
+},
+{
+"name": "Chernobyl disaster",
+"year": 1986,
+"when": 1986,
+"etype": "Disaster",
+"lane": "Europe",
+"region": "Ukraine",
+"impact": "Nuclear catastrophe",
+"summary": "A reactor exploded.",
+"wiki": "Chernobyl_disaster",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "chernobyl-disaster"
+},
+{
+"name": "End of apartheid",
+"year": 1994,
+"when": 1994,
+"etype": "Politics",
+"lane": "Africa",
+"region": "South Africa",
+"impact": "Democracy for all",
+"summary": "Mandela elected.",
+"wiki": "Nelson_Mandela",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "end-of-apartheid"
+},
+{
+"name": "Rwandan genocide",
+"year": 1994,
+"when": 1994,
+"etype": "Genocide",
+"lane": "Africa",
+"region": "Rwanda",
+"impact": "~500,000–800,000 killed",
+"summary": "In about 100 days.",
+"wiki": "Rwandan_genocide",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "rwandan-genocide"
+},
+{
+"name": "2008 financial crisis",
+"year": 2008,
+"when": 2008,
+"etype": "Economic",
+"lane": "Global",
+"region": "USA and world",
+"impact": "Great Recession",
+"summary": "Mortgage collapse.",
+"wiki": "2008_financial_crisis",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "2008-financial-crisis"
+},
+{
+"name": "Arab Spring",
+"year": 2010,
+"when": "2010–2012",
+"etype": "Uprising",
+"lane": "Middle East",
+"region": "Arab world",
+"impact": "Regime changes and civil wars",
+"summary": "Started in Tunisia.",
+"wiki": "Arab_Spring",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "arab-spring"
+},
+{
+"name": "India becomes most populous country",
+"year": 2023,
+"when": 2023,
+"etype": "Demography",
+"lane": "South Asia",
+"region": "India",
+"impact": "~1.43 billion people",
+"summary": "Overtook China.",
+"wiki": "Demographics_of_India",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "india-becomes-most-populous-country"
 }
 ]

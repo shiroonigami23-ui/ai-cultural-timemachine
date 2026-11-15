@@ -17,7 +17,7 @@
     "postinstall": "chmod +x *.sh 2>/dev/null || true",
     "prebuild": "node scripts/copy-history.js",
     "predev": "node scripts/copy-history.js",
-    "history:build": "cd history && python3 scripts/build_site.py"
+    "history:build": "cd history && python3 scripts/make_timelines.py && python3 scripts/build_site.py"
   },
   "dependencies": {
     "react": "^18.2.0",

@@ -1,0 +1,41 @@
+@file inventions.json
+@fields name|year|when|where|by|impact|summary|wiki
+# Prehistoric & ancient|🔥
+Cooking|-800000|Perhaps ~800,000+ years ago|Africa; Middle East|Homo erectus|Easier digestion, more energy for bigger brains|Cooking softened food and killed germs; Richard Wrangham argues it made us human.|Cooking
+Clothing|-170000|~170,000 years ago (lice evidence)|Africa|Homo sapiens|Survival in cold climates|Body lice DNA suggests people wore clothes by ~170,000 years ago.|History_of_clothing_and_textiles
+Hafted spears and glue|-200000|~200,000 years ago|Italy (birch tar); Africa|Neanderthals and early sapiens|Composite tools|Birch-tar glue fixed stone points to shafts.|Birch_tar
+Ochre paint|-300000|~300,000 years ago|Africa|Early humans|Symbolism and decoration|Red ochre was ground into pigment.|Ochre
+Boats|-50000|~65,000–50,000 years ago (inferred)|Southeast Asia to Australia|Homo sapiens|Crossing seas|The oldest surviving boat is the Pesse canoe (~8000 BCE).|Boat
+Fishing hooks|-23000|~23,000 years ago|Okinawa, Japan|Homo sapiens|Marine food|Shell fish-hooks from Sakitari Cave.|Fish_hook
+Musical instruments (flutes)|-40000|~40,000 years ago|Germany|Homo sapiens|Music|Bone and ivory flutes from Hohle Fels.|Prehistoric_music
+Domestication of plants|-9500|~9500 BCE|Fertile Crescent|Neolithic farmers|Agriculture|Wheat, barley and lentils were the first crops.|Domestication
+Irrigation canals|-6000|~6000 BCE|Mesopotamia|Farmers|Farming in drylands|Canals made Sumer's cities possible.|Irrigation
+Plough (ard)|-4000|~4000 BCE|Mesopotamia; Indus|Farmers|More land farmed|A furrowed field at Kalibangan (~2800 BCE) is among the oldest ploughed fields.|Plough
+Sail|-3500|~3500 BCE|Egypt; Mesopotamia|Sailors|Long-distance trade|Sails on Nile boats.|Sail
+Potter's wheel|-4000|~4000 BCE|Mesopotamia|Potters|Mass pottery|Faster, uniform pots.|Potter's_wheel
+Glass|-2500|~2500 BCE|Mesopotamia|Craftspeople|Beads, vessels, windows|Glassblowing came later (~50 BCE, Syria).|Glass
+Calendar (solar)|-3000|~3000 BCE|Egypt|Priests|Timekeeping|The 365-day year.|Egyptian_calendar
+Money (coins)|-600|~600 BCE|Lydia; India (punch-marked)|Kings and merchants|Trade|Electrum coins in Lydia; punch-marked coins in India.|Coin
+Steel (crucible)|-300|~300 BCE|South India|Smiths|Strong blades|Wootz steel exported worldwide.|Crucible_steel
+Ayurveda and surgery texts|-600|~6th c. BCE–3rd c. CE|India|Sushruta, Charaka|Medicine|Described over 300 surgical procedures.|Ayurveda
+Aqueducts|-312|312 BCE (Aqua Appia)|Rome|Roman engineers|City water supply|Rome had 11 aqueducts.|Roman_aqueduct
+Antikythera mechanism|-150|~150–100 BCE|Greece|Greek engineers|Analog computer|Predicted eclipses and planetary positions.|Antikythera_mechanism
+Stepwells|600|~600 CE onward|India|Indian builders|Water storage in drylands|Thousands in Gujarat and Rajasthan.|Stepwell
+Chess (chaturanga)|600|~6th century|India|Gupta-era players|Strategy game|Spread via Persia (shatranj) to Europe.|Chaturanga
+Snakes and ladders (moksha patam)|1200|~13th century|India|Gyandev (traditional)|Moral board game|Taught karma and virtue.|Snakes_and_ladders
+Windmill|900|~9th century|Persia|Persian engineers|Grinding grain|Vertical-axis windmills of Sistan.|Windmill
+Spinning wheel|1000|~1000 CE|India or China|Weavers|Faster yarn|A symbol of Gandhi's swadeshi movement.|Spinning_wheel
+Mechanical clock|1270|~1270s|Europe|Monks|Timekeeping|Verge escapement clocks.|Clock
+Spectacles|1286|~1286|Italy|Unknown|Reading for the elderly|First eyeglasses.|Glasses
+Cannon|1132|~12th century|China|Song engineers|Siege warfare|Changed fortification.|Cannon
+Gun carriage and matchlock|1450|~15th century|Europe; Ottoman|Gunsmiths|Infantry firearms|Matchlocks spread to India with Babur.|Matchlock
+Printing in India|1556|1556|Goa|Jesuits|Indian printing|The first press in India.|Printing_press
+Microscope|1590|~1590|Netherlands|Janssen; later Leeuwenhoek|Microbiology|Leeuwenhoek saw bacteria (1676).|Microscope
+Electric battery|1800|1800|Italy|Alessandro Volta|Electricity|The voltaic pile.|Battery_(electricity)
+Anaesthesia|1846|1846|USA|William Morton|Painless surgery|Ether at Massachusetts General.|Anesthesia
+Germ theory|1861|1860s|France; Germany|Pasteur, Koch|Hygiene and vaccines|Microbes cause disease.|Germ_theory_of_disease
+Periodic table|1869|1869|Russia|Dmitri Mendeleev|Chemistry|Predicted new elements.|Periodic_table
+Automobile|1886|1886|Germany|Karl Benz|Personal transport|The Benz Patent-Motorwagen.|Car
+Wireless (crescograph and microwaves)|1895|1895|India|Jagadish Chandra Bose|Radio science|Bose demonstrated millimetre waves in Kolkata.|Jagadish_Chandra_Bose
+Space flight|1957|1957|USSR|Soviet scientists|Satellites|Sputnik 1.|Sputnik_1
+India's first satellite|1975|1975|India|ISRO|Space programme|Aryabhata satellite.|Aryabhata_(satellite)

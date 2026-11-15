@@ -14,36 +14,55 @@
    "oldest stone tools"
   ],
   [
-   "300,000 yrs",
-   "Homo sapiens"
+   "27",
+   "human species"
   ],
   [
    "86",
    "civilisations"
   ],
   [
-   "101",
+   "98",
+   "dynasties"
+  ],
+  [
+   "247",
    "turning points"
   ],
   [
-   "~600",
-   "Herculaneum scrolls still sealed"
-  ],
-  [
-   "540+",
+   "902+",
    "catalog entries"
   ]
  ],
  "featured": [
+  "branching-timeline",
+  "human-family-tree",
   "india-through-the-ages",
-  "ice-ages-and-humans",
-  "east-india-company-and-the-raj",
-  "plagues-and-pandemics",
-  "daily-life-through-the-ages",
-  "rome-rise-and-fall"
+  "how-iron-changed-everything",
+  "rise-and-fall-of-empires",
+  "east-india-company-and-the-raj"
  ],
  "repo_map": {},
  "sections": [
+  {
+   "id": "timelines",
+   "icon": "🌳",
+   "title": "Branching Timelines",
+   "desc": "A branching timeline of civilisations and dynasties by region, plus region timelines of every catalogued event, person, site, invention and human species.",
+   "pages": [
+    "branching-timeline",
+    "africa",
+    "middle-east",
+    "europe",
+    "south-asia",
+    "central-asia",
+    "east-asia",
+    "southeast-asia",
+    "americas",
+    "oceania",
+    "global"
+   ]
+  },
   {
    "id": "origins",
    "icon": "🦴",
@@ -51,6 +70,11 @@
    "desc": "From the first hominins and the ice ages to the spread of modern humans and the invention of farming.",
    "pages": [
     "human-origins",
+    "from-trees-to-two-feet",
+    "human-family-tree",
+    "fire-and-cooking",
+    "hunter-gatherer-life",
+    "language-evolution",
     "ice-ages-and-humans",
     "agricultural-revolution"
    ]
@@ -65,7 +89,9 @@
     "indus-valley-civilisation",
     "bronze-age-collapse",
     "axial-age",
-    "rome-rise-and-fall"
+    "rome-rise-and-fall",
+    "how-iron-changed-everything",
+    "rise-and-fall-of-empires"
    ]
   },
   {
@@ -77,6 +103,21 @@
     "india-through-the-ages",
     "east-india-company-and-the-raj",
     "freedom-struggle-and-partition"
+   ]
+  },
+  {
+   "id": "world",
+   "icon": "🌍",
+   "title": "Regions Through Time",
+   "desc": "Region-by-region histories: Africa, the Middle East, Europe, South Asia, East Asia, Southeast Asia and Oceania, the Americas, and the steppe.",
+   "pages": [
+    "africa-through-time",
+    "middle-east-through-time",
+    "europe-through-time",
+    "east-asia-through-time",
+    "south-and-southeast-asia-and-oceania",
+    "americas-through-time",
+    "central-asia-and-the-steppe"
    ]
   },
   {
@@ -125,6 +166,110 @@
   }
  ],
  "collections": [
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "links": [
+    {
+     "type": "backname",
+     "coll": "events",
+     "theirs": "summary",
+     "label": "📅 Events"
+    },
+    {
+     "type": "backname",
+     "coll": "eras",
+     "theirs": "species",
+     "label": "⏳ Eras"
+    },
+    {
+     "type": "text",
+     "coll": "hominins",
+     "mine": "summary",
+     "label": "🦴 Related species"
+    }
+   ],
+   "id": "hominins",
+   "icon": "🦴",
+   "title": "Human Species",
+   "short": "Every human species, from Sahelanthropus to us",
+   "noun": "species",
+   "file": "data/hominins.json",
+   "sub_key": "scientific",
+   "desc": "All the members of the human family tree: the earliest upright apes, australopithecines like Lucy, robust Paranthropus, early Homo, Homo erectus, Neanderthals, Denisovans, the Flores 'hobbits' and Homo sapiens, with brain size, height, tools, firsts and key fossils.",
+   "facts": [
+    [
+     "scientific",
+     "Scientific name"
+    ],
+    [
+     "lived",
+     "Lived"
+    ],
+    [
+     "region",
+     "Where"
+    ],
+    [
+     "brain_cc",
+     "Brain size (cm³)"
+    ],
+    [
+     "height",
+     "Height"
+    ],
+    [
+     "key_fossils",
+     "Key fossils"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "tools",
+     "Tools and technology"
+    ],
+    [
+     "firsts",
+     "Firsts and milestones"
+    ]
+   ],
+   "columns": [
+    [
+     "lived",
+     "Lived"
+    ],
+    [
+     "region",
+     "Where"
+    ],
+    [
+     "brain_cc",
+     "Brain cm³"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "ranges",
+     "min": "start",
+     "max": "end",
+     "title": "When each human species lived (years; negative = ago)"
+    }
+   ],
+   "prompt": "Scientifically accurate, photorealistic museum-quality reconstruction of {name} ({scientific}) in its environment ({region}, {lived}), documentary still, 16:9, no text"
+  },
   {
    "name_key": "name",
    "group_key": "group",
@@ -196,6 +341,30 @@
      "coll": "events",
      "mine": "summary",
      "label": "📅 Events mentioned"
+    },
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "summary",
+     "label": "📅 Events"
+    },
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "summary",
+     "label": "🏛 Civilisations"
+    },
+    {
+     "type": "text",
+     "coll": "ancient_species",
+     "mine": "species",
+     "label": "🦣 Species of the time"
+    },
+    {
+     "type": "text",
+     "coll": "hominins",
+     "mine": "species",
+     "label": "🦴 Human species"
     }
    ],
    "prompt": "Photorealistic, historically accurate reconstruction of everyday life during the {name} ({when}) in {region}: people, dwellings, tools, food and landscape, documentary film still, natural light, 16:9, no text"
@@ -226,8 +395,12 @@
      "When"
     ],
     [
-     "region",
+     "lane",
      "Region"
+    ],
+    [
+     "region",
+     "Area"
     ],
     [
      "capital",
@@ -244,12 +417,36 @@
      "Overview"
     ],
     [
+     "government",
+     "Government and society"
+    ],
+    [
      "life",
      "How people lived"
     ],
     [
      "food",
      "Food"
+    ],
+    [
+     "architecture",
+     "Construction and architecture"
+    ],
+    [
+     "technology",
+     "Technology and knowledge"
+    ],
+    [
+     "rise",
+     "How it rose"
+    ],
+    [
+     "fall",
+     "How it declined or fell"
+    ],
+    [
+     "legacy",
+     "Legacy"
     ]
    ],
    "columns": [
@@ -291,9 +488,140 @@
      "coll": "people",
      "theirs": "region",
      "label": "👤 People"
+    },
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "fall",
+     "label": "📅 Events in its fall"
+    },
+    {
+     "type": "text",
+     "coll": "beliefs",
+     "mine": "legacy",
+     "label": "🕉 Beliefs and scripts"
+    },
+    {
+     "type": "backname",
+     "coll": "events",
+     "theirs": "summary",
+     "label": "📅 Events mentioning it"
+    },
+    {
+     "type": "text",
+     "coll": "inventions",
+     "mine": "technology",
+     "label": "⚙ Technologies"
     }
    ],
    "prompt": "Photorealistic, historically accurate reconstruction of a busy street or court in the {name} ({when}) at its height in {region}, with period clothing, architecture and daily life, cinematic, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "founder",
+     "label": "👤 Founder"
+    },
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "notable",
+     "label": "👤 Notable rulers"
+    },
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "fall",
+     "label": "📅 How it ended"
+    },
+    {
+     "type": "backname",
+     "coll": "events",
+     "theirs": "summary",
+     "label": "📅 Events"
+    }
+   ],
+   "id": "dynasties",
+   "icon": "👑",
+   "title": "Dynasties, Kingdoms & Rulers",
+   "short": "How each dynasty rose and fell",
+   "noun": "dynasties",
+   "file": "data/dynasties.json",
+   "sub_key": "when",
+   "desc": "Ruling houses of every region, from the Haryankas, Mauryas, Guptas and Mughals to the Achaemenids, Abbasids, Han, Tang, Habsburgs and Incas: founders, capitals, famous rulers, how they rose to power and how they fell.",
+   "facts": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "lane",
+     "Region"
+    ],
+    [
+     "capital",
+     "Capital(s)"
+    ],
+    [
+     "founder",
+     "Founder"
+    ],
+    [
+     "notable",
+     "Notable rulers"
+    ]
+   ],
+   "texts": [
+    [
+     "rise",
+     "How it rose to power"
+    ],
+    [
+     "fall",
+     "How it lost power"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "lane",
+     "Region"
+    ],
+    [
+     "founder",
+     "Founder"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "lane",
+     "title": "Dynasties by region"
+    },
+    {
+     "type": "ranges",
+     "min": "start",
+     "max": "end",
+     "title": "Reign of every dynasty (years)"
+    }
+   ],
+   "prompt": "Painterly, historically accurate scene of the royal court of the {name} at {capital} ({when}), museum oil painting style, 16:9, no text"
   },
   {
    "name_key": "name",
@@ -365,7 +693,39 @@
      "title": "Events by type"
     }
    ],
-   "prompt": "Photorealistic, historically accurate documentary-style depiction of the {name} ({when}), {region}, cinematic, no gore, 16:9, no text"
+   "prompt": "Photorealistic, historically accurate documentary-style depiction of the {name} ({when}), {region}, cinematic, no gore, 16:9, no text",
+   "links": [
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "summary",
+     "label": "👤 People"
+    },
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "summary",
+     "label": "🏛 Civilisations"
+    },
+    {
+     "type": "text",
+     "coll": "dynasties",
+     "mine": "summary",
+     "label": "👑 Dynasties"
+    },
+    {
+     "type": "text",
+     "coll": "sites",
+     "mine": "summary",
+     "label": "🗿 Sites"
+    },
+    {
+     "type": "text",
+     "coll": "hominins",
+     "mine": "summary",
+     "label": "🦴 Human species"
+    }
+   ]
   },
   {
    "name_key": "name",
@@ -438,7 +798,39 @@
      "title": "Births by half-millennium"
     }
    ],
-   "prompt": "Painterly, historically accurate portrait of {name} ({lived}), {role} of {region}, period clothing and setting, museum-quality oil painting style, 4:5, no text"
+   "prompt": "Painterly, historically accurate portrait of {name} ({lived}), {role} of {region}, period clothing and setting, museum-quality oil painting style, 4:5, no text",
+   "links": [
+    {
+     "type": "backname",
+     "coll": "dynasties",
+     "theirs": "notable",
+     "label": "👑 Dynasty"
+    },
+    {
+     "type": "backname",
+     "coll": "dynasties",
+     "theirs": "founder",
+     "label": "👑 Founded"
+    },
+    {
+     "type": "backname",
+     "coll": "events",
+     "theirs": "summary",
+     "label": "📅 Events"
+    },
+    {
+     "type": "backname",
+     "coll": "beliefs",
+     "theirs": "founder",
+     "label": "🕉 Founded"
+    },
+    {
+     "type": "backname",
+     "coll": "inventions",
+     "theirs": "by",
+     "label": "⚙ Inventions"
+    }
+   ]
   },
   {
    "name_key": "name",
@@ -506,7 +898,27 @@
      "title": "Sites by millennium"
     }
    ],
-   "prompt": "Photorealistic photograph of {name} in {country} as it stands today, golden hour, wide angle, 16:9, no text"
+   "prompt": "Photorealistic photograph of {name} in {country} as it stands today, golden hour, wide angle, 16:9, no text",
+   "links": [
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "built_by",
+     "label": "🏛 Civilisation"
+    },
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "built_by",
+     "label": "👤 Built by"
+    },
+    {
+     "type": "text",
+     "coll": "dynasties",
+     "mine": "built_by",
+     "label": "👑 Dynasty"
+    }
+   ]
   },
   {
    "name_key": "name",
@@ -567,7 +979,21 @@
     ]
    ],
    "charts": [],
-   "prompt": "Respectful, photorealistic documentary photograph of the traditional landscape, dwellings and crafts of the {name} ({region}), no identifiable individuals, 16:9, no text"
+   "prompt": "Respectful, photorealistic documentary photograph of the traditional landscape, dwellings and crafts of the {name} ({region}), no identifiable individuals, 16:9, no text",
+   "links": [
+    {
+     "type": "text",
+     "coll": "festivals",
+     "mine": "culture",
+     "label": "🪔 Festivals"
+    },
+    {
+     "type": "text",
+     "coll": "hominins",
+     "mine": "name",
+     "label": "🦴 Human species"
+    }
+   ]
   },
   {
    "name_key": "name",
@@ -632,7 +1058,15 @@
     ]
    ],
    "charts": [],
-   "prompt": "Vibrant photorealistic photograph of {name} celebrations ({how}), festive atmosphere, 16:9, no text"
+   "prompt": "Vibrant photorealistic photograph of {name} celebrations ({how}), festive atmosphere, 16:9, no text",
+   "links": [
+    {
+     "type": "text",
+     "coll": "beliefs",
+     "mine": "tradition",
+     "label": "🕉 Religion"
+    }
+   ]
   },
   {
    "name_key": "name",
@@ -699,7 +1133,122 @@
      "title": "Entries by kind"
     }
    ],
-   "prompt": "Photorealistic photograph of an ancient artefact or sacred site representing {name}, museum lighting, 16:9, no text"
+   "prompt": "Photorealistic photograph of an ancient artefact or sacred site representing {name}, museum lighting, 16:9, no text",
+   "links": [
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "founder",
+     "label": "👤 Founder"
+    },
+    {
+     "type": "backname",
+     "coll": "festivals",
+     "theirs": "tradition",
+     "label": "🪔 Festivals"
+    },
+    {
+     "type": "backname",
+     "coll": "languages",
+     "theirs": "script",
+     "label": "🗣 Languages written in it"
+    }
+   ]
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "languages",
+     "mine": "descendants",
+     "label": "🗣 Descendant languages"
+    },
+    {
+     "type": "text",
+     "coll": "beliefs",
+     "mine": "script",
+     "label": "✍ Scripts"
+    },
+    {
+     "type": "backname",
+     "coll": "languages",
+     "theirs": "descendants",
+     "label": "🗣 Parent family"
+    }
+   ],
+   "id": "languages",
+   "icon": "🗣",
+   "title": "Languages & Language Families",
+   "short": "How languages began, split and spread",
+   "noun": "languages",
+   "file": "data/languages.json",
+   "sub_key": "family",
+   "desc": "The world's major language families and the ancient, classical and modern languages that descend from them: where and when they arose, their scripts, speakers and descendants.",
+   "facts": [
+    [
+     "family",
+     "Family / branch"
+    ],
+    [
+     "origin_when",
+     "Earliest evidence"
+    ],
+    [
+     "homeland",
+     "Homeland"
+    ],
+    [
+     "speakers",
+     "Speakers"
+    ],
+    [
+     "script",
+     "Script"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "descendants",
+     "Descendants and related languages"
+    ]
+   ],
+   "columns": [
+    [
+     "family",
+     "Family"
+    ],
+    [
+     "origin_when",
+     "Since"
+    ],
+    [
+     "speakers",
+     "Speakers"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Languages by category"
+    }
+   ],
+   "prompt": "Photorealistic photograph of an ancient inscription or manuscript written in {name} ({script}), museum lighting, 16:9, no text overlay"
   },
   {
    "name_key": "name",
@@ -762,7 +1311,21 @@
      "title": "Inventions by age"
     }
    ],
-   "prompt": "Photorealistic museum photograph of an early example of the {name}, {where}, dramatic lighting, 16:9, no text"
+   "prompt": "Photorealistic museum photograph of an early example of the {name}, {where}, dramatic lighting, 16:9, no text",
+   "links": [
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "by",
+     "label": "👤 Inventors"
+    },
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "where",
+     "label": "🏛 Civilisation"
+    }
+   ]
   },
   {
    "name_key": "name",
@@ -819,7 +1382,15 @@
     ]
    ],
    "charts": [],
-   "prompt": "Photorealistic, scientifically accurate reconstruction of a living {name} ({scientific}) in its natural habitat in {region}, wildlife documentary still, 16:9, no text"
+   "prompt": "Photorealistic, scientifically accurate reconstruction of a living {name} ({scientific}) in its natural habitat in {region}, wildlife documentary still, 16:9, no text",
+   "links": [
+    {
+     "type": "backname",
+     "coll": "eras",
+     "theirs": "species",
+     "label": "⏳ Eras"
+    }
+   ]
   },
   {
    "id": "papers",
@@ -924,6 +1495,10 @@
  "tracker_page": "data/tracker",
  "nav_order": [
   {
+   "id": "timelines",
+   "title": "Timeline"
+  },
+  {
    "id": "eras",
    "title": "Eras"
   },
@@ -932,20 +1507,20 @@
    "title": "Empires"
   },
   {
+   "id": "dynasties",
+   "title": "Rulers"
+  },
+  {
    "id": "events",
    "title": "Events"
   },
   {
+   "id": "hominins",
+   "title": "Humans"
+  },
+  {
    "id": "india",
    "title": "India"
-  },
-  {
-   "id": "life",
-   "title": "Daily life"
-  },
-  {
-   "id": "people",
-   "title": "People"
   }
  ],
  "prompt_style": "Photorealistic, historically accurate, documentary style, 16:9, no text"

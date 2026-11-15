@@ -1,0 +1,153 @@
+@file events.json
+@fields name|year|when|etype|lane|region|impact|summary|wiki
+# Human evolution & prehistory|🦴
+Human–chimpanzee split|-6500000|~7–6 million years ago|Evolution|Africa|Africa|Start of the human lineage|Our ancestors diverged from those of chimpanzees, probably in a mosaic of forest and woodland.|Chimpanzee–human_last_common_ancestor
+First upright walking|-4400000|~4.4 million years ago (Ardi)|Evolution|Africa|Ethiopia|Freed the hands; energy-efficient travel|Ardipithecus walked upright on the ground but still climbed trees; leaving the forest canopy was gradual.|Bipedalism
+Laetoli footprints|-3660000|3.66 million years ago|Evolution|Africa|Tanzania|Proof of fully upright walking|Three hominins walked through wet volcanic ash, leaving the oldest human-like footprints.|Laetoli
+First stone tools (Lomekwi)|-3300000|3.3 million years ago|Technology|Africa|Kenya|Start of technology|Large stone cores and flakes made before the genus Homo appeared.|Lomekwi
+Oldowan toolmaking|-2600000|2.6 million years ago|Technology|Africa|Ethiopia (Gona)|Butchery of large animals|Sharp flakes let early humans cut meat and break bones for marrow.|Oldowan
+Homo erectus leaves Africa|-1850000|~1.85 million years ago|Migration|Central Asia|Dmanisi, Georgia|First humans in Eurasia|Small-brained humans reached the Caucasus and soon East Asia.|Dmanisi_hominins
+Acheulean hand-axes|-1760000|1.76 million years ago|Technology|Africa|Kenya; India (Attirampakkam ~1.5 Mya)|Planned, symmetrical tools|The longest-lasting tool tradition, used for over 1.5 million years.|Acheulean
+Controlled fire at Wonderwerk Cave|-1000000|~1 million years ago|Technology|Africa|South Africa|Warmth, cooking, protection|Burned bones and plant ash show fire inside a cave a million years ago.|Control_of_fire_by_early_humans
+Regular hearths (Qesem Cave)|-300000|~300,000 years ago|Technology|Middle East|Israel|Fire becomes routine|Repeated hearth use shows fire had become part of daily life.|Qesem_Cave
+Schöningen spears|-300000|~300,000 years ago|Technology|Europe|Germany|Big-game hunting|Wooden throwing spears found with butchered horses.|Schöningen_spears
+Homo sapiens at Jebel Irhoud|-300000|~300,000 years ago|Evolution|Africa|Morocco|Origin of our species|The oldest known Homo sapiens fossils.|Jebel_Irhoud
+Blombos Cave engravings|-75000|~75,000 years ago|Culture|Africa|South Africa|Early symbolic thought|Engraved ochre and shell beads show abstract symbols.|Blombos_Cave
+Arrival in Australia|-65000|~65,000 years ago|Migration|Oceania|Australia (Madjedbebe)|Long sea crossings|People crossed open water to reach Sahul.|Prehistory_of_Australia
+Neanderthal–sapiens interbreeding|-55000|~60,000–45,000 years ago|Evolution|Middle East|Middle East; Europe|Neanderthal DNA in non-Africans|Our ancestors mixed with Neanderthals, leaving ~1–2% of their DNA in most people today.|Neanderthal_genetics
+Oldest figurative cave art (Sulawesi)|-51200|~51,200 years ago|Culture|Southeast Asia|Indonesia|Earliest known narrative art|A painted scene of humans and a pig in Leang Karampuang.|Leang_Karampuang
+Neanderthal extinction|-40000|~40,000 years ago|Extinction|Europe|Europe|Homo sapiens alone in Europe|Small populations, competition and climate shifts ended the Neanderthals.|Neanderthal_extinction
+Chauvet Cave paintings|-36000|~36,000 years ago|Culture|Europe|France|Masterful Ice Age art|Lions, rhinos and horses painted with shading and perspective.|Chauvet_Cave
+Dog domestication|-23000|~23,000–15,000 years ago|Domestication|Central Asia|Siberia / Eurasia|First domestic animal|Wolves became dogs alongside Ice Age hunters.|Origin_of_the_domestic_dog
+White Sands footprints|-21000|~23,000–21,000 years ago|Migration|Americas|New Mexico, USA|Earliest firm evidence of people in the Americas|Human footprints in ancient lake mud.|White_Sands_National_Park
+Clovis culture|-11000|~13,000 years ago|Culture|Americas|North America|Big-game hunting of mammoths|Fluted spear points spread across North America.|Clovis_culture
+Natufian culture and first villages|-12500|~15,000–11,500 years ago|Society|Middle East|Levant|First settled villages before farming|Hunter-gatherers harvested wild grains and built stone houses.|Natufian_culture
+Göbekli Tepe built|-9500|~9500 BCE|Culture|Middle East|Turkey|Monumental building before farming|Carved stone pillars raised by hunter-gatherers.|Göbekli_Tepe
+Jericho walls and tower|-8000|~8000 BCE|Construction|Middle East|Palestine|One of the oldest towns|A stone tower and wall around an early farming town.|Tower_of_Jericho
+Rice cultivation in the Yangtze|-7000|~7000 BCE|Agriculture|East Asia|China|Rice farming begins|Shangshan and Hemudu villages grew rice.|Domestication_of_rice
+Maize domestication|-7000|~9,000 years ago|Agriculture|Americas|Mexico|Staple of the Americas|Teosinte was bred into maize in the Balsas valley.|Maize
+Copper smelting|-5000|~5000 BCE|Technology|Europe|Serbia (Belovode); Iran|Start of metallurgy|The earliest known smelted copper.|Copper_Age
+Horse domestication|-2200|~2200 BCE (modern horses)|Domestication|Central Asia|Pontic–Caspian steppe|Mobility, warfare, chariots|Ancient DNA shows today's horses descend from steppe horses domesticated around 4,200 years ago.|Domestication_of_the_horse
+Wheel and wagon|-3500|~3500 BCE|Technology|Middle East|Mesopotamia; Pontic steppe|Transport revolution|Solid wooden wheels appeared almost simultaneously across Eurasia.|Wheel
+# Ancient world|🏺
+Narmer unifies Egypt|-3100|~3100 BCE|State formation|Africa|Egypt|First nation-state|The Narmer Palette shows a king wearing both crowns.|Narmer
+Uruk, the first city|-3500|~3500 BCE|Urbanisation|Middle East|Iraq|Birth of cities and writing|Uruk grew to over 40,000 people.|Uruk
+Great Pyramid built|-2560|~2560 BCE|Construction|Africa|Egypt|Tallest structure for 3,800 years|Built for Khufu by organised paid crews.|Great_Pyramid_of_Giza
+Sargon founds Akkad|-2334|~2334 BCE|Conquest|Middle East|Mesopotamia|The first empire|Sargon united Sumerian city-states.|Sargon_of_Akkad
+Indus mature urban phase|-2600|~2600 BCE|Urbanisation|South Asia|Indus Valley|South Asia's first cities|Harappa, Mohenjo-daro and Dholavira flourish.|Indus_Valley_Civilisation
+Code of Hammurabi|-1754|~1754 BCE|Law|Middle East|Babylon|Written law|282 laws carved on a stele.|Code_of_Hammurabi
+Thera eruption|-1600|~1600 BCE|Natural disaster|Europe|Aegean|Minoan decline|A massive eruption buried Akrotiri.|Minoan_eruption
+Hyksos expelled from Egypt|-1550|~1550 BCE|War|Africa|Egypt|New Kingdom begins|Ahmose I drove out Asian rulers.|Hyksos
+Akhenaten's religious revolution|-1350|~1350 BCE|Religion|Africa|Egypt|Short-lived worship of the Aten|A pharaoh promoted a single sun-disc god.|Akhenaten
+Trojan War (traditional)|-1200|~1200 BCE|War|Europe|Anatolia|Legend of Homer's Iliad|Excavations at Hisarlik show a destroyed city around this time.|Trojan_War
+Iron smelting spreads|-1200|~1200 BCE|Technology|Middle East|Anatolia, Levant, India|Iron Age begins|Cheap iron tools made farming and armies larger.|Iron_Age
+Rigveda composed|-1500|~1500–1200 BCE|Literature|South Asia|Punjab|Oldest Indian text|Hymns preserved orally for millennia.|Rigveda
+Olympic Games founded|-776|776 BCE|Culture|Europe|Greece|Greek unity through sport|Held every four years for over 1,000 years.|Ancient_Olympic_Games
+Rome founded (legend)|-753|753 BCE|City founding|Europe|Italy|Rome begins|Romulus and Remus legend.|Founding_of_Rome
+Fall of Nineveh|-612|612 BCE|War|Middle East|Iraq|End of Assyria|Babylonians and Medes destroyed the Assyrian capital.|Battle_of_Nineveh_(612_BC)
+Babylonian captivity|-587|587 BCE|Conquest|Middle East|Jerusalem|Jewish exile|Nebuchadnezzar destroyed the First Temple.|Babylonian_captivity
+Cyrus takes Babylon|-539|539 BCE|Conquest|Middle East|Babylon|Persian Empire|Cyrus freed the exiled Jews.|Fall_of_Babylon
+Athenian democracy|-508|508 BCE|Politics|Europe|Athens|Rule by citizens|Cleisthenes' reforms.|Athenian_democracy
+Battle of Marathon|-490|490 BCE|War|Europe|Greece|Greek victory over Persia|The legend of the runner.|Battle_of_Marathon
+Peloponnesian War|-431|431–404 BCE|War|Europe|Greece|Athens defeated by Sparta|Recorded by Thucydides.|Peloponnesian_War
+Death of Socrates|-399|399 BCE|Philosophy|Europe|Athens|Martyr of free inquiry|Condemned for impiety.|Trial_of_Socrates
+Alexander conquers Persia|-331|331 BCE|Conquest|Middle East|Gaugamela|Hellenistic age|Alexander defeated Darius III.|Battle_of_Gaugamela
+Chandragupta–Seleucus treaty|-303|~303 BCE|Diplomacy|South Asia|North-west India|Mauryas gain the northwest|Seleucus traded lands for 500 war elephants.|Seleucid–Mauryan_war
+Ashoka's edicts|-260|~260 BCE|Politics|South Asia|India|First Indian moral state|Rock edicts in Brahmi and Kharosthi.|Edicts_of_Ashoka
+Great Wall unified by Qin|-215|~215 BCE|Construction|East Asia|China|Northern defence|Earlier walls joined under Qin Shi Huang.|Great_Wall_of_China
+Silk Road opened (Zhang Qian)|-138|138–126 BCE|Trade|Central Asia|China to Central Asia|Eurasian trade network|Han envoy Zhang Qian reached Bactria.|Zhang_Qian
+Spartacus revolt|-73|73–71 BCE|Uprising|Europe|Italy|Largest slave revolt|Crushed by Crassus.|Third_Servile_War
+Battle of Actium|-31|31 BCE|War|Europe|Greece|Rome's empire begins|Octavian defeated Antony and Cleopatra.|Battle_of_Actium
+Teutoburg Forest|9|9 CE|War|Europe|Germany|Rome stops at the Rhine|Three legions destroyed by Arminius.|Battle_of_the_Teutoburg_Forest
+Kanishka's council|127|~127 CE|Religion|South Asia|Kashmir|Spread of Mahayana Buddhism|Kushan patronage.|Kanishka
+Yellow Turban rebellion|184|184 CE|Uprising|East Asia|China|Han collapse|Peasant revolt led to warlordism and the Three Kingdoms.|Yellow_Turban_Rebellion
+Crisis of the Third Century|235|235–284|Collapse|Europe|Roman Empire|Near collapse of Rome|Over 20 emperors in 50 years.|Crisis_of_the_Third_Century
+Constantine legalises Christianity|313|313 CE|Religion|Europe|Rome|Christian Europe|Edict of Milan.|Edict_of_Milan
+Sack of Rome by Visigoths|410|410 CE|War|Europe|Rome|Shock to the Roman world|Alaric's army sacked Rome.|Sack_of_Rome_(410)
+Huna invasions of India|460|~460–530|Invasion|South Asia|North India|Gupta decline|Toramana and Mihirakula attacked northern India.|Alchon_Huns
+# Medieval world|🏰
+Battle of Badr|624|624 CE|War|Middle East|Arabia|Early Muslim victory|Muslims defeated the Meccans.|Battle_of_Badr
+Battle of Qadisiyyah|636|636 CE|War|Middle East|Iraq|Fall of Sasanian Persia|Arab armies defeated the Persians.|Battle_of_al-Qadisiyyah
+Xuanzang's journey to India|629|629–645|Travel|South Asia|India|Chinese record of Indian life|Studied at Nalanda and brought texts to China.|Xuanzang
+Tang–Tibet wars|670|670–822|War|East Asia|Tibet|Rise of the Tibetan Empire|Songtsen Gampo's successors rivalled the Tang.|Tibetan_Empire
+An Lushan rebellion|755|755–763|Uprising|East Asia|China|Millions dead; Tang weakened|One of the deadliest conflicts of pre-modern times.|An_Lushan_rebellion
+Charlemagne crowned emperor|800|800 CE|Politics|Europe|Rome|Holy Roman Empire|Crowned by Pope Leo III.|Charlemagne
+Viking raid on Lindisfarne|793|793|War|Europe|England|Viking Age begins|Monks massacred at a famous monastery.|Lindisfarne
+Battle of Manzikert|1071|1071|War|Middle East|Anatolia|Turks enter Anatolia|Seljuks defeated Byzantium.|Battle_of_Manzikert
+Mahmud of Ghazni raids Somnath|1025|1025|Invasion|South Asia|Gujarat|Plunder of temple wealth|One of 17 raids into India.|Mahmud_of_Ghazni
+Angkor Wat built|1150|~1113–1150|Construction|Southeast Asia|Cambodia|Largest religious monument|Built by Suryavarman II.|Angkor_Wat
+Saladin retakes Jerusalem|1187|1187|War|Middle East|Jerusalem|End of the Crusader kingdom's core|After the Battle of Hattin.|Siege_of_Jerusalem_(1187)
+Fourth Crusade sacks Constantinople|1204|1204|War|Europe|Constantinople|Byzantine collapse|Crusaders attacked a Christian city.|Fourth_Crusade
+Battle of Ain Jalut|1260|1260|War|Middle East|Palestine|Mongol advance halted|Mamluks defeated the Mongols.|Battle_of_Ain_Jalut
+Marco Polo in China|1275|1275–1292|Travel|East Asia|Yuan China|European fascination with Asia|His book inspired Columbus.|Marco_Polo
+Mongol invasions of Japan|1274|1274 and 1281|War|East Asia|Japan|'Kamikaze' storms|Typhoons wrecked Kublai's fleets.|Mongol_invasions_of_Japan
+Great Famine of Europe|1315|1315–1317|Famine|Europe|Northern Europe|Millions dead|Rain-ruined harvests at the start of the Little Ice Age.|Great_Famine_of_1315–1317
+Hundred Years' War|1337|1337–1453|War|Europe|France and England|National identities formed|Joan of Arc; the longbow at Agincourt.|Hundred_Years'_War
+Timur sacks Delhi|1398|1398|War|South Asia|Delhi|Tughlaq collapse|Tens of thousands killed.|Timur's_invasion_of_India
+Zheng He's voyages|1405|1405–1433|Exploration|East Asia|Indian Ocean|Ming maritime power|Treasure fleets reached Calicut and East Africa.|Zheng_He
+Battle of Grunwald|1410|1410|War|Europe|Poland|Teutonic Knights defeated|One of medieval Europe's largest battles.|Battle_of_Grunwald
+Fall of Granada and Reconquista|1492|1492|War|Europe|Spain|End of Muslim rule in Iberia|Expulsion of Jews followed.|Fall_of_Granada
+# Early modern world|⛵
+Portuguese take Goa|1510|1510|Colonialism|South Asia|Goa|European colony in India|Afonso de Albuquerque captured it.|Portuguese_conquest_of_Goa
+Protestant Reformation|1517|1517|Religion|Europe|Germany|Split of Western Christianity|Luther's 95 theses.|Reformation
+Battle of Khanwa|1527|1527|War|South Asia|Rajasthan|Mughal rule secured|Babur defeated Rana Sanga.|Battle_of_Khanwa
+Second Battle of Panipat|1556|1556|War|South Asia|Haryana|Akbar's reign begins|Hemu defeated.|Second_Battle_of_Panipat
+Battle of Haldighati|1576|1576|War|South Asia|Rajasthan|Symbol of Rajput resistance|Maharana Pratap fought Akbar's army.|Battle_of_Haldighati
+Spanish Armada defeated|1588|1588|War|Europe|English Channel|English naval rise|Storms and fireships scattered the fleet.|Spanish_Armada
+Imjin War|1592|1592–1598|War|East Asia|Korea|Japanese invasion repelled|Admiral Yi's turtle ships.|Imjin_War
+Battle of Sekigahara|1600|1600|War|East Asia|Japan|Tokugawa peace|Decided Japan's unification.|Battle_of_Sekigahara
+Dutch East India Company founded|1602|1602|Trade|Europe|Netherlands|First public company|Monopoly on Asian spice trade.|Dutch_East_India_Company
+Jamestown founded|1607|1607|Colonialism|Americas|Virginia|English America|First permanent English colony.|Jamestown,_Virginia
+English Civil War|1642|1642–1651|War|Europe|England|King executed|Charles I beheaded (1649).|English_Civil_War
+Manchu conquest of China|1644|1644|Conquest|East Asia|Beijing|Qing dynasty|Ming collapsed after Li Zicheng's revolt.|Transition_from_Ming_to_Qing
+Shivaji's coronation|1674|1674|Politics|South Asia|Raigad|Maratha kingdom|Crowned Chhatrapati.|Shivaji
+Glorious Revolution|1688|1688|Politics|Europe|England|Parliamentary supremacy|Bill of Rights (1689).|Glorious_Revolution
+Death of Aurangzeb|1707|1707|Politics|South Asia|Deccan|Mughal decline|Succession wars followed.|Aurangzeb
+Nadir Shah sacks Delhi|1739|1739|War|South Asia|Delhi|Peacock Throne and Koh-i-Noor taken|A massacre in Delhi.|Nadir_Shah's_invasion_of_the_Mughal_Empire
+Seven Years' War|1756|1756–1763|World war|Europe|Global|Britain dominates India and North America|Called the first world war.|Seven_Years'_War
+Black Hole of Calcutta|1756|1756|War|South Asia|Calcutta|Pretext for Plassey|A disputed incident used in British propaganda.|Black_Hole_of_Calcutta
+Treaty of Allahabad|1765|1765|Colonialism|South Asia|Allahabad|Company gains diwani|The Company became Bengal's tax collector.|Treaty_of_Allahabad
+Watt's steam engine|1776|1776|Technology|Europe|Britain|Industrial power|Efficient steam power for factories.|Watt_steam_engine
+Permanent Settlement|1793|1793|Colonialism|South Asia|Bengal|Zamindari system|Fixed land revenue.|Permanent_Settlement
+Fall of Srirangapatna|1799|1799|War|South Asia|Mysore|Tipu Sultan killed|British control of the south.|Siege_of_Seringapatam_(1799)
+# Modern world|🏭
+Battle of Waterloo|1815|1815|War|Europe|Belgium|End of Napoleon|Wellington and Blücher won.|Battle_of_Waterloo
+Latin American independence|1810|1810–1826|Independence|Americas|South America|New republics|Bolívar and San Martín led wars of independence.|Spanish_American_wars_of_independence
+Abolition of sati|1829|1829|Reform|South Asia|Bengal|Social reform|Campaign led by Ram Mohan Roy.|Sati_(practice)
+Macaulay's Minute on Education|1835|1835|Colonialism|South Asia|India|English education|Created an English-educated class.|Macaulay's_Minute
+Irish Great Famine|1845|1845–1852|Famine|Europe|Ireland|~1 million dead, 1 million emigrated|Potato blight and British policy.|Great_Famine_(Ireland)
+Revolutions of 1848|1848|1848|Revolution|Europe|Europe|Spread of liberalism|A wave across Europe.|Revolutions_of_1848
+First Indian railway|1853|16 April 1853|Technology|South Asia|Bombay–Thane|Rail transport in India|34 km run.|Rail_transport_in_India
+Taiping Rebellion|1850|1850–1864|Civil war|East Asia|China|20–30 million dead|Led by a man claiming to be Jesus's brother.|Taiping_Rebellion
+Meiji Restoration|1868|1868|Politics|East Asia|Japan|Rapid modernisation|End of the shogunate.|Meiji_Restoration
+Suez Canal opens|1869|1869|Construction|Africa|Egypt|Shorter route to India|Cut sailing distance by ~7,000 km.|Suez_Canal
+German unification|1871|1871|Politics|Europe|Germany|New great power|Bismarck's wars.|Unification_of_Germany
+Berlin Conference|1884|1884–1885|Colonialism|Africa|Berlin|Partition of Africa|No Africans were invited.|Berlin_Conference
+Battle of Adwa|1896|1896|War|Africa|Ethiopia|Ethiopia stays independent|Menelik II defeated Italy.|Battle_of_Adwa
+Wright brothers' flight|1903|1903|Technology|Americas|USA|Powered flight|12 seconds at Kitty Hawk.|Wright_Flyer
+Russo-Japanese War|1904|1904–1905|War|East Asia|Manchuria|First Asian victory over a European power|Inspired anti-colonial movements.|Russo-Japanese_War
+Xinhai Revolution|1911|1911|Revolution|East Asia|China|End of imperial China|Sun Yat-sen's republic.|1911_Revolution
+Champaran Satyagraha|1917|1917|Freedom struggle|South Asia|Bihar|Gandhi's first Indian movement|Against forced indigo farming.|Champaran_Satyagraha
+Turkish Republic founded|1923|1923|Politics|Middle East|Turkey|End of Ottoman rule|Atatürk's reforms.|Republic_of_Turkey
+Chinese Civil War|1927|1927–1949|Civil war|East Asia|China|Communist victory|Long March (1934–35).|Chinese_Civil_War
+Spanish Civil War|1936|1936–1939|Civil war|Europe|Spain|Franco's dictatorship|Rehearsal for WWII.|Spanish_Civil_War
+Battle of Stalingrad|1942|1942–1943|War|Europe|USSR|Turning point of WWII|Nearly 2 million casualties.|Battle_of_Stalingrad
+Battles of Imphal and Kohima|1944|1944|War|South Asia|Manipur, Nagaland|Japan's invasion of India stopped|Called Britain's greatest battle.|Battle_of_Imphal
+United Nations founded|1945|1945|Politics|Global|San Francisco|Postwar order|India was a founding member.|United_Nations
+Indonesian independence|1945|1945–1949|Independence|Southeast Asia|Indonesia|End of Dutch rule|Sukarno declared independence.|Indonesian_National_Revolution
+Creation of Israel and the Nakba|1948|1948|Politics|Middle East|Palestine|Displacement of ~700,000 Palestinians|Arab–Israeli war followed.|1948_Palestine_war
+Assassination of Gandhi|1948|30 January 1948|Politics|South Asia|Delhi|Nation in mourning|Killed by Nathuram Godse.|Assassination_of_Mahatma_Gandhi
+Korean War|1950|1950–1953|War|East Asia|Korea|Divided peninsula|An armistice, never a peace treaty.|Korean_War
+Ghana's independence|1957|1957|Independence|Africa|Ghana|First sub-Saharan colony freed|Kwame Nkrumah.|Ghana
+Sino-Indian War|1962|1962|War|South Asia|Himalaya|Border dispute|China won a short war.|Sino-Indian_war
+Cuban Missile Crisis|1962|1962|Cold War|Americas|Cuba|Nuclear brink|Thirteen days.|Cuban_Missile_Crisis
+Green Revolution in India|1966|1966–1978|Agriculture|South Asia|Punjab|Food self-sufficiency|High-yield wheat and rice.|Green_Revolution_in_India
+Emergency in India|1975|1975–1977|Politics|South Asia|India|Civil liberties suspended|Indira Gandhi's rule by decree.|The_Emergency_(India)
+Iranian Revolution|1979|1979|Revolution|Middle East|Iran|Islamic Republic|Shah overthrown.|Iranian_Revolution
+Bhopal gas tragedy|1984|1984|Disaster|South Asia|Bhopal|Thousands killed by toxic gas|The worst industrial disaster.|Bhopal_disaster
+Chernobyl disaster|1986|1986|Disaster|Europe|Ukraine|Nuclear catastrophe|A reactor exploded.|Chernobyl_disaster
+End of apartheid|1994|1994|Politics|Africa|South Africa|Democracy for all|Mandela elected.|Nelson_Mandela
+Rwandan genocide|1994|1994|Genocide|Africa|Rwanda|~500,000–800,000 killed|In about 100 days.|Rwandan_genocide
+2008 financial crisis|2008|2008|Economic|Global|USA and world|Great Recession|Mortgage collapse.|2008_financial_crisis
+Arab Spring|2010|2010–2012|Uprising|Middle East|Arab world|Regime changes and civil wars|Started in Tunisia.|Arab_Spring
+India becomes most populous country|2023|2023|Demography|South Asia|India|~1.43 billion people|Overtook China.|Demographics_of_India
