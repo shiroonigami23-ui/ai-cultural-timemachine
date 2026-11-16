@@ -5,7 +5,7 @@ const obs=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){link
 document.querySelectorAll('.prose h2[id],.prose h3[id]').forEach(h=>obs.observe(h))})();
 // Search page
 (function(){const box=document.getElementById('q'),out=document.getElementById('results');if(!box)return;
-const base=document.querySelector('link[rel=stylesheet]').getAttribute('href').replace('assets/site/site.css','');
+const base=document.querySelector('link[rel=stylesheet]').getAttribute('href').split('?')[0].replace('assets/site/site.css','');
 let idx=[];fetch(base+'assets/site/search-index.json').then(r=>r.json()).then(d=>{idx=d;const q=new URLSearchParams(location.search).get('q');if(q){box.value=q;run()}});
 const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 function run(){const q=box.value.trim().toLowerCase();if(!q){out.innerHTML='';return}const terms=q.split(/\s+/).filter(Boolean);
@@ -74,7 +74,7 @@ window.addEventListener('hashchange',openHash);document.addEventListener('DOMCon
     window.__wpget=get;
   }
   function status(box){
-    var base=(document.querySelector('link[href*="site.css"]').getAttribute('href')||'').replace('site.css','');
+    var base=(document.querySelector('link[href*="site.css"]').getAttribute('href')||'').split('?')[0].replace('site.css','');
     Promise.all([fetch(base+'prompts.json').then(function(r){return r.json()}),fetch(base+'photo-index.json').then(function(r){return r.json()})]).then(function(a){
       var prompts={};a[0].forEach(function(p){prompts[p.save]=p});
       var idx=a[1], missing=[], ok=0, n=0;
@@ -107,7 +107,7 @@ requestAnimationFrame(tick)}requestAnimationFrame(tick)}document.addEventListene
 
 // ---- UX: live search dropdown, keyboard shortcuts, scroll state ----
 (function(){
- var idx=null,base=(document.querySelector('link[href*="site.css"]')||{}).getAttribute?document.querySelector('link[href*="site.css"]').getAttribute('href').replace('assets/site/site.css',''):'';
+ var idx=null,base=(document.querySelector('link[href*="site.css"]')||{}).getAttribute?document.querySelector('link[href*="site.css"]').getAttribute('href').split('?')[0].replace('assets/site/site.css',''):'';
  function load(){return idx?Promise.resolve(idx):fetch(base+'assets/site/search-index.json').then(function(r){return r.json()}).then(function(j){idx=j;return j})}
  function score(e,q){var t=e.t.toLowerCase(),i=t.indexOf(q);if(i===0)return 100;if(i>0)return 80;if((e.d||'').toLowerCase().indexOf(q)>-1)return 40;if((e.x||'').toLowerCase().indexOf(q)>-1)return 10;return 0}
  document.addEventListener('DOMContentLoaded',function(){
@@ -190,12 +190,13 @@ document.addEventListener('DOMContentLoaded',function(){
  var SKIP=/^(see also|references|notes|external links|further reading|bibliography|sources|citations|footnotes|gallery|explanatory notes|works cited|general references|literature cited)$/i;
  var ICON=[[/descr|anatom|morpholog|appear|character|physical|structure|size|composition/i,'🔎'],[/habitat|distribut|range|ecolog|location|geograph/i,'🗺'],[/diet|feed|predat|hunt|forag|prey/i,'🍽'],[/reprod|breed|mating|life cycle|spawn|lifespan|growth|develop/i,'🥚'],[/behavio|social|communicat|vocal|song|intelligen/i,'🧠'],[/migrat|movement|navigat/i,'🧭'],[/conserv|threat|status|human|fisher|pollut|climate|protect/i,'🛡'],[/taxonom|evolut|phylogen|classif|etymolog|name/i,'🧬'],[/research|study|scien|discover|observ|explor|mission|history/i,'🔬'],[/atmosph|surface|geolog|interior|orbit|rotation|magnet|formation|moon|ring/i,'🪐'],[/cultur|myth|religion|popular/i,'🎭']];
  function icon(t){for(var i=0;i<ICON.length;i++)if(ICON[i][0].test(t))return ICON[i][1];return '📄'}
- var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').replace('assets/site/site.css','');
+ var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').split('?')[0].replace('assets/site/site.css','');
  function clean(node,map){
   node.querySelectorAll('sup.reference,.mw-editsection,style,link,.hatnote,.navbox,.metadata,.reflist,.mw-empty-elt,table,figure,.thumb,.gallery,.noprint,.shortdescription,.ambox,.sidebar,.infobox').forEach(function(n){n.remove()});
   node.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
    if(h.indexOf('./')===0||h.indexOf('/wiki/')===0){var t=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]).replace(/_/g,' ').toLowerCase();
-    if(map[t]){a.href=base+map[t];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=base+'wiki/read.html?t='+encodeURIComponent(t.replace(/ /g,'_'));a.className='rdl';a.title='Read here'}}
+    var orig=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]);if(/^(File|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk|Module|Draft):/i.test(orig)){a.replaceWith(document.createTextNode(a.textContent));return}
+    if(map[t]){a.href=base+map[t];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=base+'wiki/read.html?t='+encodeURIComponent(orig);a.className='rdl';a.title='Read here'}}
    else if(h.charAt(0)==='#'){a.replaceWith(document.createTextNode(a.textContent))}});
   node.querySelectorAll('img').forEach(function(i){i.remove()});
   return node;
@@ -273,7 +274,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 // ===== In-site reader: every Wikipedia link opens inside this site =====
 (function(){
- var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').replace('assets/site/site.css','');
+ var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').split('?')[0].replace('assets/site/site.css','');
  var MAP=null;function getMap(){if(!MAP)MAP=fetch(base+'assets/site/wikimap.json').then(function(r){return r.json()}).catch(function(){return {}});return MAP}
  function titleOf(href){var m=href.match(/^(?:https?:)?\/\/en\.(?:m\.)?wikipedia\.org\/wiki\/([^?#]+)(#.*)?/);if(!m)return null;try{return {t:decodeURIComponent(m[1]).replace(/_/g,' '),h:m[2]||''}}catch(e){return {t:m[1].replace(/_/g,' '),h:''}}}
  function readURL(t,h){return base+'wiki/read.html?t='+encodeURIComponent(t.replace(/ /g,'_'))+(h||'')}

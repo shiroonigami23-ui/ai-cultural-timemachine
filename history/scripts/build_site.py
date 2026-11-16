@@ -511,6 +511,7 @@ def main():
     os.makedirs(ASSETS, exist_ok=True)
     for f in ("site.css", "site.js"):
         shutil.copy(os.path.join(SRC, "_assets", f), os.path.join(ASSETS, f))
+    VER = zlib.crc32(open(os.path.join(ASSETS, "site.js"), "rb").read() + open(os.path.join(ASSETS, "site.css"), "rb").read()) & 0xffffffff
     json.dump(search, open(os.path.join(ASSETS, "search-index.json"), "w"), ensure_ascii=False)
 
     def write(rel, title, content, depth, summary="", cur_sec="", bodyclass=""):
@@ -518,6 +519,7 @@ def main():
         page = T.render(cfg=CFG, nav=NAV, title=title, summary=summary, content=content, root=root, sections=sections,
                         cur_sec=cur_sec, npages=len(allpages), built=built, bodyclass=bodyclass, tracker=CFG.get("tracker", []))
         out = os.path.join(ROOT, rel); os.makedirs(os.path.dirname(out), exist_ok=True)
+        page = page.replace('assets/site/site.js"', f'assets/site/site.js?v={VER:x}"').replace('assets/site/site.css"', f'assets/site/site.css?v={VER:x}"')
         open(out, "w", encoding="utf-8").write(relativize(page, depth))
 
     A, S, P = env.from_string(ARTICLE), env.from_string(SECTION), env.from_string(PLAIN)
@@ -564,7 +566,7 @@ def main():
     nch = groups.count('<figure class="chart')
     write("wiki/statistics/index.html", "Statistics & data", P.render(title="📊 Statistics & data", root="../../",
           body=f'<p class="lede">{nch} animated charts built from cited datasets and from this encyclopedia\'s own catalogs. Hover any point or bar for exact values; every chart lists its source.</p>{groups}'), 2, "Animated charts and statistics", "statistics")
-    write("wiki/read.html", "Reader", P.render(title="📖 Reader", root="../", body='<form id="rdform" class="rdform"><input class="bigsearch" placeholder="Read about any topic without leaving the site…"></form><div id="reader" class="reader"></div>'), 1, "Read any article inside this encyclopedia", bodyclass="readerpage")
+    write("wiki/read.html", "Reader", re.sub(r"<h1>📖 Reader</h1>", "", P.render(title="📖 Reader", root="../", body='<form id="rdform" class="rdform"><input class="bigsearch" placeholder="Read about any topic without leaving the site…"></form><div id="reader" class="reader"></div>')), 1, "Read any article inside this encyclopedia", bodyclass="readerpage")
     write("wiki/search.html", "Search", P.render(title="Search", root="../", body='<input id="q" class="bigsearch" placeholder="Type to search every article…" autofocus><div id="results"></div>'), 1, bodyclass="searchpage")
 
     # home
