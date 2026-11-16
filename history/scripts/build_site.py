@@ -96,7 +96,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 <header class="topbar"><div class="wrap topin">
  <a class="brand" href="{{ root }}index.html"><span class="logo">{{ cfg.logo }}</span><span><b>{{ cfg.name }}</b><small>{{ cfg.kicker }}</small></span></a>
  <button class="browsebtn" aria-expanded="false" aria-controls="megamenu" onclick="document.body.classList.toggle('megaopen');this.setAttribute('aria-expanded',document.body.classList.contains('megaopen'))">☰ <span>Browse</span></button>
- <nav class="quicknav">{% for s in nav[:4] %}<a href="{{ root }}wiki/{{ s.id }}/index.html" class="{{ 'on' if s.id==cur_sec }}">{{ s.title }}</a>{% endfor %}</nav>
+ <nav class="quicknav">{% for s in nav[:6] %}<a href="{{ root }}wiki/{{ s.id }}/index.html" class="{{ 'on' if s.id==cur_sec }}">{{ s.title }}</a>{% endfor %}</nav>
  <div class="search live"><input id="qs" placeholder="Search everything…  ( / )" aria-label="Search" autocomplete="off"><div id="qsres" class="qsres" hidden></div></div>
  <button class="themebtn" title="Light / dark" aria-label="Toggle theme" onclick="const d=document.documentElement;d.dataset.theme=d.dataset.theme==='dark'?'light':'dark';try{localStorage.setItem('theme',d.dataset.theme)}catch(e){}">🌓</button>
 </div>
@@ -566,7 +566,7 @@ def main():
     nch = groups.count('<figure class="chart')
     write("wiki/statistics/index.html", "Statistics & data", P.render(title="📊 Statistics & data", root="../../",
           body=f'<p class="lede">{nch} animated charts built from cited datasets and from this encyclopedia\'s own catalogs. Hover any point or bar for exact values; every chart lists its source.</p>{groups}'), 2, "Animated charts and statistics", "statistics")
-    write("wiki/read.html", "Reader", re.sub(r"<h1>📖 Reader</h1>", "", P.render(title="📖 Reader", root="../", body='<form id="rdform" class="rdform"><input class="bigsearch" placeholder="Read about any topic without leaving the site…"></form><div id="reader" class="reader"></div>')), 1, "Read any article inside this encyclopedia", bodyclass="readerpage")
+    write("wiki/read.html", "Reader", re.sub(r"<h1>📖 Reader</h1>", "", P.render(title="📖 Reader", root="../", body='<div id="reader" class="reader"></div>')), 1, "Read any article inside this encyclopedia", bodyclass="readerpage")
     write("wiki/search.html", "Search", P.render(title="Search", root="../", body='<input id="q" class="bigsearch" placeholder="Type to search every article…" autofocus><div id="results"></div>'), 1, bodyclass="searchpage")
 
     # home

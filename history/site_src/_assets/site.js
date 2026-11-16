@@ -10,7 +10,7 @@ let idx=[];fetch(base+'assets/site/search-index.json').then(r=>r.json()).then(d=
 const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 function run(){const q=box.value.trim().toLowerCase();if(!q){out.innerHTML='';return}const terms=q.split(/\s+/).filter(Boolean);
 const res=idx.map(p=>{const t=p.t.toLowerCase(),x=p.x.toLowerCase(),d=p.d.toLowerCase();let s=0;for(const w of terms){if(t.includes(w))s+=10;if(d.includes(w))s+=4;let i=x.indexOf(w),n=0;while(i>-1&&n<20){n++;i=x.indexOf(w,i+1)}if(!n&&!t.includes(w)&&!d.includes(w))return null;s+=n}return{p,s}}).filter(Boolean).sort((a,b)=>b.s-a.s).slice(0,40);
-out.innerHTML=`<p class="muted">${res.length} result(s)</p>`+res.map(({p})=>{const x=p.x.toLowerCase(),i=Math.max(0,x.indexOf(terms[0])-90);let snip=esc(p.x.slice(i,i+260));terms.forEach(w=>{snip=snip.replace(new RegExp('('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'),'<mark>$1</mark>')});
+const raw=box.value.trim();out.innerHTML=`<p class="muted">${res.length} result(s) · <a href="${base}wiki/read.html?t=${encodeURIComponent(raw.replace(/ /g,'_'))}">📖 Read the full encyclopedia article on “${esc(raw)}”</a></p>`+res.map(({p})=>{const x=p.x.toLowerCase(),i=Math.max(0,x.indexOf(terms[0])-90);let snip=esc(p.x.slice(i,i+260));terms.forEach(w=>{snip=snip.replace(new RegExp('('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'),'<mark>$1</mark>')});
 return `<div class="r"><a href="${base}${p.u}"><b>${esc(p.t)}</b></a><small>${esc(p.s)}</small><p>${esc(p.d)}</p><p class="muted">…${snip}…</p></div>`}).join('')}
 box.addEventListener('input',run)})();
 // Catalog index: filter, group chips, view toggle, sortable table
@@ -295,7 +295,7 @@ document.addEventListener('DOMContentLoaded',function(){
   fetch(api).then(function(r){return r.json()}).then(function(j){
    if(!j||!j.parse){
     return fetch('https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=10&srsearch='+encodeURIComponent(t)).then(function(r){return r.json()}).then(function(s){
-     var hits=(s.query&&s.query.search)||[];box.innerHTML='<h1>'+esc(t)+'</h1><p>No article with exactly this title. Did you mean:</p><ul class="rdhits">'+hits.map(function(h){return '<li><a href="'+readURL(h.title)+'"><b>'+esc(h.title)+'</b></a><div class="sm">'+h.snippet+'…</div></li>'}).join('')+'</ul>'})}
+     var hits=(s.query&&s.query.search)||[];box.innerHTML='<h1>'+esc(t)+'</h1>'+(hits.length?'<p>No article with exactly this title. Did you mean:</p>':'<p class="muted">No article found for this title. Try the search at the top of the page.</p>')+'<ul class="rdhits">'+hits.map(function(h){return '<li><a href="'+readURL(h.title)+'"><b>'+esc(h.title)+'</b></a><div class="sm">'+h.snippet+'…</div></li>'}).join('')+'</ul>'})}
    var title=j.parse.title,doc=new DOMParser().parseFromString(j.parse.text,'text/html'),root=doc.querySelector('.mw-parser-output')||doc.body;
    root.querySelectorAll('sup.reference,.mw-editsection,style,link,.navbox,.navbox-styles,.metadata,.mw-empty-elt,.noprint,.shortdescription,.ambox,.sidebar,.reflist,.references,.mw-references-wrap,.hatnote,.portalbox,.authority-control,.sistersitebox,.side-box').forEach(function(n){n.remove()});
    // drop tail sections
@@ -321,7 +321,7 @@ document.addEventListener('DOMContentLoaded',function(){
  }
  document.addEventListener('DOMContentLoaded',function(){var box=document.getElementById('reader');if(!box)return;var ph=[].slice.call(document.querySelectorAll('h1')).filter(function(h){return !box.contains(h)})[0];if(ph)ph.style.display='none';
   var f=document.getElementById('rdform');if(f)f.onsubmit=function(e){e.preventDefault();var v=f.querySelector('input').value.trim();if(v)location.href=readURL(v)};
-  var t=new URLSearchParams(location.search).get('t');if(!t){box.innerHTML='<p class="muted">Type any topic above to read about it here.</p>';return}
+  var t=new URLSearchParams(location.search).get('t');if(!t){box.innerHTML='<p class="muted">Open any link in an article to read it here, or use the search at the top of the page.</p>';return}
   t=t.replace(/_/g,' ');if(f)f.querySelector('input').value=t;getMap().then(function(map){render(box,map,t)})});
 })();
 // mark portrait-shaped photos so CSS keeps heads in frame
