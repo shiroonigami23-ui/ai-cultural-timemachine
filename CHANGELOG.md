@@ -3,6 +3,12 @@
 All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
+
+## [Unreleased] - 2026-11-17
+### Added
+- In-site reader (`wiki/read.html`): every Wikipedia link now opens the full article inside this site, with images, contents and links that stay in the site; pages we have our own article for open those instead.
+### Fixed
+- Portrait photos no longer crop off people's heads: crops favour the top of the image and tall portraits are shown whole on article pages.
 ## [Unreleased] - 2026-11-16 (part 3)
 ### Added
 - Hidden History & Conspiracies catalog (38 entries) with claim, evidence and verdict, plus a theme timeline.

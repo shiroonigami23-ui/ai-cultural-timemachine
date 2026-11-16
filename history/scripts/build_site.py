@@ -564,6 +564,7 @@ def main():
     nch = groups.count('<figure class="chart')
     write("wiki/statistics/index.html", "Statistics & data", P.render(title="📊 Statistics & data", root="../../",
           body=f'<p class="lede">{nch} animated charts built from cited datasets and from this encyclopedia\'s own catalogs. Hover any point or bar for exact values; every chart lists its source.</p>{groups}'), 2, "Animated charts and statistics", "statistics")
+    write("wiki/read.html", "Reader", P.render(title="📖 Reader", root="../", body='<form id="rdform" class="rdform"><input class="bigsearch" placeholder="Read about any topic without leaving the site…"></form><div id="reader" class="reader"></div>'), 1, "Read any article inside this encyclopedia", bodyclass="readerpage")
     write("wiki/search.html", "Search", P.render(title="Search", root="../", body='<input id="q" class="bigsearch" placeholder="Type to search every article…" autofocus><div id="results"></div>'), 1, bodyclass="searchpage")
 
     # home

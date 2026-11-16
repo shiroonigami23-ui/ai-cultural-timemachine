@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded',function(){
   node.querySelectorAll('sup.reference,.mw-editsection,style,link,.hatnote,.navbox,.metadata,.reflist,.mw-empty-elt,table,figure,.thumb,.gallery,.noprint,.shortdescription,.ambox,.sidebar,.infobox').forEach(function(n){n.remove()});
   node.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
    if(h.indexOf('./')===0||h.indexOf('/wiki/')===0){var t=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]).replace(/_/g,' ').toLowerCase();
-    if(map[t]){a.href=base+map[t];a.className='intl';a.title='Open in this encyclopedia'}else{a.href='https://en.wikipedia.org/wiki/'+h.replace(/^\.\/|^\/wiki\//,'');a.target='_blank';a.rel='noopener'}}
+    if(map[t]){a.href=base+map[t];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=base+'wiki/read.html?t='+encodeURIComponent(t.replace(/ /g,'_'));a.className='rdl';a.title='Read here'}}
    else if(h.charAt(0)==='#'){a.replaceWith(document.createTextNode(a.textContent))}});
   node.querySelectorAll('img').forEach(function(i){i.remove()});
   return node;
@@ -269,4 +269,62 @@ document.addEventListener('DOMContentLoaded',function(){
      for(var j=0;j<P.length;j++){var q=P[j];q.x+=0.00008*(q.s+.3);if(q.x>1.2)q.x=-.2;x.fillStyle='rgba(255,255,255,.18)';x.beginPath();x.ellipse(q.x*W,H*(0.12+q.y*0.25),90*D*(q.s+.5),18*D,0,0,6.3);x.fill()}}
    else{for(var j=0;j<P.length;j++){var q=P[j];q.y-=0.0009*(q.s+.3);q.p+=0.02;if(q.y<-.05){q.y=1.05;q.x=Math.random()}var a=.25+.5*Math.abs(Math.sin(q.p));x.fillStyle='rgba(255,'+(140+Math.round(80*q.s))+',60,'+a+')';x.beginPath();x.arc((q.x+Math.sin(q.p)*.01)*W,q.y*H,(1+q.s*2.4)*D,0,6.3);x.fill()}}
    requestAnimationFrame(tick)}requestAnimationFrame(tick)});
+})();
+
+// ===== In-site reader: every Wikipedia link opens inside this site =====
+(function(){
+ var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').replace('assets/site/site.css','');
+ var MAP=null;function getMap(){if(!MAP)MAP=fetch(base+'assets/site/wikimap.json').then(function(r){return r.json()}).catch(function(){return {}});return MAP}
+ function titleOf(href){var m=href.match(/^(?:https?:)?\/\/en\.(?:m\.)?wikipedia\.org\/wiki\/([^?#]+)(#.*)?/);if(!m)return null;try{return {t:decodeURIComponent(m[1]).replace(/_/g,' '),h:m[2]||''}}catch(e){return {t:m[1].replace(/_/g,' '),h:''}}}
+ function readURL(t,h){return base+'wiki/read.html?t='+encodeURIComponent(t.replace(/ /g,'_'))+(h||'')}
+ // 1. rewrite every Wikipedia link on normal pages
+ document.addEventListener('DOMContentLoaded',function(){
+  var links=[].slice.call(document.querySelectorAll('a[href*="wikipedia.org/wiki/"]')).filter(function(a){return !a.hasAttribute('data-keep')});
+  if(!links.length)return;
+  getMap().then(function(map){links.forEach(function(a){var o=titleOf(a.getAttribute('href'));if(!o)return;var k=o.t.toLowerCase();
+   if(map[k]&&!document.getElementById('reader')){a.href=base+map[k];a.className=(a.className+' intl').trim();a.title='Open in this encyclopedia'}
+   else{a.href=readURL(o.t,o.h);a.title='Read here, without leaving the site'}
+   a.removeAttribute('target');a.removeAttribute('rel')})});
+ });
+ // 2. the reader page itself
+ function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+ function render(box,map,t){
+  box.innerHTML='<div class="loadingbar"></div><p class="muted">Loading “'+esc(t)+'”…</p>';
+  var api='https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&origin=*&redirects=1&prop=text|displaytitle|sections&disableeditsection=1&disablelimitreport=1&page='+encodeURIComponent(t.replace(/ /g,'_'));
+  fetch(api).then(function(r){return r.json()}).then(function(j){
+   if(!j||!j.parse){
+    return fetch('https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=10&srsearch='+encodeURIComponent(t)).then(function(r){return r.json()}).then(function(s){
+     var hits=(s.query&&s.query.search)||[];box.innerHTML='<h1>'+esc(t)+'</h1><p>No article with exactly this title. Did you mean:</p><ul class="rdhits">'+hits.map(function(h){return '<li><a href="'+readURL(h.title)+'"><b>'+esc(h.title)+'</b></a><div class="sm">'+h.snippet+'…</div></li>'}).join('')+'</ul>'})}
+   var title=j.parse.title,doc=new DOMParser().parseFromString(j.parse.text,'text/html'),root=doc.querySelector('.mw-parser-output')||doc.body;
+   root.querySelectorAll('sup.reference,.mw-editsection,style,link,.navbox,.navbox-styles,.metadata,.mw-empty-elt,.noprint,.shortdescription,.ambox,.sidebar,.reflist,.references,.mw-references-wrap,.hatnote,.portalbox,.authority-control,.sistersitebox,.side-box').forEach(function(n){n.remove()});
+   // drop tail sections
+   var kill=false;[].slice.call(root.children).forEach(function(el){var h=el.querySelector&&el.querySelector('h2');var ht=(el.tagName==='H2'?el:h);if(ht&&/^(see also|references|notes|external links|further reading|bibliography|sources|citations|footnotes|works cited)$/i.test(ht.textContent.trim()))kill=true;else if(ht&&el.classList.contains('mw-heading2'))kill=false;if(kill)el.remove()});
+   root.querySelectorAll('img').forEach(function(i){['src','srcset'].forEach(function(k){var v=i.getAttribute(k);if(v)i.setAttribute(k,v.replace(/(^|\s|,)\/\//g,'$1https://'))});i.loading='lazy';i.removeAttribute('width');i.removeAttribute('height')});
+   root.querySelectorAll('table').forEach(function(tb){var w=document.createElement('div');w.className=tb.classList.contains('infobox')?'rdinfo':'rdtable';tb.parentNode.insertBefore(w,tb);w.appendChild(tb)});
+   root.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
+    if(/^\.\/|^\/wiki\//.test(h)){var raw=h.replace(/^\.\/|^\/wiki\//,''),parts=raw.split('#'),tt;try{tt=decodeURIComponent(parts[0]).replace(/_/g,' ')}catch(e){tt=parts[0]}
+     if(/^(File|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk):/i.test(tt)){a.replaceWith(document.createTextNode(a.textContent));return}
+     var k=tt.toLowerCase();if(map[k]){a.href=base+map[k];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=readURL(tt,parts[1]?'#'+parts[1]:'')}}
+    else if(h.charAt(0)!=='#'){a.target='_blank';a.rel='noopener'}});
+   // TOC
+   var heads=[].slice.call(root.querySelectorAll('h2,h3'));heads.forEach(function(h,i){if(!h.id)h.id='s'+i});
+   var toc=heads.filter(function(h){return h.tagName==='H2'}).map(function(h){return '<li><a href="#'+h.id+'">'+esc(h.textContent.trim())+'</a></li>'}).join('');
+   var here=map[title.toLowerCase()]||map[t.toLowerCase()];
+   document.title=title+' · '+(document.title.split('·').pop()||'').trim();
+   box.innerHTML='<div class="rdhead"><h1>'+j.parse.displaytitle+'</h1>'+(here?'<a class="btn" href="'+base+here+'">📘 Open our article on '+esc(title)+'</a>':'')+'</div>'+
+    (toc?'<details class="rdtoc" open><summary>Contents</summary><ol>'+toc+'</ol></details>':'')+
+    '<article class="prose rdbody">'+root.innerHTML+'</article>'+
+    '<div class="wsrc">Article “'+esc(title)+'” from <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(title.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Wikipedia</a> by its contributors, licensed CC BY-SA 4.0, loaded live. Dashed links open our own pages; other links stay inside this reader.</div>';
+   if(location.hash){var el=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(el)el.scrollIntoView()}else scrollTo(0,0);
+  }).catch(function(){box.innerHTML='<h1>'+esc(t)+'</h1><p class="muted">Could not reach Wikipedia right now. <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(t.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Open the original</a>.</p>'});
+ }
+ document.addEventListener('DOMContentLoaded',function(){var box=document.getElementById('reader');if(!box)return;
+  var f=document.getElementById('rdform');if(f)f.onsubmit=function(e){e.preventDefault();var v=f.querySelector('input').value.trim();if(v)location.href=readURL(v)};
+  var t=new URLSearchParams(location.search).get('t');if(!t){box.innerHTML='<p class="muted">Type any topic above to read about it here.</p>';return}
+  t=t.replace(/_/g,' ');if(f)f.querySelector('input').value=t;getMap().then(function(map){render(box,map,t)})});
+})();
+// mark portrait-shaped photos so CSS keeps heads in frame
+(function(){function mark(i){if(i.naturalHeight&&i.naturalHeight>i.naturalWidth*1.05)i.classList.add('tall')}
+ function scan(r){(r||document).querySelectorAll('.card img,.entry-pic img,.livepic img').forEach(function(i){if(i.complete)mark(i);else i.addEventListener('load',function(){mark(i)},{once:true})})}
+ document.addEventListener('DOMContentLoaded',function(){scan();if('MutationObserver' in window)new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType!==1)return;if(n.tagName==='IMG'&&n.closest&&n.closest('.card,.entry-pic,.livepic')){if(n.complete)mark(n);else n.addEventListener('load',function(){mark(n)},{once:true})}else if(n.querySelectorAll)scan(n)})})}).observe(document.body,{childList:true,subtree:true})});
 })();

@@ -294,3 +294,16 @@ a.intl{border-bottom:1px dashed var(--accent)}
 .timeline .ev{position:relative}
 details[open]>.dbody,details.coll[open]>.collin{animation:fadein .35s ease}
 }
+
+/* in-site reader */
+.rdform{margin:0 0 1rem}.rdhead{display:flex;flex-wrap:wrap;gap:.8rem;align-items:center;justify-content:space-between}.rdhead h1{margin:.2rem 0}
+.rdtoc{background:var(--card,rgba(127,127,127,.08));border-radius:12px;padding:.6rem 1rem;margin:1rem 0}.rdtoc ol{columns:2;margin:.4rem 0 0}
+.rdbody img{max-width:100%;height:auto;border-radius:8px}.rdbody figure,.rdbody .thumb{float:right;clear:right;max-width:min(320px,45%);margin:.3rem 0 1rem 1rem;font-size:.85em;opacity:.95}
+.rdinfo{float:right;clear:right;max-width:min(340px,100%);margin:0 0 1rem 1rem;font-size:.85em;overflow-x:auto}.rdinfo table{width:100%;border-collapse:collapse}.rdinfo th,.rdinfo td{padding:.25rem .4rem;vertical-align:top;border-bottom:1px solid rgba(127,127,127,.2)}
+.rdtable{overflow-x:auto;margin:1rem 0}.rdtable table{border-collapse:collapse;font-size:.9em}.rdtable th,.rdtable td{border:1px solid rgba(127,127,127,.25);padding:.3rem .5rem}
+.rdbody a.intl,.dbody a.intl{text-decoration-style:dashed}.rdhits li{margin:.6rem 0}
+@media(max-width:700px){.rdbody figure,.rdbody .thumb,.rdinfo{float:none;max-width:100%;margin:1rem 0}.rdtoc ol{columns:1}}
+/* keep faces in frame: bias crops to the top, and show tall portraits whole on article pages */
+.card img,.entry-pic img,.livepic img{object-position:50% 25%}
+.card img.tall,.livepic img.tall{object-position:50% 12%}
+.entry-pic img.tall,.livepic.big img.tall{object-fit:contain;background:radial-gradient(circle,rgba(127,127,127,.18),rgba(0,0,0,.35))}
