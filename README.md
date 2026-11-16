@@ -31,24 +31,25 @@
 
 ## 📜 Cultural Time Machine Encyclopedia (new)
 
-A full **history encyclopedia** now ships with the app in [`history/`](history/). It has **900+ catalog entries** and **48 in-depth articles** spanning every era from Pangaea and human origins to today.
+A full **history encyclopedia** now ships with the app in [`history/`](history/). It has **1,000+ catalog entries** and **48 in-depth articles** spanning every era from Pangaea and human origins to today.
 
 | Catalog | Entries | What's inside |
 |---|---|---|
-| 🌳 Branching timeline | 674 dated items | Civilisations and dynasties of 10 regions side by side, plus a full timeline for each region |
+| 🌳 Branching timeline | 779 dated items | Civilisations and dynasties of 10 regions side by side, a full timeline for each region, and 6 theme timelines: religions, languages and writing, technology, manuscripts, rulers, wars and disasters |
 | 🦴 Human species | 27 | From *Sahelanthropus* and Lucy to *Homo erectus*, Neanderthals, Denisovans and us: brain size, height, tools, firsts |
 | ⏳ Eras & Ages | 40 | Deep time to the Information Age: how people lived, what they ate, the species of the time |
-| 🏛 Civilisations & Empires | 86 | Government, daily life, food, construction, technology, how each rose and how it fell, and its legacy |
-| 👑 Dynasties & Rulers | 98 | Founders, capitals, notable rulers, how each gained and lost power |
-| 📅 Events | 247 | Human evolution, ice ages, eruptions, plagues, conquests, the East India Company, 1857, both world wars, Partition; each tagged with its region |
-| 👤 People | 87 | Rulers, freedom fighters, thinkers and scientists |
+| 🏛 Civilisations & Empires | 86 | Multi-paragraph, researched sections on government, architecture, technology, food, how each rose, how it declined or fell, and its legacy |
+| 👑 Dynasties & Rulers | 98 | Founders, capitals, notable rulers, and detailed accounts of how each gained and lost power |
+| 📅 Events | 276 | Human evolution, ice ages, eruptions, plagues, conquests, the East India Company, 1857, both world wars, Partition; each tagged with its region |
+| 👤 People | 119 | Rulers, queens, freedom fighters, prophets, thinkers and scientists, with full biographies |
 | 🗿 Sites & Wonders | 48 | Göbekli Tepe, Dholavira, the Pyramids, Angkor, the Taj Mahal |
-| 🗣 Languages | 52 | Language families, ancient and modern languages, scripts and descendants |
+| 🗣 Languages | 67 | Language families, ancient and modern languages, scripts and descendants |
 | 🏹 Peoples & Tribes | 31 | Hunter-gatherers, Adivasi and Indigenous peoples, Neanderthals |
 | 🪔 Festivals | 36 | Origins, how they are celebrated, festive food |
-| 🕉 Religions, Philosophies & Scripts | 32 | Cuneiform to Ol Chiki |
+| 🕉 Religions, Philosophies & Scripts | 44 | From animism and Vedic religion to Manichaeism, the Sunni–Shia split, Protestantism and Navayana; scripts from cuneiform to Ol Chiki |
 | ⚙ Inventions | 81 | Fire, cooking, clothing, iron, zero, steel, printing, AI |
 | 🦣 Species of Past Ages | 23 | Mammoths, *Smilodon*, the dodo, the aurochs |
+| 📜 Manuscripts & Texts | 44 | Pyramid Texts, Gilgamesh, the Rigveda, Ashoka's edicts, the Bakhshali manuscript, oracle bones, the Diamond Sutra, the Dead Sea Scrolls, Codex Sinaiticus, Timbuktu manuscripts, Maya and Aztec codices |
 | 📄 Research papers | 14 | Ancient DNA, the Indus, climate and collapse |
 
 There are **48 long articles**, including: from the trees to two feet; fire and cooking; the human family tree; hunter-gatherer life; the evolution of language; how iron changed everything; how empires and monarchy rose and fell; region-by-region histories of Africa, the Middle East, Europe, East Asia, Southeast Asia and Oceania, the Americas and the steppe; and India from Bhimbetka to today. Entries link to related entries within the encyclopedia: people to their dynasties, events to the civilisations and people involved, sites to the people who built them, and languages to their descendants.

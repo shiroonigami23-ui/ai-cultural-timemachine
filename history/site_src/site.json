@@ -26,11 +26,15 @@
    "dynasties"
   ],
   [
-   "247",
+   "276",
    "turning points"
   ],
   [
-   "902+",
+   "44",
+   "manuscripts"
+  ],
+  [
+   "1034+",
    "catalog entries"
   ]
  ],
@@ -48,7 +52,7 @@
    "id": "timelines",
    "icon": "🌳",
    "title": "Branching Timelines",
-   "desc": "A branching timeline of civilisations and dynasties by region, plus region timelines of every catalogued event, person, site, invention and human species.",
+   "desc": "A branching timeline of civilisations and dynasties by region, ten region timelines, and six theme timelines (religions, languages and writing, technology, manuscripts, rulers, wars and disasters).",
    "pages": [
     "branching-timeline",
     "africa",
@@ -60,7 +64,13 @@
     "southeast-asia",
     "americas",
     "oceania",
-    "global"
+    "global",
+    "religions-and-beliefs",
+    "languages-and-writing",
+    "technology-and-science",
+    "manuscripts-and-texts",
+    "rulers-and-dynasties",
+    "wars-plagues-and-disasters"
    ]
   },
   {
@@ -516,6 +526,12 @@
      "coll": "inventions",
      "mine": "technology",
      "label": "⚙ Technologies"
+    },
+    {
+     "type": "backname",
+     "coll": "manuscripts",
+     "theirs": "contents",
+     "label": "📜 Manuscripts & texts"
     }
    ],
    "prompt": "Photorealistic, historically accurate reconstruction of a busy street or court in the {name} ({when}) at its height in {region}, with period clothing, architecture and daily life, cinematic, 16:9, no text"
@@ -833,6 +849,12 @@
      "coll": "inventions",
      "theirs": "by",
      "label": "⚙ Inventions"
+    },
+    {
+     "type": "backname",
+     "coll": "manuscripts",
+     "theirs": "contents",
+     "label": "📜 Manuscripts & texts"
     }
    ]
   },
@@ -1156,6 +1178,12 @@
      "coll": "languages",
      "theirs": "script",
      "label": "🗣 Languages written in it"
+    },
+    {
+     "type": "backname",
+     "coll": "manuscripts",
+     "theirs": "contents",
+     "label": "📜 Manuscripts & texts"
     }
    ]
   },
@@ -1189,6 +1217,12 @@
      "coll": "languages",
      "theirs": "descendants",
      "label": "🗣 Parent family"
+    },
+    {
+     "type": "backname",
+     "coll": "manuscripts",
+     "theirs": "language",
+     "label": "📜 Manuscripts & texts"
     }
    ],
    "id": "languages",
@@ -1395,6 +1429,117 @@
      "label": "⏳ Eras"
     }
    ]
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "id": "manuscripts",
+   "icon": "📜",
+   "title": "Manuscripts & Texts",
+   "short": "The oldest surviving writings of every civilisation",
+   "noun": "manuscripts",
+   "file": "data/manuscripts.json",
+   "sub_key": "when",
+   "desc": "The manuscripts, tablets, scrolls, inscriptions and codices through which we know the past: the Pyramid Texts and Gilgamesh, the Rigveda and Ashoka's edicts, oracle bones and the Diamond Sutra, the Dead Sea Scrolls, Codex Sinaiticus, the Quran's oldest folios, the Timbuktu manuscripts and the Maya and Aztec codices — with language, script, material, where each is kept today, what it says and why it matters.",
+   "facts": [
+    [
+     "when",
+     "Date"
+    ],
+    [
+     "region",
+     "Tradition"
+    ],
+    [
+     "language",
+     "Language"
+    ],
+    [
+     "script",
+     "Script"
+    ],
+    [
+     "material",
+     "Material"
+    ],
+    [
+     "where_now",
+     "Kept at"
+    ]
+   ],
+   "texts": [
+    [
+     "contents",
+     "What it contains"
+    ],
+    [
+     "summary",
+     "Why it matters"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "Date"
+    ],
+    [
+     "language",
+     "Language"
+    ],
+    [
+     "where_now",
+     "Kept at"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Manuscripts by tradition"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "contents",
+     "label": "🏛 Civilisations"
+    },
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "contents",
+     "label": "👤 People"
+    },
+    {
+     "type": "text",
+     "coll": "beliefs",
+     "mine": "contents",
+     "label": "🛕 Beliefs"
+    },
+    {
+     "type": "text",
+     "coll": "languages",
+     "mine": "language",
+     "label": "🗣 Languages"
+    },
+    {
+     "type": "text",
+     "coll": "manuscripts",
+     "mine": "summary",
+     "label": "📜 Related texts"
+    }
+   ],
+   "prompt": "Museum photograph of the {name} ({when}), {material}, {script} script, soft gallery lighting, archival detail, 16:9, no added text"
   },
   {
    "id": "papers",

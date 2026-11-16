@@ -3,6 +3,16 @@
 All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
+## [Unreleased] - 2026-11-16
+### Changed (depth)
+- Rewrote every civilisation's government, architecture, technology, rise, fall, legacy and food as researched multi-sentence accounts (86 civilisations).
+- Rewrote how each of the 98 dynasties rose and lost power.
+- Expanded people biographies.
+### Added
+- Manuscripts & Texts catalog (44 entries), linked to civilisations, people, beliefs and languages.
+- Six theme timelines: religions, languages and writing, technology, manuscripts, rulers and dynasties, wars, plagues and disasters.
+- 29 events (Out of Africa, Bantu and Austronesian expansions, Indo-European migrations, Nalanda, Mansa Musa's hajj and more), 32 people, 12 beliefs and 15 languages.
+
 ## [Unreleased] - 2026-11-15
 ### Added (expansion)
 - Branching regional timeline: an SVG swimlane of civilisations and dynasties, plus 10 region timelines (`history/scripts/make_timelines.py`).

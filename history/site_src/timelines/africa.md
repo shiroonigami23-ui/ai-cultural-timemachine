@@ -1,9 +1,9 @@
 ---
 title: Timeline: Africa
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (82 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (91 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (82 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (91 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (35)
 <div class="timeline">
@@ -55,17 +55,20 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (12)
+:::collapse !Bronze Age (3000–1200 BCE) (15)
 <div class="timeline">
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Climate shift: <a href="/wiki/events/end-of-the-green-sahara.html">End of the Green Sahara</a> — Herders move to the Nile</div>
 <div class="ev"><span class="yr">3000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/calendar-solar.html">Calendar (solar)</a> — Egypt</div>
-<div class="ev"><span class="yr">2686 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/old-kingdom-of-egypt.html">Old Kingdom of Egypt</a> — Centralised pharaohs built pyramids.</div>
+<div class="ev"><span class="yr">2686 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/old-kingdom-of-egypt.html">Old Kingdom of Egypt</a> — Building on the unification of Egypt around 3100 BCE, the Third Dynasty king Djoser and his architect Imhotep raised the Step Pyramid at Saq</div>
+<div class="ev"><span class="yr">2650 BCE</span>: 👤 Born: <a href="/wiki/people/imhotep.html">Imhotep</a> — Designed the first pyramid</div>
 <div class="ev"><span class="yr">2560 BCE</span>: 📅 Construction: <a href="/wiki/events/great-pyramid-built.html">Great Pyramid built</a> — Tallest structure for 3,800 years</div>
 <div class="ev"><span class="yr">2560 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/great-pyramid-of-giza.html">Great Pyramid of Giza</a> — Pharaoh Khufu</div>
-<div class="ev"><span class="yr">1550 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/new-kingdom-of-egypt.html">New Kingdom of Egypt</a> — Expelled the Hyksos.</div>
+<div class="ev"><span class="yr">1550 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/new-kingdom-of-egypt.html">New Kingdom of Egypt</a> — Ahmose I expelled the Hyksos around 1550 BCE. Hatshepsut, Thutmose III, Akhenaten (who tried to impose worship of the Aten) and Ramesses II </div>
 <div class="ev"><span class="yr">1550 BCE</span>: 📅 War: <a href="/wiki/events/hyksos-expelled-from-egypt.html">Hyksos expelled from Egypt</a> — New Kingdom begins</div>
 <div class="ev"><span class="yr">1539 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/valley-of-the-kings.html">Valley of the Kings</a> — New Kingdom pharaohs</div>
 <div class="ev"><span class="yr">1507 BCE</span>: 👤 Born: <a href="/wiki/people/hatshepsut.html">Hatshepsut</a> — A woman who ruled as king</div>
+<div class="ev"><span class="yr">1500 BCE</span>: 📅 Migration: <a href="/wiki/events/bantu-expansion.html">Bantu expansion</a> — Spread farming, iron and Bantu languages across half of Africa</div>
+<div class="ev"><span class="yr">1380 BCE</span>: 👤 Born: <a href="/wiki/people/akhenaten.html">Akhenaten</a> — Tried to make Egypt worship one sun god</div>
 <div class="ev"><span class="yr">1350 BCE</span>: 📅 Religion: <a href="/wiki/events/akhenatens-religious-revolution.html">Akhenaten&#x27;s religious revolution</a> — Short-lived worship of the Aten</div>
 <div class="ev"><span class="yr">1303 BCE</span>: 👤 Born: <a href="/wiki/people/ramesses-ii.html">Ramesses II</a> — Abu Simbel, Kadesh</div>
 <div class="ev"><span class="yr">1264 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/abu-simbel.html">Abu Simbel</a> — Ramesses II</div>
@@ -81,7 +84,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 
 :::collapse !Classical age (500 BCE–500 CE) (4)
 <div class="timeline">
-<div class="ev"><span class="yr">305 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/ptolemaic-dynasty.html">Ptolemaic dynasty</a> — Alexander&#x27;s general took Egypt.</div>
+<div class="ev"><span class="yr">305 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/ptolemaic-dynasty.html">Ptolemaic dynasty</a> — Ptolemy I, Alexander&#x27;s general, took Egypt in 305 BCE; Alexandria&#x27;s Library and Lighthouse were built.</div>
 <div class="ev"><span class="yr">69 BCE</span>: 👤 Born: <a href="/wiki/people/cleopatra.html">Cleopatra</a> — Last pharaoh</div>
 <div class="ev"><span class="yr">100 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/aksum.html">Aksum</a> — c. 100–940 CE</div>
 <div class="ev"><span class="yr">300 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ghana-empire.html">Ghana Empire</a> — c. 300–1200 CE</div>
@@ -91,21 +94,26 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 :::collapse !Early medieval (500–1000) (2)
 <div class="timeline">
 <div class="ev"><span class="yr">800 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/swahili-city-states.html">Swahili city-states</a> — c. 800–1500 CE</div>
-<div class="ev"><span class="yr">909 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/fatimid-caliphate.html">Fatimid Caliphate</a> — Shia movement in North Africa; founded Cairo.</div>
+<div class="ev"><span class="yr">909 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/fatimid-caliphate.html">Fatimid Caliphate</a> — Ismaili Shia leader al-Mahdi founded the caliphate in Tunisia (909); they conquered Egypt in 969 and founded Cairo and al-Azhar.</div>
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (10)
+:::collapse !Late medieval (1000–1500) (15)
 <div class="timeline">
 <div class="ev"><span class="yr">1100</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/great-zimbabwe.html">Great Zimbabwe</a> — c. 1100–1450 CE</div>
 <div class="ev"><span class="yr">1100</span>: 🗿 Built / founded: <a href="/wiki/sites/great-zimbabwe.html">Great Zimbabwe</a> — Shona ancestors</div>
 <div class="ev"><span class="yr">1180</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/kingdom-of-benin.html">Kingdom of Benin</a> — c. 1180–1897</div>
 <div class="ev"><span class="yr">1235</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/mali-empire.html">Mali Empire</a> — 1235–1670 CE</div>
-<div class="ev"><span class="yr">1235</span>: 👑 Dynasty: <a href="/wiki/dynasties/keita-dynasty-mali.html">Keita dynasty (Mali)</a> — Sundiata defeated Sosso at Kirina.</div>
-<div class="ev"><span class="yr">1250</span>: 👑 Dynasty: <a href="/wiki/dynasties/mamluk-sultanate-egypt.html">Mamluk Sultanate (Egypt)</a> — Slave soldiers seized power; defeated the Mongols at Ain Jalut (1260).</div>
-<div class="ev"><span class="yr">1270</span>: 👑 Dynasty: <a href="/wiki/dynasties/solomonic-dynasty-ethiopia.html">Solomonic dynasty (Ethiopia)</a> — Claimed descent from Solomon and Sheba.</div>
+<div class="ev"><span class="yr">1235</span>: 👑 Dynasty: <a href="/wiki/dynasties/keita-dynasty-mali.html">Keita dynasty (Mali)</a> — Sundiata Keita defeated the Sosso at Kirina (1235). Mansa Musa (r. 1312–1337) made his famous hajj in 1324, so lavish with gold that he depr</div>
+<div class="ev"><span class="yr">1250</span>: 👑 Dynasty: <a href="/wiki/dynasties/mamluk-sultanate-egypt.html">Mamluk Sultanate (Egypt)</a> — Turkic and Circassian slave soldiers (mamluks) killed the last Ayyubid sultan in 1250. They defeated the Mongols at Ain Jalut (1260) under B</div>
+<div class="ev"><span class="yr">1270</span>: 👑 Dynasty: <a href="/wiki/dynasties/solomonic-dynasty-ethiopia.html">Solomonic dynasty (Ethiopia)</a> — In 1270 Yekuno Amlak overthrew the Zagwe dynasty, claiming descent from King Solomon and the Queen of Sheba as recorded in the Kebra Nagast.</div>
 <div class="ev"><span class="yr">1280</span>: 👤 Born: <a href="/wiki/people/mansa-musa.html">Mansa Musa</a> — Perhaps the richest person in history</div>
+<div class="ev"><span class="yr">1300</span>: 📅 City building: <a href="/wiki/events/great-zimbabwe-at-its-height.html">Great Zimbabwe at its height</a> — Southern Africa&#x27;s largest stone city</div>
+<div class="ev"><span class="yr">1300</span>: 📜 Manuscript: <a href="/wiki/manuscripts/timbuktu-manuscripts.html">Timbuktu manuscripts</a> — 13th–20th centuries</div>
 <div class="ev"><span class="yr">1304</span>: 👤 Born: <a href="/wiki/people/ibn-battuta.html">Ibn Battuta</a> — Travelled ~120,000 km incl. India</div>
+<div class="ev"><span class="yr">1320</span>: 📜 Manuscript: <a href="/wiki/manuscripts/kebra-nagast.html">Kebra Nagast</a> — 14th century</div>
+<div class="ev"><span class="yr">1324</span>: 📅 Pilgrimage: <a href="/wiki/events/mansa-musa-s-hajj.html">Mansa Musa&#x27;s hajj</a> — Made Mali famous worldwide</div>
+<div class="ev"><span class="yr">1332</span>: 👤 Born: <a href="/wiki/people/ibn-khaldun.html">Ibn Khaldun</a> — Muqaddimah</div>
 <div class="ev"><span class="yr">1430</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/songhai-empire.html">Songhai Empire</a> — c. 1430–1591 CE</div>
 </div>
 :::
@@ -113,17 +121,18 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 :::collapse Early modern (1500–1800) (3)
 <div class="timeline">
 <div class="ev"><span class="yr">1526</span>: 📅 Forced migration: <a href="/wiki/events/atlantic-slave-trade.html">Atlantic slave trade</a> — ~12.5 million Africans transported</div>
-<div class="ev"><span class="yr">1701</span>: 👑 Dynasty: <a href="/wiki/dynasties/ashanti-empire.html">Ashanti Empire</a> — Golden Stool unified clans.</div>
+<div class="ev"><span class="yr">1701</span>: 👑 Dynasty: <a href="/wiki/dynasties/ashanti-empire.html">Ashanti Empire</a> — Around 1701 Osei Tutu, with the priest Okomfo Anokye, united Akan states; tradition says the Golden Stool descended from the sky, embodying </div>
 <div class="ev"><span class="yr">1791</span>: 📅 Revolution: <a href="/wiki/events/haitian-revolution.html">Haitian Revolution</a> — First nation founded by formerly enslaved people</div>
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (6)
+:::collapse Industrial and imperial age (1800–1945) (7)
 <div class="timeline">
-<div class="ev"><span class="yr">1816</span>: 👑 Dynasty: <a href="/wiki/dynasties/zulu-kingdom.html">Zulu Kingdom</a> — Shaka&#x27;s military reforms.</div>
+<div class="ev"><span class="yr">1816</span>: 👑 Dynasty: <a href="/wiki/dynasties/zulu-kingdom.html">Zulu Kingdom</a> — Shaka (r. 1816–1828), a son of a minor chief, reorganised Zulu warriors into regiments (amabutho) armed with the short stabbing spear (iklwa</div>
 <div class="ev"><span class="yr">1869</span>: 📅 Construction: <a href="/wiki/events/suez-canal-opens.html">Suez Canal opens</a> — Shorter route to India</div>
 <div class="ev"><span class="yr">1881</span>: 📅 Colonisation: <a href="/wiki/events/scramble-for-africa.html">Scramble for Africa</a> — 90% of Africa colonised</div>
 <div class="ev"><span class="yr">1884</span>: 📅 Colonialism: <a href="/wiki/events/berlin-conference.html">Berlin Conference</a> — Partition of Africa</div>
+<div class="ev"><span class="yr">1885</span>: 📅 Colonial atrocity: <a href="/wiki/events/partition-of-africa-and-the-congo-free-state.html">Partition of Africa and the Congo Free State</a> — Millions died</div>
 <div class="ev"><span class="yr">1896</span>: 📅 War: <a href="/wiki/events/battle-of-adwa.html">Battle of Adwa</a> — Ethiopia stays independent</div>
 <div class="ev"><span class="yr">1918</span>: 👤 Born: <a href="/wiki/people/nelson-mandela.html">Nelson Mandela</a> — Ended apartheid</div>
 </div>

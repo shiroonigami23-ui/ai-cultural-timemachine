@@ -1,13 +1,14 @@
 ---
 title: Timeline: Americas
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (42 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (50 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (42 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (50 entries).
 
-:::collapse Deep prehistory (before 10,000 BCE) (2)
+:::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
 <div class="ev"><span class="yr">21,000 yr ago</span>: 📅 Migration: <a href="/wiki/events/white-sands-footprints.html">White Sands footprints</a> — Earliest firm evidence of people in the Americas</div>
+<div class="ev"><span class="yr">16,000 yr ago</span>: 📅 Migration: <a href="/wiki/events/peopling-of-the-americas.html">Peopling of the Americas</a> — Humans reach the last inhabited continents</div>
 <div class="ev"><span class="yr">11,000 yr ago</span>: 📅 Culture: <a href="/wiki/events/clovis-culture.html">Clovis culture</a> — Big-game hunting of mammoths</div>
 </div>
 :::
@@ -31,7 +32,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">400 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/tikal.html">Tikal</a> — Maya</div>
 <div class="ev"><span class="yr">100 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/teotihuacan.html">Teotihuacan</a> — c. 100 BCE–550 CE</div>
 <div class="ev"><span class="yr">100 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ancestral-puebloans.html">Ancestral Puebloans</a> — c. 100–1600 CE</div>
-<div class="ev"><span class="yr">100 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/maya-dynasties-of-tikal.html">Maya dynasties of Tikal</a> — Rival to Calakmul.</div>
+<div class="ev"><span class="yr">100 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/maya-dynasties-of-tikal.html">Maya dynasties of Tikal</a> — Villages from about 2000 BCE became cities such as El Mirador in the Preclassic period.</div>
 <div class="ev"><span class="yr">100 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/teotihuacan.html">Teotihuacan</a> — Teotihuacanos</div>
 </div>
 :::
@@ -43,26 +44,33 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (8)
+:::collapse !Late medieval (1000–1500) (11)
 <div class="timeline">
+<div class="ev"><span class="yr">1000</span>: 📅 Exploration: <a href="/wiki/events/norse-reach-north-america.html">Norse reach North America</a> — First European landing in the Americas</div>
+<div class="ev"><span class="yr">1200</span>: 📜 Manuscript: <a href="/wiki/manuscripts/dresden-codex.html">Dresden Codex</a> — 11th–12th century</div>
 <div class="ev"><span class="yr">1250</span>: 🗿 Built / founded: <a href="/wiki/sites/moai-of-easter-island.html">Moai of Easter Island</a> — Rapa Nui</div>
-<div class="ev"><span class="yr">1376</span>: 👑 Dynasty: <a href="/wiki/dynasties/aztec-rulers-tlatoani.html">Aztec rulers (Tlatoani)</a> — Triple Alliance with Texcoco and Tlacopan.</div>
+<div class="ev"><span class="yr">1325</span>: 📅 City founding: <a href="/wiki/events/founding-of-tenochtitlan.html">Founding of Tenochtitlan</a> — Capital of the Aztec empire</div>
+<div class="ev"><span class="yr">1376</span>: 👑 Dynasty: <a href="/wiki/dynasties/aztec-rulers-tlatoani.html">Aztec rulers (Tlatoani)</a> — The Mexica founded Tenochtitlan in 1325 and the Triple Alliance formed in 1428.</div>
 <div class="ev"><span class="yr">1428</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/aztec-empire.html">Aztec Empire</a> — 1428–1521</div>
 <div class="ev"><span class="yr">1438</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/inca-empire.html">Inca Empire</a> — 1438–1533</div>
-<div class="ev"><span class="yr">1438</span>: 👑 Dynasty: <a href="/wiki/dynasties/inca-sapa-inca-line.html">Inca Sapa Inca line</a> — Pachacuti defeated the Chanka.</div>
+<div class="ev"><span class="yr">1438</span>: 👑 Dynasty: <a href="/wiki/dynasties/inca-sapa-inca-line.html">Inca Sapa Inca line</a> — Pachacuti (r. 1438–1471) turned the Cusco kingdom into an empire.</div>
 <div class="ev"><span class="yr">1450</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/haudenosaunee-confederacy.html">Haudenosaunee Confederacy</a> — c. 1450 (or earlier) – today</div>
 <div class="ev"><span class="yr">1450</span>: 🗿 Built / founded: <a href="/wiki/sites/machu-picchu.html">Machu Picchu</a> — Pachacuti</div>
 <div class="ev"><span class="yr">1492</span>: 📅 Exploration: <a href="/wiki/events/columbus-reaches-the-americas.html">Columbus reaches the Americas</a> — Columbian Exchange begins</div>
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (5)
+:::collapse Early modern (1500–1800) (9)
 <div class="timeline">
 <div class="ev"><span class="yr">1521</span>: 📅 Conquest: <a href="/wiki/events/fall-of-tenochtitlan.html">Fall of Tenochtitlan</a> — End of the Aztec Empire</div>
 <div class="ev"><span class="yr">1532</span>: 📅 Conquest: <a href="/wiki/events/spanish-conquest-of-the-inca.html">Spanish conquest of the Inca</a> — End of the Inca Empire</div>
+<div class="ev"><span class="yr">1541</span>: 📜 Manuscript: <a href="/wiki/manuscripts/codex-mendoza.html">Codex Mendoza</a> — c. 1541</div>
+<div class="ev"><span class="yr">1550</span>: 📜 Manuscript: <a href="/wiki/manuscripts/popol-vuh.html">Popol Vuh</a> — c. 1550s; Ximénez copy c. 1701</div>
+<div class="ev"><span class="yr">1577</span>: 📜 Manuscript: <a href="/wiki/manuscripts/florentine-codex.html">Florentine Codex</a> — 1545–1577</div>
 <div class="ev"><span class="yr">1607</span>: 📅 Colonialism: <a href="/wiki/events/jamestown-founded.html">Jamestown founded</a> — English America</div>
 <div class="ev"><span class="yr">1775</span>: 📅 Revolution: <a href="/wiki/events/american-revolution.html">American Revolution</a> — Independence of the USA</div>
 <div class="ev"><span class="yr">1776</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/united-states.html">United States</a> — 1776–today</div>
+<div class="ev"><span class="yr">1783</span>: 👤 Born: <a href="/wiki/people/sim-n-bol-var.html">Simón Bolívar</a> — Independence of six nations</div>
 </div>
 :::
 

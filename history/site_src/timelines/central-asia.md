@@ -1,9 +1,9 @@
 ---
 title: Timeline: Central Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Central Asia, from the earliest evidence to today (11 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Central Asia, from the earliest evidence to today (12 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Central Asia, from the earliest evidence to today (11 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Central Asia, from the earliest evidence to today (12 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (4)
 <div class="timeline">
@@ -24,19 +24,20 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="timeline">
 <div class="ev"><span class="yr">138 BCE</span>: 📅 Trade: <a href="/wiki/events/silk-road-opened-zhang-qian.html">Silk Road opened (Zhang Qian)</a> — Eurasian trade network</div>
 <div class="ev"><span class="yr">30 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/kushan-empire.html">Kushan Empire</a> — c. 30–375 CE</div>
-<div class="ev"><span class="yr">30 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/kushan-dynasty.html">Kushan dynasty</a> — Yuezhi nomads unified Bactria and North India.</div>
-<div class="ev"><span class="yr">440 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/hephthalites-white-huns.html">Hephthalites (White Huns)</a> — Nomads who invaded Persia and India.</div>
+<div class="ev"><span class="yr">30 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/kushan-dynasty.html">Kushan dynasty</a> — The Yuezhi nomads, pushed from China&#x27;s frontier, conquered Bactria; Kujula Kadphises united them in the 1st century CE.</div>
+<div class="ev"><span class="yr">440 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/hephthalites-white-huns.html">Hephthalites (White Huns)</a> — Central Asian nomads who defeated the Sasanians in 484 and, under Toramana and Mihirakula, raided Gupta India.</div>
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (1)
+:::collapse !Early medieval (500–1000) (2)
 <div class="timeline">
-<div class="ev"><span class="yr">552 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/g-kt-rk-khaganate.html">Göktürk Khaganate</a> — First Turkic empire.</div>
+<div class="ev"><span class="yr">552 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/g-kt-rk-khaganate.html">Göktürk Khaganate</a> — Bumin Qaghan revolted against the Rouran (552). The Orkhon inscriptions are the earliest written Turkic.</div>
+<div class="ev"><span class="yr">751 CE</span>: 📅 Technology transfer: <a href="/wiki/events/tang-abbasid-paper-transfer.html">Tang–Abbasid paper transfer</a> — Paper reaches the Islamic world and Europe</div>
 </div>
 :::
 
 :::collapse !Late medieval (1000–1500) (1)
 <div class="timeline">
-<div class="ev"><span class="yr">1370</span>: 👑 Dynasty: <a href="/wiki/dynasties/timurid-empire.html">Timurid Empire</a> — Timur&#x27;s conquests from Delhi to Ankara.</div>
+<div class="ev"><span class="yr">1370</span>: 👑 Dynasty: <a href="/wiki/dynasties/timurid-empire.html">Timurid Empire</a> — Timur conquered from Delhi to Anatolia and made Samarkand dazzling. His grandson Ulugh Beg built an observatory.</div>
 </div>
 :::

@@ -35,6 +35,8 @@ for s in sites:
     if isinstance(s.get("year"), int): items.append((s["year"], lane_of(s), "🗿 Built / founded", s["name"], f"/wiki/sites/{s['slug']}.html", s.get("built_by", "")))
 for i in inv:
     if isinstance(i.get("year"), int): items.append((i["year"], lane_of(i), "⚙ Invention", i["name"], f"/wiki/inventions/{i['slug']}.html", i.get("where", "")))
+man, bel, lang = L("manuscripts.json"), L("beliefs.json"), L("languages.json")
+for m in man: items.append((m["year"], m["lane"], "📜 Manuscript", m["name"], f"/wiki/manuscripts/{m['slug']}.html", m.get("when", "")))
 for h in hom: items.append((h["start"], lane_of(h, "Africa"), "🦴 Human species appears", h["name"], f"/wiki/hominins/{h['slug']}.html", h.get("region", "")))
 PERIODS = [(-10**9, -10000, "Deep prehistory (before 10,000 BCE)"), (-10000, -3000, "Neolithic and first farmers (10,000–3000 BCE)"), (-3000, -1200, "Bronze Age (3000–1200 BCE)"),
            (-1200, -500, "Iron Age (1200–500 BCE)"), (-500, 500, "Classical age (500 BCE–500 CE)"), (500, 1000, "Early medieval (500–1000)"), (1000, 1500, "Late medieval (1000–1500)"),
@@ -81,7 +83,7 @@ svg = (f'<div class="swim"><svg viewBox="0 0 1210 {ytop + 10}" role="img" aria-l
        f'{ticks}{"".join(lanes_svg)}</svg></div>')
 intro = ("Human history did not move in step everywhere. Farming, cities, iron, writing and industry arrived at different times in different regions, so this timeline branches by region. "
          "Each bar is a civilisation (amber) or dynasty (blue); hover for dates and click to open it. Below are the region timelines, each with every catalogued civilisation, dynasty, event, person, monument, invention and human species, sorted by date.")
-links = " · ".join(f"[{l}](/wiki/timelines/{SLUG[l]}.html)" for l in LANES)
+links = " · ".join(f"[{l}](/wiki/timelines/{SLUG[l]}.html)" for l in LANES) + "\n\n**Theme timelines:** [Religions](/wiki/timelines/religions-and-beliefs.html) · [Languages and writing](/wiki/timelines/languages-and-writing.html) · [Technology](/wiki/timelines/technology-and-science.html) · [Manuscripts](/wiki/timelines/manuscripts-and-texts.html) · [Rulers and dynasties](/wiki/timelines/rulers-and-dynasties.html) · [Wars, plagues and disasters](/wiki/timelines/wars-plagues-and-disasters.html)"
 allrows = [r for r in items]
 ov = ["---\ntitle: The Branching Timeline of Humanity\nsummary: Civilisations and dynasties of every region side by side from 3500 BCE to today, with region-by-region timelines of every event.\nlevel: Timeline\n---",
       intro, "", svg, "", "**Region timelines:** " + links, "",
@@ -92,3 +94,23 @@ for lane in LANES:
     rows = [r for r in items if r[1] == lane]
     open(os.path.join(OUT, SLUG[lane] + ".md"), "w", encoding="utf-8").write(page(lane, rows, f"Timeline: {lane}", f"Every catalogued civilisation, dynasty, event, person, monument, invention and human species in {lane}, from the earliest evidence to today ({len(rows)} entries)."))
 print("timelines:", len(items), "items")
+
+# thematic branches: the same history cut by theme instead of region
+THEMES = [
+ ("religions-and-beliefs", "Timeline: Religions and philosophies", "When each religion and philosophy began, where, and who founded it, from the earliest ritual burials to modern faiths.",
+  [(b["founded"], lane_of({"region": b.get("origin", "")}), "🛕 Founded", b["name"], f"/wiki/beliefs/{b['slug']}.html", f"{b.get('origin','')} · {b.get('founder','')}") for b in bel if isinstance(b.get("founded"), int)]),
+ ("languages-and-writing", "Timeline: Languages and writing", "How language families spread and when scripts and key texts appeared, from proto-languages to modern tongues.",
+  [(l["start"], lane_of({"region": l.get("homeland", "")}), "🗣 " + l.get("family", "Language"), l["name"], f"/wiki/languages/{l['slug']}.html", l.get("homeland", "")) for l in lang if isinstance(l.get("start"), int)] +
+  [(m["year"], m["lane"], "📜 Manuscript", m["name"], f"/wiki/manuscripts/{m['slug']}.html", m.get("script", "")) for m in man]),
+ ("technology-and-science", "Timeline: Technology and science", "Every catalogued invention and discovery, from 3.3-million-year-old stone tools to the internet, showing how knowledge accumulated and spread between regions.",
+  [r for r in items if r[2].startswith("⚙")]),
+ ("manuscripts-and-texts", "Timeline: Manuscripts and written records", "The oldest surviving manuscripts, inscriptions and books of every civilisation, in the order they were written.",
+  [r for r in items if r[2].startswith("📜")]),
+ ("rulers-and-dynasties", "Timeline: Rulers, dynasties and empires", "Every catalogued empire and dynasty in date order across the world: who rose, when, and alongside whom.",
+  [r for r in items if r[2].startswith("🏛") or r[2].startswith("👑")]),
+ ("wars-plagues-and-disasters", "Timeline: Wars, plagues and disasters", "The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars.",
+  [r for r in items if r[2].startswith("📅") and any(w in r[2].lower() for w in ("war", "battle", "plague", "pandemic", "epidemic", "volcan", "climate", "drought", "famine", "invasion", "conquest", "collapse", "disaster", "earthquake", "genocide", "revolt", "rebellion"))]),
+]
+for slug, title, intro, rows in THEMES:
+    open(os.path.join(OUT, slug + ".md"), "w", encoding="utf-8").write(page("ALL", rows, title, intro + f" ({len(rows)} entries)"))
+print("themes:", [(t[0], len(t[3])) for t in THEMES])
