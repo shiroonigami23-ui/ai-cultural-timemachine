@@ -1,9 +1,9 @@
 ---
 title: Timeline: South Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (228 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (239 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (228 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (239 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (2)
 <div class="timeline">
@@ -129,7 +129,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (32)
+:::collapse !Late medieval (1000–1500) (33)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: ⚙ Invention: <a href="/wiki/inventions/spinning-wheel.html">Spinning wheel</a> — India or China</div>
 <div class="ev"><span class="yr">1010</span>: 🗿 Built / founded: <a href="/wiki/sites/brihadeeswara-temple.html">Brihadeeswara Temple</a> — Rajaraja Chola I</div>
@@ -141,6 +141,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1163</span>: 👑 Dynasty: <a href="/wiki/dynasties/kakatiya-dynasty.html">Kakatiya dynasty</a> — Kakatiyas were Chalukya feudatories in Telangana who became independent under Prola II and Rudra I (c. 1163). Ganapati (r. 1199–1262) and hi</div>
 <div class="ev"><span class="yr">1192</span>: 📅 War: <a href="/wiki/events/second-battle-of-tarain.html">Second Battle of Tarain</a> — Muhammad of Ghor defeats Prithviraj Chauhan</div>
 <div class="ev"><span class="yr">1193</span>: 📅 Destruction: <a href="/wiki/events/destruction-of-nalanda.html">Destruction of Nalanda</a> — Great Buddhist university burned</div>
+<div class="ev"><span class="yr">1193</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/nalanda-library-burned-for-months.html">Nalanda library burned for months</a> — Partly true</div>
 <div class="ev"><span class="yr">1199</span>: 🗿 Built / founded: <a href="/wiki/sites/qutub-minar.html">Qutub Minar</a> — Qutb ud-Din Aibak, Iltutmish</div>
 <div class="ev"><span class="yr">1200</span>: ⚙ Invention: <a href="/wiki/inventions/snakes-and-ladders-moksha-patam.html">Snakes and ladders (moksha patam)</a> — India</div>
 <div class="ev"><span class="yr">1206</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/delhi-sultanate.html">Delhi Sultanate</a> — 1206–1526</div>
@@ -166,7 +167,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (44)
+:::collapse Early modern (1500–1800) (45)
 <div class="timeline">
 <div class="ev"><span class="yr">1508</span>: 👤 Born: <a href="/wiki/people/humayun.html">Humayun</a> — Lost and regained the empire</div>
 <div class="ev"><span class="yr">1510</span>: 📅 Colonialism: <a href="/wiki/events/portuguese-take-goa.html">Portuguese take Goa</a> — European colony in India</div>
@@ -198,6 +199,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1725</span>: 👤 Born: <a href="/wiki/people/robert-clive.html">Robert Clive</a> — Plassey</div>
 <div class="ev"><span class="yr">1734</span>: 🗿 Built / founded: <a href="/wiki/sites/jantar-mantar-jaipur.html">Jantar Mantar, Jaipur</a> — Sawai Jai Singh II</div>
 <div class="ev"><span class="yr">1739</span>: 📅 War: <a href="/wiki/events/nadir-shah-sacks-delhi.html">Nadir Shah sacks Delhi</a> — Peacock Throne and Koh-i-Noor taken</div>
+<div class="ev"><span class="yr">1739</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/kohinoor-s-curse-and-journey.html">Kohinoor&#x27;s curse and journey</a> — Documented journey (curse is myth)</div>
 <div class="ev"><span class="yr">1756</span>: 📅 War: <a href="/wiki/events/black-hole-of-calcutta.html">Black Hole of Calcutta</a> — Pretext for Plassey</div>
 <div class="ev"><span class="yr">1757</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/east-india-company-rule.html">East India Company rule</a> — 1757–1858</div>
 <div class="ev"><span class="yr">1757</span>: 📅 War: <a href="/wiki/events/battle-of-plassey.html">Battle of Plassey</a> — East India Company takes Bengal</div>
@@ -215,7 +217,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (42)
+:::collapse Industrial and imperial age (1800–1945) (43)
 <div class="timeline">
 <div class="ev"><span class="yr">1815</span>: 📅 Volcanic eruption: <a href="/wiki/events/tambora-eruption.html">Tambora eruption</a> — &#x27;Year Without a Summer&#x27; (1816)</div>
 <div class="ev"><span class="yr">1827</span>: 👤 Born: <a href="/wiki/people/mangal-pandey.html">Mangal Pandey</a> — Sparked the 1857 uprising</div>
@@ -258,25 +260,34 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1931</span>: 👤 Born: <a href="/wiki/people/a-p-j-abdul-kalam.html">A. P. J. Abdul Kalam</a> — Missile programme</div>
 <div class="ev"><span class="yr">1942</span>: 📅 Freedom struggle: <a href="/wiki/events/quit-india-movement.html">Quit India Movement</a> — &#x27;Do or die&#x27;</div>
 <div class="ev"><span class="yr">1943</span>: 📅 Famine: <a href="/wiki/events/bengal-famine-of-1943.html">Bengal famine of 1943</a> — ~2–3 million dead</div>
+<div class="ev"><span class="yr">1943</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/churchill-and-the-bengal-famine.html">Churchill and the Bengal famine</a> — Disputed and debated</div>
 <div class="ev"><span class="yr">1944</span>: 📅 War: <a href="/wiki/events/battles-of-imphal-and-kohima.html">Battles of Imphal and Kohima</a> — Japan&#x27;s invasion of India stopped</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (16)
+:::collapse Contemporary (1945–today) (24)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Independence: <a href="/wiki/events/decolonisation-of-africa-and-asia.html">Decolonisation of Africa and Asia</a> — Dozens of new nations</div>
+<div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/death-of-subhas-chandra-bose.html">Death of Subhas Chandra Bose</a> — Unresolved</div>
 <div class="ev"><span class="yr">1947</span>: 📅 Independence: <a href="/wiki/events/indian-independence-and-partition.html">Indian Independence and Partition</a> — India and Pakistan created; ~15 million displaced, up to ~2 million killed</div>
 <div class="ev"><span class="yr">1948</span>: 📅 Politics: <a href="/wiki/events/assassination-of-gandhi.html">Assassination of Gandhi</a> — Nation in mourning</div>
+<div class="ev"><span class="yr">1948</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/gandhi-s-assassination-plot-warnings.html">Gandhi&#x27;s assassination plot warnings</a> — Documented fact</div>
 <div class="ev"><span class="yr">1950</span>: 📅 Law: <a href="/wiki/events/indian-constitution-adopted.html">Indian Constitution adopted</a> — India becomes a republic</div>
 <div class="ev"><span class="yr">1960</span>: ⚙ Invention: <a href="/wiki/inventions/green-revolution-seeds.html">Green Revolution seeds</a> — Mexico, Philippines, India</div>
 <div class="ev"><span class="yr">1962</span>: 📅 War: <a href="/wiki/events/sino-indian-war.html">Sino-Indian War</a> — Border dispute</div>
+<div class="ev"><span class="yr">1963</span>: 📅 Space: <a href="/wiki/events/india-s-first-rocket-launch-from-thumba.html">India&#x27;s first rocket launch from Thumba</a> — Birth of the Indian space programme</div>
 <div class="ev"><span class="yr">1966</span>: 📅 Agriculture: <a href="/wiki/events/green-revolution-in-india.html">Green Revolution in India</a> — Food self-sufficiency</div>
+<div class="ev"><span class="yr">1966</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/death-of-lal-bahadur-shastri.html">Death of Lal Bahadur Shastri</a> — Unresolved</div>
 <div class="ev"><span class="yr">1971</span>: 📅 War: <a href="/wiki/events/bangladesh-liberation-war.html">Bangladesh Liberation War</a> — Bangladesh independent</div>
+<div class="ev"><span class="yr">1974</span>: 📅 Science and war: <a href="/wiki/events/smiling-buddha-nuclear-test.html">Smiling Buddha nuclear test</a> — India becomes a nuclear power</div>
 <div class="ev"><span class="yr">1975</span>: 📅 Politics: <a href="/wiki/events/emergency-in-india.html">Emergency in India</a> — Civil liberties suspended</div>
+<div class="ev"><span class="yr">1975</span>: 📅 Space: <a href="/wiki/events/aryabhata-satellite-launched.html">Aryabhata satellite launched</a> — India&#x27;s first satellite</div>
 <div class="ev"><span class="yr">1975</span>: ⚙ Invention: <a href="/wiki/inventions/indias-first-satellite.html">India&#x27;s first satellite</a> — India</div>
 <div class="ev"><span class="yr">1984</span>: 📅 Disaster: <a href="/wiki/events/bhopal-gas-tragedy.html">Bhopal gas tragedy</a> — Thousands killed by toxic gas</div>
+<div class="ev"><span class="yr">1984</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/bhopal-cover-up.html">Bhopal cover-up</a> — Documented fact</div>
 <div class="ev"><span class="yr">1991</span>: 📅 Economic: <a href="/wiki/events/indian-economic-liberalisation.html">Indian economic liberalisation</a> — Opened the economy</div>
 <div class="ev"><span class="yr">2004</span>: 📅 Natural disaster: <a href="/wiki/events/2004-indian-ocean-tsunami.html">2004 Indian Ocean tsunami</a> — ~230,000 dead</div>
+<div class="ev"><span class="yr">2016</span>: 📅 Invention: <a href="/wiki/events/launch-of-upi.html">Launch of UPI</a> — Digital payments revolution</div>
 <div class="ev"><span class="yr">2016</span>: ⚙ Invention: <a href="/wiki/inventions/upi-unified-payments-interface.html">UPI (Unified Payments Interface)</a> — India</div>
 <div class="ev"><span class="yr">2023</span>: 📅 Exploration: <a href="/wiki/events/chandrayaan-3-lands-on-the-moon.html">Chandrayaan-3 lands on the Moon</a> — First landing near the lunar south pole</div>
 <div class="ev"><span class="yr">2023</span>: 📅 Demography: <a href="/wiki/events/india-becomes-most-populous-country.html">India becomes most populous country</a> — ~1.43 billion people</div>

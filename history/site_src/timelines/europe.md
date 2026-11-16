@@ -1,9 +1,9 @@
 ---
 title: Timeline: Europe
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (190 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (216 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (190 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (216 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (6)
 <div class="timeline">
@@ -89,7 +89,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (14)
+:::collapse !Early medieval (500–1000) (15)
 <div class="timeline">
 <div class="ev"><span class="yr">732 CE</span>: 📅 War: <a href="/wiki/events/battle-of-tours.html">Battle of Tours</a> — Halted Umayyad expansion into Francia</div>
 <div class="ev"><span class="yr">751 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/carolingian-dynasty.html">Carolingian dynasty</a> — Pepin the Short deposed the last Merovingian with papal approval (751). His son Charlemagne conquered Lombards and Saxons and was crowned em</div>
@@ -97,6 +97,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">793 CE</span>: 📅 War: <a href="/wiki/events/viking-raid-on-lindisfarne.html">Viking raid on Lindisfarne</a> — Viking Age begins</div>
 <div class="ev"><span class="yr">800 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/holy-roman-empire.html">Holy Roman Empire</a> — 800–1806</div>
 <div class="ev"><span class="yr">800 CE</span>: 📅 Politics: <a href="/wiki/events/charlemagne-crowned-emperor.html">Charlemagne crowned emperor</a> — Holy Roman Empire</div>
+<div class="ev"><span class="yr">800 CE</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/donation-of-constantine.html">Donation of Constantine</a> — Proven forgery</div>
 <div class="ev"><span class="yr">800 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/book-of-kells.html">Book of Kells</a> — c. 800</div>
 <div class="ev"><span class="yr">862 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/rurikid-dynasty.html">Rurikid dynasty</a> — Rurik, a Varangian, reportedly came to rule Novgorod in 862; his successors ruled Kiev. After the Mongol conquest, the Muscovite branch rose</div>
 <div class="ev"><span class="yr">867 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/macedonian-dynasty-byzantine.html">Macedonian dynasty (Byzantine)</a> — Basil I, a peasant-born groom who rose as a favourite of Michael III, had his patron murdered and took the throne in 867. His dynasty presid</div>
@@ -108,7 +109,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (31)
+:::collapse !Late medieval (1000–1500) (32)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 📜 Manuscript: <a href="/wiki/manuscripts/beowulf-manuscript.html">Beowulf manuscript</a> — c. 1000</div>
 <div class="ev"><span class="yr">1066</span>: 👑 Dynasty: <a href="/wiki/dynasties/normans-and-plantagenets.html">Normans and Plantagenets</a> — William of Normandy won at Hastings in 1066, compiled the Domesday Book and built castles. Henry II founded the Plantagenet line (1154), rul</div>
@@ -123,6 +124,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1286</span>: ⚙ Invention: <a href="/wiki/inventions/spectacles.html">Spectacles</a> — Italy</div>
 <div class="ev"><span class="yr">1315</span>: 📅 Famine: <a href="/wiki/events/great-famine-of-europe.html">Great Famine of Europe</a> — Millions dead</div>
 <div class="ev"><span class="yr">1337</span>: 📅 War: <a href="/wiki/events/hundred-years-war.html">Hundred Years&#x27; War</a> — National identities formed</div>
+<div class="ev"><span class="yr">1400</span>: 👤 Born: <a href="/wiki/people/johannes-gutenberg.html">Johannes Gutenberg</a> — Movable-type printing press</div>
 <div class="ev"><span class="yr">1410</span>: 📅 War: <a href="/wiki/events/battle-of-grunwald.html">Battle of Grunwald</a> — Teutonic Knights defeated</div>
 <div class="ev"><span class="yr">1412</span>: 👤 Born: <a href="/wiki/people/joan-of-arc.html">Joan of Arc</a> — Turned the Hundred Years&#x27; War</div>
 <div class="ev"><span class="yr">1415</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/portuguese-empire.html">Portuguese Empire</a> — 1415–1999</div>
@@ -144,7 +146,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (41)
+:::collapse Early modern (1500–1800) (42)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/charles-v.html">Charles V</a> — Empire on which the sun never set</div>
 <div class="ev"><span class="yr">1510</span>: 📜 Manuscript: <a href="/wiki/manuscripts/leonardo-s-codex-leicester.html">Leonardo&#x27;s Codex Leicester</a> — 1506–1510</div>
@@ -179,6 +181,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1712</span>: ⚙ Invention: <a href="/wiki/inventions/steam-engine.html">Steam engine</a> — Britain</div>
 <div class="ev"><span class="yr">1721</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/russian-empire.html">Russian Empire</a> — 1721–1917</div>
 <div class="ev"><span class="yr">1729</span>: 👤 Born: <a href="/wiki/people/catherine-the-great.html">Catherine the Great</a> — Expanded Russia</div>
+<div class="ev"><span class="yr">1749</span>: 👤 Born: <a href="/wiki/people/edward-jenner.html">Edward Jenner</a> — Smallpox vaccine</div>
 <div class="ev"><span class="yr">1758</span>: 👤 Born: <a href="/wiki/people/maximilien-robespierre.html">Maximilien Robespierre</a> — Reign of Terror</div>
 <div class="ev"><span class="yr">1769</span>: 👤 Born: <a href="/wiki/people/napoleon-bonaparte.html">Napoleon Bonaparte</a> — Napoleonic Code, conquests</div>
 <div class="ev"><span class="yr">1770</span>: 👤 Born: <a href="/wiki/people/ludwig-van-beethoven.html">Ludwig van Beethoven</a> — Ninth Symphony</div>
@@ -190,12 +193,13 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (42)
+:::collapse Industrial and imperial age (1800–1945) (60)
 <div class="timeline">
 <div class="ev"><span class="yr">1800</span>: ⚙ Invention: <a href="/wiki/inventions/electric-battery.html">Electric battery</a> — Italy</div>
 <div class="ev"><span class="yr">1802</span>: 👤 Born: <a href="/wiki/people/victor-hugo.html">Victor Hugo</a> — Les Misérables</div>
 <div class="ev"><span class="yr">1803</span>: 📅 War: <a href="/wiki/events/napoleonic-wars.html">Napoleonic Wars</a> — Redrew Europe; ended at Waterloo</div>
 <div class="ev"><span class="yr">1807</span>: 👤 Born: <a href="/wiki/people/giuseppe-garibaldi.html">Giuseppe Garibaldi</a> — Italian unification</div>
+<div class="ev"><span class="yr">1808</span>: 👤 Born: <a href="/wiki/people/antonio-meucci.html">Antonio Meucci</a> — Early voice-transmission device</div>
 <div class="ev"><span class="yr">1809</span>: 👤 Born: <a href="/wiki/people/charles-darwin.html">Charles Darwin</a> — Evolution by natural selection</div>
 <div class="ev"><span class="yr">1812</span>: 👤 Born: <a href="/wiki/people/charles-dickens.html">Charles Dickens</a> — Oliver Twist, A Christmas Carol</div>
 <div class="ev"><span class="yr">1815</span>: 📅 War: <a href="/wiki/events/battle-of-waterloo.html">Battle of Waterloo</a> — End of Napoleon</div>
@@ -218,6 +222,8 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1870</span>: 👤 Born: <a href="/wiki/people/vladimir-lenin.html">Vladimir Lenin</a> — Bolshevik Revolution</div>
 <div class="ev"><span class="yr">1871</span>: 📅 Politics: <a href="/wiki/events/german-unification.html">German unification</a> — New great power</div>
 <div class="ev"><span class="yr">1874</span>: 👤 Born: <a href="/wiki/people/winston-churchill.html">Winston Churchill</a> — WWII leadership</div>
+<div class="ev"><span class="yr">1874</span>: 👤 Born: <a href="/wiki/people/guglielmo-marconi.html">Guglielmo Marconi</a> — Radio telegraphy</div>
+<div class="ev"><span class="yr">1878</span>: 👤 Born: <a href="/wiki/people/lise-meitner.html">Lise Meitner</a> — Explained nuclear fission</div>
 <div class="ev"><span class="yr">1879</span>: 👤 Born: <a href="/wiki/people/albert-einstein.html">Albert Einstein</a> — Relativity</div>
 <div class="ev"><span class="yr">1879</span>: ⚙ Invention: <a href="/wiki/inventions/light-bulb.html">Light bulb</a> — USA / Britain</div>
 <div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/pablo-picasso.html">Pablo Picasso</a> — Cubism, Guernica</div>
@@ -225,21 +231,41 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1886</span>: ⚙ Invention: <a href="/wiki/inventions/automobile.html">Automobile</a> — Germany</div>
 <div class="ev"><span class="yr">1889</span>: 👤 Born: <a href="/wiki/people/adolf-hitler.html">Adolf Hitler</a> — Started WWII; perpetrated the Holocaust</div>
 <div class="ev"><span class="yr">1889</span>: 👤 Born: <a href="/wiki/people/charlie-chaplin.html">Charlie Chaplin</a> — The Tramp; The Great Dictator</div>
+<div class="ev"><span class="yr">1895</span>: 📅 Cultural change: <a href="/wiki/events/lumi-re-brothers-first-film-screening.html">Lumière brothers&#x27; first film screening</a> — Birth of cinema</div>
+<div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/cinema.html">Cinema</a> — Paris, France</div>
+<div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/x-rays.html">X-rays</a> — Würzburg, Germany</div>
+<div class="ev"><span class="yr">1901</span>: 👤 Born: <a href="/wiki/people/enrico-fermi.html">Enrico Fermi</a> — First nuclear reactor</div>
+<div class="ev"><span class="yr">1903</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/protocols-of-the-elders-of-zion.html">Protocols of the Elders of Zion</a> — Proven forgery</div>
 <div class="ev"><span class="yr">1912</span>: 👤 Born: <a href="/wiki/people/alan-turing.html">Alan Turing</a> — Turing machine, Enigma codebreaking</div>
+<div class="ev"><span class="yr">1912</span>: 👤 Born: <a href="/wiki/people/wernher-von-braun.html">Wernher von Braun</a> — V-2 and Saturn V</div>
+<div class="ev"><span class="yr">1912</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/piltdown-man.html">Piltdown Man</a> — Proven hoax</div>
 <div class="ev"><span class="yr">1917</span>: 📅 Revolution: <a href="/wiki/events/russian-revolution.html">Russian Revolution</a> — First communist state</div>
+<div class="ev"><span class="yr">1920</span>: 👤 Born: <a href="/wiki/people/rosalind-franklin.html">Rosalind Franklin</a> — X-ray images of DNA</div>
 <div class="ev"><span class="yr">1922</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/soviet-union.html">Soviet Union</a> — 1922–1991</div>
+<div class="ev"><span class="yr">1926</span>: ⚙ Invention: <a href="/wiki/inventions/space-rocket.html">Space rocket</a> — USA, Germany, USSR</div>
+<div class="ev"><span class="yr">1927</span>: ⚙ Invention: <a href="/wiki/inventions/television.html">Television</a> — Britain and USA</div>
+<div class="ev"><span class="yr">1928</span>: 📅 Discovery: <a href="/wiki/events/discovery-of-penicillin.html">Discovery of penicillin</a> — Start of the antibiotic age</div>
 <div class="ev"><span class="yr">1928</span>: ⚙ Invention: <a href="/wiki/inventions/antibiotics.html">Antibiotics</a> — Britain</div>
 <div class="ev"><span class="yr">1932</span>: 📅 Famine: <a href="/wiki/events/holodomor.html">Holodomor</a> — Millions died</div>
+<div class="ev"><span class="yr">1933</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/holodomor-cover-up.html">Holodomor cover-up</a> — Documented fact</div>
+<div class="ev"><span class="yr">1933</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/reichstag-fire.html">Reichstag fire</a> — Disputed</div>
+<div class="ev"><span class="yr">1935</span>: ⚙ Invention: <a href="/wiki/inventions/radar.html">Radar</a> — Britain</div>
 <div class="ev"><span class="yr">1936</span>: 📅 Civil war: <a href="/wiki/events/spanish-civil-war.html">Spanish Civil War</a> — Franco&#x27;s dictatorship</div>
+<div class="ev"><span class="yr">1936</span>: 📅 Cultural change: <a href="/wiki/events/first-television-broadcasts.html">First television broadcasts</a> — Mass broadcasting</div>
 <div class="ev"><span class="yr">1941</span>: 📅 Genocide: <a href="/wiki/events/the-holocaust.html">The Holocaust</a> — ~6 million Jews murdered</div>
 <div class="ev"><span class="yr">1942</span>: 📅 War: <a href="/wiki/events/battle-of-stalingrad.html">Battle of Stalingrad</a> — Turning point of WWII</div>
 <div class="ev"><span class="yr">1942</span>: 👤 Born: <a href="/wiki/people/stephen-hawking.html">Stephen Hawking</a> — Black holes, A Brief History of Time</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (3)
+:::collapse Contemporary (1945–today) (8)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: ⚙ Invention: <a href="/wiki/inventions/computer.html">Computer</a> — USA / Britain</div>
+<div class="ev"><span class="yr">1953</span>: 📅 Discovery: <a href="/wiki/events/discovery-of-the-dna-double-helix.html">Discovery of the DNA double helix</a> — Birth of molecular biology</div>
+<div class="ev"><span class="yr">1953</span>: ⚙ Invention: <a href="/wiki/inventions/dna-double-helix.html">DNA double helix</a> — Cambridge, UK</div>
+<div class="ev"><span class="yr">1955</span>: 👤 Born: <a href="/wiki/people/tim-berners-lee.html">Tim Berners-Lee</a> — World Wide Web</div>
+<div class="ev"><span class="yr">1957</span>: 📅 Space: <a href="/wiki/events/sputnik-launched.html">Sputnik launched</a> — Start of the space age</div>
+<div class="ev"><span class="yr">1961</span>: 📅 Space: <a href="/wiki/events/yuri-gagarin-orbits-earth.html">Yuri Gagarin orbits Earth</a> — First human in space</div>
 <div class="ev"><span class="yr">1986</span>: 📅 Disaster: <a href="/wiki/events/chernobyl-disaster.html">Chernobyl disaster</a> — Nuclear catastrophe</div>
 <div class="ev"><span class="yr">1989</span>: 📅 Political: <a href="/wiki/events/fall-of-the-berlin-wall.html">Fall of the Berlin Wall</a> — End of the Cold War</div>
 </div>

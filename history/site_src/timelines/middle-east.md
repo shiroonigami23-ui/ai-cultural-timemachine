@@ -1,9 +1,9 @@
 ---
 title: Timeline: Middle East
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (88 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (89 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (88 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (89 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -135,10 +135,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (3)
+:::collapse Contemporary (1945–today) (4)
 <div class="timeline">
 <div class="ev"><span class="yr">1948</span>: 📅 Politics: <a href="/wiki/events/creation-of-israel-and-the-nakba.html">Creation of Israel and the Nakba</a> — Displacement of ~700,000 Palestinians</div>
 <div class="ev"><span class="yr">1979</span>: 📅 Revolution: <a href="/wiki/events/iranian-revolution.html">Iranian Revolution</a> — Islamic Republic</div>
+<div class="ev"><span class="yr">2002</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/iraq-wmd-intelligence.html">Iraq WMD intelligence</a> — Documented fact</div>
 <div class="ev"><span class="yr">2010</span>: 📅 Uprising: <a href="/wiki/events/arab-spring.html">Arab Spring</a> — Regime changes and civil wars</div>
 </div>
 :::

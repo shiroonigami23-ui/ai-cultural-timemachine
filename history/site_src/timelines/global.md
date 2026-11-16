@@ -1,9 +1,9 @@
 ---
 title: Timeline: Global
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (113 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (127 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (113 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (127 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (7)
 <div class="timeline">
@@ -48,11 +48,12 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (12)
+:::collapse !Classical age (500 BCE–500 CE) (13)
 <div class="timeline">
 <div class="ev"><span class="yr">495 BCE</span>: 👤 Born: <a href="/wiki/people/pericles.html">Pericles</a> — Led Athens in its golden age</div>
 <div class="ev"><span class="yr">470 BCE</span>: 👤 Born: <a href="/wiki/people/socrates.html">Socrates</a> — Socratic method</div>
 <div class="ev"><span class="yr">428 BCE</span>: 👤 Born: <a href="/wiki/people/plato.html">Plato</a> — The Republic, the Academy</div>
+<div class="ev"><span class="yr">360 BCE</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/atlantis.html">Atlantis</a> — Myth</div>
 <div class="ev"><span class="yr">356 BCE</span>: 👤 Born: <a href="/wiki/people/alexander-the-great.html">Alexander the Great</a> — Conquered from Greece to Punjab</div>
 <div class="ev"><span class="yr">325 BCE</span>: 👤 Born: <a href="/wiki/people/euclid.html">Euclid</a> — Elements of geometry</div>
 <div class="ev"><span class="yr">287 BCE</span>: 👤 Born: <a href="/wiki/people/archimedes.html">Archimedes</a> — Buoyancy, levers</div>
@@ -99,7 +100,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (18)
+:::collapse Early modern (1500–1800) (19)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/tansen.html">Tansen</a> — Hindustani classical music</div>
 <div class="ev"><span class="yr">1525</span>: 👤 Born: <a href="/wiki/people/rani-abbakka-chowta.html">Rani Abbakka Chowta</a> — Fought the Portuguese</div>
@@ -113,6 +114,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1725</span>: 👤 Born: <a href="/wiki/people/ahilyabai-holkar.html">Ahilyabai Holkar</a> — Builder of temples</div>
 <div class="ev"><span class="yr">1730</span>: 👤 Born: <a href="/wiki/people/velu-nachiyar.html">Velu Nachiyar</a> — Fought the British</div>
 <div class="ev"><span class="yr">1732</span>: 👤 Born: <a href="/wiki/people/george-washington.html">George Washington</a> — Led the American Revolution</div>
+<div class="ev"><span class="yr">1736</span>: 👤 Born: <a href="/wiki/people/james-watt.html">James Watt</a> — Improved steam engine</div>
 <div class="ev"><span class="yr">1743</span>: 👤 Born: <a href="/wiki/people/toussaint-louverture.html">Toussaint Louverture</a> — Led the Haitian Revolution</div>
 <div class="ev"><span class="yr">1751</span>: 👤 Born: <a href="/wiki/people/tipu-sultan.html">Tipu Sultan</a> — Resisted the British; rockets</div>
 <div class="ev"><span class="yr">1756</span>: 📅 World war: <a href="/wiki/events/seven-years-war.html">Seven Years&#x27; War</a> — Britain dominates India and North America</div>
@@ -122,7 +124,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (28)
+:::collapse Industrial and imperial age (1800–1945) (32)
 <div class="timeline">
 <div class="ev"><span class="yr">1809</span>: 👤 Born: <a href="/wiki/people/abraham-lincoln.html">Abraham Lincoln</a> — Ended slavery, preserved the Union</div>
 <div class="ev"><span class="yr">1817</span>: 📅 Pandemic: <a href="/wiki/events/cholera-pandemics.html">Cholera pandemics</a> — Millions dead</div>
@@ -139,12 +141,16 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1875</span>: 👤 Born: <a href="/wiki/people/birsa-munda.html">Birsa Munda</a> — Ulgulan rebellion for tribal land rights</div>
 <div class="ev"><span class="yr">1877</span>: 👤 Born: <a href="/wiki/people/allama-iqbal.html">Allama Iqbal</a> — Saare Jahan Se Achha; idea of Pakistan</div>
 <div class="ev"><span class="yr">1878</span>: 👤 Born: <a href="/wiki/people/joseph-stalin.html">Joseph Stalin</a> — Industrialisation, purges, WWII victory</div>
+<div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/alexander-fleming.html">Alexander Fleming</a> — Discovery of penicillin</div>
 <div class="ev"><span class="yr">1882</span>: 👤 Born: <a href="/wiki/people/subramania-bharati.html">Subramania Bharati</a> — Modern Tamil poetry, women&#x27;s rights</div>
 <div class="ev"><span class="yr">1894</span>: 📅 Pandemic: <a href="/wiki/events/third-plague-pandemic.html">Third plague pandemic</a> — ~12 million dead in India</div>
+<div class="ev"><span class="yr">1901</span>: 📅 Invention: <a href="/wiki/events/marconi-s-transatlantic-radio-signal.html">Marconi&#x27;s transatlantic radio signal</a> — Wireless communication across oceans</div>
+<div class="ev"><span class="yr">1912</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/titanic-insurance-switch.html">Titanic insurance switch</a> — Debunked</div>
 <div class="ev"><span class="yr">1913</span>: 👤 Born: <a href="/wiki/people/rosa-parks.html">Rosa Parks</a> — Montgomery bus boycott</div>
 <div class="ev"><span class="yr">1914</span>: 📅 World war: <a href="/wiki/events/world-war-i.html">World War I</a> — ~20 million dead; empires collapse</div>
 <div class="ev"><span class="yr">1918</span>: 📅 Influenza pandemic: <a href="/wiki/events/spanish-flu.html">Spanish flu</a> — ~50 million dead; ~12–17 million in India</div>
 <div class="ev"><span class="yr">1921</span>: 👤 Born: <a href="/wiki/people/satyajit-ray.html">Satyajit Ray</a> — Apu Trilogy</div>
+<div class="ev"><span class="yr">1923</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/leaded-petrol-cover-up.html">Leaded petrol cover-up</a> — Documented fact</div>
 <div class="ev"><span class="yr">1925</span>: 👤 Born: <a href="/wiki/people/idi-amin.html">Idi Amin</a> — Expelled Asians</div>
 <div class="ev"><span class="yr">1926</span>: 👤 Born: <a href="/wiki/people/marilyn-monroe.html">Marilyn Monroe</a> — Some Like It Hot, pop-culture icon</div>
 <div class="ev"><span class="yr">1927</span>: 👤 Born: <a href="/wiki/people/gabriel-garc-a-m-rquez.html">Gabriel García Márquez</a> — One Hundred Years of Solitude</div>
@@ -155,15 +161,23 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (8)
+:::collapse Contemporary (1945–today) (16)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Politics: <a href="/wiki/events/united-nations-founded.html">United Nations founded</a> — Postwar order</div>
+<div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-paperclip.html">Operation Paperclip</a> — Documented fact</div>
+<div class="ev"><span class="yr">1950</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-legacy.html">Operation Legacy</a> — Documented fact</div>
+<div class="ev"><span class="yr">1953</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/mkultra.html">MKUltra</a> — Documented fact</div>
+<div class="ev"><span class="yr">1953</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tobacco-industry-cover-up.html">Tobacco industry cover-up</a> — Documented fact</div>
 <div class="ev"><span class="yr">1957</span>: ⚙ Invention: <a href="/wiki/inventions/space-flight.html">Space flight</a> — USSR</div>
+<div class="ev"><span class="yr">1969</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/moon-landing-hoax.html">Moon landing hoax</a> — Debunked</div>
 <div class="ev"><span class="yr">1981</span>: 📅 Pandemic: <a href="/wiki/events/hiv-aids-pandemic.html">HIV/AIDS pandemic</a> — ~40 million deaths</div>
 <div class="ev"><span class="yr">1989</span>: 📅 Technology: <a href="/wiki/events/invention-of-the-world-wide-web.html">Invention of the World Wide Web</a> — The information age</div>
 <div class="ev"><span class="yr">1991</span>: 📅 Political: <a href="/wiki/events/dissolution-of-the-soviet-union.html">Dissolution of the Soviet Union</a> — 15 new countries</div>
 <div class="ev"><span class="yr">2003</span>: 📅 Science: <a href="/wiki/events/human-genome-project-completed.html">Human Genome Project completed</a> — Read the human DNA</div>
 <div class="ev"><span class="yr">2008</span>: 📅 Economic: <a href="/wiki/events/2008-financial-crisis.html">2008 financial crisis</a> — Great Recession</div>
+<div class="ev"><span class="yr">2013</span>: 📅 Revelation: <a href="/wiki/events/snowden-revelations.html">Snowden revelations</a> — Exposed mass surveillance</div>
+<div class="ev"><span class="yr">2013</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/nsa-mass-surveillance.html">NSA mass surveillance</a> — Documented fact</div>
 <div class="ev"><span class="yr">2020</span>: 📅 Pandemic: <a href="/wiki/events/covid-19-pandemic.html">COVID-19 pandemic</a> — ~7 million reported deaths (many more estimated)</div>
+<div class="ev"><span class="yr">2022</span>: 📅 Invention: <a href="/wiki/events/release-of-chatgpt.html">Release of ChatGPT</a> — Mass adoption of generative AI</div>
 </div>
 :::

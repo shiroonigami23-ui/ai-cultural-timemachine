@@ -1,9 +1,9 @@
 ---
 title: Timeline: East Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (85 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (87 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (85 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (87 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -118,7 +118,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (8)
+:::collapse Industrial and imperial age (1800–1945) (9)
 <div class="timeline">
 <div class="ev"><span class="yr">1850</span>: 📅 Civil war: <a href="/wiki/events/taiping-rebellion.html">Taiping Rebellion</a> — 20–30 million dead</div>
 <div class="ev"><span class="yr">1866</span>: 👤 Born: <a href="/wiki/people/sun-yat-sen.html">Sun Yat-sen</a> — Father of the Republic of China</div>
@@ -128,12 +128,14 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1904</span>: 📅 War: <a href="/wiki/events/russo-japanese-war.html">Russo-Japanese War</a> — First Asian victory over a European power</div>
 <div class="ev"><span class="yr">1911</span>: 📅 Revolution: <a href="/wiki/events/xinhai-revolution.html">Xinhai Revolution</a> — End of imperial China</div>
 <div class="ev"><span class="yr">1927</span>: 📅 Civil war: <a href="/wiki/events/chinese-civil-war.html">Chinese Civil War</a> — Communist victory</div>
+<div class="ev"><span class="yr">1936</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/unit-731-and-the-us-cover-up.html">Unit 731 and the US cover-up</a> — Documented fact</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (4)
+:::collapse Contemporary (1945–today) (5)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 War: <a href="/wiki/events/atomic-bombings-of-hiroshima-and-nagasaki.html">Atomic bombings of Hiroshima and Nagasaki</a> — ~110,000–210,000 dead</div>
+<div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/hiroshima-bombing-was-unnecessary.html">Hiroshima bombing was unnecessary</a> — Disputed</div>
 <div class="ev"><span class="yr">1949</span>: 📅 Revolution: <a href="/wiki/events/chinese-revolution.html">Chinese Revolution</a> — People&#x27;s Republic founded</div>
 <div class="ev"><span class="yr">1950</span>: 📅 War: <a href="/wiki/events/korean-war.html">Korean War</a> — Divided peninsula</div>
 <div class="ev"><span class="yr">1959</span>: 📅 Famine: <a href="/wiki/events/chinese-great-leap-forward-famine.html">Chinese Great Leap Forward famine</a> — Tens of millions died</div>

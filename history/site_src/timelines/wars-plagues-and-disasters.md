@@ -1,9 +1,9 @@
 ---
 title: Timeline: Wars, plagues and disasters
-summary: The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (118 entries)
+summary: The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (121 entries)
 level: Timeline
 ---
-The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (118 entries)
+The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (121 entries)
 
 :::collapse Deep prehistory (before 10,000 BCE) (1)
 <div class="timeline">
@@ -121,7 +121,7 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (25)
+:::collapse Industrial and imperial age (1800–1945) (26)
 <div class="timeline">
 <div class="ev"><span class="yr">1803</span>: 📅 War: <a href="/wiki/events/napoleonic-wars.html">Napoleonic Wars</a> <span class='muted'>· Europe</span> — Redrew Europe; ended at Waterloo</div>
 <div class="ev"><span class="yr">1815</span>: 📅 Volcanic eruption: <a href="/wiki/events/tambora-eruption.html">Tambora eruption</a> <span class='muted'>· South Asia</span> — &#x27;Year Without a Summer&#x27; (1816)</div>
@@ -146,19 +146,22 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 <div class="ev"><span class="yr">1939</span>: 📅 World war: <a href="/wiki/events/world-war-ii.html">World War II</a> <span class='muted'>· Global</span> — 70–85 million dead, the deadliest war</div>
 <div class="ev"><span class="yr">1941</span>: 📅 Genocide: <a href="/wiki/events/the-holocaust.html">The Holocaust</a> <span class='muted'>· Europe</span> — ~6 million Jews murdered</div>
 <div class="ev"><span class="yr">1942</span>: 📅 War: <a href="/wiki/events/battle-of-stalingrad.html">Battle of Stalingrad</a> <span class='muted'>· Europe</span> — Turning point of WWII</div>
+<div class="ev"><span class="yr">1942</span>: 📅 Science and war: <a href="/wiki/events/manhattan-project-begins.html">Manhattan Project begins</a> <span class='muted'>· Americas</span> — Race for the atomic bomb</div>
 <div class="ev"><span class="yr">1943</span>: 📅 Famine: <a href="/wiki/events/bengal-famine-of-1943.html">Bengal famine of 1943</a> <span class='muted'>· South Asia</span> — ~2–3 million dead</div>
 <div class="ev"><span class="yr">1944</span>: 📅 War: <a href="/wiki/events/battles-of-imphal-and-kohima.html">Battles of Imphal and Kohima</a> <span class='muted'>· South Asia</span> — Japan&#x27;s invasion of India stopped</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (12)
+:::collapse Contemporary (1945–today) (14)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 War: <a href="/wiki/events/atomic-bombings-of-hiroshima-and-nagasaki.html">Atomic bombings of Hiroshima and Nagasaki</a> <span class='muted'>· East Asia</span> — ~110,000–210,000 dead</div>
+<div class="ev"><span class="yr">1945</span>: 📅 Science and war: <a href="/wiki/events/trinity-nuclear-test.html">Trinity nuclear test</a> <span class='muted'>· Americas</span> — The first nuclear explosion</div>
 <div class="ev"><span class="yr">1950</span>: 📅 War: <a href="/wiki/events/korean-war.html">Korean War</a> <span class='muted'>· East Asia</span> — Divided peninsula</div>
 <div class="ev"><span class="yr">1959</span>: 📅 Famine: <a href="/wiki/events/chinese-great-leap-forward-famine.html">Chinese Great Leap Forward famine</a> <span class='muted'>· East Asia</span> — Tens of millions died</div>
 <div class="ev"><span class="yr">1962</span>: 📅 War: <a href="/wiki/events/sino-indian-war.html">Sino-Indian War</a> <span class='muted'>· South Asia</span> — Border dispute</div>
 <div class="ev"><span class="yr">1962</span>: 📅 Cold War: <a href="/wiki/events/cuban-missile-crisis.html">Cuban Missile Crisis</a> <span class='muted'>· Americas</span> — Nuclear brink</div>
 <div class="ev"><span class="yr">1971</span>: 📅 War: <a href="/wiki/events/bangladesh-liberation-war.html">Bangladesh Liberation War</a> <span class='muted'>· South Asia</span> — Bangladesh independent</div>
+<div class="ev"><span class="yr">1974</span>: 📅 Science and war: <a href="/wiki/events/smiling-buddha-nuclear-test.html">Smiling Buddha nuclear test</a> <span class='muted'>· South Asia</span> — India becomes a nuclear power</div>
 <div class="ev"><span class="yr">1981</span>: 📅 Pandemic: <a href="/wiki/events/hiv-aids-pandemic.html">HIV/AIDS pandemic</a> <span class='muted'>· Global</span> — ~40 million deaths</div>
 <div class="ev"><span class="yr">1984</span>: 📅 Disaster: <a href="/wiki/events/bhopal-gas-tragedy.html">Bhopal gas tragedy</a> <span class='muted'>· South Asia</span> — Thousands killed by toxic gas</div>
 <div class="ev"><span class="yr">1986</span>: 📅 Disaster: <a href="/wiki/events/chernobyl-disaster.html">Chernobyl disaster</a> <span class='muted'>· Europe</span> — Nuclear catastrophe</div>

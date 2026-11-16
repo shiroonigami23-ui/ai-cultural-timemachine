@@ -10,7 +10,8 @@
 "wiki": "Stone_tool",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "stone-tools"
+"slug": "stone-tools",
+"link_text": "Early hominins The first technology.    Kenya (Lomekwi) "
 },
 {
 "name": "Control of fire",
@@ -23,7 +24,8 @@
 "wiki": "Control_of_fire_by_early_humans",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "control-of-fire"
+"slug": "control-of-fire",
+"link_text": "Homo erectus Cooking may have helped grow bigger brains.    Africa "
 },
 {
 "name": "Bow and arrow",
@@ -36,7 +38,8 @@
 "wiki": "Bow_and_arrow",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "bow-and-arrow"
+"slug": "bow-and-arrow",
+"link_text": "Homo sapiens Stone arrowheads at Sibudu Cave.    South Africa "
 },
 {
 "name": "Sewing needle",
@@ -49,7 +52,8 @@
 "wiki": "Sewing_needle",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "sewing-needle"
+"slug": "sewing-needle",
+"link_text": "Denisovans or early humans Allowed survival in the Ice Age north.    Siberia (Denisova Cave) "
 },
 {
 "name": "Agriculture",
@@ -62,7 +66,8 @@
 "wiki": "Neolithic_Revolution",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "agriculture"
+"slug": "agriculture",
+"link_text": "Neolithic farmers See the Neolithic Revolution.    Fertile Crescent and elsewhere "
 },
 {
 "name": "Pottery",
@@ -75,7 +80,8 @@
 "wiki": "Pottery",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "pottery"
+"slug": "pottery",
+"link_text": "Hunter-gatherers Older than farming.    China (Xianrendong) "
 },
 {
 "name": "Wheel",
@@ -88,7 +94,8 @@
 "wiki": "Wheel",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "wheel"
+"slug": "wheel",
+"link_text": "Unknown First used for pots, then carts.    Mesopotamia / Eastern Europe "
 },
 {
 "name": "Writing",
@@ -101,7 +108,8 @@
 "wiki": "History_of_writing",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "writing"
+"slug": "writing",
+"link_text": "Scribes Invented independently in Mesopotamia, China and Mesoamerica.    Sumer, Egypt "
 },
 {
 "name": "Bronze",
@@ -114,7 +122,8 @@
 "wiki": "Bronze",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "bronze"
+"slug": "bronze",
+"link_text": "Metalworkers Copper alloyed with tin.    Near East "
 },
 {
 "name": "Planned drainage",
@@ -127,7 +136,8 @@
 "wiki": "Indus_Valley_Civilisation",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "planned-drainage"
+"slug": "planned-drainage",
+"link_text": "Harappans Covered drains under city streets.    Indus Valley "
 },
 {
 "name": "Iron smelting",
@@ -140,7 +150,8 @@
 "wiki": "Ferrous_metallurgy",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "iron-smelting"
+"slug": "iron-smelting",
+"link_text": "Smiths Iron at Indian sites may date to ~1800 BCE.    Anatolia; India (independently?) "
 },
 {
 "name": "Alphabet",
@@ -153,7 +164,8 @@
 "wiki": "Alphabet",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "alphabet"
+"slug": "alphabet",
+"link_text": "Semitic workers Phoenicians spread it.    Sinai / Levant "
 },
 {
 "name": "Zero and decimal place value",
@@ -166,7 +178,11 @@
 "wiki": 0,
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "zero-and-decimal-place-value"
+"slug": "zero-and-decimal-place-value",
+"story": "Indian mathematicians developed a place-value decimal system; Brahmagupta (628) first gave rules for zero as a number. The Bakhshali manuscript shows a dot for zero. Al-Khwarizmi spread these numerals, and Fibonacci introduced them to Europe in 1202.",
+"controversy": "Europeans called them 'Arabic numerals', obscuring their Indian origin.",
+"change": "Indian numerals underpin all modern mathematics and computing.",
+"link_text": "Aryabhata, Brahmagupta A dot for zero appears in the Bakhshali manuscript; Gwalior's 876 CE inscription shows a written zero. Indian mathematicians developed a place-value decimal system; Brahmagupta (628) first gave rules for zero as a number. The Bakhshali manuscript shows a dot for zero. Al-Khwarizmi spread these numerals, and Fibonacci introduced them to Europe in 1202. Europeans called them 'Arabic numerals', obscuring their Indian origin. Indian numerals underpin all modern mathematics and computing. India "
 },
 {
 "name": "Wootz steel",
@@ -179,7 +195,8 @@
 "wiki": "Wootz_steel",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "wootz-steel"
+"slug": "wootz-steel",
+"link_text": "Tamil and Deccan smiths Prized across the ancient world.    South India "
 },
 {
 "name": "Paper",
@@ -192,7 +209,12 @@
 "wiki": "Paper",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "paper"
+"slug": "paper",
+"story": "Cai Lun, a eunuch official of the Han court, presented an improved method in 105 CE, using tree bark, hemp, rags and fishing nets; older paper fragments show earlier origins.",
+"controversy": "Paper's spread to the Islamic world after 751 remains linked to the legend of Chinese prisoners at Talas.",
+"change": "Paper made books, records and money cheap.",
+"link_text": "Cai Lun Reached the Islamic world in the 8th century. Cai Lun, a eunuch official of the Han court, presented an improved method in 105 CE, using tree bark, hemp, rags and fishing nets; older paper fragments show earlier origins. Paper's spread to the Islamic world after 751 remains linked to the legend of Chinese prisoners at Talas. Paper made books, records and money cheap. China Tang–Abbasid paper transfer",
+"connections": "Tang–Abbasid paper transfer"
 },
 {
 "name": "Concrete",
@@ -205,7 +227,8 @@
 "wiki": "Roman_concrete",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "concrete"
+"slug": "concrete",
+"link_text": "Roman builders Roman concrete self-heals with seawater.    Rome "
 },
 {
 "name": "Crystallised sugar",
@@ -218,7 +241,8 @@
 "wiki": "Sugar",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "crystallised-sugar"
+"slug": "crystallised-sugar",
+"link_text": "Gupta-era makers 'Sugar' comes from Sanskrit sharkara.    India "
 },
 {
 "name": "Cotton textiles and chintz",
@@ -231,7 +255,8 @@
 "wiki": "Cotton",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "cotton-textiles-and-chintz"
+"slug": "cotton-textiles-and-chintz",
+"link_text": "Indian weavers Indian cloth dominated world trade until the 18th century.    Indus region "
 },
 {
 "name": "Stirrup",
@@ -244,7 +269,8 @@
 "wiki": "Stirrup",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "stirrup"
+"slug": "stirrup",
+"link_text": "Horsemen Toe stirrups appear in India ~2nd century BCE.    China / India (toe stirrups earlier) "
 },
 {
 "name": "Gunpowder",
@@ -257,7 +283,12 @@
 "wiki": "Gunpowder",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "gunpowder"
+"slug": "gunpowder",
+"story": "Chinese Taoist alchemists seeking an elixir of immortality mixed saltpetre, sulphur and charcoal, producing gunpowder by the 9th century. The Song used it in fire lances, bombs and rockets. It spread via the Mongols to the Islamic world and Europe.",
+"controversy": "Ironically, a search for eternal life produced one of history's deadliest inventions.",
+"change": "Gunpowder ended castle warfare and led to guns and cannon that helped empires such as the Ottomans and Mughals.",
+"link_text": "Taoist alchemists Changed warfare forever. Chinese Taoist alchemists seeking an elixir of immortality mixed saltpetre, sulphur and charcoal, producing gunpowder by the 9th century. The Song used it in fire lances, bombs and rockets. It spread via the Mongols to the Islamic world and Europe. Ironically, a search for eternal life produced one of history's deadliest inventions. Gunpowder ended castle warfare and led to guns and cannon that helped empires such as the Ottomans and Mughals. China Mongol conquests",
+"connections": "Mongol conquests"
 },
 {
 "name": "Compass",
@@ -270,7 +301,8 @@
 "wiki": "Compass",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "compass"
+"slug": "compass",
+"link_text": "Song navigators Enabled the Age of Exploration.    China "
 },
 {
 "name": "Movable type",
@@ -283,7 +315,8 @@
 "wiki": "Movable_type",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "movable-type"
+"slug": "movable-type",
+"link_text": "Bi Sheng Korea's Jikji (1377) is the oldest surviving metal-type book.    China "
 },
 {
 "name": "Printing press",
@@ -296,7 +329,12 @@
 "wiki": "Printing_press",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "printing-press"
+"slug": "printing-press",
+"story": "Johannes Gutenberg, a goldsmith from Mainz, spent years in secret developing a system of movable metal type in the 1440s: he invented a hand mould that could cast thousands of identical letters from a lead-tin-antimony alloy, an oil-based ink that stuck to metal, and adapted a screw press used for wine and paper. To finance it he borrowed heavily from the merchant Johann Fust. Around 1455 he printed about 180 copies of the 42-line Bible.",
+"controversy": "Gutenberg never got rich: in 1455 Fust sued him for repayment, won, and took over the workshop and much of the equipment, printing with Gutenberg's former assistant Peter Schöffer. Gutenberg's name appears on none of his books. Korea had already printed with metal type (Jikji, 1377) and China with movable clay type (Bi Sheng, about 1040), but European alphabets suited movable type far better than thousands of Chinese characters.",
+"change": "Within 50 years, presses in over 250 European cities had produced perhaps 20 million books. Printing spread Renaissance learning and the Scientific Revolution, made Luther's Reformation possible (his pamphlets sold hundreds of thousands), standardised languages and spelling, and gave rise to newspapers. The Catholic Church responded with an Index of Forbidden Books.",
+"link_text": "Johannes Gutenberg Printed the Gutenberg Bible. Johannes Gutenberg, a goldsmith from Mainz, spent years in secret developing a system of movable metal type in the 1440s: he invented a hand mould that could cast thousands of identical letters from a lead-tin-antimony alloy, an oil-based ink that stuck to metal, and adapted a screw press used for wine and paper. To finance it he borrowed heavily from the merchant Johann Fust. Around 1455 he printed about 180 copies of the 42-line Bible. Gutenberg never got rich: in 1455 Fust sued him for repayment, won, and took over the workshop and much of the equipment, printing with Gutenberg's former assistant Peter Schöffer. Gutenberg's name appears on none of his books. Korea had already printed with metal type (Jikji, 1377) and China with movable clay type (Bi Sheng, about 1040), but European alphabets suited movable type far better than thousands of Chinese characters. Within 50 years, presses in over 250 European cities had produced perhaps 20 million books. Printing spread Renaissance learning and the Scientific Revolution, made Luther's Reformation possible (his pamphlets sold hundreds of thousands), standardised languages and spelling, and gave rise to newspapers. The Catholic Church responded with an Index of Forbidden Books. Germany Gutenberg printing press; Protestant Reformation",
+"connections": "Gutenberg printing press; Protestant Reformation"
 },
 {
 "name": "Telescope",
@@ -309,7 +347,11 @@
 "wiki": "Telescope",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "telescope"
+"slug": "telescope",
+"story": "In 1608 the Dutch spectacle-maker Hans Lipperhey applied for a patent on a device of two lenses in a tube that made distant objects appear closer; two other Dutchmen, Jacob Metius and Zacharias Janssen, claimed it too, so no patent was granted. In 1609 Galileo Galilei heard of it, built his own with 20× magnification and turned it to the sky, discovering Jupiter's four largest moons, Venus's phases, sunspots and craters on the Moon. Kepler and Newton later improved designs.",
+"controversy": "Galileo's discoveries supported Copernicus's Sun-centred model, bringing him into conflict with the Church; in 1633 the Inquisition forced him to recant and placed him under house arrest. The Church formally admitted its error only in 1992.",
+"change": "The telescope transformed humanity's place in the universe, showing that Earth is not unique. It enabled navigation, astronomy and, much later, telescopes like Hubble and James Webb.",
+"link_text": "Hans Lipperhey Galileo turned it to the sky in 1609. In 1608 the Dutch spectacle-maker Hans Lipperhey applied for a patent on a device of two lenses in a tube that made distant objects appear closer; two other Dutchmen, Jacob Metius and Zacharias Janssen, claimed it too, so no patent was granted. In 1609 Galileo Galilei heard of it, built his own with 20× magnification and turned it to the sky, discovering Jupiter's four largest moons, Venus's phases, sunspots and craters on the Moon. Kepler and Newton later improved designs. Galileo's discoveries supported Copernicus's Sun-centred model, bringing him into conflict with the Church; in 1633 the Inquisition forced him to recant and placed him under house arrest. The Church formally admitted its error only in 1992. The telescope transformed humanity's place in the universe, showing that Earth is not unique. It enabled navigation, astronomy and, much later, telescopes like Hubble and James Webb. Netherlands "
 },
 {
 "name": "Mysorean rockets",
@@ -322,7 +364,8 @@
 "wiki": "Mysorean_rockets",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "mysorean-rockets"
+"slug": "mysorean-rockets",
+"link_text": "Hyder Ali, Tipu Sultan Inspired Britain's Congreve rockets.    Mysore, India "
 },
 {
 "name": "Steam engine",
@@ -335,7 +378,12 @@
 "wiki": "Steam_engine",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "steam-engine"
+"slug": "steam-engine",
+"story": "In 1712 Thomas Newcomen, an English ironmonger, built an atmospheric steam engine to pump water from flooded mines; it was very inefficient. James Watt, an instrument maker at Glasgow University repairing a model Newcomen engine in 1763–65, realised that cooling the cylinder each stroke wasted fuel, and added a separate condenser. With Birmingham industrialist Matthew Boulton, he built engines from 1776 and added rotary motion, so steam could drive factory machinery. Richard Trevithick and George Stephenson later built high-pressure engines for locomotives.",
+"controversy": "Watt aggressively defended his patents, which some historians argue slowed the adoption of better high-pressure engines until his patent expired in 1800. The steam engine relied on coal, and cotton for British mills came from American plantations worked by enslaved people and from India.",
+"change": "Steam power drove the Industrial Revolution: factories, railways and steamships, urbanisation, and a huge rise in coal burning that began human-made climate change. It allowed Britain to dominate world trade and conquer colonies, and Indian handloom textiles were undercut by machine-made cloth.",
+"link_text": "Newcomen, James Watt Powered factories, ships, railways. In 1712 Thomas Newcomen, an English ironmonger, built an atmospheric steam engine to pump water from flooded mines; it was very inefficient. James Watt, an instrument maker at Glasgow University repairing a model Newcomen engine in 1763–65, realised that cooling the cylinder each stroke wasted fuel, and added a separate condenser. With Birmingham industrialist Matthew Boulton, he built engines from 1776 and added rotary motion, so steam could drive factory machinery. Richard Trevithick and George Stephenson later built high-pressure engines for locomotives. Watt aggressively defended his patents, which some historians argue slowed the adoption of better high-pressure engines until his patent expired in 1800. The steam engine relied on coal, and cotton for British mills came from American plantations worked by enslaved people and from India. Steam power drove the Industrial Revolution: factories, railways and steamships, urbanisation, and a huge rise in coal burning that began human-made climate change. It allowed Britain to dominate world trade and conquer colonies, and Indian handloom textiles were undercut by machine-made cloth. Britain Watt's steam engine; Industrial Revolution",
+"connections": "Watt's steam engine; Industrial Revolution"
 },
 {
 "name": "Vaccination",
@@ -348,7 +396,12 @@
 "wiki": "Vaccine",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "vaccination"
+"slug": "vaccination",
+"story": "Variolation — deliberately infecting people with smallpox material to cause a mild case — was practised in India, China and the Ottoman Empire for centuries; Lady Mary Wortley Montagu introduced it to England in 1721. In 1796 Edward Jenner, an English country doctor, tested the milkmaids' belief that cowpox protected against smallpox: he inoculated eight-year-old James Phipps with cowpox from milkmaid Sarah Nelmes, then exposed him to smallpox, and the boy did not fall ill. He called it vaccination, from Latin vacca (cow).",
+"controversy": "Jenner's experiment on a child without modern consent would be unethical today. Anti-vaccination leagues formed in the 19th century, and cartoons showed people sprouting cow heads. In India, colonial vaccination drives sometimes met resistance because the cowpox lymph came from calves and the British ignored local variolators (tikadars).",
+"change": "Vaccination led to the eradication of smallpox, declared in 1980 after the last natural case in Somalia (1977); India's last case was in 1975. Vaccines against polio, measles and COVID-19 followed.",
+"link_text": "Edward Jenner Variolation was practised earlier in India and China. Variolation — deliberately infecting people with smallpox material to cause a mild case — was practised in India, China and the Ottoman Empire for centuries; Lady Mary Wortley Montagu introduced it to England in 1721. In 1796 Edward Jenner, an English country doctor, tested the milkmaids' belief that cowpox protected against smallpox: he inoculated eight-year-old James Phipps with cowpox from milkmaid Sarah Nelmes, then exposed him to smallpox, and the boy did not fall ill. He called it vaccination, from Latin vacca (cow). Jenner's experiment on a child without modern consent would be unethical today. Anti-vaccination leagues formed in the 19th century, and cartoons showed people sprouting cow heads. In India, colonial vaccination drives sometimes met resistance because the cowpox lymph came from calves and the British ignored local variolators (tikadars). Vaccination led to the eradication of smallpox, declared in 1980 after the last natural case in Somalia (1977); India's last case was in 1975. Vaccines against polio, measles and COVID-19 followed. England Smallpox in the Americas",
+"connections": "Smallpox in the Americas"
 },
 {
 "name": "Railway",
@@ -361,7 +414,12 @@
 "wiki": "Rail_transport",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "railway"
+"slug": "railway",
+"story": "George Stephenson, a self-taught colliery engineer, built the Locomotion No. 1 for the Stockton and Darlington Railway (1825), the first public railway to use steam locomotives. His son Robert's Rocket won the Rainhill Trials in 1829, and the Liverpool and Manchester Railway (1830) became the first inter-city line. Railways spread rapidly; India's first passenger train ran from Bombay to Thane on 16 April 1853.",
+"controversy": "At the opening of the Liverpool and Manchester Railway, MP William Huskisson was killed by the Rocket — the first widely reported railway death. In India, railways were built with British capital guaranteed a 5% return paid by Indian taxpayers, routes were designed to move raw materials to ports and troops to trouble spots, and third-class Indian passengers faced segregation.",
+"change": "Railways shrank distances, created standard time zones, enabled mass travel and national markets, and moved famine grain — but also exported it during famines. In India they later helped unite the national movement.",
+"link_text": "George Stephenson India's first train ran Bombay–Thane in 1853. George Stephenson, a self-taught colliery engineer, built the Locomotion No. 1 for the Stockton and Darlington Railway (1825), the first public railway to use steam locomotives. His son Robert's Rocket won the Rainhill Trials in 1829, and the Liverpool and Manchester Railway (1830) became the first inter-city line. Railways spread rapidly; India's first passenger train ran from Bombay to Thane on 16 April 1853. At the opening of the Liverpool and Manchester Railway, MP William Huskisson was killed by the Rocket — the first widely reported railway death. In India, railways were built with British capital guaranteed a 5% return paid by Indian taxpayers, routes were designed to move raw materials to ports and troops to trouble spots, and third-class Indian passengers faced segregation. Railways shrank distances, created standard time zones, enabled mass travel and national markets, and moved famine grain — but also exported it during famines. In India they later helped unite the national movement. England First Indian railway",
+"connections": "First Indian railway"
 },
 {
 "name": "Telegraph",
@@ -374,7 +432,11 @@
 "wiki": "Electrical_telegraph",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "telegraph"
+"slug": "telegraph",
+"story": "In 1837 William Cooke and Charles Wheatstone patented an electric telegraph in Britain, and Samuel Morse, an American painter who had started working on it after his wife died before he could reach her, developed his own with a code of dots and dashes. Morse sent 'What hath God wrought' from Washington to Baltimore in 1844. The first transatlantic cable was laid in 1858, and India was linked to Britain in 1870. William O'Shaughnessy built India's first lines in the 1850s.",
+"controversy": "During the 1857 rebellion, the telegraph allowed British officers to coordinate; one rebel reportedly called it 'the accursed string that strangled us'. Morse's code was also partly developed by his assistant Alfred Vail, who received little credit.",
+"change": "For the first time, information travelled faster than people, enabling news agencies like Reuters, global financial markets and imperial control.",
+"link_text": "Morse, Cooke & Wheatstone Linked India to Britain by 1870. In 1837 William Cooke and Charles Wheatstone patented an electric telegraph in Britain, and Samuel Morse, an American painter who had started working on it after his wife died before he could reach her, developed his own with a code of dots and dashes. Morse sent 'What hath God wrought' from Washington to Baltimore in 1844. The first transatlantic cable was laid in 1858, and India was linked to Britain in 1870. William O'Shaughnessy built India's first lines in the 1850s. During the 1857 rebellion, the telegraph allowed British officers to coordinate; one rebel reportedly called it 'the accursed string that strangled us'. Morse's code was also partly developed by his assistant Alfred Vail, who received little credit. For the first time, information travelled faster than people, enabling news agencies like Reuters, global financial markets and imperial control. USA / Britain "
 },
 {
 "name": "Photography",
@@ -387,7 +449,11 @@
 "wiki": "Photography",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "photography"
+"slug": "photography",
+"story": "Joseph Nicéphore Niépce made the first surviving photograph, 'View from the Window at Le Gras', in 1826 or 1827, needing hours of exposure. His partner Louis Daguerre developed the daguerreotype (1839), and in Britain William Henry Fox Talbot invented the negative-positive process. The French government bought Daguerre's patent and gave it 'free to the world'.",
+"controversy": "Photography was quickly used for colonial anthropology, classifying Indian 'castes and tribes' in works like The People of India (1868–75), and for documenting famines and wars. Photos could also be faked: Lincoln's head was placed on another man's body in a famous portrait.",
+"change": "Photography changed memory, journalism, art and science, and led to cinema.",
+"link_text": "Niépce, Daguerre The oldest surviving photo is from 1826–27. Joseph Nicéphore Niépce made the first surviving photograph, 'View from the Window at Le Gras', in 1826 or 1827, needing hours of exposure. His partner Louis Daguerre developed the daguerreotype (1839), and in Britain William Henry Fox Talbot invented the negative-positive process. The French government bought Daguerre's patent and gave it 'free to the world'. Photography was quickly used for colonial anthropology, classifying Indian 'castes and tribes' in works like The People of India (1868–75), and for documenting famines and wars. Photos could also be faked: Lincoln's head was placed on another man's body in a famous portrait. Photography changed memory, journalism, art and science, and led to cinema. France "
 },
 {
 "name": "Telephone",
@@ -400,7 +466,12 @@
 "wiki": "Telephone",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "telephone"
+"slug": "telephone",
+"story": "Alexander Graham Bell, a Scottish-born teacher of the deaf in Boston, worked on transmitting speech electrically with his assistant Thomas Watson. On 14 February 1876, his lawyer filed a patent application hours before Elisha Gray filed a caveat for a similar device; Bell's patent was granted on 7 March, and on 10 March he spoke the first words: 'Mr Watson, come here, I want to see you.'",
+"controversy": "The invention is one of history's great disputes. Italian immigrant Antonio Meucci had demonstrated a voice-communication device ('telettrofono') in the 1850s and filed a caveat in 1871 but could not afford to renew it; in 2002 the US House of Representatives passed a resolution honouring Meucci's work. Gray's supporters alleged a patent examiner showed Bell details of Gray's liquid transmitter, which Bell later used. Bell's company won around 600 lawsuits.",
+"change": "The telephone created a global communication network and companies like AT&T, and led eventually to mobile phones and the internet.",
+"link_text": "Alexander Graham Bell Patent disputed with Elisha Gray. Alexander Graham Bell, a Scottish-born teacher of the deaf in Boston, worked on transmitting speech electrically with his assistant Thomas Watson. On 14 February 1876, his lawyer filed a patent application hours before Elisha Gray filed a caveat for a similar device; Bell's patent was granted on 7 March, and on 10 March he spoke the first words: 'Mr Watson, come here, I want to see you.' The invention is one of history's great disputes. Italian immigrant Antonio Meucci had demonstrated a voice-communication device ('telettrofono') in the 1850s and filed a caveat in 1871 but could not afford to renew it; in 2002 the US House of Representatives passed a resolution honouring Meucci's work. Gray's supporters alleged a patent examiner showed Bell details of Gray's liquid transmitter, which Bell later used. Bell's company won around 600 lawsuits. The telephone created a global communication network and companies like AT&T, and led eventually to mobile phones and the internet. USA First telephone call",
+"connections": "First telephone call"
 },
 {
 "name": "Light bulb",
@@ -413,7 +484,12 @@
 "wiki": "Incandescent_light_bulb",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "light-bulb"
+"slug": "light-bulb",
+"story": "Many inventors made electric lights before Edison, including Humphry Davy's arc lamp (1800s) and Joseph Swan's carbon-filament bulb in England (demonstrated 1878–79). Thomas Edison's team at Menlo Park tested thousands of materials and in October 1879 produced a carbonised-filament bulb that lasted over 13 hours, then a bamboo filament lasting over 1,000 hours. Edison's real achievement was a whole system: generators, wiring, meters and the Pearl Street power station (1882).",
+"controversy": "Swan sued Edison in Britain, and they formed a joint company, Ediswan. Edison is often credited with inventions largely developed by his employees. In the 'war of the currents', Edison promoted direct current and his ally Harold Brown publicly electrocuted dogs and horses with alternating current to show it was dangerous; Edison's company supported the development of the electric chair with AC. Alternating current, developed by Tesla and Westinghouse, won.",
+"change": "Electric light extended the working day, transformed cities and homes, and created the electricity industry.",
+"link_text": "Edison, Swan Changed daily life. Many inventors made electric lights before Edison, including Humphry Davy's arc lamp (1800s) and Joseph Swan's carbon-filament bulb in England (demonstrated 1878–79). Thomas Edison's team at Menlo Park tested thousands of materials and in October 1879 produced a carbonised-filament bulb that lasted over 13 hours, then a bamboo filament lasting over 1,000 hours. Edison's real achievement was a whole system: generators, wiring, meters and the Pearl Street power station (1882). Swan sued Edison in Britain, and they formed a joint company, Ediswan. Edison is often credited with inventions largely developed by his employees. In the 'war of the currents', Edison promoted direct current and his ally Harold Brown publicly electrocuted dogs and horses with alternating current to show it was dangerous; Edison's company supported the development of the electric chair with AC. Alternating current, developed by Tesla and Westinghouse, won. Electric light extended the working day, transformed cities and homes, and created the electricity industry. USA / Britain Edison's light and Pearl Street station",
+"connections": "Edison's light and Pearl Street station"
 },
 {
 "name": "Radio",
@@ -426,7 +502,12 @@
 "wiki": "Radio",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "radio"
+"slug": "radio",
+"story": "James Clerk Maxwell predicted electromagnetic waves in 1865, and Heinrich Hertz demonstrated them in 1887. In 1895 Jagadish Chandra Bose in Calcutta demonstrated microwave transmission, ringing a bell at a distance, while Guglielmo Marconi in Italy and Britain developed practical wireless telegraphy and sent signals across the Atlantic in 1901. Reginald Fessenden broadcast speech and music in 1906.",
+"controversy": "Marconi's 1901 transatlantic receiver used a mercury coherer that some historians say was based on Bose's design, which Bose had chosen not to patent. In 1943 the US Supreme Court invalidated key Marconi patents, recognising prior work by Nikola Tesla, Oliver Lodge and John Stone Stone. Marconi shared the 1909 Nobel Prize with Karl Ferdinand Braun.",
+"change": "Radio saved lives at sea (the Titanic's distress calls), enabled broadcasting, propaganda (Hitler's speeches, Bose's Azad Hind Radio) and later television and mobile phones.",
+"link_text": "Marconi; J. C. Bose demonstrated microwaves Bose's 1895 Kolkata demonstration used millimetre waves. James Clerk Maxwell predicted electromagnetic waves in 1865, and Heinrich Hertz demonstrated them in 1887. In 1895 Jagadish Chandra Bose in Calcutta demonstrated microwave transmission, ringing a bell at a distance, while Guglielmo Marconi in Italy and Britain developed practical wireless telegraphy and sent signals across the Atlantic in 1901. Reginald Fessenden broadcast speech and music in 1906. Marconi's 1901 transatlantic receiver used a mercury coherer that some historians say was based on Bose's design, which Bose had chosen not to patent. In 1943 the US Supreme Court invalidated key Marconi patents, recognising prior work by Nikola Tesla, Oliver Lodge and John Stone Stone. Marconi shared the 1909 Nobel Prize with Karl Ferdinand Braun. Radio saved lives at sea (the Titanic's distress calls), enabled broadcasting, propaganda (Hitler's speeches, Bose's Azad Hind Radio) and later television and mobile phones. Italy / India Marconi's transatlantic radio signal",
+"connections": "Marconi's transatlantic radio signal"
 },
 {
 "name": "Aeroplane",
@@ -439,7 +520,12 @@
 "wiki": "Wright_brothers",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "aeroplane"
+"slug": "aeroplane",
+"story": "Orville and Wilbur Wright, bicycle makers from Dayton, Ohio, studied birds and gliders and built their own wind tunnel to test 200 wing shapes. Their key innovation was 'wing-warping' for control around three axes. On 17 December 1903 at Kill Devil Hills near Kitty Hawk, Orville made the first controlled, sustained powered flight of 12 seconds and 37 m; Wilbur flew 260 m later that day.",
+"controversy": "Several others claimed earlier flights. Gustave Whitehead reportedly flew in Connecticut in 1901, a claim most historians reject for lack of evidence. Brazil celebrates Alberto Santos-Dumont, who flew publicly in Paris in 1906, as the true inventor, since the Wrights' early flights had few witnesses and used a launch rail. The Smithsonian long credited Samuel Langley's failed aerodrome, leading to a feud until 1942; its contract to display the Wright Flyer requires crediting the Wrights.",
+"change": "Within 11 years aircraft were used in World War I, and air power later enabled the bombing of cities, mass tourism and global trade.",
+"link_text": "Wright brothers First powered flight at Kitty Hawk. Orville and Wilbur Wright, bicycle makers from Dayton, Ohio, studied birds and gliders and built their own wind tunnel to test 200 wing shapes. Their key innovation was 'wing-warping' for control around three axes. On 17 December 1903 at Kill Devil Hills near Kitty Hawk, Orville made the first controlled, sustained powered flight of 12 seconds and 37 m; Wilbur flew 260 m later that day. Several others claimed earlier flights. Gustave Whitehead reportedly flew in Connecticut in 1901, a claim most historians reject for lack of evidence. Brazil celebrates Alberto Santos-Dumont, who flew publicly in Paris in 1906, as the true inventor, since the Wrights' early flights had few witnesses and used a launch rail. The Smithsonian long credited Samuel Langley's failed aerodrome, leading to a feud until 1942; its contract to display the Wright Flyer requires crediting the Wrights. Within 11 years aircraft were used in World War I, and air power later enabled the bombing of cities, mass tourism and global trade. USA Wright brothers' flight; World War I",
+"connections": "Wright brothers' flight; World War I"
 },
 {
 "name": "Antibiotics",
@@ -452,7 +538,12 @@
 "wiki": "Penicillin",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "antibiotics"
+"slug": "antibiotics",
+"story": "In September 1928 Alexander Fleming returned from holiday to his London lab and noticed that a mould, Penicillium notatum, had killed bacteria in a culture dish. He published, but could not purify it. In 1939–41 Howard Florey, Ernst Chain and Norman Heatley at Oxford purified penicillin and tested it; the first patient, policeman Albert Alexander, improved but died when supplies ran out. American companies mass-produced it for D-Day in 1944.",
+"controversy": "Fleming became famous, but Florey and Chain did much of the work; all three shared the 1945 Nobel Prize. Fleming warned in his Nobel lecture that misuse would breed resistant bacteria — today antimicrobial resistance kills over a million people a year.",
+"change": "Antibiotics turned once-deadly infections into treatable conditions and made modern surgery safer.",
+"link_text": "Alexander Fleming Penicillin mass-produced in WWII. In September 1928 Alexander Fleming returned from holiday to his London lab and noticed that a mould, Penicillium notatum, had killed bacteria in a culture dish. He published, but could not purify it. In 1939–41 Howard Florey, Ernst Chain and Norman Heatley at Oxford purified penicillin and tested it; the first patient, policeman Albert Alexander, improved but died when supplies ran out. American companies mass-produced it for D-Day in 1944. Fleming became famous, but Florey and Chain did much of the work; all three shared the 1945 Nobel Prize. Fleming warned in his Nobel lecture that misuse would breed resistant bacteria — today antimicrobial resistance kills over a million people a year. Antibiotics turned once-deadly infections into treatable conditions and made modern surgery safer. Britain Discovery of penicillin",
+"connections": "Discovery of penicillin"
 },
 {
 "name": "Computer",
@@ -465,7 +556,12 @@
 "wiki": "Computer",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "computer"
+"slug": "computer",
+"story": "Charles Babbage designed mechanical computing engines in the 1830s, and Ada Lovelace wrote what is considered the first computer program. Alan Turing described a universal computing machine in 1936. During World War II, Tommy Flowers built Colossus (1944) to break German codes at Bletchley Park, and in the US, John Mauchly and J. Presper Eckert built ENIAC (1945), programmed by six women including Kathleen McNulty and Jean Bartik.",
+"controversy": "Colossus was kept secret until the 1970s, so the US was long credited with the first electronic computer. The women who programmed ENIAC were left out of photos and histories for decades.",
+"change": "Computers transformed science, business and daily life, leading to personal computers, the internet and AI.",
+"link_text": "Turing, ENIAC team Turing's ideas underlie all computing. Charles Babbage designed mechanical computing engines in the 1830s, and Ada Lovelace wrote what is considered the first computer program. Alan Turing described a universal computing machine in 1936. During World War II, Tommy Flowers built Colossus (1944) to break German codes at Bletchley Park, and in the US, John Mauchly and J. Presper Eckert built ENIAC (1945), programmed by six women including Kathleen McNulty and Jean Bartik. Colossus was kept secret until the 1970s, so the US was long credited with the first electronic computer. The women who programmed ENIAC were left out of photos and histories for decades. Computers transformed science, business and daily life, leading to personal computers, the internet and AI. USA / Britain World War II",
+"connections": "World War II"
 },
 {
 "name": "Nuclear energy",
@@ -478,7 +574,12 @@
 "wiki": "Nuclear_power",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "nuclear-energy"
+"slug": "nuclear-energy",
+"story": "In December 1938 Otto Hahn and Fritz Strassmann in Berlin discovered nuclear fission, explained by Lise Meitner and Otto Frisch. On 2 December 1942, under the stands of a squash court at the University of Chicago, Enrico Fermi's team achieved the first self-sustaining nuclear chain reaction in Chicago Pile-1. The first nuclear power plant to supply a grid opened at Obninsk, USSR, in 1954; India's first reactor, Apsara, started in 1956 under Homi Bhabha.",
+"controversy": "Lise Meitner, a Jewish physicist who fled Nazi Germany, was excluded from Hahn's 1944 Nobel Prize — now widely seen as an injustice. Nuclear disasters at Chernobyl (1986) and Fukushima (2011) raised fears.",
+"change": "Nuclear energy offers low-carbon electricity but raises issues of waste and weapons.",
+"link_text": "Enrico Fermi First controlled chain reaction. In December 1938 Otto Hahn and Fritz Strassmann in Berlin discovered nuclear fission, explained by Lise Meitner and Otto Frisch. On 2 December 1942, under the stands of a squash court at the University of Chicago, Enrico Fermi's team achieved the first self-sustaining nuclear chain reaction in Chicago Pile-1. The first nuclear power plant to supply a grid opened at Obninsk, USSR, in 1954; India's first reactor, Apsara, started in 1956 under Homi Bhabha. Lise Meitner, a Jewish physicist who fled Nazi Germany, was excluded from Hahn's 1944 Nobel Prize — now widely seen as an injustice. Nuclear disasters at Chernobyl (1986) and Fukushima (2011) raised fears. Nuclear energy offers low-carbon electricity but raises issues of waste and weapons. USA Manhattan Project begins; Chernobyl disaster",
+"connections": "Manhattan Project begins; Chernobyl disaster"
 },
 {
 "name": "Transistor",
@@ -491,7 +592,8 @@
 "wiki": "Transistor",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "transistor"
+"slug": "transistor",
+"link_text": "Bardeen, Brattain, Shockley Billions now fit on one chip.    USA "
 },
 {
 "name": "Green Revolution seeds",
@@ -504,7 +606,8 @@
 "wiki": "Green_Revolution",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "green-revolution-seeds"
+"slug": "green-revolution-seeds",
+"link_text": "Borlaug, Swaminathan Semi-dwarf wheat and rice.    Mexico, Philippines, India "
 },
 {
 "name": "Internet",
@@ -517,7 +620,12 @@
 "wiki": "Internet",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "internet"
+"slug": "internet",
+"story": "In 1969 the US Defense Department's ARPANET connected four universities; Vint Cerf and Bob Kahn designed the TCP/IP protocols (1974) that let different networks communicate, adopted on 1 January 1983. Tim Berners-Lee invented the World Wide Web at CERN in 1989–91. India's public internet launched via VSNL on 15 August 1995.",
+"controversy": "A popular myth says ARPANET was built to survive nuclear war; its creators say it was to share computing resources. Later revelations by Edward Snowden (2013) showed governments conducting mass surveillance of internet traffic.",
+"change": "The internet transformed communication, commerce, politics and knowledge.",
+"link_text": "Cerf, Kahn, Berners-Lee Connects ~5.5 billion people. In 1969 the US Defense Department's ARPANET connected four universities; Vint Cerf and Bob Kahn designed the TCP/IP protocols (1974) that let different networks communicate, adopted on 1 January 1983. Tim Berners-Lee invented the World Wide Web at CERN in 1989–91. India's public internet launched via VSNL on 15 August 1995. A popular myth says ARPANET was built to survive nuclear war; its creators say it was to share computing resources. Later revelations by Edward Snowden (2013) showed governments conducting mass surveillance of internet traffic. The internet transformed communication, commerce, politics and knowledge. USA, CERN ARPANET's first message; Invention of the World Wide Web; Snowden revelations",
+"connections": "ARPANET's first message; Invention of the World Wide Web; Snowden revelations"
 },
 {
 "name": "Smartphone",
@@ -530,7 +638,12 @@
 "wiki": "Smartphone",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "smartphone"
+"slug": "smartphone",
+"story": "IBM's Simon (1994) was an early smartphone. Apple's iPhone, unveiled by Steve Jobs in January 2007, combined a touchscreen, internet and apps, and Google's Android (2008) spread smartphones globally, including cheap Indian phones.",
+"controversy": "Smartphone minerals like cobalt are mined in Congo, sometimes by children, and phones are assembled in factories criticised for harsh conditions.",
+"change": "Smartphones put the internet, cameras, maps and payments into billions of pockets.",
+"link_text": "Apple and others Changed daily life worldwide. IBM's Simon (1994) was an early smartphone. Apple's iPhone, unveiled by Steve Jobs in January 2007, combined a touchscreen, internet and apps, and Google's Android (2008) spread smartphones globally, including cheap Indian phones. Smartphone minerals like cobalt are mined in Congo, sometimes by children, and phones are assembled in factories criticised for harsh conditions. Smartphones put the internet, cameras, maps and payments into billions of pockets. USA Launch of the iPhone",
+"connections": "Launch of the iPhone"
 },
 {
 "name": "UPI (Unified Payments Interface)",
@@ -543,7 +656,9 @@
 "wiki": "Unified_Payments_Interface",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "upi-unified-payments-interface"
+"slug": "upi-unified-payments-interface",
+"link_text": "NPCI Handles billions of transactions a month.    India Launch of UPI",
+"connections": "Launch of UPI"
 },
 {
 "name": "Large language models",
@@ -556,7 +671,9 @@
 "wiki": "Large_language_model",
 "group": "Modern",
 "emoji": "⚙",
-"slug": "large-language-models"
+"slug": "large-language-models",
+"link_text": "AI labs Transforming work and research.    USA and worldwide Release of ChatGPT",
+"connections": "Release of ChatGPT"
 },
 {
 "name": "Cooking",
@@ -569,7 +686,8 @@
 "wiki": "Cooking",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "cooking"
+"slug": "cooking",
+"link_text": "Homo erectus Cooking softened food and killed germs; Richard Wrangham argues it made us human.    Africa; Middle East "
 },
 {
 "name": "Clothing",
@@ -582,7 +700,8 @@
 "wiki": "History_of_clothing_and_textiles",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "clothing"
+"slug": "clothing",
+"link_text": "Homo sapiens Body lice DNA suggests people wore clothes by ~170,000 years ago.    Africa "
 },
 {
 "name": "Hafted spears and glue",
@@ -595,7 +714,8 @@
 "wiki": "Birch_tar",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "hafted-spears-and-glue"
+"slug": "hafted-spears-and-glue",
+"link_text": "Neanderthals and early sapiens Birch-tar glue fixed stone points to shafts.    Italy (birch tar); Africa "
 },
 {
 "name": "Ochre paint",
@@ -608,7 +728,8 @@
 "wiki": "Ochre",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "ochre-paint"
+"slug": "ochre-paint",
+"link_text": "Early humans Red ochre was ground into pigment.    Africa "
 },
 {
 "name": "Boats",
@@ -621,7 +742,8 @@
 "wiki": "Boat",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "boats"
+"slug": "boats",
+"link_text": "Homo sapiens The oldest surviving boat is the Pesse canoe (~8000 BCE).    Southeast Asia to Australia "
 },
 {
 "name": "Fishing hooks",
@@ -634,7 +756,8 @@
 "wiki": "Fish_hook",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "fishing-hooks"
+"slug": "fishing-hooks",
+"link_text": "Homo sapiens Shell fish-hooks from Sakitari Cave.    Okinawa, Japan "
 },
 {
 "name": "Musical instruments (flutes)",
@@ -647,7 +770,8 @@
 "wiki": "Prehistoric_music",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "musical-instruments-flutes"
+"slug": "musical-instruments-flutes",
+"link_text": "Homo sapiens Bone and ivory flutes from Hohle Fels.    Germany "
 },
 {
 "name": "Domestication of plants",
@@ -660,7 +784,8 @@
 "wiki": "Domestication",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "domestication-of-plants"
+"slug": "domestication-of-plants",
+"link_text": "Neolithic farmers Wheat, barley and lentils were the first crops.    Fertile Crescent "
 },
 {
 "name": "Irrigation canals",
@@ -673,7 +798,8 @@
 "wiki": "Irrigation",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "irrigation-canals"
+"slug": "irrigation-canals",
+"link_text": "Farmers Canals made Sumer's cities possible.    Mesopotamia "
 },
 {
 "name": "Plough (ard)",
@@ -686,7 +812,8 @@
 "wiki": "Plough",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "plough-ard"
+"slug": "plough-ard",
+"link_text": "Farmers A furrowed field at Kalibangan (~2800 BCE) is among the oldest ploughed fields.    Mesopotamia; Indus "
 },
 {
 "name": "Sail",
@@ -699,7 +826,8 @@
 "wiki": "Sail",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "sail"
+"slug": "sail",
+"link_text": "Sailors Sails on Nile boats.    Egypt; Mesopotamia "
 },
 {
 "name": "Potter's wheel",
@@ -712,7 +840,8 @@
 "wiki": "Potter's_wheel",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "potters-wheel"
+"slug": "potters-wheel",
+"link_text": "Potters Faster, uniform pots.    Mesopotamia "
 },
 {
 "name": "Glass",
@@ -725,7 +854,8 @@
 "wiki": "Glass",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "glass"
+"slug": "glass",
+"link_text": "Craftspeople Glassblowing came later (~50 BCE, Syria).    Mesopotamia "
 },
 {
 "name": "Calendar (solar)",
@@ -738,7 +868,8 @@
 "wiki": "Egyptian_calendar",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "calendar-solar"
+"slug": "calendar-solar",
+"link_text": "Priests The 365-day year.    Egypt "
 },
 {
 "name": "Money (coins)",
@@ -751,7 +882,8 @@
 "wiki": "Coin",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "money-coins"
+"slug": "money-coins",
+"link_text": "Kings and merchants Electrum coins in Lydia; punch-marked coins in India.    Lydia; India (punch-marked) "
 },
 {
 "name": "Steel (crucible)",
@@ -764,7 +896,8 @@
 "wiki": "Crucible_steel",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "steel-crucible"
+"slug": "steel-crucible",
+"link_text": "Smiths Wootz steel exported worldwide.    South India "
 },
 {
 "name": "Ayurveda and surgery texts",
@@ -777,7 +910,8 @@
 "wiki": "Ayurveda",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "ayurveda-and-surgery-texts"
+"slug": "ayurveda-and-surgery-texts",
+"link_text": "Sushruta, Charaka Described over 300 surgical procedures.    India "
 },
 {
 "name": "Aqueducts",
@@ -790,7 +924,8 @@
 "wiki": "Roman_aqueduct",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "aqueducts"
+"slug": "aqueducts",
+"link_text": "Roman engineers Rome had 11 aqueducts.    Rome "
 },
 {
 "name": "Antikythera mechanism",
@@ -803,7 +938,8 @@
 "wiki": "Antikythera_mechanism",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "antikythera-mechanism"
+"slug": "antikythera-mechanism",
+"link_text": "Greek engineers Predicted eclipses and planetary positions.    Greece "
 },
 {
 "name": "Stepwells",
@@ -816,7 +952,8 @@
 "wiki": "Stepwell",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "stepwells"
+"slug": "stepwells",
+"link_text": "Indian builders Thousands in Gujarat and Rajasthan.    India "
 },
 {
 "name": "Chess (chaturanga)",
@@ -829,7 +966,8 @@
 "wiki": "Chaturanga",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "chess-chaturanga"
+"slug": "chess-chaturanga",
+"link_text": "Gupta-era players Spread via Persia (shatranj) to Europe.    India "
 },
 {
 "name": "Snakes and ladders (moksha patam)",
@@ -842,7 +980,8 @@
 "wiki": "Snakes_and_ladders",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "snakes-and-ladders-moksha-patam"
+"slug": "snakes-and-ladders-moksha-patam",
+"link_text": "Gyandev (traditional) Taught karma and virtue.    India "
 },
 {
 "name": "Windmill",
@@ -855,7 +994,8 @@
 "wiki": "Windmill",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "windmill"
+"slug": "windmill",
+"link_text": "Persian engineers Vertical-axis windmills of Sistan.    Persia "
 },
 {
 "name": "Spinning wheel",
@@ -868,7 +1008,8 @@
 "wiki": "Spinning_wheel",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "spinning-wheel"
+"slug": "spinning-wheel",
+"link_text": "Weavers A symbol of Gandhi's swadeshi movement.    India or China "
 },
 {
 "name": "Mechanical clock",
@@ -881,7 +1022,8 @@
 "wiki": "Clock",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "mechanical-clock"
+"slug": "mechanical-clock",
+"link_text": "Monks Verge escapement clocks.    Europe "
 },
 {
 "name": "Spectacles",
@@ -894,7 +1036,8 @@
 "wiki": "Glasses",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "spectacles"
+"slug": "spectacles",
+"link_text": "Unknown First eyeglasses.    Italy "
 },
 {
 "name": "Cannon",
@@ -907,7 +1050,8 @@
 "wiki": "Cannon",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "cannon"
+"slug": "cannon",
+"link_text": "Song engineers Changed fortification.    China "
 },
 {
 "name": "Gun carriage and matchlock",
@@ -920,7 +1064,8 @@
 "wiki": "Matchlock",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "gun-carriage-and-matchlock"
+"slug": "gun-carriage-and-matchlock",
+"link_text": "Gunsmiths Matchlocks spread to India with Babur.    Europe; Ottoman "
 },
 {
 "name": "Printing in India",
@@ -933,7 +1078,8 @@
 "wiki": "Printing_press",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "printing-in-india"
+"slug": "printing-in-india",
+"link_text": "Jesuits The first press in India.    Goa "
 },
 {
 "name": "Microscope",
@@ -946,7 +1092,8 @@
 "wiki": "Microscope",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "microscope"
+"slug": "microscope",
+"link_text": "Janssen; later Leeuwenhoek Leeuwenhoek saw bacteria (1676).    Netherlands "
 },
 {
 "name": "Electric battery",
@@ -959,7 +1106,8 @@
 "wiki": "Battery_(electricity)",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "electric-battery"
+"slug": "electric-battery",
+"link_text": "Alessandro Volta The voltaic pile.    Italy "
 },
 {
 "name": "Anaesthesia",
@@ -972,7 +1120,8 @@
 "wiki": "Anesthesia",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "anaesthesia"
+"slug": "anaesthesia",
+"link_text": "William Morton Ether at Massachusetts General.    USA "
 },
 {
 "name": "Germ theory",
@@ -985,7 +1134,8 @@
 "wiki": "Germ_theory_of_disease",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "germ-theory"
+"slug": "germ-theory",
+"link_text": "Pasteur, Koch Microbes cause disease.    France; Germany "
 },
 {
 "name": "Periodic table",
@@ -998,7 +1148,8 @@
 "wiki": "Periodic_table",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "periodic-table"
+"slug": "periodic-table",
+"link_text": "Dmitri Mendeleev Predicted new elements.    Russia "
 },
 {
 "name": "Automobile",
@@ -1011,7 +1162,12 @@
 "wiki": "Car",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "automobile"
+"slug": "automobile",
+"story": "Karl Benz patented the first practical petrol-powered car, the Motorwagen, in 1886; his wife Bertha drove it 106 km in 1888 to prove it worked. Henry Ford's moving assembly line (1913) made the Model T affordable.",
+"controversy": "General Motors and others pushed leaded petrol from 1923, invented by Thomas Midgley, despite workers dying from lead poisoning; lead pollution harmed children's brains worldwide until it was phased out (finally in 2021).",
+"change": "Cars transformed cities, suburbs and oil politics.",
+"link_text": "Karl Benz The Benz Patent-Motorwagen. Karl Benz patented the first practical petrol-powered car, the Motorwagen, in 1886; his wife Bertha drove it 106 km in 1888 to prove it worked. Henry Ford's moving assembly line (1913) made the Model T affordable. General Motors and others pushed leaded petrol from 1923, invented by Thomas Midgley, despite workers dying from lead poisoning; lead pollution harmed children's brains worldwide until it was phased out (finally in 2021). Cars transformed cities, suburbs and oil politics. Germany Leaded petrol cover-up",
+"connections": "Leaded petrol cover-up"
 },
 {
 "name": "Wireless (crescograph and microwaves)",
@@ -1024,7 +1180,8 @@
 "wiki": "Jagadish_Chandra_Bose",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "wireless-crescograph-and-microwaves"
+"slug": "wireless-crescograph-and-microwaves",
+"link_text": "Jagadish Chandra Bose Bose demonstrated millimetre waves in Kolkata.    India "
 },
 {
 "name": "Space flight",
@@ -1037,7 +1194,8 @@
 "wiki": "Sputnik_1",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "space-flight"
+"slug": "space-flight",
+"link_text": "Soviet scientists Sputnik 1.    USSR "
 },
 {
 "name": "India's first satellite",
@@ -1050,6 +1208,201 @@
 "wiki": "Aryabhata_(satellite)",
 "group": "Prehistoric & ancient",
 "emoji": "🔥",
-"slug": "indias-first-satellite"
+"slug": "indias-first-satellite",
+"link_text": "ISRO Aryabhata satellite.    India Aryabhata satellite launched",
+"connections": "Aryabhata satellite launched"
+},
+{
+"name": "Atomic bomb",
+"year": 1945,
+"when": "1945",
+"where": "Los Alamos, USA",
+"by": "J. Robert Oppenheimer, Manhattan Project",
+"impact": "Ended WWII; began the nuclear age",
+"summary": "The atomic bomb releases enormous energy by splitting uranium-235 or plutonium-239 nuclei in an uncontrolled chain reaction.",
+"wiki": "Nuclear_weapon",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "atomic-bomb",
+"story": "In 1939 Leo Szilard drafted a letter, signed by Albert Einstein, warning President Roosevelt that Nazi Germany might build an atomic bomb. The Manhattan Project (1942–46), led by General Leslie Groves with physicist J. Robert Oppenheimer directing the Los Alamos laboratory, employed about 130,000 people at secret sites in Oak Ridge, Hanford and Los Alamos and cost about $2 billion. The first test, 'Trinity', exploded in the New Mexico desert on 16 July 1945; Oppenheimer later recalled the Bhagavad Gita: 'Now I am become Death, the destroyer of worlds.' Three weeks later bombs destroyed Hiroshima (6 August) and Nagasaki (9 August).",
+"controversy": "Historians still debate whether the bombings were necessary to end the war, or partly intended to impress the Soviet Union. Germany's own bomb project, led by Werner Heisenberg, was far behind. Soviet spies inside the project, including Klaus Fuchs and Theodore Hall, passed secrets to Moscow, helping the USSR test its own bomb in 1949; Julius and Ethel Rosenberg were executed in 1953 for espionage. Oppenheimer himself lost his security clearance in 1954 after opposing the hydrogen bomb, a decision the US government formally reversed in 2022. Downwinders near Trinity and Marshall Islanders affected by later tests received little warning.",
+"change": "The bomb created the Cold War's nuclear arms race, with about 70,000 warheads at its peak in 1986, and the doctrine of mutually assured destruction. India tested its first device at Pokhran in 1974 and weapons in 1998.",
+"link_text": "J. Robert Oppenheimer, Manhattan Project The atomic bomb releases enormous energy by splitting uranium-235 or plutonium-239 nuclei in an uncontrolled chain reaction. In 1939 Leo Szilard drafted a letter, signed by Albert Einstein, warning President Roosevelt that Nazi Germany might build an atomic bomb. The Manhattan Project (1942–46), led by General Leslie Groves with physicist J. Robert Oppenheimer directing the Los Alamos laboratory, employed about 130,000 people at secret sites in Oak Ridge, Hanford and Los Alamos and cost about $2 billion. The first test, 'Trinity', exploded in the New Mexico desert on 16 July 1945; Oppenheimer later recalled the Bhagavad Gita: 'Now I am become Death, the destroyer of worlds.' Three weeks later bombs destroyed Hiroshima (6 August) and Nagasaki (9 August). Historians still debate whether the bombings were necessary to end the war, or partly intended to impress the Soviet Union. Germany's own bomb project, led by Werner Heisenberg, was far behind. Soviet spies inside the project, including Klaus Fuchs and Theodore Hall, passed secrets to Moscow, helping the USSR test its own bomb in 1949; Julius and Ethel Rosenberg were executed in 1953 for espionage. Oppenheimer himself lost his security clearance in 1954 after opposing the hydrogen bomb, a decision the US government formally reversed in 2022. Downwinders near Trinity and Marshall Islanders affected by later tests received little warning. The bomb created the Cold War's nuclear arms race, with about 70,000 warheads at its peak in 1986, and the doctrine of mutually assured destruction. India tested its first device at Pokhran in 1974 and weapons in 1998. Los Alamos, USA Manhattan Project begins; Trinity nuclear test; Atomic bombings of Hiroshima and Nagasaki; Smiling Buddha nuclear test; Cold War",
+"connections": "Manhattan Project begins; Trinity nuclear test; Atomic bombings of Hiroshima and Nagasaki; Smiling Buddha nuclear test; Cold War"
+},
+{
+"name": "Television",
+"year": 1927,
+"when": "1925–1927",
+"where": "Britain and USA",
+"by": "John Logie Baird, Philo Farnsworth",
+"impact": "Mass visual media",
+"summary": "Television transmits moving images and sound electronically.",
+"wiki": "Television",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "television",
+"story": "Scottish inventor John Logie Baird demonstrated mechanical television using a spinning disc in London in 1926. In 1927 Philo Farnsworth, a 21-year-old farm boy from Utah who had conceived the idea while ploughing fields in rows, transmitted the first fully electronic image. Vladimir Zworykin at RCA developed rival camera tubes. The BBC began regular broadcasts in 1936; India's Doordarshan began in 1959.",
+"controversy": "RCA, led by David Sarnoff, fought Farnsworth in a long patent battle; Farnsworth won in 1939, but RCA's marketing made it seem the inventor. Farnsworth died in obscurity.",
+"change": "Television shaped politics (the 1960 Kennedy–Nixon debate), brought war into living rooms (Vietnam), and in India serials like Ramayan (1987) drew 100 million viewers.",
+"link_text": "John Logie Baird, Philo Farnsworth Television transmits moving images and sound electronically. Scottish inventor John Logie Baird demonstrated mechanical television using a spinning disc in London in 1926. In 1927 Philo Farnsworth, a 21-year-old farm boy from Utah who had conceived the idea while ploughing fields in rows, transmitted the first fully electronic image. Vladimir Zworykin at RCA developed rival camera tubes. The BBC began regular broadcasts in 1936; India's Doordarshan began in 1959. RCA, led by David Sarnoff, fought Farnsworth in a long patent battle; Farnsworth won in 1939, but RCA's marketing made it seem the inventor. Farnsworth died in obscurity. Television shaped politics (the 1960 Kennedy–Nixon debate), brought war into living rooms (Vietnam), and in India serials like Ramayan (1987) drew 100 million viewers. Britain and USA First television broadcasts",
+"connections": "First television broadcasts"
+},
+{
+"name": "Cinema",
+"year": 1895,
+"when": "1895",
+"where": "Paris, France",
+"by": "Lumière brothers; Edison",
+"impact": "Mass entertainment",
+"summary": "Motion pictures project a rapid sequence of photographs to create the illusion of movement.",
+"wiki": "Film",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "cinema",
+"story": "Eadweard Muybridge's 1878 photographs of a galloping horse showed motion could be captured. Thomas Edison's company, especially his employee William Dickson, built the Kinetoscope (1891) for individual viewing. On 28 December 1895 Auguste and Louis Lumière held the first paid public screening in Paris with their Cinématographe. The Lumières' films were shown in Bombay's Watson Hotel in July 1896, and Dadasaheb Phalke made India's first feature film in 1913.",
+"controversy": "French inventor Louis Le Prince filmed moving images in Leeds in 1888 but vanished on a train in 1890 before he could present his work, a mystery never solved; his son, who testified in Edison patent litigation, was later found shot dead. Edison used patents to control the American film industry until filmmakers moved to Hollywood, partly to escape his lawyers.",
+"change": "Cinema became the dominant art form of the 20th century, used for entertainment and propaganda (Leni Riefenstahl's Nazi films). India's film industry is the world's largest by number of films.",
+"link_text": "Lumière brothers; Edison Motion pictures project a rapid sequence of photographs to create the illusion of movement. Eadweard Muybridge's 1878 photographs of a galloping horse showed motion could be captured. Thomas Edison's company, especially his employee William Dickson, built the Kinetoscope (1891) for individual viewing. On 28 December 1895 Auguste and Louis Lumière held the first paid public screening in Paris with their Cinématographe. The Lumières' films were shown in Bombay's Watson Hotel in July 1896, and Dadasaheb Phalke made India's first feature film in 1913. French inventor Louis Le Prince filmed moving images in Leeds in 1888 but vanished on a train in 1890 before he could present his work, a mystery never solved; his son, who testified in Edison patent litigation, was later found shot dead. Edison used patents to control the American film industry until filmmakers moved to Hollywood, partly to escape his lawyers. Cinema became the dominant art form of the 20th century, used for entertainment and propaganda (Leni Riefenstahl's Nazi films). India's film industry is the world's largest by number of films. Paris, France Lumière brothers' first film screening",
+"connections": "Lumière brothers' first film screening"
+},
+{
+"name": "Alternating current power grid",
+"year": 1888,
+"when": "1886–1893",
+"where": "USA",
+"by": "Nikola Tesla, George Westinghouse",
+"impact": "Modern electricity",
+"summary": "Alternating current (AC) changes direction many times a second, so transformers can step voltage up for long-distance transmission.",
+"wiki": "War_of_the_currents",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "alternating-current-power-grid",
+"story": "Nikola Tesla, who had worked briefly for Edison, patented AC induction motors and polyphase systems in 1888; George Westinghouse bought the patents. In the 'war of the currents', Edison's direct current (DC) could only travel short distances. Westinghouse won the contract to light the 1893 Chicago World's Fair and to build the Niagara Falls power plant (1895), making AC the global standard.",
+"controversy": "Edison and his ally Harold Brown campaigned that AC was deadly, publicly electrocuting animals and promoting the electric chair using Westinghouse AC — the first execution, of William Kemmler in 1890, was horrifically botched. The elephant Topsy was electrocuted at Coney Island in 1903 and filmed by the Edison company, though Edison himself was likely not directly involved. Tesla tore up his royalty contract to help Westinghouse survive financially and died poor.",
+"change": "AC grids electrified the world's homes and factories.",
+"link_text": "Nikola Tesla, George Westinghouse Alternating current (AC) changes direction many times a second, so transformers can step voltage up for long-distance transmission. Nikola Tesla, who had worked briefly for Edison, patented AC induction motors and polyphase systems in 1888; George Westinghouse bought the patents. In the 'war of the currents', Edison's direct current (DC) could only travel short distances. Westinghouse won the contract to light the 1893 Chicago World's Fair and to build the Niagara Falls power plant (1895), making AC the global standard. Edison and his ally Harold Brown campaigned that AC was deadly, publicly electrocuting animals and promoting the electric chair using Westinghouse AC — the first execution, of William Kemmler in 1890, was horrifically botched. The elephant Topsy was electrocuted at Coney Island in 1903 and filmed by the Edison company, though Edison himself was likely not directly involved. Tesla tore up his royalty contract to help Westinghouse survive financially and died poor. AC grids electrified the world's homes and factories. USA Niagara Falls power plant",
+"connections": "Niagara Falls power plant"
+},
+{
+"name": "X-rays",
+"year": 1895,
+"when": "1895",
+"where": "Würzburg, Germany",
+"by": "Wilhelm Röntgen",
+"impact": "Medical imaging",
+"summary": "X-rays are high-energy electromagnetic radiation that passes through soft tissue but is absorbed by bone.",
+"wiki": "X-ray",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "x-rays",
+"story": "On 8 November 1895 physicist Wilhelm Röntgen noticed a fluorescent screen glowing near a covered cathode-ray tube. He called the mysterious rays 'X'; his first X-ray photograph showed his wife Anna Bertha's hand bones and wedding ring — she reportedly said, 'I have seen my death.' He refused to patent it so everyone could benefit and won the first Nobel Prize in Physics (1901).",
+"controversy": "Early users did not understand the dangers: shoe shops used X-ray fluoroscopes to fit shoes until the 1950s, and Edison's assistant Clarence Dally died of radiation-induced cancer, after which Edison stopped X-ray research. The 'Radium Girls', women who painted watch dials with radium, suffered horrific jaw decay; their 1920s lawsuits helped establish workers' rights.",
+"change": "X-rays revolutionised medicine, crystallography (revealing DNA's structure) and security screening.",
+"link_text": "Wilhelm Röntgen X-rays are high-energy electromagnetic radiation that passes through soft tissue but is absorbed by bone. On 8 November 1895 physicist Wilhelm Röntgen noticed a fluorescent screen glowing near a covered cathode-ray tube. He called the mysterious rays 'X'; his first X-ray photograph showed his wife Anna Bertha's hand bones and wedding ring — she reportedly said, 'I have seen my death.' He refused to patent it so everyone could benefit and won the first Nobel Prize in Physics (1901). Early users did not understand the dangers: shoe shops used X-ray fluoroscopes to fit shoes until the 1950s, and Edison's assistant Clarence Dally died of radiation-induced cancer, after which Edison stopped X-ray research. The 'Radium Girls', women who painted watch dials with radium, suffered horrific jaw decay; their 1920s lawsuits helped establish workers' rights. X-rays revolutionised medicine, crystallography (revealing DNA's structure) and security screening. Würzburg, Germany "
+},
+{
+"name": "Radar",
+"year": 1935,
+"when": "1935",
+"where": "Britain",
+"by": "Robert Watson-Watt",
+"impact": "Air defence",
+"summary": "Radar detects objects by bouncing radio waves off them.",
+"wiki": "Radar",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "radar",
+"story": "In 1935, asked whether a 'death ray' could destroy aircraft, Robert Watson-Watt and Arnold Wilkins showed instead that radio waves could detect planes. Britain built the Chain Home network along its coast, and in 1940 the cavity magnetron, invented by John Randall and Harry Boot, made compact radar possible; the Tizard Mission shared it with the US.",
+"controversy": "Britain spread the myth that its pilots ate carrots to see in the dark, to hide radar's existence from Germany.",
+"change": "Radar helped win the Battle of Britain and later led to the microwave oven, discovered by Percy Spencer when a chocolate bar melted in his pocket.",
+"link_text": "Robert Watson-Watt Radar detects objects by bouncing radio waves off them. In 1935, asked whether a 'death ray' could destroy aircraft, Robert Watson-Watt and Arnold Wilkins showed instead that radio waves could detect planes. Britain built the Chain Home network along its coast, and in 1940 the cavity magnetron, invented by John Randall and Harry Boot, made compact radar possible; the Tizard Mission shared it with the US. Britain spread the myth that its pilots ate carrots to see in the dark, to hide radar's existence from Germany. Radar helped win the Battle of Britain and later led to the microwave oven, discovered by Percy Spencer when a chocolate bar melted in his pocket. Britain "
+},
+{
+"name": "DNA double helix",
+"year": 1953,
+"when": "1953",
+"where": "Cambridge, UK",
+"by": "Watson, Crick, Franklin, Wilkins",
+"impact": "Molecular biology",
+"summary": "DNA's double helix structure explains how genetic information is stored and copied.",
+"wiki": "DNA",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "dna-double-helix",
+"story": "James Watson and Francis Crick built a model of DNA as a double helix with paired bases in 1953, published in Nature. Crucial evidence came from X-ray diffraction images taken by Rosalind Franklin and Raymond Gosling, especially 'Photo 51', at King's College London.",
+"controversy": "Maurice Wilkins showed Photo 51 to Watson without Franklin's knowledge. Franklin died of cancer in 1958, and Watson, Crick and Wilkins shared the 1962 Nobel Prize; Watson's memoir disparaged her. She is now recognised as a key contributor.",
+"change": "The discovery led to genetic engineering, DNA fingerprinting, the Human Genome Project and ancient DNA studies.",
+"link_text": "Watson, Crick, Franklin, Wilkins DNA's double helix structure explains how genetic information is stored and copied. James Watson and Francis Crick built a model of DNA as a double helix with paired bases in 1953, published in Nature. Crucial evidence came from X-ray diffraction images taken by Rosalind Franklin and Raymond Gosling, especially 'Photo 51', at King's College London. Maurice Wilkins showed Photo 51 to Watson without Franklin's knowledge. Franklin died of cancer in 1958, and Watson, Crick and Wilkins shared the 1962 Nobel Prize; Watson's memoir disparaged her. She is now recognised as a key contributor. The discovery led to genetic engineering, DNA fingerprinting, the Human Genome Project and ancient DNA studies. Cambridge, UK Discovery of the DNA double helix; Human Genome Project completed",
+"connections": "Discovery of the DNA double helix; Human Genome Project completed"
+},
+{
+"name": "Polio vaccine",
+"year": 1955,
+"when": "1955",
+"where": "USA",
+"by": "Jonas Salk, Albert Sabin",
+"impact": "Near-eradication of polio",
+"summary": "Vaccines against poliovirus prevent paralysis.",
+"wiki": "Polio_vaccine",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "polio-vaccine",
+"story": "Jonas Salk developed an inactivated vaccine tested on 1.8 million children in 1954, the largest medical trial in history, announced as safe on 12 April 1955; asked who owned the patent, he said, 'Could you patent the sun?' Albert Sabin developed an oral vaccine, used in India's Pulse Polio campaign from 1995.",
+"controversy": "In the 1955 Cutter incident, a faulty batch containing live virus paralysed about 200 children, leading to vaccine regulation.",
+"change": "India was declared polio-free in 2014.",
+"link_text": "Jonas Salk, Albert Sabin Vaccines against poliovirus prevent paralysis. Jonas Salk developed an inactivated vaccine tested on 1.8 million children in 1954, the largest medical trial in history, announced as safe on 12 April 1955; asked who owned the patent, he said, 'Could you patent the sun?' Albert Sabin developed an oral vaccine, used in India's Pulse Polio campaign from 1995. In the 1955 Cutter incident, a faulty batch containing live virus paralysed about 200 children, leading to vaccine regulation. India was declared polio-free in 2014. USA "
+},
+{
+"name": "Contraceptive pill",
+"year": 1960,
+"when": "1960",
+"where": "USA",
+"by": "Gregory Pincus, Margaret Sanger, Katharine McCormick",
+"impact": "Women's reproductive freedom",
+"summary": "The oral contraceptive uses hormones to prevent ovulation.",
+"wiki": "Combined_oral_contraceptive_pill",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "contraceptive-pill",
+"story": "Activist Margaret Sanger and heiress Katharine McCormick funded biologist Gregory Pincus and doctor John Rock to develop a hormonal pill, using progestins synthesised by Carl Djerassi and others from Mexican yams. The US approved it in 1960.",
+"controversy": "Early large trials were carried out on women in Puerto Rico in 1956, many poor and not fully informed of risks; early high doses caused side effects. Sanger also supported eugenics, which remains controversial.",
+"change": "The pill transformed women's education, careers and the sexual revolution.",
+"link_text": "Gregory Pincus, Margaret Sanger, Katharine McCormick The oral contraceptive uses hormones to prevent ovulation. Activist Margaret Sanger and heiress Katharine McCormick funded biologist Gregory Pincus and doctor John Rock to develop a hormonal pill, using progestins synthesised by Carl Djerassi and others from Mexican yams. The US approved it in 1960. Early large trials were carried out on women in Puerto Rico in 1956, many poor and not fully informed of risks; early high doses caused side effects. Sanger also supported eugenics, which remains controversial. The pill transformed women's education, careers and the sexual revolution. USA "
+},
+{
+"name": "Microchip",
+"year": 1958,
+"when": "1958–1959",
+"where": "USA",
+"by": "Jack Kilby, Robert Noyce",
+"impact": "Miniaturised electronics",
+"summary": "An integrated circuit places many transistors on a single chip.",
+"wiki": "Integrated_circuit",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "microchip",
+"story": "Jack Kilby at Texas Instruments demonstrated the first integrated circuit on germanium in 1958; Robert Noyce at Fairchild independently made a practical silicon version in 1959. Noyce co-founded Intel, and Gordon Moore predicted that transistor counts would double about every two years (Moore's law).",
+"controversy": "Kilby won the 2000 Nobel Prize; Noyce had died in 1990.",
+"change": "Microchips power computers, phones and AI.",
+"link_text": "Jack Kilby, Robert Noyce An integrated circuit places many transistors on a single chip. Jack Kilby at Texas Instruments demonstrated the first integrated circuit on germanium in 1958; Robert Noyce at Fairchild independently made a practical silicon version in 1959. Noyce co-founded Intel, and Gordon Moore predicted that transistor counts would double about every two years (Moore's law). Kilby won the 2000 Nobel Prize; Noyce had died in 1990. Microchips power computers, phones and AI. USA "
+},
+{
+"name": "Space rocket",
+"year": 1926,
+"when": "1926–1957",
+"where": "USA, Germany, USSR",
+"by": "Robert Goddard, Wernher von Braun, Sergei Korolev",
+"impact": "Space age",
+"summary": "Liquid-fuel rockets carry payloads into space.",
+"wiki": "Rocket",
+"group": "Modern",
+"emoji": "⚙",
+"slug": "space-rocket",
+"story": "Robert Goddard launched the first liquid-fuel rocket in 1926 and was mocked by the New York Times (which apologised in 1969). In Nazi Germany, Wernher von Braun developed the V-2 missile. In the USSR, Sergei Korolev's R-7 launched Sputnik (1957) and Gagarin (1961).",
+"controversy": "V-2 rockets were built by concentration camp prisoners at Mittelwerk, where about 20,000 died — more than were killed by the V-2 attacks. After the war, under the secret Operation Paperclip, the US brought von Braun and over 1,600 German scientists, some with Nazi pasts, to America; von Braun designed the Saturn V that took Apollo to the Moon.",
+"change": "Rockets enabled satellites, GPS, the Moon landing and ISRO's missions.",
+"link_text": "Robert Goddard, Wernher von Braun, Sergei Korolev Liquid-fuel rockets carry payloads into space. Robert Goddard launched the first liquid-fuel rocket in 1926 and was mocked by the New York Times (which apologised in 1969). In Nazi Germany, Wernher von Braun developed the V-2 missile. In the USSR, Sergei Korolev's R-7 launched Sputnik (1957) and Gagarin (1961). V-2 rockets were built by concentration camp prisoners at Mittelwerk, where about 20,000 died — more than were killed by the V-2 attacks. After the war, under the secret Operation Paperclip, the US brought von Braun and over 1,600 German scientists, some with Nazi pasts, to America; von Braun designed the Saturn V that took Apollo to the Moon. Rockets enabled satellites, GPS, the Moon landing and ISRO's missions. USA, Germany, USSR Sputnik launched; Yuri Gagarin orbits Earth; Moon landing; India's first rocket launch from Thumba; Operation Paperclip",
+"connections": "Sputnik launched; Yuri Gagarin orbits Earth; Moon landing; India's first rocket launch from Thumba; Operation Paperclip"
 }
 ]

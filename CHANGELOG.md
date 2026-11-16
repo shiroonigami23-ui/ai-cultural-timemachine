@@ -3,6 +3,16 @@
 All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
+## [Unreleased] - 2026-11-16 (part 3)
+### Added
+- Hidden History & Conspiracies catalog (38 entries) with claim, evidence and verdict, plus a theme timeline.
+- Story, rivalries/hidden history and impact sections for 20 major inventions; 11 new inventions (atomic bomb, television, cinema, AC grid, X-rays, radar, DNA, polio vaccine, the pill, microchip, space rocket).
+- 20 science and invention events, 16 inventors (Bell, Meucci, the Wright brothers, Oppenheimer, Meitner, Franklin and others), 24 research papers.
+### Changed (depth)
+- All 117 short biographies rewritten in full.
+- Daily life and culture rewritten for African, Middle Eastern and South Asian empires.
+- The 29 newer events gained full causes, course and consequences sections; all paper summaries expanded.
+
 ## [Unreleased] - 2026-11-16 (part 2)
 ### Changed (depth)
 - All 247 original events gained a 'Causes, course and consequences' section.

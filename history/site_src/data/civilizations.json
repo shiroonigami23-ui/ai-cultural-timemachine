@@ -7,7 +7,7 @@
 "region": "Mesopotamia (Iraq)",
 "capital": "Uruk, Ur",
 "known_for": "Cuneiform writing, the wheel, ziggurats, the Epic of Gilgamesh",
-"life": "Most Sumerians were farmers and herders working temple and palace lands, paid in barley rations. Cities held craftsmen, merchants, scribes and priests; children of the elite trained for years in scribal schools (edubba). Homes were mud-brick houses around a courtyard.",
+"life": "Most Sumerians were farmers who worked irrigated barley fields owned by temples, palaces or families, paid in rations of barley, oil and wool; city life was crowded in mud-brick houses around a central courtyard. Scribes trained for years in schools called edubba ('tablet houses'), where boys copied texts and were beaten for mistakes. Women could own property, run businesses and serve as priestesses, and children helped in fields and workshops.",
 "food": "Barley was the staple: baked as flat bread and, above all, brewed into thick beer drunk through straws, with temple workers paid daily rations of bread and beer. Dates, onions, garlic, lentils, chickpeas, fish from canals and marshes, and mutton for the wealthy filled out the diet; the Yale culinary tablets (~1750 BCE, Babylonian) preserve the oldest written recipes, mostly stews.",
 "summary": "The first civilisation with cities and writing.",
 "wiki": "Sumer",
@@ -21,7 +21,7 @@
 "rise": "Farming villages of the Ubaid period (~6500–3800 BCE) in the marshy south of Mesopotamia grew larger as irrigation produced surpluses. Temples organised labour and redistributed food, and trade in timber, metals and stone, absent in the alluvial plain, required administration. During the Uruk period (~4000–3100 BCE) Uruk grew into the world's first true city of 40,000 or more people, and writing was invented to manage its economy.",
 "fall": "Sumerian cities fought each other constantly over water and land. Sargon of Akkad conquered them around 2334 BCE. After a Sumerian revival under the Third Dynasty of Ur (~2112–2004 BCE), whose king Ur-Nammu wrote the oldest surviving law code, Ur fell to Elamite invaders and Amorite migrants. Centuries of irrigation had also salinised the soil: records show farmers switching from wheat to salt-tolerant barley and yields collapsing. Sumerian died out as a spoken language by about 1800 BCE but survived as a sacred and scholarly language for nearly two thousand years.",
 "legacy": "Writing, cities, schools, written law, literature (the Epic of Gilgamesh), the wheel, the 60-based time system, and the idea of a state with officials and taxes all trace back to Sumer. Babylonians, Assyrians and later the Persians and Greeks inherited its knowledge.",
-"culture": "Each city had a patron god (Inanna at Uruk, Nanna at Ur) living in the temple. Festivals such as the New Year Akitu, epic poetry, lyres from the Royal Tombs of Ur and cylinder seals show a rich culture."
+"culture": "Each city belonged to a god — Enlil at Nippur, Inanna at Uruk, Nanna at Ur — whose ziggurat temple dominated the skyline. Sumerians believed humans were created to serve the gods and that the dead went to a gloomy underworld. They invented cuneiform, the sexagesimal number system (behind our 60-minute hour), and wrote proverbs, lullabies, the Gilgamesh poems and the Lament for Ur."
 },
 {
 "name": "Akkadian Empire",
@@ -31,7 +31,7 @@
 "region": "Mesopotamia",
 "capital": "Akkad",
 "known_for": "The first empire, under Sargon",
-"life": "Farmers and soldiers supplied a standing army; Akkadian became the language of administration alongside Sumerian.",
+"life": "Life continued much as in Sumer, with farmers growing barley along canals, but now under Akkadian governors and a standing army; for the first time an empire collected tribute from across Mesopotamia. Akkadian, a Semitic language, became the language of government and later of diplomacy across the Near East. Long-distance trade reached Magan (Oman) and Meluhha (the Indus).",
 "food": "Like Sumer, Akkad lived on irrigated barley and emmer, turned into bread and beer, with dates, sesame oil, onions and fish. State workshops issued standard rations, and sheep and goats supplied wool, milk and meat for feasts.",
 "summary": "Collapsed around the 4.2-kiloyear drought.",
 "wiki": "Akkadian_Empire",
@@ -45,7 +45,7 @@
 "rise": "Sargon, according to legend a foundling raised by a gardener who became cupbearer to the king of Kish, seized power around 2334 BCE, defeated Lugalzagesi of Uruk and conquered all of Sumer, then campaigned from the Persian Gulf to the Mediterranean and Anatolia. He controlled trade routes for metals, timber and stone.",
 "fall": "Revolts broke out under almost every ruler. Around 2200–2150 BCE a severe drought, the 4.2-kiloyear event, ruined harvests in northern Mesopotamia; settlements like Tell Leilan were abandoned. Gutian highlanders from the Zagros overran the weakened state, and Akkad collapsed into a period of chaos remembered in the poem 'The Curse of Akkad'.",
 "legacy": "The Akkadian Empire became the model of universal kingship for later Mesopotamian, Persian and even Roman rulers. Akkadian remained the international diplomatic language of the Bronze Age, used in letters between Egypt, the Hittites and Babylon.",
-"culture": "Sargon's daughter Enheduanna, high priestess of Ur, is the first named author in history."
+"culture": "Akkadian kings blended Sumerian and Semitic religion; Naram-Sin even declared himself a god, shown with a horned crown on his victory stele. Enheduanna's hymns to Inanna united the two traditions. Royal art became more naturalistic, as in the bronze head thought to be Sargon."
 },
 {
 "name": "Babylonia",
@@ -55,7 +55,7 @@
 "region": "Mesopotamia",
 "capital": "Babylon",
 "known_for": "Hammurabi's law code, astronomy, the Hanging Gardens (legendary)",
-"life": "Babylon was a cosmopolitan city of perhaps 200,000 under Nebuchadnezzar, with merchants, astronomer-priests and canal farmers.",
+"life": "Babylonians lived in mud-brick houses around courtyards; merchants, scribes and craftsmen formed a middle class, and slavery existed for debt and war captives. Hammurabi's Code regulated wages, doctors' fees, rents, marriage and divorce, showing a complex urban economy. Women could own property, and contracts were recorded on clay.",
 "food": "Babylonians ate barley bread, beer, dates, lentils, onions, leeks and garlic, cooked with sesame oil; the Yale tablets record some 25 stews of lamb, pigeon and vegetables seasoned with mint and coriander. Fish and dates were cheap staples, and the Code of Hammurabi even regulated beer sellers.",
 "summary": "Babylonian astronomers tracked planets and eclipses for centuries.",
 "wiki": "Babylonia",
@@ -69,7 +69,7 @@
 "rise": "Babylon was a minor town until the Amorite king Hammurabi conquered rival cities such as Larsa, Eshnunna and Mari in the 18th century BCE. Its central position on the Euphrates and control of trade made it the cultural capital of Mesopotamia for over a thousand years.",
 "fall": "The first Babylonian dynasty ended when the Hittite king Mursili I sacked the city in 1595 BCE; Kassites then ruled for four centuries. After Assyrian domination, the Neo-Babylonian Empire rose under Nabopolassar and Nebuchadnezzar, but in 539 BCE Cyrus the Great of Persia took Babylon, reportedly without a battle, after the unpopular king Nabonidus alienated the priesthood of Marduk.",
 "legacy": "Hammurabi's law code, Babylonian astronomy, mathematics, the 7-day week linked to planets and the zodiac influenced Greece, India and the Islamic world. Babylon became a symbol of grandeur and decadence in the Bible.",
-"culture": "The Akitu festival, the Enuma Elish creation epic and records of planetary motion kept for centuries."
+"culture": "Marduk, patron god of Babylon, became king of the gods in the creation epic Enuma Elish, recited at the New Year (Akitu) festival. Babylonian astronomers kept records of the planets for centuries, predicting eclipses, and developed the zodiac. Their mathematics solved quadratic equations and approximated √2."
 },
 {
 "name": "Assyria",
@@ -79,7 +79,7 @@
 "region": "Northern Mesopotamia",
 "capital": "Nineveh, Assur",
 "known_for": "Iron armies, Ashurbanipal's library",
-"life": "A militarised society where conscripted farmers fought seasonal campaigns and conquered peoples were resettled across the empire.",
+"life": "Assyrians were farmers and herders in the rain-fed north, but the state was built for war: men served in campaigns, and conquered peoples were deported in huge numbers — perhaps 4.5 million over three centuries — to work on royal projects. Merchants of Ashur ran trading colonies in Anatolia as early as 1900 BCE, recorded in thousands of tablets at Kanesh. Palaces were filled with scribes, soldiers and craftsmen.",
 "food": "Assyrians farmed barley and wheat in rain-watered northern Mesopotamia and kept sheep and cattle. Ashurnasirpal II's banquet stele boasts of feeding 69,574 guests with oxen, sheep, deer, fowl, fish, bread, beer and 10,000 skins of wine.",
 "summary": "Ashurbanipal's library preserved thousands of clay tablets.",
 "wiki": "Assyria",
@@ -93,7 +93,7 @@
 "rise": "Assur was a trading city whose merchants ran a famous network into Anatolia (the Kültepe tablets, ~1900 BCE). After centuries of ups and downs, the Neo-Assyrian Empire expanded from 911 BCE under kings such as Ashurnasirpal II, Tiglath-Pileser III, Sargon II and Sennacherib, eventually ruling from Egypt to western Iran.",
 "fall": "After Ashurbanipal's death (~631 BCE), civil war between his sons weakened the empire. Babylonians under Nabopolassar and the Medes under Cyaxares rebelled and sacked Nineveh in 612 BCE; the last Assyrian army was defeated at Harran (609) and Carchemish (605). A drought may also have contributed.",
 "legacy": "Assyria created the model of the provincial empire later used by Babylon and Persia. Its reliefs are treasures of the British Museum and the Louvre, and its library preserved much of Mesopotamian literature.",
-"culture": "Lion-hunt reliefs, winged bull guardians (lamassu) and the Library of Ashurbanipal."
+"culture": "Ashur, the national god, was worshipped as the source of royal power. Kings decorated palaces at Nimrud and Nineveh with stone reliefs of lion hunts and sieges, and winged human-headed bulls (lamassu) guarded gateways. Ashurbanipal assembled the first great library, with tens of thousands of tablets including the Epic of Gilgamesh."
 },
 {
 "name": "Ancient Egypt",
@@ -103,7 +103,7 @@
 "region": "Nile valley",
 "capital": "Memphis, Thebes, Alexandria",
 "known_for": "Pyramids, hieroglyphs, mummification, the solar calendar",
-"life": "Farmers' lives followed the Nile's three seasons; during the flood they worked on royal projects for pay. Scribes, priests and artisans lived in towns; workers' villages like Deir el-Medina left letters, receipts and even records of strikes.",
+"life": "About 80% of Egyptians were farmers whose lives followed the Nile's three seasons: inundation, growing and harvest; during the flood many worked on royal building projects for wages in bread and beer. Families lived in mud-brick houses, and women could own property, divorce and run businesses. Scribes, priests, craftsmen and soldiers formed specialised classes; workers at Deir el-Medina even went on strike over late rations around 1157 BCE.",
 "food": "Bread and beer made from emmer and barley were so basic that wages were paid in them; onions, garlic, lentils, chickpeas, lettuce and Nile fish were everyday foods. The rich ate beef, roast fowl, figs, pomegranates, honey cakes and wine; tomb paintings show bakeries and breweries in detail.",
 "summary": "Lasted three millennia, ending with Cleopatra and Rome.",
 "wiki": "Ancient_Egypt",
@@ -117,7 +117,7 @@
 "rise": "Farmers and herders settled the Nile valley as the Sahara dried after about 5000 BCE. Chiefdoms in Upper and Lower Egypt competed until King Narmer (or Menes) united them around 3100 BCE. The Nile's predictable flood gave reliable harvests; the desert protected Egypt from invasion; and the river was a highway for trade and administration.",
 "fall": "Egypt's 3,000-year history passed through the Old, Middle and New Kingdoms, separated by 'intermediate periods' of division often linked to droughts and weak kings. After the New Kingdom collapsed around 1070 BCE, Egypt was ruled by Libyans, Nubians (Kushites), Assyrians and Persians. Alexander the Great conquered it in 332 BCE, founding the Greek Ptolemaic dynasty, which ended when Cleopatra VII died and Rome annexed Egypt in 30 BCE.",
 "legacy": "Monumental architecture, the solar calendar (adopted by Julius Caesar), medicine, mathematics, and a fascination that shaped Greek, Roman and modern culture. Champollion's decipherment of hieroglyphs in 1822, using the Rosetta Stone, founded Egyptology.",
-"culture": "Gods such as Ra, Osiris, Isis and Hathor; festivals like Opet; mummification and the Book of the Dead; painted tombs, music, board games (senet) and cosmetics."
+"culture": "Egyptians worshipped hundreds of gods such as Ra, Osiris, Isis and Horus, with the pharaoh as a living god. They believed in an afterlife judged by the weighing of the heart, which led to mummification, tombs and the Book of the Dead. Hieroglyphs, monumental art with strict conventions, music, board games like senet, and festivals like Opet filled their culture."
 },
 {
 "name": "Hittite Empire",
@@ -127,7 +127,7 @@
 "region": "Anatolia",
 "capital": "Hattusa",
 "known_for": "Early iron, the first known peace treaty (Kadesh)",
-"life": "Farmers, chariot warriors and scribes in a kingdom bound by treaties with vassals.",
+"life": "Hittite society included farmers working land for the king or temples, chariot warriors, scribes and many deportees from conquered lands. Their laws, unusually, often prescribed compensation rather than death or mutilation. Women, especially queens such as Puduhepa, had significant power, including in diplomacy.",
 "food": "Hittites ate barley and emmer bread in dozens of named shapes, porridge, lentils, figs, grapes, honey and cheese. Beer and wine were offered to gods, and royal storage pits at Hattusa could hold grain for thousands of people for a year.",
 "summary": "Fell in the Bronze Age collapse.",
 "wiki": "Hittites",
@@ -141,7 +141,7 @@
 "rise": "Hattusili I unified central Anatolia around 1650 BCE; Mursili I sacked Babylon in 1595 BCE; Suppiluliuma I made the Hittites a superpower rivalling Egypt.",
 "fall": "Around 1180 BCE drought, famine, attacks by the Kaska and Sea Peoples and internal strife led to the abandonment of Hattusa during the Bronze Age collapse.",
 "legacy": "The Treaty of Kadesh (~1259 BCE) with Ramesses II is the oldest known peace treaty; Hittite is the oldest written Indo-European language.",
-"culture": "The 'thousand gods' of Hatti, laws milder than Babylon's, and royal archives at Hattusa."
+"culture": "The Hittites called themselves the land of 'a thousand gods', absorbing deities of conquered peoples; the storm god Tarhunt and the sun goddess of Arinna were the chief deities. Their archives at Hattusa contain treaties, prayers and rituals in many languages, and the rock sanctuary of Yazılıkaya shows a procession of gods."
 },
 {
 "name": "Phoenicia",
@@ -151,7 +151,7 @@
 "region": "Lebanon coast",
 "capital": "Tyre, Sidon",
 "known_for": "The alphabet, purple dye, sea trade, Carthage",
-"life": "Sailors, merchants, dyers and shipbuilders lived in crowded island and harbour cities.",
+"life": "Phoenicians lived in crowded island and coastal cities, working as sailors, merchants, shipbuilders, glassmakers, dyers and carpenters; the cedars of Lebanon were felled for ships and temples. Families sent sons to trading posts across the Mediterranean, from Cyprus to Spain. Purple dye-making was a smelly, labour-intensive industry, and slaves were traded.",
 "food": "Phoenicians ate barley and wheat bread, olives and olive oil, fish, figs and dates, and traded wine across the Mediterranean in amphorae. Their colonists spread vine and olive cultivation to North Africa and Spain.",
 "summary": "Their alphabet is the ancestor of Greek, Latin and Arabic scripts.",
 "wiki": "Phoenicia",
@@ -165,7 +165,7 @@
 "rise": "After the Bronze Age collapse weakened Egypt and the Hittites, the Phoenician cities filled the trade vacuum from about 1200 BCE and founded colonies across the Mediterranean.",
 "fall": "They fell under Assyrian, Babylonian and Persian domination; Alexander destroyed Tyre in 332 BCE after a seven-month siege.",
 "legacy": "Their alphabet is the ancestor of Greek, Latin, Hebrew, Arabic and possibly Brahmi scripts.",
-"culture": "Gods Baal and Astarte; ivory carving, glassware and the alphabet carried across the Mediterranean."
+"culture": "Phoenicians worshipped Baal, Astarte and Melqart, the god of Tyre. Their greatest cultural gift was the alphabet of 22 consonants, adapted by Greeks, Aramaeans and others. Greek and Roman sources accused them of child sacrifice (tophet sites at Carthage), which archaeologists still debate."
 },
 {
 "name": "Ancient Israel and Judah",
@@ -175,7 +175,7 @@
 "region": "Levant",
 "capital": "Jerusalem",
 "known_for": "The Hebrew Bible, monotheism",
-"life": "Most people farmed hill terraces growing grain, olives and grapes; life centred on clans and village elders.",
+"life": "Most Israelites farmed small hillside plots of wheat, barley, olives and grapes and herded sheep and goats, living in four-room houses in villages. The family and clan were central, and the Sabbath gave a weekly day of rest. Kings in Jerusalem and Samaria taxed and conscripted, and prophets like Amos criticised the rich for oppressing the poor.",
 "food": "The Seven Species of the Bible — wheat, barley, grapes, figs, pomegranates, olives and dates (honey) — were the basis of the diet. Most people ate bread, lentil stews, cheese and yoghurt from goats and sheep; meat was for festivals and sacrifices, and dietary laws (kashrut) defined permitted animals.",
 "summary": "Its scriptures shaped Judaism, Christianity and Islam.",
 "wiki": "History_of_ancient_Israel_and_Judah",
@@ -189,7 +189,7 @@
 "rise": "Hill-country villages emerged around 1200 BCE; the kingdoms formed around the 10th–9th centuries BCE.",
 "fall": "Assyria destroyed Israel in 722 BCE and deported its people; Babylon destroyed Judah and the Temple in 587 BCE and exiled its elite to Babylon.",
 "legacy": "The Hebrew Bible, ethical monotheism, the Sabbath and prophetic ideas of justice shaped Judaism, Christianity and Islam.",
-"culture": "Sabbath, Passover and Temple worship; the Hebrew Bible's law, prophecy and poetry."
+"culture": "Israelite religion developed toward monotheism — worship of one God, Yahweh — centred later on the Temple in Jerusalem. The Hebrew Bible's laws, psalms, prophets and histories took shape during and after the Babylonian exile. Festivals like Passover, Sukkot and Shavuot marked the agricultural year and memory of the Exodus."
 },
 {
 "name": "Kingdom of Kush",
@@ -199,7 +199,7 @@
 "region": "Sudan",
 "capital": "Napata, Meroë",
 "known_for": "Nubian pyramids, ruled Egypt as the 25th dynasty, iron-working",
-"life": "Farmers along the Nile, herders and ironworkers; powerful queen mothers (kandakes) shaped politics.",
+"life": "Kushites farmed sorghum along the Nile and kept cattle, the main measure of wealth; Meroë was a major iron-smelting centre with workshops and slag heaps. Trade in gold, ivory, ebony and exotic animals with Egypt, Rome and Aksum enriched the elite. Queens (kandakes) and queen mothers held strong positions.",
 "food": "Kushites grew sorghum, millet and barley along the Nile and kept large herds of cattle, which were symbols of wealth. They also ate fish, dates and dom palm fruit and drank sorghum beer.",
 "summary": "Sudan has more pyramids than Egypt.",
 "wiki": "Kingdom_of_Kush",
@@ -213,7 +213,7 @@
 "rise": "Kush grew south of Egypt and, under Piye, conquered Egypt around 744 BCE, ruling as the 25th dynasty.",
 "fall": "Assyrians drove them out of Egypt (~656 BCE); Kush continued at Meroë until Aksum conquered it around 350 CE.",
 "legacy": "One of Africa's great early states; Sudan has more pyramids than Egypt.",
-"culture": "The lion god Apedemak, Nubian pyramids and Meroitic script."
+"culture": "Kushites worshipped Egyptian gods like Amun alongside their own lion-headed war god Apedemak. Kings were buried in steep pyramids at El-Kurru, Nuri and Meroë. They developed the Meroitic script, still only partly understood."
 },
 {
 "name": "Carthage",
@@ -223,7 +223,7 @@
 "region": "Tunisia",
 "capital": "Carthage",
 "known_for": "Hannibal, naval power",
-"life": "A merchant and maritime people with large farming estates in Tunisia.",
+"life": "Carthage was a city of perhaps 400,000 at its peak, with tall houses, a harbour bustling with merchants and a hinterland of large estates worked by slaves and Libyan farmers. Wealthy families dominated politics and trade across the western Mediterranean. Carthage relied on mercenary armies from Africa, Spain and Gaul.",
 "food": "Carthaginians farmed wheat, barley, olives, grapes and pomegranates (the 'Punic apple') on rich estates, guided by Mago's farming manual. They ate puls-like porridge, fish and garum, and Romans copied their recipe for placenta cake.",
 "summary": "Destroyed by Rome in the Third Punic War.",
 "wiki": "Ancient_Carthage",
@@ -237,7 +237,7 @@
 "rise": "Founded by Phoenicians from Tyre around 814 BCE, it built a trading empire across North Africa, Spain, Sardinia and Sicily.",
 "fall": "It lost the three Punic Wars to Rome; in 146 BCE Rome destroyed the city.",
 "legacy": "Hannibal's campaign remains a classic of military strategy.",
-"culture": "Gods Baal Hammon and Tanit; famous agriculture treatise by Mago."
+"culture": "Carthaginians worshipped Baal Hammon and Tanit; tophet cemeteries of child burials suggest child sacrifice, though some scholars argue they were cemeteries for infants who died naturally. Their language, Punic, survived in North Africa until St Augustine's time."
 },
 {
 "name": "Achaemenid Persian Empire",
@@ -247,7 +247,7 @@
 "region": "Iran to Egypt and Indus",
 "capital": "Persepolis, Susa",
 "known_for": "Cyrus's tolerance, the Royal Road, satrapies",
-"life": "Farmers paid tribute; craftsmen from across the empire built Persepolis for wages recorded on tablets.",
+"life": "The empire included about 50 million people of many ethnicities. Workers on royal projects, recorded in the Persepolis tablets, received rations and wages, including women, who sometimes received maternity rations. Persian nobles valued horsemanship, archery and telling the truth; Herodotus says boys were taught 'to ride, shoot the bow and speak the truth'.",
 "food": "Persians ate wheat bread, rice in some regions, mutton, fruit such as pomegranates, apricots and pistachios, and drank wine. Greek writers marvelled at the royal table, which fed up to 15,000 people a day, and at desserts served throughout the meal.",
 "summary": "At its height ruled ~44% of the world's population (estimates vary).",
 "wiki": "Achaemenid_Empire",
@@ -261,7 +261,7 @@
 "rise": "Cyrus the Great overthrew the Medes (550 BCE), conquered Lydia and Babylon (539 BCE), and his successors took Egypt and northwest India.",
 "fall": "Costly wars with Greece, palace intrigue and revolts weakened it; Alexander defeated Darius III at Issus and Gaugamela (331 BCE).",
 "legacy": "A model of tolerant, multi-ethnic empire; the Cyrus Cylinder; Persian administrative practices adopted by later empires.",
-"culture": "Zoroastrian fire temples, the Nowruz new year, and audience reliefs of 23 nations bringing gifts."
+"culture": "The kings followed Zoroastrianism or a form of Mazda worship, but respected local religions, letting Jews rebuild the Temple. Persepolis reliefs show delegations from across the empire bringing tribute, symbolising harmony. Paradise gardens (pairidaeza) became a model for later gardens, including Mughal ones."
 },
 {
 "name": "Aksum",
@@ -271,7 +271,7 @@
 "region": "Ethiopia, Eritrea",
 "capital": "Aksum",
 "known_for": "Giant stelae, coinage, early Christianity",
-"life": "Farmers grew teff and barley; merchants traded ivory and gold to Rome and India.",
+"life": "Aksum's people farmed teff, barley and wheat on terraces with ox-drawn ploughs and kept cattle. The port of Adulis traded ivory, gold and incense with Rome, Arabia and India. The Persian prophet Mani listed Aksum among the four great kingdoms of the world.",
 "food": "Teff, the tiny grain used for injera flatbread, and barley were staples, with cattle, sheep and honey. Aksum also traded for spices and wine with India and Rome.",
 "summary": "One of the four great powers of its time (according to Mani).",
 "wiki": "Kingdom_of_Aksum",
@@ -285,7 +285,7 @@
 "rise": "Control of Red Sea trade between Rome, India and Africa made Aksum rich from the 1st century CE.",
 "fall": "Islamic control of Red Sea trade, soil exhaustion and climate change led to decline by the 10th century.",
 "legacy": "Ethiopian Christianity (from King Ezana, ~330s) and Ge'ez.",
-"culture": "Early Christianity, giant stelae and the Ge'ez script still used in Ethiopian liturgy."
+"culture": "Aksum's king Ezana converted to Christianity around 330, making Ethiopia one of the first Christian states; the Ethiopian Orthodox Church claims the Ark of the Covenant rests in Aksum. They wrote in Ge'ez and raised giant carved stelae over tombs."
 },
 {
 "name": "Ghana Empire",
@@ -295,7 +295,7 @@
 "region": "West Africa (Mauritania, Mali)",
 "capital": "Koumbi Saleh",
 "known_for": "Trans-Saharan gold trade",
-"life": "Soninke farmers and traders controlled gold coming from the south and salt from the Sahara.",
+"life": "Ghana's farmers grew millet and sorghum, while traders exchanged gold from southern fields for Saharan salt, copper and cloth carried by Berber camel caravans. The capital Koumbi Saleh had a royal town and a Muslim merchant town with 12 mosques. Al-Bakri (1068) described the king's court with gold-adorned dogs and horses.",
 "food": "People grew millet, sorghum and rice in the Sahel and herded cattle, sheep and goats. Salt, traded from Saharan mines, was so valuable it was exchanged weight for weight with gold in some accounts.",
 "summary": "'Land of gold' for Arab geographers.",
 "wiki": "Ghana_Empire",
@@ -309,7 +309,7 @@
 "rise": "Soninke kings controlled trade between Saharan salt and gold fields of Bambuk from around 300 CE.",
 "fall": "Almoravid pressure, drought and shifting trade routes led to decline by 1200.",
 "legacy": "West Africa's first great empire; the modern nation of Ghana took its name.",
-"culture": "Royal courts with elaborate ceremonies described by Arab geographers."
+"culture": "The rulers followed traditional Soninke religion while employing Muslim officials and scribes. Sacred groves near the palace were forbidden to outsiders. Oral traditions, including the legend of the snake Bida, explained the kingdom's rise and fall."
 },
 {
 "name": "Mali Empire",
@@ -319,7 +319,7 @@
 "region": "West Africa",
 "capital": "Niani",
 "known_for": "Mansa Musa, Timbuktu's libraries",
-"life": "Farmers, herders, fishers and traders lived under clan-based social orders; griots preserved history in song.",
+"life": "Mali's people farmed millet and rice along the Niger, fished and traded gold, salt and kola nuts; Ibn Battuta (1352) praised the safety of travel and justice. Society was organised in clans and castes such as blacksmiths and griots (bards). Timbuktu, Djenné and Gao were trading and learning centres.",
 "food": "Mali's farmers grew millet, sorghum and African rice along the Niger, and used shea butter as cooking oil. Ibn Battuta (1352) described millet porridge, fish and baobab sauce.",
 "summary": "Mansa Musa's 1324 pilgrimage spread gold through Cairo.",
 "wiki": "Mali_Empire",
@@ -333,7 +333,7 @@
 "rise": "Sundiata Keita defeated the Sosso king Sumanguru at Kirina (1235).",
 "fall": "Succession disputes, Tuareg raids and the rise of Songhai.",
 "legacy": "Timbuktu's scholarship; the Sundiata epic.",
-"culture": "The Sundiata epic, Timbuktu's Sankore university and manuscripts, mud mosques renewed each year."
+"culture": "Mali's rulers were Muslims who supported scholars and mosques, while many subjects kept traditional beliefs. Griots preserve the Epic of Sundiata. Timbuktu's Sankore mosque and family libraries held manuscripts on law, astronomy and medicine."
 },
 {
 "name": "Songhai Empire",
@@ -343,7 +343,7 @@
 "region": "West Africa",
 "capital": "Gao",
 "known_for": "Largest West African empire",
-"life": "River fishermen, farmers and merchants along the Niger.",
+"life": "Songhai controlled the Niger bend and trade routes; Sorko fishermen, farmers and merchants lived along the river. Askia Muhammad created a standing army and standard weights and measures. Timbuktu had perhaps 100,000 people and many schools.",
 "food": "Songhai farmers grew rice, millet and sorghum in the Niger bend floodplain; Sorko fishermen supplied fish. Cattle-herding Fulani supplied milk and butter.",
 "summary": "Fell to Moroccan musketeers.",
 "wiki": "Songhai_Empire",
@@ -357,7 +357,7 @@
 "rise": "Sonni Ali (r. 1464–1492) captured Timbuktu and Djenné.",
 "fall": "Moroccan musketeers defeated Songhai at Tondibi in 1591.",
 "legacy": "Largest empire in West African history.",
-"culture": "Islamic scholarship in Timbuktu and Gao."
+"culture": "Askia Muhammad made the hajj and promoted Islamic scholarship; scholars such as Ahmed Baba wrote dozens of works. Local beliefs and Islam coexisted."
 },
 {
 "name": "Great Zimbabwe",
@@ -367,7 +367,7 @@
 "region": "Zimbabwe",
 "capital": "Great Zimbabwe",
 "known_for": "Dry-stone walled city",
-"life": "Cattle herders and farmers; an elite lived inside the stone enclosures.",
+"life": "Great Zimbabwe's elite lived inside stone enclosures on the hill and valley, while ordinary people lived in daga (clay) huts around them. Cattle herding, farming and gold mining sustained the economy, and gold and ivory were traded to Swahili ports for Chinese porcelain and Indian beads.",
 "food": "Cattle were the main wealth and source of meat and milk, with sorghum, finger millet and beans grown on hillsides.",
 "summary": "Gave its name to modern Zimbabwe.",
 "wiki": "Great_Zimbabwe",
@@ -381,7 +381,7 @@
 "rise": "Cattle wealth and gold trade from the 11th century.",
 "fall": "Overgrazing, depleted resources and shifting trade routes led to abandonment around 1450.",
 "legacy": "Colonial authorities long denied Africans built it; it became a symbol of Zimbabwe's independence.",
-"culture": "Soapstone bird carvings now on Zimbabwe's flag."
+"culture": "The Shona-speaking people venerated ancestors through spirit mediums. Carved soapstone birds found at the site are now Zimbabwe's national emblem."
 },
 {
 "name": "Swahili city-states",
@@ -391,7 +391,7 @@
 "region": "East African coast",
 "capital": "Kilwa, Mombasa",
 "known_for": "Coral-stone towns, Indian Ocean trade",
-"life": "Merchants, sailors and craftsmen in coral-stone towns.",
+"life": "Swahili towns like Kilwa, Mombasa, Lamu and Zanzibar had coral-stone houses for wealthy merchants and thatched houses for others. Merchants traded gold, ivory and enslaved people for cloth from Gujarat, porcelain from China and goods from Arabia. Ibn Battuta called Kilwa one of the most beautiful towns in the world.",
 "food": "Swahili towns ate rice, millet, coconut, bananas, fish and spices traded across the Indian Ocean.",
 "summary": "A blend of Bantu, Arab and Persian cultures.",
 "wiki": "Swahili_culture",
@@ -405,7 +405,7 @@
 "rise": "Bantu coastal communities trading with Arab and Persian merchants from the 8th century.",
 "fall": "Portuguese attacks and the shift of trade after 1500.",
 "legacy": "The Swahili language, now spoken by about 200 million.",
-"culture": "Swahili poetry, Islamic architecture and Indian Ocean dress and food."
+"culture": "Swahili culture blended Bantu African and Arab-Persian influences; Islam was the main religion, and Swahili poetry (utenzi) developed in Arabic script."
 },
 {
 "name": "Kingdom of Benin",
@@ -415,7 +415,7 @@
 "region": "Nigeria",
 "capital": "Benin City",
 "known_for": "Benin Bronzes, city walls",
-"life": "Guild craftsmen, farmers and court officials lived in a planned walled city.",
+"life": "Benin City had wide streets, a royal palace and guilds of craftsmen who lived in their own wards. Farmers grew yams, and Benin traded pepper, ivory and cloth with the Portuguese from the 15th century, as well as slaves.",
 "food": "Yams were the central crop, eaten with palm-oil soups, plantains and bushmeat; kola nuts were shared in hospitality.",
 "summary": "The British looted the bronzes in 1897; some are now being returned.",
 "wiki": "Kingdom_of_Benin",
@@ -429,7 +429,7 @@
 "rise": "Emerged in the forests of southern Nigeria around the 12th century; expanded under Oba Ewuare (~1440).",
 "fall": "A British punitive expedition burned the city in 1897.",
 "legacy": "The Benin Bronzes, now being returned.",
-"culture": "Bronze plaques recording court history; the Igue festival."
+"culture": "The Oba was a sacred ruler. Royal brass casters made plaques and heads recording court history, now known as the Benin Bronzes; many looted in 1897 are being returned."
 },
 {
 "name": "Ottoman Empire",
@@ -439,7 +439,7 @@
 "region": "Anatolia, Balkans, Middle East, North Africa",
 "capital": "Istanbul",
 "known_for": "Conquest of Constantinople (1453), Suleiman, millets",
-"life": "Farmers under the timar system, urban guilds, merchants and a multi-faith population organised in millets.",
+"life": "The Ottoman Empire ruled Turks, Arabs, Greeks, Armenians, Jews, Kurds and Slavs. Istanbul had perhaps 700,000 people in the 16th century — one of the world's largest cities — with covered bazaars, coffee houses, public fountains and hamams endowed by charitable foundations (waqf). Peasants farmed land held by timariot cavalrymen in return for military service, while Christian boys taken through the devshirme could rise to grand vizier. Non-Muslim communities ran their own religious, educational and family-law affairs under the millet system.",
 "food": "Ottoman palace kitchens at Topkapı fed up to 10,000 people a day; dishes included pilaf, kebabs, börek, dolma, yoghurt and baklava. Coffee houses spread from Istanbul in the 16th century.",
 "summary": "Lasted over six centuries.",
 "wiki": "Ottoman_Empire",
@@ -453,7 +453,7 @@
 "rise": "Osman I's frontier principality in Anatolia expanded into the Balkans; Mehmed II took Constantinople in 1453; Selim I took Egypt and Arabia; Suleiman reached Vienna (1529).",
 "fall": "Military defeats from 1683, nationalism in the Balkans, economic dependence on Europe and defeat in World War I led to its dissolution and the Turkish Republic (1923).",
 "legacy": "A multi-faith empire lasting six centuries; modern Middle Eastern and Balkan borders took shape from its collapse.",
-"culture": "Coffee houses, Iznik tiles, Sinan's mosques, calligraphy, music and the Turkish bath."
+"culture": "Ottoman culture blended Turkish, Persian, Arab and Byzantine traditions: calligraphy, miniature painting, Iznik tiles, carpets, Sufi music of the whirling Mevlevi dervishes, and poetry in Ottoman Turkish. Mimar Sinan's mosques, such as the Süleymaniye and Selimiye, define its architecture. Coffee arrived from Yemen in the 1550s, and coffee houses became centres of conversation, chess and Karagöz shadow-puppet theatre, sometimes banned as hotbeds of dissent."
 },
 {
 "name": "Safavid Iran",
@@ -463,7 +463,7 @@
 "region": "Iran",
 "capital": "Isfahan",
 "known_for": "Shia Islam as state faith, Isfahan's architecture",
-"life": "Silk farmers, carpet weavers and merchants; Isfahan held perhaps half a million people.",
+"life": "Under Shah Abbas I, Isfahan grew to perhaps 600,000 people, with the vast Naqsh-e Jahan square used for polo, markets and ceremonies. He resettled thousands of Armenians in New Julfa to run Iran's silk trade, which linked Iran to Europe and India. Craftsmen produced carpets, ceramics and textiles for export, and caravanserais lined the trade roads.",
 "food": "Rice dishes (polow and chelow) with saffron, herbs and fruit, kebabs, flatbreads and sherbets; tea and coffee spread later.",
 "summary": "'Isfahan is half the world.'",
 "wiki": "Safavid_Iran",
@@ -477,7 +477,7 @@
 "rise": "Shah Ismail I founded the dynasty in 1501, making Shia Islam the state religion.",
 "fall": "Weak rulers and the Afghan sack of Isfahan in 1722.",
 "legacy": "Iran's Shia identity and Persian art.",
-"culture": "Miniature painting, carpets, Shia festivals such as Muharram."
+"culture": "Shah Ismail I imposed Twelver Shia Islam, converting most Iranians and creating a lasting distinction from Sunni Ottomans and Mughals; the mourning of Muharram became central. Persian miniature painting peaked with masters like Reza Abbasi, and Persian poetry and architecture influenced the Mughal court, where many Iranian artists and administrators went."
 },
 {
 "name": "Indus Valley Civilisation",
@@ -487,7 +487,7 @@
 "region": "Pakistan, NW India",
 "capital": "Harappa, Mohenjo-daro, Dholavira, Rakhigarhi",
 "known_for": "Grid cities, drains, standard bricks and weights, undeciphered script",
-"life": "Most people farmed or herded; city dwellers worked as potters, bead-makers, metalworkers and traders. Brick houses had wells and bathrooms; children played with clay carts and whistles.",
+"life": "Indus cities like Mohenjo-daro had perhaps 40,000 people living in brick houses with bathrooms and wells, connected to covered street drains — a level of urban sanitation unmatched for millennia. Farmers grew wheat, barley, cotton and sesame; craftsmen made beads of carnelian, shell bangles, pottery and copper tools using standardised weights. Merchants traded with Mesopotamia, where Indus seals have been found. The absence of palaces, grand royal tombs or obvious weapons suggests a relatively egalitarian society.",
 "food": "Indus farmers grew wheat, barley, millets, peas, lentils, sesame and cotton, and ate dates and mangoes; residues in pots show stews of meat and dairy. Cattle, buffalo, goat and fish were common, and grinding stones, ovens and large granaries suggest organised food storage.",
 "summary": "Its cities had some of the best urban drainage of the ancient world.",
 "wiki": "Indus_Valley_Civilisation",
@@ -501,7 +501,7 @@
 "rise": "The civilisation grew from farming villages that began at Mehrgarh around 7000 BCE. Over thousands of years villages across the Indus and Ghaggar–Hakra plains grew wheat, barley and cotton and kept humped cattle. Early Harappan towns (~3300–2600 BCE) developed craft traditions and long-distance trade; around 2600 BCE a rapid transformation produced planned cities, writing and standard weights.",
 "fall": "From around 1900 BCE the big cities were gradually abandoned and people moved to smaller villages in the east (Haryana, the Ganga–Yamuna doab) and south (Gujarat). The evidence points to a weakening monsoon linked to the 4.2-kiloyear climate event, shifting or drying rivers such as the Ghaggar–Hakra, and the decline of trade with Mesopotamia. The old idea of an 'Aryan invasion' destroying the cities is not supported by evidence; ancient DNA and archaeology show transformation rather than conquest.",
 "legacy": "Many elements may have continued into later Indian culture: weights, bangles, cotton weaving, possibly fire rituals, some deities and yoga-like postures on seals, the use of the swastika symbol, bullock carts and farming practices. Most South Asians today carry ancestry from Indus-related people.",
-"culture": "Seals with animals and the 'unicorn', terracotta figurines, the Dancing Girl bronze, and possible fire altars at Kalibangan."
+"culture": "Indus people used about 400 signs, the undeciphered Indus script, on seals with animals like the 'unicorn', bull and elephant. Figurines of a 'Mother Goddess', the 'Priest-King', the bronze 'Dancing Girl' and the 'Pashupati' seal suggest religious ideas some link to later Hinduism, such as possible yoga postures and reverence for the pipal tree. The Great Bath may have been used for ritual purification."
 },
 {
 "name": "Vedic India",
@@ -511,7 +511,7 @@
 "region": "North India",
 "capital": "—",
 "known_for": "The Vedas, Sanskrit, fire rituals",
-"life": "Clans of herders and farmers measured wealth in cattle; later, settled villages grew barley and rice.",
+"life": "Early Vedic people were semi-nomadic pastoralists who measured wealth in cattle; later they settled into villages of mud and thatch in the Ganga plain, farming barley and rice with iron ploughs. Society was organised in clans (jana) and families (kula) headed by men, but women like Gargi and Maitreyi took part in philosophical debates. Chariot races, gambling with dice and music were pastimes. Over time the varna system of Brahmins, Kshatriyas, Vaishyas and Shudras became more rigid.",
 "food": "The Rigvedic diet was based on barley (yava), milk, curd, ghee and honey, with meat at sacrifices; later rice (vrihi) grew in the Ganga valley. Soma, a ritual drink, was praised in hymns.",
 "summary": "Foundation of Hindu traditions.",
 "wiki": "Vedic_period",
@@ -525,7 +525,7 @@
 "rise": "Indo-Aryan-speaking pastoralists, whose ancestry ancient DNA links partly to the steppe, settled in the Punjab (Sapta Sindhu) around 1500 BCE, mixing with local populations descended from Indus-era people. Over centuries they moved east into the Ganga plain, clearing forests with fire and later iron.",
 "fall": "The Vedic period did not 'fall' but transformed: by about 600 BCE the clans had become 16 mahajanapadas with cities, coins and kings, and new movements such as Buddhism and Jainism challenged Vedic ritualism.",
 "legacy": "The Vedas and Upanishads remain foundational for Hinduism; Sanskrit, ritual traditions, and the concepts of dharma, karma and moksha took shape.",
-"culture": "Hymns of the Rigveda, fire sacrifices (yajna), gods such as Indra, Agni and Varuna, and the oral tradition that preserved the Vedas."
+"culture": "Religion centred on fire sacrifices (yajnas) to Agni, Indra, Varuna and Soma, with hymns preserved orally in the four Vedas. The Upanishads introduced ideas of Brahman, atman, karma and rebirth. The ashrama system described stages of life — student, householder, forest dweller and renunciant."
 },
 {
 "name": "Magadha",
@@ -535,7 +535,7 @@
 "region": "Bihar",
 "capital": "Rajagriha, Pataliputra",
 "known_for": "Haryanka, Shishunaga and Nanda dynasties; Buddha and Mahavira's era",
-"life": "Rice farmers, ironworkers and traders in a fertile, rising kingdom.",
+"life": "Magadha's people farmed wet rice in the fertile middle Ganga plain and mined iron from nearby hills. Cities like Rajagriha and Pataliputra grew with markets, guilds and punch-marked coins. Merchants and artisans formed guilds (shrenis).",
 "food": "Magadha's wealth rested on wet rice cultivation in the Ganga plain, along with pulses, sugarcane and fish.",
 "summary": "Became the core of the Mauryan Empire.",
 "wiki": "Magadha",
@@ -549,7 +549,7 @@
 "rise": "Fertile rice land, iron, river trade and capable kings let Magadha conquer Anga, Kosala, Kashi and the Vajji confederacy in the 6th–5th centuries BCE.",
 "fall": "It did not fall but became the core of successive empires: the Nandas, Mauryas and Guptas.",
 "legacy": "The Buddha and Mahavira taught in Magadha; it was the seed of India's first empire.",
-"culture": "Home ground of the Buddha's and Mahavira's teaching; early stupas and viharas."
+"culture": "Magadha was a centre of new religious movements: the Buddha and Mahavira preached there, and Ajivikas and Charvakas also debated. Many Buddhist sites, including Bodh Gaya, Rajgir and Nalanda, lie in Magadha."
 },
 {
 "name": "Maurya Empire",
@@ -559,7 +559,7 @@
 "region": "South Asia",
 "capital": "Pataliputra",
 "known_for": "Chandragupta, Chanakya's Arthashastra, Ashoka's edicts and dhamma",
-"life": "Farmers paid around a quarter of their harvest in tax; cities had guilds, markets and wooden mansions. Megasthenes described seven social groups and well-run cities.",
+"life": "Megasthenes described seven classes in Mauryan society, from philosophers and farmers to soldiers and officials, and noted that India had no slaves (though the Arthashastra mentions them). Farmers paid about a quarter of their produce; the state ran mines, forests and workshops and maintained roads with milestones and rest houses. Pataliputra was a huge city with wooden walls, 570 towers and 64 gates.",
 "food": "People ate rice, wheat, barley, pulses, sugarcane, dairy and fruit; Megasthenes noted rice eaten from golden bowls. The Arthashastra set rules on storehouses, fair prices and famine relief.",
 "summary": "Ashoka turned to Buddhism after Kalinga (261 BCE).",
 "wiki": "Maurya_Empire",
@@ -573,7 +573,7 @@
 "rise": "Chandragupta Maurya, advised by the Brahmin strategist Chanakya, overthrew the unpopular Nanda dynasty of Magadha around 322 BCE, after Alexander's withdrawal from Punjab left a power vacuum in the northwest. In about 303 BCE he defeated or made peace with Seleucus I, gaining Afghanistan and Baluchistan in exchange for 500 war elephants. His son Bindusara expanded into the Deccan, and Ashoka conquered Kalinga (261 BCE), bringing almost the whole subcontinent except the far south under one rule.",
 "fall": "After Ashoka's death in 232 BCE the empire split between successors, provinces broke away, and revenue fell. Some historians blame the costs of a vast bureaucracy and army; others cite Ashoka's pacifism weakening the military, though this is disputed. In 185 BCE the general Pushyamitra Shunga assassinated the last Mauryan king, Brihadratha, during an army review and founded the Shunga dynasty, while Indo-Greeks invaded from the northwest.",
 "legacy": "The first empire to unite most of South Asia; Ashoka's edicts on tolerance, non-violence and welfare; the spread of Buddhism to Sri Lanka, Central Asia and later East Asia; the national emblem and the Ashoka Chakra on India's flag; and the Arthashastra's political thought.",
-"culture": "Ashoka's dhamma, Buddhist missions to Sri Lanka and beyond, polished stone pillars and the Sanchi stupa."
+"culture": "Ashoka's dhamma promoted non-violence, tolerance among sects, respect for elders and kindness to animals, and he banned some animal sacrifices. Buddhism spread to Sri Lanka and Central Asia, while Jainism and Brahmanical religion also flourished. Mauryan art includes polished sandstone pillars with animal capitals and the Didarganj Yakshi."
 },
 {
 "name": "Satavahana dynasty",
@@ -583,7 +583,7 @@
 "region": "Deccan",
 "capital": "Pratishthana",
 "known_for": "Trade with Rome, Amaravati stupa",
-"life": "Deccan farmers and merchants trading with Rome; Buddhist monasteries supported by traders.",
+"life": "Satavahana society included farmers, guilds of artisans and merchants, and seafarers who traded with Rome through ports like Sopara and Kalyan. Inscriptions record donations to Buddhist monasteries by merchants, craftsmen and women. Kings used their mothers' names, suggesting the importance of mothers.",
 "food": "Rice in coastal areas, millets in the Deccan, pulses and dairy; pepper and textiles were exported to Rome.",
 "summary": "Issued coins with kings' portraits.",
 "wiki": "Satavahana_dynasty",
@@ -597,7 +597,7 @@
 "rise": "After the Mauryas declined, Simuka founded the dynasty around the 1st century BCE in the western Deccan.",
 "fall": "Wars with the Western Kshatrapas and internal division split the realm into smaller kingdoms by the early 3rd century.",
 "legacy": "Linked north and south India; patrons of Prakrit literature such as the Gatha Saptashati and of Buddhist art.",
-"culture": "Amaravati sculpture and Karla caves."
+"culture": "The Satavahanas were Brahmanical but supported Buddhism generously; Prakrit literature such as the Gatha Saptashati, love poems attributed to King Hala, flourished. Amaravati and Karla show their art."
 },
 {
 "name": "Sangam-era Tamilakam",
@@ -607,7 +607,7 @@
 "region": "Tamil Nadu, Kerala",
 "capital": "Madurai, Uraiyur, Vanji",
 "known_for": "Chera, Chola, Pandya kingdoms; Sangam poetry",
-"life": "People lived by five landscapes (tinai): hills, forests, farmland, coast and desert, each with its own work and gods.",
+"life": "Sangam poems describe five landscapes (tinai) — hills, forests, farmland, coast and desert — each with its people, occupations and moods of love. Farmers grew rice, fishermen worked the coast, and port cities like Muziris and Puhar traded pepper, pearls and muslin with Rome. Women poets such as Avvaiyar wrote, and Keeladi pottery inscriptions suggest widespread literacy.",
 "food": "Tamils ate rice, millet, fish, meat and fruit; Sangam poems describe five landscapes each with its own food. Black pepper was exported to Rome.",
 "summary": "Sangam poems describe love and war across five landscapes.",
 "wiki": "Sangam_period",
@@ -621,7 +621,7 @@
 "rise": "Iron Age farming and port trade with the Romans and Greeks enriched the Tamil coast from about the 3rd century BCE.",
 "fall": "The obscure Kalabhra period (~3rd–6th century) displaced the three dynasties until the Pallavas and Pandyas revived.",
 "legacy": "Over 2,000 Sangam poems, the Tirukkural and the foundation of Tamil literary culture.",
-"culture": "Sangam love and war poetry (akam and puram), hero stones, Murugan worship."
+"culture": "Tamil culture celebrated love (akam) and war (puram) in poetry; warriors who died were honoured with hero stones. Murugan was the main deity, alongside Vedic, Buddhist and Jain influences."
 },
 {
 "name": "Kushan Empire",
@@ -631,7 +631,7 @@
 "region": "Afghanistan, North India",
 "capital": "Purushapura, Mathura",
 "known_for": "Kanishka, Gandhara art, Silk Road",
-"life": "A mix of nomad elites, farmers and Silk Road merchants.",
+"life": "The Kushan Empire was a crossroads where Greek, Persian, Indian, Chinese and steppe peoples traded; caravans carried silk, spices, horses and Roman gold. Cities like Taxila, Peshawar and Mathura grew rich.",
 "food": "Wheat, barley, grapes, melons and wine in Bactria; rice and dairy in India.",
 "summary": "Spread Mahayana Buddhism to Central Asia.",
 "wiki": "Kushan_Empire",
@@ -645,7 +645,7 @@
 "rise": "The Yuezhi nomads, pushed from China's frontier, conquered Bactria; Kujula Kadphises united them in the 1st century CE.",
 "fall": "Defeats by the Sasanians in the 3rd century and the rise of the Guptas in India reduced them to minor rulers.",
 "legacy": "Gandhara art made the first human images of the Buddha; Mahayana Buddhism spread along their trade routes to China.",
-"culture": "Gandhara and Mathura art made the first Buddha images in human form."
+"culture": "Kushan coins show Greek, Iranian and Indian gods, reflecting tolerance. Gandhara art produced the first human images of the Buddha, with Greek-style drapery, while Mathura art developed independently."
 },
 {
 "name": "Gupta Empire",
@@ -655,7 +655,7 @@
 "region": "North India",
 "capital": "Pataliputra",
 "known_for": "Golden age of science and art: zero, Aryabhata, Kalidasa",
-"life": "Prosperous farmers and guilds; Faxian described peaceful towns and free hospitals.",
+"life": "Gupta India had rich towns with guilds, and a growing feudal system of land grants. Faxian (about 405) reported free hospitals, rest houses and that the 'chandalas' (untouchables) lived outside towns and had to announce their presence — evidence of caste discrimination. Women's position declined, with child marriage and sati appearing in some texts.",
 "food": "Rice, wheat, pulses, milk products, sugar (crystallised sugar was an Indian invention) and spices; Faxian noted that many people avoided meat, onions and alcohol.",
 "summary": "Weakened by Huna invasions.",
 "wiki": "Gupta_Empire",
@@ -669,7 +669,7 @@
 "rise": "The Guptas began as a minor family in Magadha. Chandragupta I (r. ~320–335) married Kumaradevi, a princess of the powerful Licchavi clan, which raised his status. His son Samudragupta (r. ~335–375), celebrated in the Allahabad pillar inscription, conquered or subdued kings across northern India and received tribute from the south. Chandragupta II (r. ~375–415) defeated the Western Kshatrapas, gaining Gujarat's sea trade.",
 "fall": "From around 460 CE the Alchon Huns (Hunas) invaded from Central Asia. Skandagupta repelled them at first, but later attacks under Toramana and Mihirakula devastated the northwest and drained the treasury. At the same time feudatories such as the Maukharis and Maitrakas became independent, trade with the Roman world declined, and the dynasty faded by around 550.",
 "legacy": "Called India's 'Classical' or 'Golden Age': Kalidasa's plays and poems, the Puranas compiled, temple architecture, decimal mathematics with zero that later spread to the Arab world and Europe, and art styles that influenced Southeast and East Asia.",
-"culture": "Kalidasa's drama, Ajanta murals, temple building, Sanskrit learning and the Puranas."
+"culture": "Classical Hinduism developed with temple worship of Vishnu and Shiva and the Puranas. Kalidasa's plays, the Kamasutra, the Panchatantra and the Natyashastra date from this era. Nalanda was founded, and Buddhist and Jain learning thrived."
 },
 {
 "name": "Pallava dynasty",
@@ -679,7 +679,7 @@
 "region": "Tamil Nadu",
 "capital": "Kanchipuram",
 "known_for": "Mamallapuram shore temples",
-"life": "Farmers in the Kaveri and Palar basins; port trade from Mamallapuram.",
+"life": "Pallava society centred on Kanchipuram, a city of temples and learning whose ghatika (college) drew students from across India; Xuanzang visited in the 7th century and found over 100 Buddhist monasteries alongside Hindu temples. Farmers in the Palar valley grew rice with tank irrigation, and village assemblies (sabha and ur) managed local affairs. The port of Mamallapuram linked Tamil merchants to Sri Lanka and Southeast Asia, carrying Pallava script and temple styles abroad.",
 "food": "Rice, millets, coconuts, pepper and fish.",
 "summary": "Spread Indian scripts to Southeast Asia.",
 "wiki": "Pallava_dynasty",
@@ -693,7 +693,7 @@
 "rise": "Rose in the 3rd–4th centuries around Kanchipuram after the Satavahanas.",
 "fall": "Defeated by the Cholas around 897.",
 "legacy": "The foundation of Dravidian temple architecture.",
-"culture": "Rock-cut temples and the bhakti poetry of the Alvars and Nayanars."
+"culture": "Pallava kings were patrons of Shaivism and Vaishnavism during the rise of the Tamil Bhakti movement: the Nayanar poets (Appar, Sambandar) and Alvars (Andal, Nammalvar) sang devotional hymns in Tamil, challenging Buddhist and Jain influence. Mahendravarman I wrote the Sanskrit satire Mattavilasa Prahasana. The Mamallapuram reliefs, Shore Temple and Kailasanatha temple mark the birth of Dravidian architecture."
 },
 {
 "name": "Chalukya dynasty",
@@ -703,7 +703,7 @@
 "region": "Karnataka",
 "capital": "Badami",
 "known_for": "Rock-cut temples at Badami, Aihole, Pattadakal",
-"life": "Farmers and traders of the Deccan plateau.",
+"life": "The Badami Chalukyas ruled an agrarian Deccan society of farming villages that grew millets, rice and cotton and paid taxes to the king's feudatories. Aihole was home to the Ainnurruvar, a powerful guild of '500 merchants' who traded across south India and overseas. Kings granted land to Brahmins and temples, which became centres of village life.",
 "food": "Millets (jowar, ragi), rice and pulses.",
 "summary": "Pulakeshin II defeated Harsha.",
 "wiki": "Chalukya_dynasty",
@@ -717,7 +717,7 @@
 "rise": "Pulakeshin I founded Badami as capital in 543.",
 "fall": "The Rashtrakutas overthrew them in 753; a later branch ruled from Kalyani.",
 "legacy": "The Vesara temple style and Kannada inscriptions.",
-"culture": "Temple experiments mixing northern and southern styles at Pattadakal."
+"culture": "Chalukya patronage produced an extraordinary laboratory of temple styles at Aihole, Badami and Pattadakal, mixing northern nagara and southern dravida forms; cave temples at Badami are carved with Shiva, Vishnu and Jain tirthankaras. Kannada inscriptions appear alongside Sanskrit, and the Jain poet Ravikirti composed the Aihole inscription in Sanskrit verse."
 },
 {
 "name": "Rashtrakuta dynasty",
@@ -727,7 +727,7 @@
 "region": "Deccan",
 "capital": "Manyakheta",
 "known_for": "Kailasa temple at Ellora",
-"life": "An agrarian empire of the Deccan with powerful feudatories.",
+"life": "The Rashtrakuta capital Manyakheta was a wealthy city, and Arab travellers like Sulaiman and al-Masudi described the kingdom as one of the world's four great powers, friendly to Muslim merchants on the west coast. Agriculture, cotton textiles and coastal trade sustained the economy, with feudatories collecting revenue.",
 "food": "Jowar and other millets, rice, pulses and dairy.",
 "summary": "Arab travellers ranked its king among the world's four greatest.",
 "wiki": "Rashtrakuta_dynasty",
@@ -741,7 +741,7 @@
 "rise": "Dantidurga overthrew the Chalukyas in 753.",
 "fall": "Western Chalukyas defeated them in 982.",
 "legacy": "Kannada literature (Kavirajamarga) and Ellora.",
-"culture": "Kannada literature and the Ellora Kailasa temple."
+"culture": "The Rashtrakutas patronised Shaivism, Vaishnavism and especially Jainism; Amoghavarsha I is said to have become a Jain monk. They sponsored Kannada classics such as Kavirajamarga and Adikavi Pampa's works, Sanskrit mathematics (Mahavira's Ganitasarasangraha), and the monolithic Kailasa temple at Ellora, where Hindu, Buddhist and Jain caves stand side by side."
 },
 {
 "name": "Chola Empire",
@@ -751,7 +751,7 @@
 "region": "South India, Sri Lanka, Southeast Asia",
 "capital": "Thanjavur, Gangaikonda Cholapuram",
 "known_for": "Brihadeeswara temple, bronzes, navy, village self-government",
-"life": "Rice farmers under elected village assemblies; temple towns employed dancers, musicians and craftsmen.",
+"life": "Chola villages were self-governing: inscriptions at Uttaramerur describe election by lot (kudavolai) of committees for tanks, gardens and justice. Temples were the centres of economic life, employing dancers, musicians, cooks and accountants and lending money. Merchant guilds like the Ainnurruvar traded across Southeast Asia and China.",
 "food": "Rice from the Kaveri delta, coconut, tamarind, pepper and fish; temple kitchens served thousands.",
 "summary": "Rajendra I raided Srivijaya in 1025.",
 "wiki": "Chola_dynasty",
@@ -765,7 +765,7 @@
 "rise": "The early Cholas appear in Sangam literature, but the Imperial Cholas began when Vijayalaya captured Thanjavur from the Muttaraiyars around 848. Rajaraja I (985–1014) conquered the Cheras, Pandyas, northern Sri Lanka and the Maldives; his son Rajendra I (1014–1044) marched to the Ganga, founding Gangaikonda Cholapuram ('city of the Chola who conquered the Ganga'), and sent a naval expedition against the Srivijaya empire in 1025.",
 "fall": "Long wars with the Western Chalukyas drained resources. In the 12th–13th centuries, provincial chiefs grew powerful, the Pandyas revived in the south and the Hoysalas in the west. The last Chola king, Rajendra III, was defeated by the Pandya Jatavarman Sundara Pandyan around 1279.",
 "legacy": "Dravidian temple architecture, Chola bronzes, the spread of Tamil culture and Hindu-Buddhist influence to Southeast Asia, and an early example of local democratic administration.",
-"culture": "Bronze Nataraja, temple festivals, Tamil devotional poetry and Bharatanatyam roots."
+"culture": "Cholas were devoted Shaivas who built the Brihadeeswarar and Gangaikonda Cholapuram temples. Chola bronze sculptures, especially Nataraja, are masterpieces. Bharatanatyam's ancestor, temple dance, flourished, and Kamban wrote his Tamil Ramayana."
 },
 {
 "name": "Pala Empire",
@@ -775,7 +775,7 @@
 "region": "Bengal, Bihar",
 "capital": "Pataliputra",
 "known_for": "Nalanda and Vikramashila universities",
-"life": "Rice farmers and traders of Bengal and Bihar.",
+"life": "Pala Bengal and Bihar were rich rice-growing lands with river trade to the Bay of Bengal and Southeast Asia. Land grants inscribed on copper plates record villages, ponds, fields and boundaries, giving a picture of rural life; many villagers were farmers, fishermen and weavers.",
 "food": "Rice, fish, pulses and sweets made from milk.",
 "summary": "Last great Buddhist empire in India.",
 "wiki": "Pala_Empire",
@@ -789,7 +789,7 @@
 "rise": "Gopala's election around 750; Dharmapala and Devapala expanded the realm across north India.",
 "fall": "Weakened by Pratihara and Rashtrakuta wars, they were overthrown by the Senas in the 12th century.",
 "legacy": "Nalanda and Vikramashila universities; Pala art shaped Tibetan Buddhism.",
-"culture": "Buddhist universities of Nalanda and Vikramashila and Pala sculpture."
+"culture": "The Palas were the last great royal patrons of Buddhism in India, supporting Nalanda and founding Vikramashila and Somapura. Scholars such as Atisha Dipankara travelled to Tibet, shaping Tibetan Buddhism. Pala bronzes and palm-leaf manuscript paintings influenced Nepal, Tibet and Southeast Asia, and Bengali language began to emerge in the Charyapada songs."
 },
 {
 "name": "Delhi Sultanate",
@@ -799,7 +799,7 @@
 "region": "North India",
 "capital": "Delhi",
 "known_for": "Qutub Minar, Persian culture, iqta system",
-"life": "Peasant villages paid revenue to iqta holders; cities grew with Persian-speaking elites and Indian artisans.",
+"life": "Delhi grew into one of the largest cities in the Islamic world, with markets, mosques and madrasas. Peasants paid land revenue to iqtadars; Alauddin's price controls kept grain cheap for soldiers. Slaves could rise to power (the Mamluk sultans were former slaves).",
 "food": "Wheat bread, rice, meat dishes such as samosa (sanbusa) and pilaf, and sweets; Persian cuisine mixed with Indian.",
 "summary": "Razia Sultan was its only woman ruler.",
 "wiki": "Delhi_Sultanate",
@@ -813,7 +813,7 @@
 "rise": "Muhammad of Ghor defeated Prithviraj Chauhan at Tarain (1192); after his death his slave general Qutb ud-Din Aibak ruled from Delhi (1206). Five dynasties followed: Mamluk, Khalji, Tughlaq, Sayyid and Lodi.",
 "fall": "Overexpansion, rebellions in Bengal and the Deccan, the founding of the Bahmani and Vijayanagara states, Timur's devastating sack of Delhi (1398), and finally Babur's victory over Ibrahim Lodi at Panipat (1526).",
 "legacy": "Indo-Islamic architecture, the Hindustani language, Sufi orders, and repelling the Mongols from India.",
-"culture": "Sufi shrines, qawwali (Amir Khusrau), Indo-Islamic architecture and the birth of Hindustani."
+"culture": "Persian became the court language, and Hindustani emerged from mixing. Sufi saints like Nizamuddin Auliya attracted followers of all faiths; Amir Khusrau developed qawwali. Indo-Islamic architecture produced the Qutub Minar."
 },
 {
 "name": "Vijayanagara Empire",
@@ -823,7 +823,7 @@
 "region": "South India",
 "capital": "Hampi",
 "known_for": "Hampi's bazaars and temples, Krishnadevaraya",
-"life": "Farmers, temple communities and merchants; Hampi's bazaars sold rubies and horses.",
+"life": "Hampi had perhaps 500,000 people, with markets selling diamonds, horses and spices; travellers like Domingo Paes and Niccolò de' Conti described it as a city as large as Rome. Brahmins, warriors, merchants, artisans and devadasis made up society; nayakas controlled villages.",
 "food": "Rice, ragi, pulses and spices; Domingo Paes described markets full of food.",
 "summary": "Defeated at Talikota (1565).",
 "wiki": "Vijayanagara_Empire",
@@ -837,7 +837,7 @@
 "rise": "Brothers Harihara and Bukka of the Sangama family founded the empire in 1336 to resist the Delhi Sultanate's raids into the south.",
 "fall": "An alliance of the Deccan sultanates defeated Vijayanagara at Talikota in 1565; Hampi was sacked for months. The dynasty continued weakly until 1646.",
 "legacy": "Carnatic music (Purandara Dasa), Telugu and Kannada literature and the UNESCO ruins of Hampi.",
-"culture": "Mahanavami festival, Carnatic music and Telugu and Kannada poetry."
+"culture": "Vijayanagara patronised temple festivals, Carnatic music (Purandara Dasa), and Telugu, Kannada and Sanskrit literature. The Mahanavami festival displayed royal power."
 },
 {
 "name": "Ahom kingdom",
@@ -847,7 +847,7 @@
 "region": "Assam",
 "capital": "Garhgaon",
 "known_for": "Resisted the Mughals for centuries; Lachit Borphukan at Saraighat (1671)",
-"life": "Wet-rice farmers organised by the paik labour system.",
+"life": "Under the paik system, every adult man was a paik who served the state for part of the year — as soldier, labourer or craftsman — in return for land; groups of paiks (khels) were managed by officers. Farmers grew wet rice in the Brahmaputra valley, fished and raised silk (muga and eri); villages managed embankments and roads.",
 "food": "Rice, fish, bamboo shoots and rice beer.",
 "summary": "Lasted nearly 600 years.",
 "wiki": "Ahom_kingdom",
@@ -861,7 +861,7 @@
 "rise": "The Tai prince Sukaphaa crossed the Patkai hills in 1228 and united local peoples.",
 "fall": "Civil war, Burmese invasions (1817–1826) and British annexation after the Treaty of Yandabo (1826).",
 "legacy": "Repelled the Mughals at Saraighat (1671); Assamese identity and the Buranji chronicles.",
-"culture": "Buranji chronicles and Bihu festivities."
+"culture": "Ahom kings arrived as Tai Buddhists and animists, gradually adopting Hinduism and Assamese culture, while keeping Tai rituals. They wrote detailed court chronicles called Buranjis, first in Tai Ahom and later in Assamese — rare historical records in South Asia. Bihu festivals and Sattriya dance, from Sankardev's Vaishnava monasteries (sattras), flourished."
 },
 {
 "name": "Mughal Empire",
@@ -871,7 +871,7 @@
 "region": "South Asia",
 "capital": "Agra, Fatehpur Sikri, Delhi",
 "known_for": "Akbar, Taj Mahal, miniature painting, Persianate culture",
-"life": "Most people were peasants paying a third or more of their harvest; cities held weavers, merchants and nobles' households.",
+"life": "Mughal India produced about a quarter of the world's manufacturing, mainly textiles. Peasants paid a third or more of their produce in revenue to mansabdars, while artisans in karkhanas produced luxury goods. Cities like Agra, Delhi and Lahore were among the world's largest, with bazaars, caravanserais and gardens. European travellers like Bernier described both splendour and peasant poverty.",
 "food": "Mughal kitchens blended Persian, Central Asian and Indian cooking: biryani, pulao, kebabs, kormas, naan and kulfi. Babur missed Kabul's melons; ordinary people ate khichdi, roti and dal.",
 "summary": "Ended after the 1857 uprising.",
 "wiki": "Mughal_Empire",
@@ -885,7 +885,7 @@
 "rise": "Babur, a Timurid prince from Fergana descended from both Timur and Genghis Khan, invaded India and defeated Ibrahim Lodi at the First Battle of Panipat (1526) and Rana Sanga at Khanwa (1527). His son Humayun lost the empire to Sher Shah Suri (1540) and regained it in 1555. Akbar (r. 1556–1605) won the Second Battle of Panipat and built a stable empire through conquest, alliances and reforms.",
 "fall": "Aurangzeb (r. 1658–1707) expanded the empire to its largest extent but spent 25 years at war in the Deccan against the Marathas, emptying the treasury, while reimposing the jizya alienated many subjects. After his death, wars of succession, rebellious governors (Bengal, Awadh, Hyderabad), Maratha expansion, Sikh and Jat revolts, Nadir Shah's devastating sack of Delhi (1739) and Afghan invasions shattered central power. The East India Company reduced the emperors to pensioners, and the last emperor, Bahadur Shah Zafar, was exiled after 1857.",
 "legacy": "Indo-Persian architecture, Mughlai cuisine, miniature painting, Hindustani music and the Urdu language, administrative practices adopted by the British, and the idea of a pan-Indian state.",
-"culture": "Miniature painting, Persian and Urdu poetry, Hindustani music, gardens, and cuisine such as biryani."
+"culture": "Mughal culture blended Persian, Central Asian and Indian traditions: miniature painting, Mughal gardens (charbagh), the Taj Mahal, Hindustani music (Tansen), Urdu poetry, and cuisine like biryani and kebabs. Akbar's policy of sulh-i-kul promoted tolerance, while Aurangzeb was more orthodox."
 },
 {
 "name": "Maratha Confederacy",
@@ -895,7 +895,7 @@
 "region": "India",
 "capital": "Raigad, Pune",
 "known_for": "Shivaji, Peshwas, guerrilla warfare, navy",
-"life": "Deccan peasants, soldiers and hill-fort garrisons.",
+"life": "Most Marathas were peasant farmers of the Deccan plateau who also served as cavalry. Shivaji paid soldiers in cash, regulated revenue and protected peasants from plunder by his own troops. Later the Peshwas' Pune was a growing city of bankers, merchants and Brahmin administrators, while armies raised chauth across India.",
 "food": "Bhakri of jowar or bajra, dal, onion and chillies — a portable diet for fast cavalry.",
 "summary": "Became the dominant Indian power in the 18th century.",
 "wiki": "Maratha_Confederacy",
@@ -909,7 +909,7 @@
 "rise": "Shivaji (1630–1680) built a state in the Western Ghats by seizing Bijapur forts, defeated Afzal Khan (1659), escaped from Aurangzeb's custody at Agra (1666) and was crowned Chhatrapati in 1674. After Aurangzeb's death the Marathas expanded across India under Peshwa Bajirao I.",
 "fall": "Defeat by Ahmad Shah Durrani at the Third Battle of Panipat (1761) cost a generation of leaders. Internal rivalries let the British win three Anglo-Maratha Wars; the confederacy ended in 1818.",
 "legacy": "A powerful symbol of regional pride and resistance; the Maratha navy, Marathi culture and much of central India's princely history.",
-"culture": "Bhakti saints like Tukaram and festivals such as Ganesh Chaturthi."
+"culture": "Maratha identity drew on the Bhakti tradition of saints like Dnyaneshwar, Namdev, Eknath and Tukaram, whose abhangs are sung on the annual wari pilgrimage to Pandharpur. Shivaji used Marathi in administration and created the Rajavyavahara Kosha, a dictionary to replace Persian terms. Powadas (ballads) celebrated warriors."
 },
 {
 "name": "Sikh Empire",
@@ -919,7 +919,7 @@
 "region": "Punjab",
 "capital": "Lahore",
 "known_for": "Maharaja Ranjit Singh, the Koh-i-Noor",
-"life": "Punjabi farmers and soldiers in a multi-faith state.",
+"life": "Ranjit Singh's Punjab was a fertile farming land; he reduced oppressive taxes in some areas and encouraged trade, and Lahore and Amritsar became busy commercial centres. His army recruited Sikhs, Hindus, Muslims and even European officers, providing many jobs.",
 "food": "Wheat roti, dairy, and the langar community kitchen that fed everyone equally.",
 "summary": "Annexed by the East India Company in 1849.",
 "wiki": "Sikh_Empire",
@@ -933,7 +933,7 @@
 "rise": "Ranjit Singh unified the Sikh misls and captured Lahore in 1799, then Multan, Kashmir and Peshawar.",
 "fall": "After his death in 1839, court intrigue and assassinations weakened the state; the British won the Anglo-Sikh Wars (1845–46, 1848–49) and annexed Punjab.",
 "legacy": "The memory of Sikh sovereignty and the Golden Temple's golden dome; the Koh-i-Noor was taken to Britain.",
-"culture": "Gurdwara langar, Baisakhi and the gilding of the Golden Temple."
+"culture": "The empire was rooted in Sikh teachings of one God, equality and service, expressed in langar (community kitchen) and the Khalsa. Ranjit Singh gilded the Harmandir Sahib, but also gave to Hindu temples and mosques. Punjabi poetry, such as Waris Shah's Heer (1766), and miniature painting from the hill states flourished."
 },
 {
 "name": "Kingdom of Mysore",
@@ -943,7 +943,7 @@
 "region": "Karnataka",
 "capital": "Mysore, Srirangapatna",
 "known_for": "Hyder Ali, Tipu Sultan's war rockets",
-"life": "Farmers and silk weavers; artisans for the court.",
+"life": "Mysore's farmers grew ragi, rice, sugarcane and coconut, irrigated by tanks and the Kaveri; Tipu Sultan promoted sericulture, introducing silkworms from China, and built the foundation of the Kannambadi dam. Sandalwood was a royal monopoly. Tipu's state also built factories for guns and rockets.",
 "food": "Ragi balls (ragi mudde), rice and sambar.",
 "summary": "Tipu's Mysorean rockets influenced British rocketry.",
 "wiki": "Kingdom_of_Mysore",
@@ -957,7 +957,7 @@
 "rise": "Hyder Ali seized power from the Wodeyars and expanded Mysore across the south.",
 "fall": "Four Anglo-Mysore Wars; Tipu died defending Srirangapatna in 1799, and the British restored the Wodeyars as subordinate rulers.",
 "legacy": "Rocketry and Mysore Dasara.",
-"culture": "Mysore Dasara and Mysore painting."
+"culture": "The Wodeyars made Mysore Dasara a grand royal festival with an elephant procession and patronised Carnatic music and Kannada literature; Tipu's court used Persian. The Mysore painting style, with gold leaf, developed under the Wodeyars."
 },
 {
 "name": "East India Company rule",
@@ -967,7 +967,7 @@
 "region": "India",
 "capital": "Calcutta",
 "known_for": "Plassey, revenue extraction, Permanent Settlement",
-"life": "Peasants paid high land revenue; weavers lost markets to British cloth.",
+"life": "Under Company rule, peasants faced heavy revenue demands through the Permanent Settlement, Ryotwari and Mahalwari systems, and many lost land to moneylenders. Bengal's famous weavers were forced to sell cloth cheaply to Company agents, and later British machine-made textiles ruined them. Famines such as Bengal's in 1770 killed millions.",
 "food": "Indians ate traditional grains and pulses, but Company revenue demands contributed to famines such as the Bengal famine of 1770, which killed about a third of the province's people.",
 "summary": "A private company ruled India with its own army of ~260,000.",
 "wiki": "Company_rule_in_India",
@@ -981,7 +981,7 @@
 "rise": "Victory at Plassey (1757) and the diwani of Bengal (1765) turned the Company into a territorial power; wars against Mysore, the Marathas and Sikhs extended its rule.",
 "fall": "The 1857 uprising led Parliament to abolish Company rule in 1858.",
 "legacy": "Colonial administration, the drain of wealth, and the deindustrialisation of Indian textiles.",
-"culture": "Company paintings and early printing presses in Calcutta."
+"culture": "British orientalists founded the Asiatic Society (1784), translated Sanskrit texts and promoted study of India's past, while Christian missionaries and reformers like Ram Mohan Roy debated sati, caste and education. Macaulay's 1835 Minute pushed English education, creating a new educated class."
 },
 {
 "name": "British Raj",
@@ -991,7 +991,7 @@
 "region": "India",
 "capital": "Calcutta, then New Delhi",
 "known_for": "Railways, famines, the national movement",
-"life": "Most Indians remained farmers facing famines; cities grew with mills, railways and an English-educated middle class.",
+"life": "Most Indians remained poor farmers; famines in 1876–78, 1896–1902 and 1943 killed tens of millions. Railways and ports moved raw cotton, jute and wheat to Britain, while new industrial cities like Bombay and Calcutta grew with textile mills and slums. A Western-educated middle class of lawyers, teachers and clerks emerged and led the national movement.",
 "food": "Most Indians ate rice or wheat, pulses and vegetables; famines in 1876–78, 1896–1902 and 1943 killed tens of millions while grain was exported.",
 "summary": "Ended with Independence and Partition in 1947.",
 "wiki": "British_Raj",
@@ -1005,7 +1005,7 @@
 "rise": "After 1857 the British Crown took direct control (1858); Victoria became Empress of India in 1877.",
 "fall": "The mass freedom movement led by Gandhi, Nehru, Bose, Patel and many others, the 1946 naval mutiny, Britain's exhaustion after WWII, and the end of Indian soldiers' loyalty led to independence and Partition on 15 August 1947.",
 "legacy": "Parliamentary institutions, English as a link language and railways, but also famines, poverty, communal division and Partition.",
-"culture": "The Bengal Renaissance, new Indian newspapers, and the rise of nationalism."
+"culture": "The Raj saw the Bengal Renaissance, social reform movements (Brahmo Samaj, Arya Samaj, Aligarh movement), and literature in Indian languages from Tagore and Premchand. The national movement developed its own culture of khadi, songs like 'Vande Mataram', and mass protest."
 },
 {
 "name": "Xia and Shang China",

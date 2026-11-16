@@ -1,9 +1,9 @@
 ---
 title: Timeline: Africa
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (96 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (97 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (96 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (97 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (35)
 <div class="timeline">
@@ -55,7 +55,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (16)
+:::collapse !Bronze Age (3000–1200 BCE) (17)
 <div class="timeline">
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Climate shift: <a href="/wiki/events/end-of-the-green-sahara.html">End of the Green Sahara</a> — Herders move to the Nile</div>
 <div class="ev"><span class="yr">3000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/calendar-solar.html">Calendar (solar)</a> — Egypt</div>
@@ -63,6 +63,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">2650 BCE</span>: 👤 Born: <a href="/wiki/people/imhotep.html">Imhotep</a> — Designed the first pyramid</div>
 <div class="ev"><span class="yr">2560 BCE</span>: 📅 Construction: <a href="/wiki/events/great-pyramid-built.html">Great Pyramid built</a> — Tallest structure for 3,800 years</div>
 <div class="ev"><span class="yr">2560 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/great-pyramid-of-giza.html">Great Pyramid of Giza</a> — Pharaoh Khufu</div>
+<div class="ev"><span class="yr">2560 BCE</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/ancient-aliens-built-the-pyramids.html">Ancient aliens built the pyramids</a> — Debunked</div>
 <div class="ev"><span class="yr">1550 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/new-kingdom-of-egypt.html">New Kingdom of Egypt</a> — Ahmose I expelled the Hyksos around 1550 BCE. Hatshepsut, Thutmose III, Akhenaten (who tried to impose worship of the Aten) and Ramesses II </div>
 <div class="ev"><span class="yr">1550 BCE</span>: 📅 War: <a href="/wiki/events/hyksos-expelled-from-egypt.html">Hyksos expelled from Egypt</a> — New Kingdom begins</div>
 <div class="ev"><span class="yr">1539 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/valley-of-the-kings.html">Valley of the Kings</a> — New Kingdom pharaohs</div>

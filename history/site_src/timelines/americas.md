@@ -1,9 +1,9 @@
 ---
 title: Timeline: Americas
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (55 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (84 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (55 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (84 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -62,7 +62,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (10)
+:::collapse Early modern (1500–1800) (11)
 <div class="timeline">
 <div class="ev"><span class="yr">1502</span>: 👤 Born: <a href="/wiki/people/atahualpa.html">Atahualpa</a> — Captured by Pizarro</div>
 <div class="ev"><span class="yr">1521</span>: 📅 Conquest: <a href="/wiki/events/fall-of-tenochtitlan.html">Fall of Tenochtitlan</a> — End of the Aztec Empire</div>
@@ -71,35 +71,64 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1550</span>: 📜 Manuscript: <a href="/wiki/manuscripts/popol-vuh.html">Popol Vuh</a> — c. 1550s; Ximénez copy c. 1701</div>
 <div class="ev"><span class="yr">1577</span>: 📜 Manuscript: <a href="/wiki/manuscripts/florentine-codex.html">Florentine Codex</a> — 1545–1577</div>
 <div class="ev"><span class="yr">1607</span>: 📅 Colonialism: <a href="/wiki/events/jamestown-founded.html">Jamestown founded</a> — English America</div>
+<div class="ev"><span class="yr">1763</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/smallpox-blankets.html">Smallpox blankets</a> — Partly true</div>
 <div class="ev"><span class="yr">1775</span>: 📅 Revolution: <a href="/wiki/events/american-revolution.html">American Revolution</a> — Independence of the USA</div>
 <div class="ev"><span class="yr">1776</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/united-states.html">United States</a> — 1776–today</div>
 <div class="ev"><span class="yr">1783</span>: 👤 Born: <a href="/wiki/people/sim-n-bol-var.html">Simón Bolívar</a> — Independence of six nations</div>
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (11)
+:::collapse Industrial and imperial age (1800–1945) (25)
 <div class="timeline">
 <div class="ev"><span class="yr">1810</span>: 📅 Independence: <a href="/wiki/events/latin-american-independence.html">Latin American independence</a> — New republics</div>
 <div class="ev"><span class="yr">1846</span>: ⚙ Invention: <a href="/wiki/inventions/anaesthesia.html">Anaesthesia</a> — USA</div>
+<div class="ev"><span class="yr">1847</span>: 👤 Born: <a href="/wiki/people/alexander-graham-bell.html">Alexander Graham Bell</a> — The telephone</div>
 <div class="ev"><span class="yr">1861</span>: 📅 War: <a href="/wiki/events/american-civil-war.html">American Civil War</a> — Ended slavery; ~620,000+ dead</div>
+<div class="ev"><span class="yr">1863</span>: 👤 Born: <a href="/wiki/people/henry-ford.html">Henry Ford</a> — Mass-produced cars</div>
+<div class="ev"><span class="yr">1867</span>: 👤 Born: <a href="/wiki/people/wright-brothers.html">Wright brothers</a> — First controlled powered aeroplane</div>
+<div class="ev"><span class="yr">1871</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/meucci-invented-the-telephone.html">Meucci invented the telephone</a> — Partly true</div>
+<div class="ev"><span class="yr">1876</span>: 📅 Invention: <a href="/wiki/events/first-telephone-call.html">First telephone call</a> — Birth of telecommunications</div>
 <div class="ev"><span class="yr">1876</span>: ⚙ Invention: <a href="/wiki/inventions/telephone.html">Telephone</a> — USA</div>
+<div class="ev"><span class="yr">1882</span>: 📅 Invention: <a href="/wiki/events/edison-s-light-and-pearl-street-station.html">Edison&#x27;s light and Pearl Street station</a> — Start of electric utilities</div>
 <div class="ev"><span class="yr">1882</span>: 👤 Born: <a href="/wiki/people/franklin-d-roosevelt.html">Franklin D. Roosevelt</a> — New Deal, WWII</div>
+<div class="ev"><span class="yr">1884</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/edison-stole-tesla-s-inventions.html">Edison stole Tesla&#x27;s inventions</a> — Mostly myth</div>
+<div class="ev"><span class="yr">1888</span>: ⚙ Invention: <a href="/wiki/inventions/alternating-current-power-grid.html">Alternating current power grid</a> — USA</div>
+<div class="ev"><span class="yr">1895</span>: 📅 Invention: <a href="/wiki/events/niagara-falls-power-plant.html">Niagara Falls power plant</a> — Victory of alternating current</div>
 <div class="ev"><span class="yr">1903</span>: 📅 Technology: <a href="/wiki/events/wright-brothers-flight.html">Wright brothers&#x27; flight</a> — Powered flight</div>
 <div class="ev"><span class="yr">1903</span>: ⚙ Invention: <a href="/wiki/inventions/aeroplane.html">Aeroplane</a> — USA</div>
+<div class="ev"><span class="yr">1904</span>: 👤 Born: <a href="/wiki/people/j-robert-oppenheimer.html">J. Robert Oppenheimer</a> — Director of Los Alamos; &#x27;father of the atomic bomb&#x27;</div>
+<div class="ev"><span class="yr">1917</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/radium-girls.html">Radium Girls</a> — Documented fact</div>
 <div class="ev"><span class="yr">1926</span>: 👤 Born: <a href="/wiki/people/fidel-castro.html">Fidel Castro</a> — Cuban Revolution</div>
 <div class="ev"><span class="yr">1928</span>: 👤 Born: <a href="/wiki/people/che-guevara.html">Che Guevara</a> — Cuban Revolution</div>
 <div class="ev"><span class="yr">1929</span>: 👤 Born: <a href="/wiki/people/martin-luther-king-jr.html">Martin Luther King Jr.</a> — &#x27;I Have a Dream&#x27;</div>
+<div class="ev"><span class="yr">1932</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tuskegee-syphilis-study.html">Tuskegee syphilis study</a> — Documented fact</div>
+<div class="ev"><span class="yr">1942</span>: 📅 Science and war: <a href="/wiki/events/manhattan-project-begins.html">Manhattan Project begins</a> — Race for the atomic bomb</div>
 <div class="ev"><span class="yr">1942</span>: ⚙ Invention: <a href="/wiki/inventions/nuclear-energy.html">Nuclear energy</a> — USA</div>
+<div class="ev"><span class="yr">1943</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tesla-s-seized-papers.html">Tesla&#x27;s seized papers</a> — Documented fact (myth exaggerated)</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (7)
+:::collapse Contemporary (1945–today) (21)
 <div class="timeline">
+<div class="ev"><span class="yr">1945</span>: 📅 Science and war: <a href="/wiki/events/trinity-nuclear-test.html">Trinity nuclear test</a> — The first nuclear explosion</div>
+<div class="ev"><span class="yr">1945</span>: ⚙ Invention: <a href="/wiki/inventions/atomic-bomb.html">Atomic bomb</a> — Los Alamos, USA</div>
 <div class="ev"><span class="yr">1947</span>: ⚙ Invention: <a href="/wiki/inventions/transistor.html">Transistor</a> — USA</div>
+<div class="ev"><span class="yr">1947</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/area-51-and-roswell.html">Area 51 and Roswell</a> — Partly true</div>
+<div class="ev"><span class="yr">1950</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/lavender-scare.html">Lavender scare</a> — Documented fact</div>
+<div class="ev"><span class="yr">1955</span>: 👤 Born: <a href="/wiki/people/steve-jobs.html">Steve Jobs</a> — Apple, the iPhone</div>
+<div class="ev"><span class="yr">1955</span>: ⚙ Invention: <a href="/wiki/inventions/polio-vaccine.html">Polio vaccine</a> — USA</div>
+<div class="ev"><span class="yr">1956</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/cointelpro.html">COINTELPRO</a> — Documented fact</div>
+<div class="ev"><span class="yr">1958</span>: ⚙ Invention: <a href="/wiki/inventions/microchip.html">Microchip</a> — USA</div>
+<div class="ev"><span class="yr">1960</span>: ⚙ Invention: <a href="/wiki/inventions/contraceptive-pill.html">Contraceptive pill</a> — USA</div>
 <div class="ev"><span class="yr">1962</span>: 📅 Cold War: <a href="/wiki/events/cuban-missile-crisis.html">Cuban Missile Crisis</a> — Nuclear brink</div>
+<div class="ev"><span class="yr">1962</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-northwoods.html">Operation Northwoods</a> — Documented fact (proposed, rejected)</div>
+<div class="ev"><span class="yr">1963</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/jfk-assassination.html">JFK assassination</a> — Disputed</div>
 <div class="ev"><span class="yr">1969</span>: 📅 Exploration: <a href="/wiki/events/moon-landing.html">Moon landing</a> — First humans on the Moon</div>
+<div class="ev"><span class="yr">1969</span>: 📅 Invention: <a href="/wiki/events/arpanet-s-first-message.html">ARPANET&#x27;s first message</a> — Birth of the internet</div>
 <div class="ev"><span class="yr">1969</span>: ⚙ Invention: <a href="/wiki/inventions/internet.html">Internet</a> — USA, CERN</div>
+<div class="ev"><span class="yr">1972</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/watergate.html">Watergate</a> — Documented fact</div>
 <div class="ev"><span class="yr">2001</span>: 📅 Terrorism: <a href="/wiki/events/september-11-attacks.html">September 11 attacks</a> — ~3,000 killed; wars in Afghanistan and Iraq</div>
+<div class="ev"><span class="yr">2007</span>: 📅 Invention: <a href="/wiki/events/launch-of-the-iphone.html">Launch of the iPhone</a> — Smartphone revolution</div>
 <div class="ev"><span class="yr">2007</span>: ⚙ Invention: <a href="/wiki/inventions/smartphone.html">Smartphone</a> — USA</div>
 <div class="ev"><span class="yr">2018</span>: ⚙ Invention: <a href="/wiki/inventions/large-language-models.html">Large language models</a> — USA and worldwide</div>
 </div>

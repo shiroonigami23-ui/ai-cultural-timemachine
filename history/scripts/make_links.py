@@ -15,5 +15,8 @@ for p in ppl:
     for coll, ks in ((ev, ("summary", "details")), (civ, ("summary", "rise", "fall", "government", "legacy", "culture")), (dyn, ("founder", "notable", "rise", "fall")), (bel, ("founder", "summary"))):
         extra += [o["name"] for o in coll if has(blob(o, ks), p["name"])]
     p["link_text"] = " ; ".join([blob(p, ("summary", "known_for", "connections", "region"))] + extra)
-S("people", ppl); S("events", ev)
+inv, hid = L("inventions"), L("hidden_history")
+for i in inv: i["link_text"] = blob(i, ("by", "summary", "story", "controversy", "change", "where", "connections"))
+for h in hid: h["link_text"] = blob(h, ("claim", "truth", "evidence", "region"))
+S("people", ppl); S("events", ev); S("inventions", inv); S("hidden_history", hid)
 print("link_text built for", len(ppl), "people and", len(ev), "events")

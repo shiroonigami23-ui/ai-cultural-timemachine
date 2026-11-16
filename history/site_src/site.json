@@ -18,23 +18,23 @@
    "civilisations"
   ],
   [
-   "98",
-   "dynasties"
-  ],
-  [
-   "276",
+   "296",
    "turning points"
   ],
   [
-   "234",
+   "250",
    "historical figures"
   ],
   [
-   "44",
-   "manuscripts"
+   "92",
+   "inventions"
   ],
   [
-   "1,149+",
+   "38",
+   "hidden histories"
+  ],
+  [
+   "1,242+",
    "catalog entries"
   ]
  ],
@@ -70,7 +70,8 @@
     "technology-and-science",
     "manuscripts-and-texts",
     "rulers-and-dynasties",
-    "wars-plagues-and-disasters"
+    "wars-plagues-and-disasters",
+    "hidden-history-and-conspiracies"
    ]
   },
   {
@@ -532,6 +533,12 @@
      "coll": "people",
      "theirs": "link_text",
      "label": "👤 People"
+    },
+    {
+     "type": "backname",
+     "coll": "hidden_history",
+     "theirs": "link_text",
+     "label": "🔓 Hidden history"
     }
    ],
    "prompt": "Photorealistic, historically accurate reconstruction of a busy street or court in the {name} ({when}) at its height in {region}, with period clothing, architecture and daily life, cinematic, 16:9, no text"
@@ -742,6 +749,18 @@
      "coll": "people",
      "theirs": "link_text",
      "label": "👤 People involved"
+    },
+    {
+     "type": "backname",
+     "coll": "hidden_history",
+     "theirs": "link_text",
+     "label": "🔓 Hidden history"
+    },
+    {
+     "type": "backname",
+     "coll": "inventions",
+     "theirs": "link_text",
+     "label": "⚙ Inventions"
     }
    ]
   },
@@ -854,15 +873,21 @@
     },
     {
      "type": "backname",
-     "coll": "inventions",
-     "theirs": "by",
-     "label": "⚙ Inventions"
-    },
-    {
-     "type": "backname",
      "coll": "manuscripts",
      "theirs": "contents",
      "label": "📜 Manuscripts"
+    },
+    {
+     "type": "backname",
+     "coll": "hidden_history",
+     "theirs": "link_text",
+     "label": "🔓 Hidden history"
+    },
+    {
+     "type": "backname",
+     "coll": "inventions",
+     "theirs": "link_text",
+     "label": "⚙ Inventions"
     }
    ]
   },
@@ -1311,7 +1336,7 @@
    "id": "inventions",
    "icon": "⚙",
    "title": "Inventions & Discoveries",
-   "short": "Stone tools to AI",
+   "short": "From stone tools and fire to the telephone, light bulb, aeroplane, atomic bomb and AI — with the story behind each",
    "noun": "inventions",
    "file": "data/inventions.json",
    "sub_key": "when",
@@ -1332,12 +1357,28 @@
     [
      "impact",
      "Impact"
+    ],
+    [
+     "connections",
+     "Linked events"
     ]
    ],
    "texts": [
     [
      "summary",
      "Overview"
+    ],
+    [
+     "story",
+     "The story behind it"
+    ],
+    [
+     "controversy",
+     "Rivalries, disputes and hidden history"
+    ],
+    [
+     "change",
+     "How it changed the world"
     ]
    ],
    "columns": [
@@ -1362,14 +1403,26 @@
     {
      "type": "text",
      "coll": "people",
-     "mine": "by",
-     "label": "👤 Inventors"
+     "mine": "link_text",
+     "label": "👤 Inventors and people"
+    },
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "link_text",
+     "label": "📅 Related events"
     },
     {
      "type": "text",
      "coll": "civilizations",
      "mine": "where",
      "label": "🏛 Civilisation"
+    },
+    {
+     "type": "backname",
+     "coll": "hidden_history",
+     "theirs": "link_text",
+     "label": "🔓 Hidden history"
     }
    ]
   },
@@ -1550,6 +1603,99 @@
    "prompt": "Museum photograph of the {name} ({when}), {material}, {script} script, soft gallery lighting, archival detail, 16:9, no added text"
   },
   {
+   "name_key": "name",
+   "group_key": "group",
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "id": "hidden_history",
+   "icon": "🔓",
+   "title": "Hidden History & Conspiracies",
+   "short": "Cover-ups, secret programmes, forgeries and famous conspiracy theories — with an evidence-based verdict",
+   "noun": "entries",
+   "file": "data/hidden_history.json",
+   "sub_key": "verdict",
+   "desc": "History that most people never learn: documented secret programmes and cover-ups (Operation Paperclip, Unit 731, MKUltra, Tuskegee, Operation Legacy, the Gulf of Tonkin), forgeries that shaped history, and famous conspiracy theories from the Moon landing to the deaths of Subhas Chandra Bose and Lal Bahadur Shastri. Each entry separates the claim from what the evidence actually shows and gives a verdict: documented fact, partly true, disputed, or debunked.",
+   "facts": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "region",
+     "Where"
+    ],
+    [
+     "verdict",
+     "Verdict"
+    ],
+    [
+     "evidence",
+     "Key evidence"
+    ]
+   ],
+   "texts": [
+    [
+     "claim",
+     "The claim"
+    ],
+    [
+     "truth",
+     "What the evidence shows"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "verdict",
+     "Verdict"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Entries by verdict"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "link_text",
+     "label": "👤 People"
+    },
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "link_text",
+     "label": "📅 Events"
+    },
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "link_text",
+     "label": "🏛 Empires"
+    },
+    {
+     "type": "text",
+     "coll": "inventions",
+     "mine": "link_text",
+     "label": "⚙ Inventions"
+    }
+   ],
+   "prompt": "Atmospheric documentary photograph evoking {name} ({when}, {region}), archival style, dramatic light, 16:9, no text"
+  },
+  {
    "id": "papers",
    "icon": "📄",
    "title": "Research Papers",
@@ -1616,7 +1762,7 @@
      "title": "Papers by topic"
     }
    ],
-   "desc": "Landmark papers in archaeology, ancient DNA and climate history. Openly licensed ones open in the built-in PDF reader."
+   "desc": "38 landmark papers in human origins, ancient DNA, migrations, pandemics and climate history — from the Neanderthal and Denisovan genomes and Homo naledi to the origins of horses, the Bantu expansion, the peopling of Polynesia and the droughts behind the Maya collapse — each with a plain-language summary. Openly licensed ones open in the built-in PDF reader."
   }
  ],
  "tracker": [
@@ -1678,6 +1824,10 @@
   {
    "id": "india",
    "title": "India"
+  },
+  {
+   "id": "hidden_history",
+   "title": "Hidden history"
   }
  ],
  "prompt_style": "Photorealistic, historically accurate, documentary style, 16:9, no text"

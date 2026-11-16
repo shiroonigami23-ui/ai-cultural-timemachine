@@ -9,7 +9,7 @@ Human history did not move in step everywhere. Farming, cities, iron, writing an
 
 **Region timelines:** [Africa](/wiki/timelines/africa.html) · [Middle East](/wiki/timelines/middle-east.html) · [Europe](/wiki/timelines/europe.html) · [South Asia](/wiki/timelines/south-asia.html) · [Central Asia](/wiki/timelines/central-asia.html) · [East Asia](/wiki/timelines/east-asia.html) · [Southeast Asia](/wiki/timelines/southeast-asia.html) · [Americas](/wiki/timelines/americas.html) · [Oceania](/wiki/timelines/oceania.html) · [Global](/wiki/timelines/global.html)
 
-**Theme timelines:** [Religions](/wiki/timelines/religions-and-beliefs.html) · [Languages and writing](/wiki/timelines/languages-and-writing.html) · [Technology](/wiki/timelines/technology-and-science.html) · [Manuscripts](/wiki/timelines/manuscripts-and-texts.html) · [Rulers and dynasties](/wiki/timelines/rulers-and-dynasties.html) · [Wars, plagues and disasters](/wiki/timelines/wars-plagues-and-disasters.html)
+**Theme timelines:** [Religions](/wiki/timelines/religions-and-beliefs.html) · [Languages and writing](/wiki/timelines/languages-and-writing.html) · [Technology](/wiki/timelines/technology-and-science.html) · [Manuscripts](/wiki/timelines/manuscripts-and-texts.html) · [Rulers and dynasties](/wiki/timelines/rulers-and-dynasties.html) · [Wars, plagues and disasters](/wiki/timelines/wars-plagues-and-disasters.html) · [Hidden history and conspiracies](/wiki/timelines/hidden-history-and-conspiracies.html)
 
 Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writing by 3200 BCE, while much of Europe, the Americas and Africa south of the Sahara were still farming villages or hunter-gatherer lands; Australia's peoples kept a hunter-gatherer way of life for 65,000 years; and Polynesians reached New Zealand only around 1300 CE. Each branch below follows its own path.
 
@@ -123,7 +123,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (59)
+:::collapse !Bronze Age (3000–1200 BCE) (60)
 <div class="timeline">
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Climate shift: <a href="/wiki/events/end-of-the-green-sahara.html">End of the Green Sahara</a> <span class='muted'>· Africa</span> — Herders move to the Nile</div>
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Migration: <a href="/wiki/events/austronesian-expansion.html">Austronesian expansion</a> <span class='muted'>· Southeast Asia</span> — Largest ocean migration in history</div>
@@ -137,6 +137,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">2600 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/planned-drainage.html">Planned drainage</a> <span class='muted'>· Global</span> — Indus Valley</div>
 <div class="ev"><span class="yr">2560 BCE</span>: 📅 Construction: <a href="/wiki/events/great-pyramid-built.html">Great Pyramid built</a> <span class='muted'>· Africa</span> — Tallest structure for 3,800 years</div>
 <div class="ev"><span class="yr">2560 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/great-pyramid-of-giza.html">Great Pyramid of Giza</a> <span class='muted'>· Africa</span> — Pharaoh Khufu</div>
+<div class="ev"><span class="yr">2560 BCE</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/ancient-aliens-built-the-pyramids.html">Ancient aliens built the pyramids</a> <span class='muted'>· Africa</span> — Debunked</div>
 <div class="ev"><span class="yr">2500 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/mohenjo-daro.html">Mohenjo-daro</a> <span class='muted'>· South Asia</span> — Indus people</div>
 <div class="ev"><span class="yr">2500 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/glass.html">Glass</a> <span class='muted'>· Global</span> — Mesopotamia</div>
 <div class="ev"><span class="yr">2400 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/pyramid-texts.html">Pyramid Texts</a> <span class='muted'>· Middle East</span> — c. 2400–2300 BCE</div>
@@ -236,7 +237,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (132)
+:::collapse !Classical age (500 BCE–500 CE) (133)
 <div class="timeline">
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/panini.html">Panini</a> <span class='muted'>· South Asia</span> — Ashtadhyayi Sanskrit grammar</div>
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/valmiki.html">Valmiki</a> <span class='muted'>· South Asia</span> — Ramayana</div>
@@ -256,6 +257,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">384 BCE</span>: 👤 Born: <a href="/wiki/people/aristotle.html">Aristotle</a> <span class='muted'>· Europe</span> — Logic, biology, ethics</div>
 <div class="ev"><span class="yr">375 BCE</span>: 👤 Born: <a href="/wiki/people/chanakya.html">Chanakya</a> <span class='muted'>· South Asia</span> — Arthashastra</div>
 <div class="ev"><span class="yr">372 BCE</span>: 👤 Born: <a href="/wiki/people/mencius.html">Mencius</a> <span class='muted'>· East Asia</span> — Confucian thinker</div>
+<div class="ev"><span class="yr">360 BCE</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/atlantis.html">Atlantis</a> <span class='muted'>· Global</span> — Myth</div>
 <div class="ev"><span class="yr">356 BCE</span>: 👤 Born: <a href="/wiki/people/alexander-the-great.html">Alexander the Great</a> <span class='muted'>· Global</span> — Conquered from Greece to Punjab</div>
 <div class="ev"><span class="yr">350 BCE</span>: 👤 Born: <a href="/wiki/people/chandragupta-maurya.html">Chandragupta Maurya</a> <span class='muted'>· South Asia</span> — Founded the Maurya Empire</div>
 <div class="ev"><span class="yr">345 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/nanda-empire.html">Nanda Empire</a> <span class='muted'>· South Asia</span> — Mahapadma Nanda, said by Puranas to be the son of a Shudra woman, overthrew the Shishunagas and defeated many older kshatriya dynasties, ear</div>
@@ -373,7 +375,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (85)
+:::collapse !Early medieval (500–1000) (86)
 <div class="timeline">
 <div class="ev"><span class="yr">500 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/pushyabhuti-vardhana-dynasty.html">Pushyabhuti (Vardhana) dynasty</a> <span class='muted'>· South Asia</span> — The Pushyabhutis ruled Thanesar (Haryana) and rose by fighting the Hunas. Harshavardhana (r. 606–647) took over Kannauj after his sister&#x2</div>
 <div class="ev"><span class="yr">500 CE</span>: ⚙ Invention: <a href="/wiki/inventions/zero-and-decimal-place-value.html">Zero and decimal place value</a> <span class='muted'>· South Asia</span> — India</div>
@@ -431,6 +433,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">800 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/mississippian-culture.html">Mississippian culture</a> <span class='muted'>· Americas</span> — c. 800–1600 CE</div>
 <div class="ev"><span class="yr">800 CE</span>: 📅 Politics: <a href="/wiki/events/charlemagne-crowned-emperor.html">Charlemagne crowned emperor</a> <span class='muted'>· Europe</span> — Holy Roman Empire</div>
 <div class="ev"><span class="yr">800 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/borobudur.html">Borobudur</a> <span class='muted'>· Southeast Asia</span> — Sailendra dynasty</div>
+<div class="ev"><span class="yr">800 CE</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/donation-of-constantine.html">Donation of Constantine</a> <span class='muted'>· Europe</span> — Proven forgery</div>
 <div class="ev"><span class="yr">800 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/book-of-kells.html">Book of Kells</a> <span class='muted'>· Europe</span> — c. 800</div>
 <div class="ev"><span class="yr">802 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/khmer-empire.html">Khmer Empire</a> <span class='muted'>· Southeast Asia</span> — 802–1431</div>
 <div class="ev"><span class="yr">802 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/khmer-empire-angkor.html">Khmer Empire (Angkor)</a> <span class='muted'>· Southeast Asia</span> — Jayavarman II declared independence from Java and himself universal monarch in 802 at Phnom Kulen.</div>
@@ -463,7 +466,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (156)
+:::collapse !Late medieval (1000–1500) (158)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 📅 Exploration: <a href="/wiki/events/norse-reach-north-america.html">Norse reach North America</a> <span class='muted'>· Americas</span> — First European landing in the Americas</div>
 <div class="ev"><span class="yr">1000</span>: ⚙ Invention: <a href="/wiki/inventions/spinning-wheel.html">Spinning wheel</a> <span class='muted'>· South Asia</span> — India or China</div>
@@ -503,6 +506,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1187</span>: 📅 War: <a href="/wiki/events/saladin-retakes-jerusalem.html">Saladin retakes Jerusalem</a> <span class='muted'>· Middle East</span> — End of the Crusader kingdom&#x27;s core</div>
 <div class="ev"><span class="yr">1192</span>: 📅 War: <a href="/wiki/events/second-battle-of-tarain.html">Second Battle of Tarain</a> <span class='muted'>· South Asia</span> — Muhammad of Ghor defeats Prithviraj Chauhan</div>
 <div class="ev"><span class="yr">1193</span>: 📅 Destruction: <a href="/wiki/events/destruction-of-nalanda.html">Destruction of Nalanda</a> <span class='muted'>· South Asia</span> — Great Buddhist university burned</div>
+<div class="ev"><span class="yr">1193</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/nalanda-library-burned-for-months.html">Nalanda library burned for months</a> <span class='muted'>· South Asia</span> — Partly true</div>
 <div class="ev"><span class="yr">1199</span>: 🗿 Built / founded: <a href="/wiki/sites/qutub-minar.html">Qutub Minar</a> <span class='muted'>· South Asia</span> — Qutb ud-Din Aibak, Iltutmish</div>
 <div class="ev"><span class="yr">1200</span>: ⚙ Invention: <a href="/wiki/inventions/snakes-and-ladders-moksha-patam.html">Snakes and ladders (moksha patam)</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">1200</span>: 📜 Manuscript: <a href="/wiki/manuscripts/dresden-codex.html">Dresden Codex</a> <span class='muted'>· Americas</span> — 11th–12th century</div>
@@ -576,6 +580,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1399</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/kingdom-of-mysore.html">Kingdom of Mysore</a> <span class='muted'>· South Asia</span> — 1399–1950</div>
 <div class="ev"><span class="yr">1399</span>: 👑 Dynasty: <a href="/wiki/dynasties/mysore-wodeyar-and-hyder-ali.html">Mysore (Wodeyar and Hyder Ali)</a> <span class='muted'>· South Asia</span> — Hyder Ali seized power from the Wodeyars and expanded Mysore across the south.</div>
 <div class="ev"><span class="yr">1400</span>: 👑 Dynasty: <a href="/wiki/dynasties/malacca-sultanate.html">Malacca Sultanate</a> <span class='muted'>· Southeast Asia</span> — Parameswara, a prince from Palembang, founded Malacca around 1400 and gained Ming Chinese protection; Zheng He&#x27;s fleets visited. Conver</div>
+<div class="ev"><span class="yr">1400</span>: 👤 Born: <a href="/wiki/people/johannes-gutenberg.html">Johannes Gutenberg</a> <span class='muted'>· Europe</span> — Movable-type printing press</div>
 <div class="ev"><span class="yr">1405</span>: 📅 Exploration: <a href="/wiki/events/zheng-hes-voyages.html">Zheng He&#x27;s voyages</a> <span class='muted'>· East Asia</span> — Ming maritime power</div>
 <div class="ev"><span class="yr">1406</span>: 🗿 Built / founded: <a href="/wiki/sites/forbidden-city.html">Forbidden City</a> <span class='muted'>· East Asia</span> — Ming dynasty</div>
 <div class="ev"><span class="yr">1410</span>: 📅 War: <a href="/wiki/events/battle-of-grunwald.html">Battle of Grunwald</a> <span class='muted'>· Europe</span> — Teutonic Knights defeated</div>
@@ -624,7 +629,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (127)
+:::collapse Early modern (1500–1800) (131)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/tansen.html">Tansen</a> <span class='muted'>· Global</span> — Hindustani classical music</div>
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/charles-v.html">Charles V</a> <span class='muted'>· Europe</span> — Empire on which the sun never set</div>
@@ -718,8 +723,11 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1730</span>: 👤 Born: <a href="/wiki/people/velu-nachiyar.html">Velu Nachiyar</a> <span class='muted'>· Global</span> — Fought the British</div>
 <div class="ev"><span class="yr">1732</span>: 👤 Born: <a href="/wiki/people/george-washington.html">George Washington</a> <span class='muted'>· Global</span> — Led the American Revolution</div>
 <div class="ev"><span class="yr">1734</span>: 🗿 Built / founded: <a href="/wiki/sites/jantar-mantar-jaipur.html">Jantar Mantar, Jaipur</a> <span class='muted'>· South Asia</span> — Sawai Jai Singh II</div>
+<div class="ev"><span class="yr">1736</span>: 👤 Born: <a href="/wiki/people/james-watt.html">James Watt</a> <span class='muted'>· Global</span> — Improved steam engine</div>
 <div class="ev"><span class="yr">1739</span>: 📅 War: <a href="/wiki/events/nadir-shah-sacks-delhi.html">Nadir Shah sacks Delhi</a> <span class='muted'>· South Asia</span> — Peacock Throne and Koh-i-Noor taken</div>
+<div class="ev"><span class="yr">1739</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/kohinoor-s-curse-and-journey.html">Kohinoor&#x27;s curse and journey</a> <span class='muted'>· South Asia</span> — Documented journey (curse is myth)</div>
 <div class="ev"><span class="yr">1743</span>: 👤 Born: <a href="/wiki/people/toussaint-louverture.html">Toussaint Louverture</a> <span class='muted'>· Global</span> — Led the Haitian Revolution</div>
+<div class="ev"><span class="yr">1749</span>: 👤 Born: <a href="/wiki/people/edward-jenner.html">Edward Jenner</a> <span class='muted'>· Europe</span> — Smallpox vaccine</div>
 <div class="ev"><span class="yr">1751</span>: 👤 Born: <a href="/wiki/people/tipu-sultan.html">Tipu Sultan</a> <span class='muted'>· Global</span> — Resisted the British; rockets</div>
 <div class="ev"><span class="yr">1756</span>: 📅 World war: <a href="/wiki/events/seven-years-war.html">Seven Years&#x27; War</a> <span class='muted'>· Global</span> — Britain dominates India and North America</div>
 <div class="ev"><span class="yr">1756</span>: 📅 War: <a href="/wiki/events/black-hole-of-calcutta.html">Black Hole of Calcutta</a> <span class='muted'>· South Asia</span> — Pretext for Plassey</div>
@@ -728,6 +736,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1757</span>: 📅 War: <a href="/wiki/events/battle-of-plassey.html">Battle of Plassey</a> <span class='muted'>· South Asia</span> — East India Company takes Bengal</div>
 <div class="ev"><span class="yr">1758</span>: 👤 Born: <a href="/wiki/people/maximilien-robespierre.html">Maximilien Robespierre</a> <span class='muted'>· Europe</span> — Reign of Terror</div>
 <div class="ev"><span class="yr">1761</span>: 📅 War: <a href="/wiki/events/third-battle-of-panipat.html">Third Battle of Panipat</a> <span class='muted'>· South Asia</span> — Marathas defeated by Ahmad Shah Durrani</div>
+<div class="ev"><span class="yr">1763</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/smallpox-blankets.html">Smallpox blankets</a> <span class='muted'>· Americas</span> — Partly true</div>
 <div class="ev"><span class="yr">1764</span>: 📅 War: <a href="/wiki/events/battle-of-buxar.html">Battle of Buxar</a> <span class='muted'>· South Asia</span> — Company gains diwani of Bengal</div>
 <div class="ev"><span class="yr">1765</span>: 📅 Colonialism: <a href="/wiki/events/treaty-of-allahabad.html">Treaty of Allahabad</a> <span class='muted'>· South Asia</span> — Company gains diwani</div>
 <div class="ev"><span class="yr">1767</span>: 📅 War: <a href="/wiki/events/first-anglo-mysore-war-to-fourth.html">First Anglo-Mysore War to Fourth</a> <span class='muted'>· South Asia</span> — Britain conquers Mysore</div>
@@ -756,12 +765,13 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (147)
+:::collapse Industrial and imperial age (1800–1945) (185)
 <div class="timeline">
 <div class="ev"><span class="yr">1800</span>: ⚙ Invention: <a href="/wiki/inventions/electric-battery.html">Electric battery</a> <span class='muted'>· Europe</span> — Italy</div>
 <div class="ev"><span class="yr">1802</span>: 👤 Born: <a href="/wiki/people/victor-hugo.html">Victor Hugo</a> <span class='muted'>· Europe</span> — Les Misérables</div>
 <div class="ev"><span class="yr">1803</span>: 📅 War: <a href="/wiki/events/napoleonic-wars.html">Napoleonic Wars</a> <span class='muted'>· Europe</span> — Redrew Europe; ended at Waterloo</div>
 <div class="ev"><span class="yr">1807</span>: 👤 Born: <a href="/wiki/people/giuseppe-garibaldi.html">Giuseppe Garibaldi</a> <span class='muted'>· Europe</span> — Italian unification</div>
+<div class="ev"><span class="yr">1808</span>: 👤 Born: <a href="/wiki/people/antonio-meucci.html">Antonio Meucci</a> <span class='muted'>· Europe</span> — Early voice-transmission device</div>
 <div class="ev"><span class="yr">1809</span>: 👤 Born: <a href="/wiki/people/charles-darwin.html">Charles Darwin</a> <span class='muted'>· Europe</span> — Evolution by natural selection</div>
 <div class="ev"><span class="yr">1809</span>: 👤 Born: <a href="/wiki/people/abraham-lincoln.html">Abraham Lincoln</a> <span class='muted'>· Global</span> — Ended slavery, preserved the Union</div>
 <div class="ev"><span class="yr">1810</span>: 📅 Independence: <a href="/wiki/events/latin-american-independence.html">Latin American independence</a> <span class='muted'>· Americas</span> — New republics</div>
@@ -794,6 +804,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1845</span>: 📅 Famine: <a href="/wiki/events/irish-great-famine.html">Irish Great Famine</a> <span class='muted'>· Europe</span> — ~1 million dead, 1 million emigrated</div>
 <div class="ev"><span class="yr">1846</span>: ⚙ Invention: <a href="/wiki/inventions/anaesthesia.html">Anaesthesia</a> <span class='muted'>· Americas</span> — USA</div>
 <div class="ev"><span class="yr">1847</span>: 👤 Born: <a href="/wiki/people/thomas-edison.html">Thomas Edison</a> <span class='muted'>· Global</span> — Light bulb, phonograph</div>
+<div class="ev"><span class="yr">1847</span>: 👤 Born: <a href="/wiki/people/alexander-graham-bell.html">Alexander Graham Bell</a> <span class='muted'>· Americas</span> — The telephone</div>
 <div class="ev"><span class="yr">1848</span>: 📅 Revolution: <a href="/wiki/events/revolutions-of-1848.html">Revolutions of 1848</a> <span class='muted'>· Europe</span> — Spread of liberalism</div>
 <div class="ev"><span class="yr">1848</span>: 👤 Born: <a href="/wiki/people/raja-ravi-varma.html">Raja Ravi Varma</a> <span class='muted'>· Global</span> — Paintings of Hindu deities and epics</div>
 <div class="ev"><span class="yr">1850</span>: 📅 Civil war: <a href="/wiki/events/taiping-rebellion.html">Taiping Rebellion</a> <span class='muted'>· East Asia</span> — 20–30 million dead</div>
@@ -809,9 +820,11 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1861</span>: 👤 Born: <a href="/wiki/people/rabindranath-tagore.html">Rabindranath Tagore</a> <span class='muted'>· South Asia</span> — Gitanjali, Nobel 1913; national anthems</div>
 <div class="ev"><span class="yr">1861</span>: ⚙ Invention: <a href="/wiki/inventions/germ-theory.html">Germ theory</a> <span class='muted'>· Europe</span> — France; Germany</div>
 <div class="ev"><span class="yr">1863</span>: 👤 Born: <a href="/wiki/people/swami-vivekananda.html">Swami Vivekananda</a> <span class='muted'>· South Asia</span> — Chicago speech (1893)</div>
+<div class="ev"><span class="yr">1863</span>: 👤 Born: <a href="/wiki/people/henry-ford.html">Henry Ford</a> <span class='muted'>· Americas</span> — Mass-produced cars</div>
 <div class="ev"><span class="yr">1864</span>: 👤 Born: <a href="/wiki/people/reginald-dyer.html">Reginald Dyer</a> <span class='muted'>· Global</span> — Jallianwala Bagh massacre</div>
 <div class="ev"><span class="yr">1866</span>: 👤 Born: <a href="/wiki/people/sun-yat-sen.html">Sun Yat-sen</a> <span class='muted'>· East Asia</span> — Father of the Republic of China</div>
 <div class="ev"><span class="yr">1867</span>: 👤 Born: <a href="/wiki/people/marie-curie.html">Marie Curie</a> <span class='muted'>· Europe</span> — Radioactivity</div>
+<div class="ev"><span class="yr">1867</span>: 👤 Born: <a href="/wiki/people/wright-brothers.html">Wright brothers</a> <span class='muted'>· Americas</span> — First controlled powered aeroplane</div>
 <div class="ev"><span class="yr">1868</span>: 📅 Politics: <a href="/wiki/events/meiji-restoration.html">Meiji Restoration</a> <span class='muted'>· East Asia</span> — Rapid modernisation</div>
 <div class="ev"><span class="yr">1869</span>: 📅 Construction: <a href="/wiki/events/suez-canal-opens.html">Suez Canal opens</a> <span class='muted'>· Africa</span> — Shorter route to India</div>
 <div class="ev"><span class="yr">1869</span>: 👤 Born: <a href="/wiki/people/mahatma-gandhi.html">Mahatma Gandhi</a> <span class='muted'>· South Asia</span> — Satyagraha, non-violence, Salt March</div>
@@ -819,13 +832,17 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1870</span>: 👤 Born: <a href="/wiki/people/dadasaheb-phalke.html">Dadasaheb Phalke</a> <span class='muted'>· Global</span> — Raja Harishchandra (1913), father of Indian cinema</div>
 <div class="ev"><span class="yr">1870</span>: 👤 Born: <a href="/wiki/people/vladimir-lenin.html">Vladimir Lenin</a> <span class='muted'>· Europe</span> — Bolshevik Revolution</div>
 <div class="ev"><span class="yr">1871</span>: 📅 Politics: <a href="/wiki/events/german-unification.html">German unification</a> <span class='muted'>· Europe</span> — New great power</div>
+<div class="ev"><span class="yr">1871</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/meucci-invented-the-telephone.html">Meucci invented the telephone</a> <span class='muted'>· Americas</span> — Partly true</div>
 <div class="ev"><span class="yr">1874</span>: 👤 Born: <a href="/wiki/people/winston-churchill.html">Winston Churchill</a> <span class='muted'>· Europe</span> — WWII leadership</div>
+<div class="ev"><span class="yr">1874</span>: 👤 Born: <a href="/wiki/people/guglielmo-marconi.html">Guglielmo Marconi</a> <span class='muted'>· Europe</span> — Radio telegraphy</div>
 <div class="ev"><span class="yr">1875</span>: 👤 Born: <a href="/wiki/people/sardar-vallabhbhai-patel.html">Sardar Vallabhbhai Patel</a> <span class='muted'>· South Asia</span> — Integrated 560+ princely states</div>
 <div class="ev"><span class="yr">1875</span>: 👤 Born: <a href="/wiki/people/birsa-munda.html">Birsa Munda</a> <span class='muted'>· Global</span> — Ulgulan rebellion for tribal land rights</div>
 <div class="ev"><span class="yr">1876</span>: 📅 Famine: <a href="/wiki/events/great-famine-of-1876-78.html">Great Famine of 1876–78</a> <span class='muted'>· South Asia</span> — 5.5–10 million dead</div>
+<div class="ev"><span class="yr">1876</span>: 📅 Invention: <a href="/wiki/events/first-telephone-call.html">First telephone call</a> <span class='muted'>· Americas</span> — Birth of telecommunications</div>
 <div class="ev"><span class="yr">1876</span>: ⚙ Invention: <a href="/wiki/inventions/telephone.html">Telephone</a> <span class='muted'>· Americas</span> — USA</div>
 <div class="ev"><span class="yr">1877</span>: 👤 Born: <a href="/wiki/people/allama-iqbal.html">Allama Iqbal</a> <span class='muted'>· Global</span> — Saare Jahan Se Achha; idea of Pakistan</div>
 <div class="ev"><span class="yr">1878</span>: 👤 Born: <a href="/wiki/people/joseph-stalin.html">Joseph Stalin</a> <span class='muted'>· Global</span> — Industrialisation, purges, WWII victory</div>
+<div class="ev"><span class="yr">1878</span>: 👤 Born: <a href="/wiki/people/lise-meitner.html">Lise Meitner</a> <span class='muted'>· Europe</span> — Explained nuclear fission</div>
 <div class="ev"><span class="yr">1879</span>: 👤 Born: <a href="/wiki/people/sarojini-naidu.html">Sarojini Naidu</a> <span class='muted'>· South Asia</span> — First woman governor in India</div>
 <div class="ev"><span class="yr">1879</span>: 👤 Born: <a href="/wiki/people/albert-einstein.html">Albert Einstein</a> <span class='muted'>· Europe</span> — Relativity</div>
 <div class="ev"><span class="yr">1879</span>: ⚙ Invention: <a href="/wiki/inventions/light-bulb.html">Light bulb</a> <span class='muted'>· Europe</span> — USA / Britain</div>
@@ -834,16 +851,20 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/lu-xun.html">Lu Xun</a> <span class='muted'>· East Asia</span> — The True Story of Ah Q</div>
 <div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/pablo-picasso.html">Pablo Picasso</a> <span class='muted'>· Europe</span> — Cubism, Guernica</div>
 <div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/mustafa-kemal-atat-rk.html">Mustafa Kemal Atatürk</a> <span class='muted'>· Middle East</span> — Turkish Republic</div>
+<div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/alexander-fleming.html">Alexander Fleming</a> <span class='muted'>· Global</span> — Discovery of penicillin</div>
+<div class="ev"><span class="yr">1882</span>: 📅 Invention: <a href="/wiki/events/edison-s-light-and-pearl-street-station.html">Edison&#x27;s light and Pearl Street station</a> <span class='muted'>· Americas</span> — Start of electric utilities</div>
 <div class="ev"><span class="yr">1882</span>: 👤 Born: <a href="/wiki/people/franklin-d-roosevelt.html">Franklin D. Roosevelt</a> <span class='muted'>· Americas</span> — New Deal, WWII</div>
 <div class="ev"><span class="yr">1882</span>: 👤 Born: <a href="/wiki/people/subramania-bharati.html">Subramania Bharati</a> <span class='muted'>· Global</span> — Modern Tamil poetry, women&#x27;s rights</div>
 <div class="ev"><span class="yr">1883</span>: 📅 Volcanic eruption: <a href="/wiki/events/krakatoa-eruption.html">Krakatoa eruption</a> <span class='muted'>· Southeast Asia</span> — ~36,000 deaths, global sunsets</div>
 <div class="ev"><span class="yr">1883</span>: 👤 Born: <a href="/wiki/people/benito-mussolini.html">Benito Mussolini</a> <span class='muted'>· Europe</span> — Fascism</div>
 <div class="ev"><span class="yr">1884</span>: 📅 Colonialism: <a href="/wiki/events/berlin-conference.html">Berlin Conference</a> <span class='muted'>· Africa</span> — Partition of Africa</div>
+<div class="ev"><span class="yr">1884</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/edison-stole-tesla-s-inventions.html">Edison stole Tesla&#x27;s inventions</a> <span class='muted'>· Americas</span> — Mostly myth</div>
 <div class="ev"><span class="yr">1885</span>: 📅 Political: <a href="/wiki/events/founding-of-the-indian-national-congress.html">Founding of the Indian National Congress</a> <span class='muted'>· South Asia</span> — Organised Indian nationalism</div>
 <div class="ev"><span class="yr">1885</span>: 📅 Colonial atrocity: <a href="/wiki/events/partition-of-africa-and-the-congo-free-state.html">Partition of Africa and the Congo Free State</a> <span class='muted'>· Africa</span> — Millions died</div>
 <div class="ev"><span class="yr">1886</span>: ⚙ Invention: <a href="/wiki/inventions/automobile.html">Automobile</a> <span class='muted'>· Europe</span> — Germany</div>
 <div class="ev"><span class="yr">1887</span>: 👤 Born: <a href="/wiki/people/srinivasa-ramanujan.html">Srinivasa Ramanujan</a> <span class='muted'>· South Asia</span> — Infinite series, partitions</div>
 <div class="ev"><span class="yr">1888</span>: 👤 Born: <a href="/wiki/people/c-v-raman.html">C. V. Raman</a> <span class='muted'>· South Asia</span> — Raman effect, Nobel 1930</div>
+<div class="ev"><span class="yr">1888</span>: ⚙ Invention: <a href="/wiki/inventions/alternating-current-power-grid.html">Alternating current power grid</a> <span class='muted'>· Americas</span> — USA</div>
 <div class="ev"><span class="yr">1889</span>: 👤 Born: <a href="/wiki/people/jawaharlal-nehru.html">Jawaharlal Nehru</a> <span class='muted'>· South Asia</span> — Built modern India&#x27;s institutions</div>
 <div class="ev"><span class="yr">1889</span>: 👤 Born: <a href="/wiki/people/adolf-hitler.html">Adolf Hitler</a> <span class='muted'>· Europe</span> — Started WWII; perpetrated the Holocaust</div>
 <div class="ev"><span class="yr">1889</span>: 👤 Born: <a href="/wiki/people/charlie-chaplin.html">Charlie Chaplin</a> <span class='muted'>· Europe</span> — The Tramp; The Great Dictator</div>
@@ -852,40 +873,57 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1892</span>: 👤 Born: <a href="/wiki/people/haile-selassie.html">Haile Selassie</a> <span class='muted'>· Africa</span> — Resisted Italy</div>
 <div class="ev"><span class="yr">1893</span>: 👤 Born: <a href="/wiki/people/mao-zedong.html">Mao Zedong</a> <span class='muted'>· East Asia</span> — Founded the PRC</div>
 <div class="ev"><span class="yr">1894</span>: 📅 Pandemic: <a href="/wiki/events/third-plague-pandemic.html">Third plague pandemic</a> <span class='muted'>· Global</span> — ~12 million dead in India</div>
+<div class="ev"><span class="yr">1895</span>: 📅 Invention: <a href="/wiki/events/niagara-falls-power-plant.html">Niagara Falls power plant</a> <span class='muted'>· Americas</span> — Victory of alternating current</div>
+<div class="ev"><span class="yr">1895</span>: 📅 Cultural change: <a href="/wiki/events/lumi-re-brothers-first-film-screening.html">Lumière brothers&#x27; first film screening</a> <span class='muted'>· Europe</span> — Birth of cinema</div>
 <div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/radio.html">Radio</a> <span class='muted'>· South Asia</span> — Italy / India</div>
 <div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/wireless-crescograph-and-microwaves.html">Wireless (crescograph and microwaves)</a> <span class='muted'>· South Asia</span> — India</div>
+<div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/cinema.html">Cinema</a> <span class='muted'>· Europe</span> — Paris, France</div>
+<div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/x-rays.html">X-rays</a> <span class='muted'>· Europe</span> — Würzburg, Germany</div>
 <div class="ev"><span class="yr">1896</span>: 📅 War: <a href="/wiki/events/battle-of-adwa.html">Battle of Adwa</a> <span class='muted'>· Africa</span> — Ethiopia stays independent</div>
 <div class="ev"><span class="yr">1897</span>: 👤 Born: <a href="/wiki/people/subhas-chandra-bose.html">Subhas Chandra Bose</a> <span class='muted'>· South Asia</span> — Indian National Army</div>
+<div class="ev"><span class="yr">1901</span>: 📅 Invention: <a href="/wiki/events/marconi-s-transatlantic-radio-signal.html">Marconi&#x27;s transatlantic radio signal</a> <span class='muted'>· Global</span> — Wireless communication across oceans</div>
+<div class="ev"><span class="yr">1901</span>: 👤 Born: <a href="/wiki/people/enrico-fermi.html">Enrico Fermi</a> <span class='muted'>· Europe</span> — First nuclear reactor</div>
 <div class="ev"><span class="yr">1903</span>: 📅 Technology: <a href="/wiki/events/wright-brothers-flight.html">Wright brothers&#x27; flight</a> <span class='muted'>· Americas</span> — Powered flight</div>
 <div class="ev"><span class="yr">1903</span>: ⚙ Invention: <a href="/wiki/inventions/aeroplane.html">Aeroplane</a> <span class='muted'>· Americas</span> — USA</div>
+<div class="ev"><span class="yr">1903</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/protocols-of-the-elders-of-zion.html">Protocols of the Elders of Zion</a> <span class='muted'>· Europe</span> — Proven forgery</div>
 <div class="ev"><span class="yr">1904</span>: 📅 War: <a href="/wiki/events/russo-japanese-war.html">Russo-Japanese War</a> <span class='muted'>· East Asia</span> — First Asian victory over a European power</div>
 <div class="ev"><span class="yr">1904</span>: 👤 Born: <a href="/wiki/people/lal-bahadur-shastri.html">Lal Bahadur Shastri</a> <span class='muted'>· South Asia</span> — Jai Jawan Jai Kisan</div>
+<div class="ev"><span class="yr">1904</span>: 👤 Born: <a href="/wiki/people/j-robert-oppenheimer.html">J. Robert Oppenheimer</a> <span class='muted'>· Americas</span> — Director of Los Alamos; &#x27;father of the atomic bomb&#x27;</div>
 <div class="ev"><span class="yr">1905</span>: 📅 Political: <a href="/wiki/events/partition-of-bengal.html">Partition of Bengal</a> <span class='muted'>· South Asia</span> — Swadeshi movement</div>
 <div class="ev"><span class="yr">1907</span>: 👤 Born: <a href="/wiki/people/bhagat-singh.html">Bhagat Singh</a> <span class='muted'>· South Asia</span> — Martyr at 23</div>
 <div class="ev"><span class="yr">1909</span>: 👤 Born: <a href="/wiki/people/homi-j-bhabha.html">Homi J. Bhabha</a> <span class='muted'>· South Asia</span> — Father of India&#x27;s nuclear programme</div>
 <div class="ev"><span class="yr">1909</span>: 👤 Born: <a href="/wiki/people/kwame-nkrumah.html">Kwame Nkrumah</a> <span class='muted'>· Africa</span> — Ghana&#x27;s independence</div>
 <div class="ev"><span class="yr">1911</span>: 📅 Revolution: <a href="/wiki/events/xinhai-revolution.html">Xinhai Revolution</a> <span class='muted'>· East Asia</span> — End of imperial China</div>
 <div class="ev"><span class="yr">1912</span>: 👤 Born: <a href="/wiki/people/alan-turing.html">Alan Turing</a> <span class='muted'>· Europe</span> — Turing machine, Enigma codebreaking</div>
+<div class="ev"><span class="yr">1912</span>: 👤 Born: <a href="/wiki/people/wernher-von-braun.html">Wernher von Braun</a> <span class='muted'>· Europe</span> — V-2 and Saturn V</div>
+<div class="ev"><span class="yr">1912</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/piltdown-man.html">Piltdown Man</a> <span class='muted'>· Europe</span> — Proven hoax</div>
+<div class="ev"><span class="yr">1912</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/titanic-insurance-switch.html">Titanic insurance switch</a> <span class='muted'>· Global</span> — Debunked</div>
 <div class="ev"><span class="yr">1913</span>: 👤 Born: <a href="/wiki/people/rosa-parks.html">Rosa Parks</a> <span class='muted'>· Global</span> — Montgomery bus boycott</div>
 <div class="ev"><span class="yr">1914</span>: 📅 World war: <a href="/wiki/events/world-war-i.html">World War I</a> <span class='muted'>· Global</span> — ~20 million dead; empires collapse</div>
 <div class="ev"><span class="yr">1915</span>: 📅 Genocide: <a href="/wiki/events/armenian-genocide.html">Armenian genocide</a> <span class='muted'>· Middle East</span> — About 1 million Armenians killed</div>
 <div class="ev"><span class="yr">1917</span>: 📅 Revolution: <a href="/wiki/events/russian-revolution.html">Russian Revolution</a> <span class='muted'>· Europe</span> — First communist state</div>
 <div class="ev"><span class="yr">1917</span>: 📅 Freedom struggle: <a href="/wiki/events/champaran-satyagraha.html">Champaran Satyagraha</a> <span class='muted'>· South Asia</span> — Gandhi&#x27;s first Indian movement</div>
 <div class="ev"><span class="yr">1917</span>: 👤 Born: <a href="/wiki/people/indira-gandhi.html">Indira Gandhi</a> <span class='muted'>· South Asia</span> — Bangladesh war, Emergency</div>
+<div class="ev"><span class="yr">1917</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/radium-girls.html">Radium Girls</a> <span class='muted'>· Americas</span> — Documented fact</div>
 <div class="ev"><span class="yr">1918</span>: 📅 Influenza pandemic: <a href="/wiki/events/spanish-flu.html">Spanish flu</a> <span class='muted'>· Global</span> — ~50 million dead; ~12–17 million in India</div>
 <div class="ev"><span class="yr">1918</span>: 👤 Born: <a href="/wiki/people/nelson-mandela.html">Nelson Mandela</a> <span class='muted'>· Africa</span> — Ended apartheid</div>
 <div class="ev"><span class="yr">1919</span>: 📅 Massacre: <a href="/wiki/events/jallianwala-bagh-massacre.html">Jallianwala Bagh massacre</a> <span class='muted'>· South Asia</span> — Hundreds killed by British troops</div>
 <div class="ev"><span class="yr">1919</span>: 👤 Born: <a href="/wiki/people/vikram-sarabhai.html">Vikram Sarabhai</a> <span class='muted'>· South Asia</span> — Father of the Indian space programme</div>
 <div class="ev"><span class="yr">1920</span>: 📅 Freedom struggle: <a href="/wiki/events/non-cooperation-movement.html">Non-Cooperation Movement</a> <span class='muted'>· South Asia</span> — Mass boycott of British institutions</div>
+<div class="ev"><span class="yr">1920</span>: 👤 Born: <a href="/wiki/people/rosalind-franklin.html">Rosalind Franklin</a> <span class='muted'>· Europe</span> — X-ray images of DNA</div>
 <div class="ev"><span class="yr">1921</span>: 👤 Born: <a href="/wiki/people/satyajit-ray.html">Satyajit Ray</a> <span class='muted'>· Global</span> — Apu Trilogy</div>
 <div class="ev"><span class="yr">1922</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/soviet-union.html">Soviet Union</a> <span class='muted'>· Europe</span> — 1922–1991</div>
 <div class="ev"><span class="yr">1923</span>: 📅 Politics: <a href="/wiki/events/turkish-republic-founded.html">Turkish Republic founded</a> <span class='muted'>· Middle East</span> — End of Ottoman rule</div>
+<div class="ev"><span class="yr">1923</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/leaded-petrol-cover-up.html">Leaded petrol cover-up</a> <span class='muted'>· Global</span> — Documented fact</div>
 <div class="ev"><span class="yr">1925</span>: 👤 Born: <a href="/wiki/people/pol-pot.html">Pol Pot</a> <span class='muted'>· Southeast Asia</span> — Cambodian genocide</div>
 <div class="ev"><span class="yr">1925</span>: 👤 Born: <a href="/wiki/people/idi-amin.html">Idi Amin</a> <span class='muted'>· Global</span> — Expelled Asians</div>
 <div class="ev"><span class="yr">1926</span>: 👤 Born: <a href="/wiki/people/marilyn-monroe.html">Marilyn Monroe</a> <span class='muted'>· Global</span> — Some Like It Hot, pop-culture icon</div>
 <div class="ev"><span class="yr">1926</span>: 👤 Born: <a href="/wiki/people/fidel-castro.html">Fidel Castro</a> <span class='muted'>· Americas</span> — Cuban Revolution</div>
+<div class="ev"><span class="yr">1926</span>: ⚙ Invention: <a href="/wiki/inventions/space-rocket.html">Space rocket</a> <span class='muted'>· Europe</span> — USA, Germany, USSR</div>
 <div class="ev"><span class="yr">1927</span>: 📅 Civil war: <a href="/wiki/events/chinese-civil-war.html">Chinese Civil War</a> <span class='muted'>· East Asia</span> — Communist victory</div>
 <div class="ev"><span class="yr">1927</span>: 👤 Born: <a href="/wiki/people/gabriel-garc-a-m-rquez.html">Gabriel García Márquez</a> <span class='muted'>· Global</span> — One Hundred Years of Solitude</div>
+<div class="ev"><span class="yr">1927</span>: ⚙ Invention: <a href="/wiki/inventions/television.html">Television</a> <span class='muted'>· Europe</span> — Britain and USA</div>
+<div class="ev"><span class="yr">1928</span>: 📅 Discovery: <a href="/wiki/events/discovery-of-penicillin.html">Discovery of penicillin</a> <span class='muted'>· Europe</span> — Start of the antibiotic age</div>
 <div class="ev"><span class="yr">1928</span>: 👤 Born: <a href="/wiki/people/che-guevara.html">Che Guevara</a> <span class='muted'>· Americas</span> — Cuban Revolution</div>
 <div class="ev"><span class="yr">1928</span>: ⚙ Invention: <a href="/wiki/inventions/antibiotics.html">Antibiotics</a> <span class='muted'>· Europe</span> — Britain</div>
 <div class="ev"><span class="yr">1929</span>: 📅 Economic crisis: <a href="/wiki/events/great-depression.html">Great Depression</a> <span class='muted'>· Global</span> — Mass unemployment</div>
@@ -895,48 +933,89 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1930</span>: 👤 Born: <a href="/wiki/people/chinua-achebe.html">Chinua Achebe</a> <span class='muted'>· Africa</span> — Things Fall Apart</div>
 <div class="ev"><span class="yr">1931</span>: 👤 Born: <a href="/wiki/people/a-p-j-abdul-kalam.html">A. P. J. Abdul Kalam</a> <span class='muted'>· South Asia</span> — Missile programme</div>
 <div class="ev"><span class="yr">1932</span>: 📅 Famine: <a href="/wiki/events/holodomor.html">Holodomor</a> <span class='muted'>· Europe</span> — Millions died</div>
+<div class="ev"><span class="yr">1932</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tuskegee-syphilis-study.html">Tuskegee syphilis study</a> <span class='muted'>· Americas</span> — Documented fact</div>
+<div class="ev"><span class="yr">1933</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/holodomor-cover-up.html">Holodomor cover-up</a> <span class='muted'>· Europe</span> — Documented fact</div>
+<div class="ev"><span class="yr">1933</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/reichstag-fire.html">Reichstag fire</a> <span class='muted'>· Europe</span> — Disputed</div>
 <div class="ev"><span class="yr">1935</span>: 👤 Born: <a href="/wiki/people/elvis-presley.html">Elvis Presley</a> <span class='muted'>· Global</span> — King of Rock and Roll</div>
+<div class="ev"><span class="yr">1935</span>: ⚙ Invention: <a href="/wiki/inventions/radar.html">Radar</a> <span class='muted'>· Europe</span> — Britain</div>
 <div class="ev"><span class="yr">1936</span>: 📅 Civil war: <a href="/wiki/events/spanish-civil-war.html">Spanish Civil War</a> <span class='muted'>· Europe</span> — Franco&#x27;s dictatorship</div>
+<div class="ev"><span class="yr">1936</span>: 📅 Cultural change: <a href="/wiki/events/first-television-broadcasts.html">First television broadcasts</a> <span class='muted'>· Europe</span> — Mass broadcasting</div>
+<div class="ev"><span class="yr">1936</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/unit-731-and-the-us-cover-up.html">Unit 731 and the US cover-up</a> <span class='muted'>· East Asia</span> — Documented fact</div>
 <div class="ev"><span class="yr">1939</span>: 📅 World war: <a href="/wiki/events/world-war-ii.html">World War II</a> <span class='muted'>· Global</span> — 70–85 million dead, the deadliest war</div>
 <div class="ev"><span class="yr">1941</span>: 📅 Genocide: <a href="/wiki/events/the-holocaust.html">The Holocaust</a> <span class='muted'>· Europe</span> — ~6 million Jews murdered</div>
 <div class="ev"><span class="yr">1942</span>: 📅 Freedom struggle: <a href="/wiki/events/quit-india-movement.html">Quit India Movement</a> <span class='muted'>· South Asia</span> — &#x27;Do or die&#x27;</div>
 <div class="ev"><span class="yr">1942</span>: 📅 War: <a href="/wiki/events/battle-of-stalingrad.html">Battle of Stalingrad</a> <span class='muted'>· Europe</span> — Turning point of WWII</div>
+<div class="ev"><span class="yr">1942</span>: 📅 Science and war: <a href="/wiki/events/manhattan-project-begins.html">Manhattan Project begins</a> <span class='muted'>· Americas</span> — Race for the atomic bomb</div>
 <div class="ev"><span class="yr">1942</span>: 👤 Born: <a href="/wiki/people/stephen-hawking.html">Stephen Hawking</a> <span class='muted'>· Europe</span> — Black holes, A Brief History of Time</div>
 <div class="ev"><span class="yr">1942</span>: ⚙ Invention: <a href="/wiki/inventions/nuclear-energy.html">Nuclear energy</a> <span class='muted'>· Americas</span> — USA</div>
 <div class="ev"><span class="yr">1943</span>: 📅 Famine: <a href="/wiki/events/bengal-famine-of-1943.html">Bengal famine of 1943</a> <span class='muted'>· South Asia</span> — ~2–3 million dead</div>
+<div class="ev"><span class="yr">1943</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/churchill-and-the-bengal-famine.html">Churchill and the Bengal famine</a> <span class='muted'>· South Asia</span> — Disputed and debated</div>
+<div class="ev"><span class="yr">1943</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tesla-s-seized-papers.html">Tesla&#x27;s seized papers</a> <span class='muted'>· Americas</span> — Documented fact (myth exaggerated)</div>
 <div class="ev"><span class="yr">1944</span>: 📅 War: <a href="/wiki/events/battles-of-imphal-and-kohima.html">Battles of Imphal and Kohima</a> <span class='muted'>· South Asia</span> — Japan&#x27;s invasion of India stopped</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (45)
+:::collapse Contemporary (1945–today) (83)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 War: <a href="/wiki/events/atomic-bombings-of-hiroshima-and-nagasaki.html">Atomic bombings of Hiroshima and Nagasaki</a> <span class='muted'>· East Asia</span> — ~110,000–210,000 dead</div>
 <div class="ev"><span class="yr">1945</span>: 📅 Independence: <a href="/wiki/events/decolonisation-of-africa-and-asia.html">Decolonisation of Africa and Asia</a> <span class='muted'>· South Asia</span> — Dozens of new nations</div>
 <div class="ev"><span class="yr">1945</span>: 📅 Politics: <a href="/wiki/events/united-nations-founded.html">United Nations founded</a> <span class='muted'>· Global</span> — Postwar order</div>
 <div class="ev"><span class="yr">1945</span>: 📅 Independence: <a href="/wiki/events/indonesian-independence.html">Indonesian independence</a> <span class='muted'>· Southeast Asia</span> — End of Dutch rule</div>
+<div class="ev"><span class="yr">1945</span>: 📅 Science and war: <a href="/wiki/events/trinity-nuclear-test.html">Trinity nuclear test</a> <span class='muted'>· Americas</span> — The first nuclear explosion</div>
 <div class="ev"><span class="yr">1945</span>: ⚙ Invention: <a href="/wiki/inventions/computer.html">Computer</a> <span class='muted'>· Europe</span> — USA / Britain</div>
+<div class="ev"><span class="yr">1945</span>: ⚙ Invention: <a href="/wiki/inventions/atomic-bomb.html">Atomic bomb</a> <span class='muted'>· Americas</span> — Los Alamos, USA</div>
+<div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-paperclip.html">Operation Paperclip</a> <span class='muted'>· Global</span> — Documented fact</div>
+<div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/death-of-subhas-chandra-bose.html">Death of Subhas Chandra Bose</a> <span class='muted'>· South Asia</span> — Unresolved</div>
+<div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/hiroshima-bombing-was-unnecessary.html">Hiroshima bombing was unnecessary</a> <span class='muted'>· East Asia</span> — Disputed</div>
 <div class="ev"><span class="yr">1947</span>: 📅 Independence: <a href="/wiki/events/indian-independence-and-partition.html">Indian Independence and Partition</a> <span class='muted'>· South Asia</span> — India and Pakistan created; ~15 million displaced, up to ~2 million killed</div>
 <div class="ev"><span class="yr">1947</span>: ⚙ Invention: <a href="/wiki/inventions/transistor.html">Transistor</a> <span class='muted'>· Americas</span> — USA</div>
+<div class="ev"><span class="yr">1947</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/area-51-and-roswell.html">Area 51 and Roswell</a> <span class='muted'>· Americas</span> — Partly true</div>
 <div class="ev"><span class="yr">1948</span>: 📅 Politics: <a href="/wiki/events/creation-of-israel-and-the-nakba.html">Creation of Israel and the Nakba</a> <span class='muted'>· Middle East</span> — Displacement of ~700,000 Palestinians</div>
 <div class="ev"><span class="yr">1948</span>: 📅 Politics: <a href="/wiki/events/assassination-of-gandhi.html">Assassination of Gandhi</a> <span class='muted'>· South Asia</span> — Nation in mourning</div>
+<div class="ev"><span class="yr">1948</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/gandhi-s-assassination-plot-warnings.html">Gandhi&#x27;s assassination plot warnings</a> <span class='muted'>· South Asia</span> — Documented fact</div>
 <div class="ev"><span class="yr">1949</span>: 📅 Revolution: <a href="/wiki/events/chinese-revolution.html">Chinese Revolution</a> <span class='muted'>· East Asia</span> — People&#x27;s Republic founded</div>
 <div class="ev"><span class="yr">1950</span>: 📅 Law: <a href="/wiki/events/indian-constitution-adopted.html">Indian Constitution adopted</a> <span class='muted'>· South Asia</span> — India becomes a republic</div>
 <div class="ev"><span class="yr">1950</span>: 📅 War: <a href="/wiki/events/korean-war.html">Korean War</a> <span class='muted'>· East Asia</span> — Divided peninsula</div>
+<div class="ev"><span class="yr">1950</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-legacy.html">Operation Legacy</a> <span class='muted'>· Global</span> — Documented fact</div>
+<div class="ev"><span class="yr">1950</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/lavender-scare.html">Lavender scare</a> <span class='muted'>· Americas</span> — Documented fact</div>
+<div class="ev"><span class="yr">1953</span>: 📅 Discovery: <a href="/wiki/events/discovery-of-the-dna-double-helix.html">Discovery of the DNA double helix</a> <span class='muted'>· Europe</span> — Birth of molecular biology</div>
+<div class="ev"><span class="yr">1953</span>: ⚙ Invention: <a href="/wiki/inventions/dna-double-helix.html">DNA double helix</a> <span class='muted'>· Europe</span> — Cambridge, UK</div>
+<div class="ev"><span class="yr">1953</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/mkultra.html">MKUltra</a> <span class='muted'>· Global</span> — Documented fact</div>
+<div class="ev"><span class="yr">1953</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tobacco-industry-cover-up.html">Tobacco industry cover-up</a> <span class='muted'>· Global</span> — Documented fact</div>
+<div class="ev"><span class="yr">1955</span>: 👤 Born: <a href="/wiki/people/tim-berners-lee.html">Tim Berners-Lee</a> <span class='muted'>· Europe</span> — World Wide Web</div>
+<div class="ev"><span class="yr">1955</span>: 👤 Born: <a href="/wiki/people/steve-jobs.html">Steve Jobs</a> <span class='muted'>· Americas</span> — Apple, the iPhone</div>
+<div class="ev"><span class="yr">1955</span>: ⚙ Invention: <a href="/wiki/inventions/polio-vaccine.html">Polio vaccine</a> <span class='muted'>· Americas</span> — USA</div>
+<div class="ev"><span class="yr">1956</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/cointelpro.html">COINTELPRO</a> <span class='muted'>· Americas</span> — Documented fact</div>
 <div class="ev"><span class="yr">1957</span>: 📅 Independence: <a href="/wiki/events/ghanas-independence.html">Ghana&#x27;s independence</a> <span class='muted'>· Africa</span> — First sub-Saharan colony freed</div>
+<div class="ev"><span class="yr">1957</span>: 📅 Space: <a href="/wiki/events/sputnik-launched.html">Sputnik launched</a> <span class='muted'>· Europe</span> — Start of the space age</div>
 <div class="ev"><span class="yr">1957</span>: ⚙ Invention: <a href="/wiki/inventions/space-flight.html">Space flight</a> <span class='muted'>· Global</span> — USSR</div>
+<div class="ev"><span class="yr">1958</span>: ⚙ Invention: <a href="/wiki/inventions/microchip.html">Microchip</a> <span class='muted'>· Americas</span> — USA</div>
 <div class="ev"><span class="yr">1959</span>: 📅 Famine: <a href="/wiki/events/chinese-great-leap-forward-famine.html">Chinese Great Leap Forward famine</a> <span class='muted'>· East Asia</span> — Tens of millions died</div>
 <div class="ev"><span class="yr">1960</span>: ⚙ Invention: <a href="/wiki/inventions/green-revolution-seeds.html">Green Revolution seeds</a> <span class='muted'>· South Asia</span> — Mexico, Philippines, India</div>
+<div class="ev"><span class="yr">1960</span>: ⚙ Invention: <a href="/wiki/inventions/contraceptive-pill.html">Contraceptive pill</a> <span class='muted'>· Americas</span> — USA</div>
+<div class="ev"><span class="yr">1961</span>: 📅 Space: <a href="/wiki/events/yuri-gagarin-orbits-earth.html">Yuri Gagarin orbits Earth</a> <span class='muted'>· Europe</span> — First human in space</div>
 <div class="ev"><span class="yr">1962</span>: 📅 War: <a href="/wiki/events/sino-indian-war.html">Sino-Indian War</a> <span class='muted'>· South Asia</span> — Border dispute</div>
 <div class="ev"><span class="yr">1962</span>: 📅 Cold War: <a href="/wiki/events/cuban-missile-crisis.html">Cuban Missile Crisis</a> <span class='muted'>· Americas</span> — Nuclear brink</div>
+<div class="ev"><span class="yr">1962</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-northwoods.html">Operation Northwoods</a> <span class='muted'>· Americas</span> — Documented fact (proposed, rejected)</div>
+<div class="ev"><span class="yr">1963</span>: 📅 Space: <a href="/wiki/events/india-s-first-rocket-launch-from-thumba.html">India&#x27;s first rocket launch from Thumba</a> <span class='muted'>· South Asia</span> — Birth of the Indian space programme</div>
+<div class="ev"><span class="yr">1963</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/jfk-assassination.html">JFK assassination</a> <span class='muted'>· Americas</span> — Disputed</div>
+<div class="ev"><span class="yr">1964</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/gulf-of-tonkin-incident.html">Gulf of Tonkin incident</a> <span class='muted'>· Southeast Asia</span> — Partly true</div>
 <div class="ev"><span class="yr">1966</span>: 📅 Agriculture: <a href="/wiki/events/green-revolution-in-india.html">Green Revolution in India</a> <span class='muted'>· South Asia</span> — Food self-sufficiency</div>
+<div class="ev"><span class="yr">1966</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/death-of-lal-bahadur-shastri.html">Death of Lal Bahadur Shastri</a> <span class='muted'>· South Asia</span> — Unresolved</div>
 <div class="ev"><span class="yr">1969</span>: 📅 Exploration: <a href="/wiki/events/moon-landing.html">Moon landing</a> <span class='muted'>· Americas</span> — First humans on the Moon</div>
+<div class="ev"><span class="yr">1969</span>: 📅 Invention: <a href="/wiki/events/arpanet-s-first-message.html">ARPANET&#x27;s first message</a> <span class='muted'>· Americas</span> — Birth of the internet</div>
 <div class="ev"><span class="yr">1969</span>: ⚙ Invention: <a href="/wiki/inventions/internet.html">Internet</a> <span class='muted'>· Americas</span> — USA, CERN</div>
+<div class="ev"><span class="yr">1969</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/moon-landing-hoax.html">Moon landing hoax</a> <span class='muted'>· Global</span> — Debunked</div>
 <div class="ev"><span class="yr">1971</span>: 📅 War: <a href="/wiki/events/bangladesh-liberation-war.html">Bangladesh Liberation War</a> <span class='muted'>· South Asia</span> — Bangladesh independent</div>
+<div class="ev"><span class="yr">1972</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/watergate.html">Watergate</a> <span class='muted'>· Americas</span> — Documented fact</div>
+<div class="ev"><span class="yr">1974</span>: 📅 Science and war: <a href="/wiki/events/smiling-buddha-nuclear-test.html">Smiling Buddha nuclear test</a> <span class='muted'>· South Asia</span> — India becomes a nuclear power</div>
 <div class="ev"><span class="yr">1975</span>: 📅 Politics: <a href="/wiki/events/emergency-in-india.html">Emergency in India</a> <span class='muted'>· South Asia</span> — Civil liberties suspended</div>
+<div class="ev"><span class="yr">1975</span>: 📅 Space: <a href="/wiki/events/aryabhata-satellite-launched.html">Aryabhata satellite launched</a> <span class='muted'>· South Asia</span> — India&#x27;s first satellite</div>
 <div class="ev"><span class="yr">1975</span>: ⚙ Invention: <a href="/wiki/inventions/indias-first-satellite.html">India&#x27;s first satellite</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">1979</span>: 📅 Revolution: <a href="/wiki/events/iranian-revolution.html">Iranian Revolution</a> <span class='muted'>· Middle East</span> — Islamic Republic</div>
 <div class="ev"><span class="yr">1981</span>: 📅 Pandemic: <a href="/wiki/events/hiv-aids-pandemic.html">HIV/AIDS pandemic</a> <span class='muted'>· Global</span> — ~40 million deaths</div>
 <div class="ev"><span class="yr">1984</span>: 📅 Disaster: <a href="/wiki/events/bhopal-gas-tragedy.html">Bhopal gas tragedy</a> <span class='muted'>· South Asia</span> — Thousands killed by toxic gas</div>
+<div class="ev"><span class="yr">1984</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/bhopal-cover-up.html">Bhopal cover-up</a> <span class='muted'>· South Asia</span> — Documented fact</div>
 <div class="ev"><span class="yr">1986</span>: 📅 Disaster: <a href="/wiki/events/chernobyl-disaster.html">Chernobyl disaster</a> <span class='muted'>· Europe</span> — Nuclear catastrophe</div>
 <div class="ev"><span class="yr">1989</span>: 📅 Political: <a href="/wiki/events/fall-of-the-berlin-wall.html">Fall of the Berlin Wall</a> <span class='muted'>· Europe</span> — End of the Cold War</div>
 <div class="ev"><span class="yr">1989</span>: 📅 Technology: <a href="/wiki/events/invention-of-the-world-wide-web.html">Invention of the World Wide Web</a> <span class='muted'>· Global</span> — The information age</div>
@@ -945,14 +1024,20 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1994</span>: 📅 Politics: <a href="/wiki/events/end-of-apartheid.html">End of apartheid</a> <span class='muted'>· Africa</span> — Democracy for all</div>
 <div class="ev"><span class="yr">1994</span>: 📅 Genocide: <a href="/wiki/events/rwandan-genocide.html">Rwandan genocide</a> <span class='muted'>· Africa</span> — ~500,000–800,000 killed</div>
 <div class="ev"><span class="yr">2001</span>: 📅 Terrorism: <a href="/wiki/events/september-11-attacks.html">September 11 attacks</a> <span class='muted'>· Americas</span> — ~3,000 killed; wars in Afghanistan and Iraq</div>
+<div class="ev"><span class="yr">2002</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/iraq-wmd-intelligence.html">Iraq WMD intelligence</a> <span class='muted'>· Middle East</span> — Documented fact</div>
 <div class="ev"><span class="yr">2003</span>: 📅 Science: <a href="/wiki/events/human-genome-project-completed.html">Human Genome Project completed</a> <span class='muted'>· Global</span> — Read the human DNA</div>
 <div class="ev"><span class="yr">2004</span>: 📅 Natural disaster: <a href="/wiki/events/2004-indian-ocean-tsunami.html">2004 Indian Ocean tsunami</a> <span class='muted'>· South Asia</span> — ~230,000 dead</div>
+<div class="ev"><span class="yr">2007</span>: 📅 Invention: <a href="/wiki/events/launch-of-the-iphone.html">Launch of the iPhone</a> <span class='muted'>· Americas</span> — Smartphone revolution</div>
 <div class="ev"><span class="yr">2007</span>: ⚙ Invention: <a href="/wiki/inventions/smartphone.html">Smartphone</a> <span class='muted'>· Americas</span> — USA</div>
 <div class="ev"><span class="yr">2008</span>: 📅 Economic: <a href="/wiki/events/2008-financial-crisis.html">2008 financial crisis</a> <span class='muted'>· Global</span> — Great Recession</div>
 <div class="ev"><span class="yr">2010</span>: 📅 Uprising: <a href="/wiki/events/arab-spring.html">Arab Spring</a> <span class='muted'>· Middle East</span> — Regime changes and civil wars</div>
+<div class="ev"><span class="yr">2013</span>: 📅 Revelation: <a href="/wiki/events/snowden-revelations.html">Snowden revelations</a> <span class='muted'>· Global</span> — Exposed mass surveillance</div>
+<div class="ev"><span class="yr">2013</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/nsa-mass-surveillance.html">NSA mass surveillance</a> <span class='muted'>· Global</span> — Documented fact</div>
+<div class="ev"><span class="yr">2016</span>: 📅 Invention: <a href="/wiki/events/launch-of-upi.html">Launch of UPI</a> <span class='muted'>· South Asia</span> — Digital payments revolution</div>
 <div class="ev"><span class="yr">2016</span>: ⚙ Invention: <a href="/wiki/inventions/upi-unified-payments-interface.html">UPI (Unified Payments Interface)</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">2018</span>: ⚙ Invention: <a href="/wiki/inventions/large-language-models.html">Large language models</a> <span class='muted'>· Americas</span> — USA and worldwide</div>
 <div class="ev"><span class="yr">2020</span>: 📅 Pandemic: <a href="/wiki/events/covid-19-pandemic.html">COVID-19 pandemic</a> <span class='muted'>· Global</span> — ~7 million reported deaths (many more estimated)</div>
+<div class="ev"><span class="yr">2022</span>: 📅 Invention: <a href="/wiki/events/release-of-chatgpt.html">Release of ChatGPT</a> <span class='muted'>· Global</span> — Mass adoption of generative AI</div>
 <div class="ev"><span class="yr">2023</span>: 📅 Exploration: <a href="/wiki/events/chandrayaan-3-lands-on-the-moon.html">Chandrayaan-3 lands on the Moon</a> <span class='muted'>· South Asia</span> — First landing near the lunar south pole</div>
 <div class="ev"><span class="yr">2023</span>: 📅 Demography: <a href="/wiki/events/india-becomes-most-populous-country.html">India becomes most populous country</a> <span class='muted'>· South Asia</span> — ~1.43 billion people</div>
 </div>

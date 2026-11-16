@@ -1,9 +1,9 @@
 ---
 title: Timeline: Southeast Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (23 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (24 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (23 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (24 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -57,8 +57,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (1)
+:::collapse Contemporary (1945–today) (2)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Independence: <a href="/wiki/events/indonesian-independence.html">Indonesian independence</a> — End of Dutch rule</div>
+<div class="ev"><span class="yr">1964</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/gulf-of-tonkin-incident.html">Gulf of Tonkin incident</a> — Partly true</div>
 </div>
 :::
