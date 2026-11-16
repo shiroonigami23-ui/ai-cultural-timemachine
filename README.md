@@ -59,7 +59,7 @@ Every entry page loads a **live photo**, the **full Wikipedia article** in colla
 
 **How to open it:**
 - **In the app:** the home page links to `/history/index.html`. `npm run dev` and `npm run build` copy the encyclopedia into `public/history` automatically (`scripts/copy-history.js`).
-- **On GitHub Pages:** the workflow `.github/workflows/history-pages.yml` builds and deploys it. Enable it once under **Settings → Pages → Source: GitHub Actions**. The site will then be at https://shiroonigami23-ui.github.io/ai-cultural-timemachine/.
+- **On GitHub Pages:** live at https://shiroonigami23-ui.github.io/ai-cultural-timemachine/. GitHub Pages serves the repo root, where `index.html` sends visitors straight to `history/index.html`, and `.nojekyll` makes sure the files are served exactly as built. The workflow `.github/workflows/history-pages.yml` rebuilds the encyclopedia and checks every link on each push.
 - **Rebuild after editing:** run `npm run history:build`, or `cd history && python3 scripts/build_site.py`. You need Python 3 and `pip install -r history/scripts/requirements.txt`.
 - **Reuse the data in the app:** load the JSON catalogs in `history/site_src/data/*.json`.
 - **Missing images:** [`history/prompts.md`](history/prompts.md) lists a Nano Banana prompt and a save path for every entry. Only generate the ones the site's *Photo status* page reports as missing, then rebuild.

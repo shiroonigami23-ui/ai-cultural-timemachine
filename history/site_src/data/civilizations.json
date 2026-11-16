@@ -7,7 +7,7 @@
 "region": "Mesopotamia (Iraq)",
 "capital": "Uruk, Ur",
 "known_for": "Cuneiform writing, the wheel, ziggurats, the Epic of Gilgamesh",
-"life": "City-states ruled by priest-kings; farmers irrigated fields from the Tigris and Euphrates",
+"life": "Most Sumerians were farmers and herders working temple and palace lands, paid in barley rations. Cities held craftsmen, merchants, scribes and priests; children of the elite trained for years in scribal schools (edubba). Homes were mud-brick houses around a courtyard.",
 "food": "Barley bread, beer, dates, onions, fish",
 "summary": "The first civilisation with cities and writing.",
 "wiki": "Sumer",
@@ -20,7 +20,8 @@
 "technology": "Cuneiform writing, the wheel, the plough, irrigation canals, base-60 counting (our 60-minute hour), bronze",
 "rise": "Rose as farming villages on the Tigris–Euphrates plain grew around temples and irrigation",
 "fall": "Conquered by Akkad, revived under Ur III, then faded as salinisation ruined fields and Amorites took over",
-"legacy": "Writing, cities, law codes and literature (Gilgamesh)"
+"legacy": "Writing, cities, law codes and literature (Gilgamesh)",
+"culture": "Each city had a patron god (Inanna at Uruk, Nanna at Ur) living in the temple. Festivals such as the New Year Akitu, epic poetry, lyres from the Royal Tombs of Ur and cylinder seals show a rich culture."
 },
 {
 "name": "Akkadian Empire",
@@ -30,7 +31,7 @@
 "region": "Mesopotamia",
 "capital": "Akkad",
 "known_for": "The first empire, under Sargon",
-"life": "Conscripted armies and tribute",
+"life": "Farmers and soldiers supplied a standing army; Akkadian became the language of administration alongside Sumerian.",
 "food": "Barley, beer",
 "summary": "Collapsed around the 4.2-kiloyear drought.",
 "wiki": "Akkadian_Empire",
@@ -43,7 +44,8 @@
 "technology": "Standing army, standardised weights",
 "rise": "Sargon conquered Sumerian cities",
 "fall": "Drought (4.2 ka event), Gutian invasions, revolts",
-"legacy": "The model of empire for later Mesopotamian rulers"
+"legacy": "The model of empire for later Mesopotamian rulers",
+"culture": "Sargon's daughter Enheduanna, high priestess of Ur, is the first named author in history."
 },
 {
 "name": "Babylonia",
@@ -53,7 +55,7 @@
 "region": "Mesopotamia",
 "capital": "Babylon",
 "known_for": "Hammurabi's law code, astronomy, the Hanging Gardens (legendary)",
-"life": "Merchants, scribes and farmers under written law",
+"life": "Babylon was a cosmopolitan city of perhaps 200,000 under Nebuchadnezzar, with merchants, astronomer-priests and canal farmers.",
 "food": "Barley, dates, beer",
 "summary": "Babylonian astronomers tracked planets and eclipses for centuries.",
 "wiki": "Babylonia",
@@ -66,7 +68,8 @@
 "technology": "Astronomy, algebra, the 360° circle",
 "rise": "Hammurabi united Mesopotamia (~1760 BCE)",
 "fall": "Hittite sack (1595 BCE); later Neo-Babylonian empire fell to Cyrus (539 BCE)",
-"legacy": "Law, astronomy and mathematics inherited by Greeks and Indians"
+"legacy": "Law, astronomy and mathematics inherited by Greeks and Indians",
+"culture": "The Akitu festival, the Enuma Elish creation epic and records of planetary motion kept for centuries."
 },
 {
 "name": "Assyria",
@@ -76,7 +79,7 @@
 "region": "Northern Mesopotamia",
 "capital": "Nineveh, Assur",
 "known_for": "Iron armies, Ashurbanipal's library",
-"life": "A militarised state deporting conquered peoples",
+"life": "A militarised society where conscripted farmers fought seasonal campaigns and conquered peoples were resettled across the empire.",
 "food": "Barley, meat",
 "summary": "Ashurbanipal's library preserved thousands of clay tablets.",
 "wiki": "Assyria",
@@ -89,7 +92,8 @@
 "technology": "Iron weapons, siege engines, a postal road system",
 "rise": "Expanded from Assur through repeated campaigns",
 "fall": "Civil war; Babylonians and Medes destroyed Nineveh (612 BCE)",
-"legacy": "First great iron-age empire; Ashurbanipal's library"
+"legacy": "First great iron-age empire; Ashurbanipal's library",
+"culture": "Lion-hunt reliefs, winged bull guardians (lamassu) and the Library of Ashurbanipal."
 },
 {
 "name": "Ancient Egypt",
@@ -99,7 +103,7 @@
 "region": "Nile valley",
 "capital": "Memphis, Thebes, Alexandria",
 "known_for": "Pyramids, hieroglyphs, mummification, the solar calendar",
-"life": "Pharaoh-centred society; farmers' lives followed the Nile flood (inundation, growing, harvest)",
+"life": "Farmers' lives followed the Nile's three seasons; during the flood they worked on royal projects for pay. Scribes, priests and artisans lived in towns; workers' villages like Deir el-Medina left letters, receipts and even records of strikes.",
 "food": "Bread, beer, onions, fish, lentils",
 "summary": "Lasted three millennia, ending with Cleopatra and Rome.",
 "wiki": "Ancient_Egypt",
@@ -112,7 +116,8 @@
 "technology": "Hieroglyphs, papyrus, the 365-day calendar, surgery, glass",
 "rise": "Unification of Upper and Lower Egypt around 3100 BCE",
 "fall": "Foreign conquests: Persians, Greeks, finally Rome (30 BCE)",
-"legacy": "Monumental architecture, medicine, the calendar"
+"legacy": "Monumental architecture, medicine, the calendar",
+"culture": "Gods such as Ra, Osiris, Isis and Hathor; festivals like Opet; mummification and the Book of the Dead; painted tombs, music, board games (senet) and cosmetics."
 },
 {
 "name": "Hittite Empire",
@@ -122,7 +127,7 @@
 "region": "Anatolia",
 "capital": "Hattusa",
 "known_for": "Early iron, the first known peace treaty (Kadesh)",
-"life": "Kingdom of chariot warriors and farmers",
+"life": "Farmers, chariot warriors and scribes in a kingdom bound by treaties with vassals.",
 "food": "Barley, emmer",
 "summary": "Fell in the Bronze Age collapse.",
 "wiki": "Hittites",
@@ -135,7 +140,8 @@
 "technology": "Early iron working, chariot warfare",
 "rise": "Unified Anatolian city-states",
 "fall": "Bronze Age collapse (~1180 BCE)",
-"legacy": "The world's first known peace treaty"
+"legacy": "The world's first known peace treaty",
+"culture": "The 'thousand gods' of Hatti, laws milder than Babylon's, and royal archives at Hattusa."
 },
 {
 "name": "Phoenicia",
@@ -145,7 +151,7 @@
 "region": "Lebanon coast",
 "capital": "Tyre, Sidon",
 "known_for": "The alphabet, purple dye, sea trade, Carthage",
-"life": "Seafaring merchant city-states",
+"life": "Sailors, merchants, dyers and shipbuilders lived in crowded island and harbour cities.",
 "food": "Fish, wine, olives",
 "summary": "Their alphabet is the ancestor of Greek, Latin and Arabic scripts.",
 "wiki": "Phoenicia",
@@ -158,7 +164,8 @@
 "technology": "The alphabet, purple dye, glass, open-sea navigation",
 "rise": "Trading cities on the Levant coast after 1200 BCE",
 "fall": "Absorbed by Assyria, Persia and Alexander; Carthage fell to Rome",
-"legacy": "The alphabet behind Greek, Latin and Arabic scripts"
+"legacy": "The alphabet behind Greek, Latin and Arabic scripts",
+"culture": "Gods Baal and Astarte; ivory carving, glassware and the alphabet carried across the Mediterranean."
 },
 {
 "name": "Ancient Israel and Judah",
@@ -168,7 +175,7 @@
 "region": "Levant",
 "capital": "Jerusalem",
 "known_for": "The Hebrew Bible, monotheism",
-"life": "Farmers and herders in hill villages",
+"life": "Most people farmed hill terraces growing grain, olives and grapes; life centred on clans and village elders.",
 "food": "Bread, olives, figs, wine",
 "summary": "Its scriptures shaped Judaism, Christianity and Islam.",
 "wiki": "History_of_ancient_Israel_and_Judah",
@@ -181,7 +188,8 @@
 "technology": "Hebrew alphabet writing",
 "rise": "United monarchy under Saul, David and Solomon (traditional)",
 "fall": "Assyria destroyed Israel (722 BCE); Babylon destroyed Judah (587 BCE)",
-"legacy": "Monotheism and scriptures of three religions"
+"legacy": "Monotheism and scriptures of three religions",
+"culture": "Sabbath, Passover and Temple worship; the Hebrew Bible's law, prophecy and poetry."
 },
 {
 "name": "Kingdom of Kush",
@@ -191,7 +199,7 @@
 "region": "Sudan",
 "capital": "Napata, Meroë",
 "known_for": "Nubian pyramids, ruled Egypt as the 25th dynasty, iron-working",
-"life": "Farmers and herders along the Nile",
+"life": "Farmers along the Nile, herders and ironworkers; powerful queen mothers (kandakes) shaped politics.",
 "food": "Sorghum, millet, cattle",
 "summary": "Sudan has more pyramids than Egypt.",
 "wiki": "Kingdom_of_Kush",
@@ -204,7 +212,8 @@
 "technology": "Iron smelting at scale",
 "rise": "Broke free of Egypt and later ruled it (25th dynasty)",
 "fall": "Aksum's conquest (~350 CE)",
-"legacy": "Africa's iron-working centre"
+"legacy": "Africa's iron-working centre",
+"culture": "The lion god Apedemak, Nubian pyramids and Meroitic script."
 },
 {
 "name": "Carthage",
@@ -214,7 +223,7 @@
 "region": "Tunisia",
 "capital": "Carthage",
 "known_for": "Hannibal, naval power",
-"life": "Merchant republic",
+"life": "A merchant and maritime people with large farming estates in Tunisia.",
 "food": "Grain, olives, fish",
 "summary": "Destroyed by Rome in the Third Punic War.",
 "wiki": "Ancient_Carthage",
@@ -227,7 +236,8 @@
 "technology": "Naval engineering, agriculture manuals (Mago)",
 "rise": "Phoenician colony grew into a sea empire",
 "fall": "Destroyed by Rome in 146 BCE",
-"legacy": "Rival that shaped Rome"
+"legacy": "Rival that shaped Rome",
+"culture": "Gods Baal Hammon and Tanit; famous agriculture treatise by Mago."
 },
 {
 "name": "Achaemenid Persian Empire",
@@ -237,7 +247,7 @@
 "region": "Iran to Egypt and Indus",
 "capital": "Persepolis, Susa",
 "known_for": "Cyrus's tolerance, the Royal Road, satrapies",
-"life": "A multi-ethnic empire with roads and postal relays",
+"life": "Farmers paid tribute; craftsmen from across the empire built Persepolis for wages recorded on tablets.",
 "food": "Bread, wine, fruit",
 "summary": "At its height ruled ~44% of the world's population (estimates vary).",
 "wiki": "Achaemenid_Empire",
@@ -250,7 +260,8 @@
 "technology": "Royal Road, qanats, postal relays, coinage (daric)",
 "rise": "Cyrus conquered Media, Lydia and Babylon",
 "fall": "Alexander's conquest (330 BCE)",
-"legacy": "Model of tolerant multi-ethnic rule"
+"legacy": "Model of tolerant multi-ethnic rule",
+"culture": "Zoroastrian fire temples, the Nowruz new year, and audience reliefs of 23 nations bringing gifts."
 },
 {
 "name": "Aksum",
@@ -260,7 +271,7 @@
 "region": "Ethiopia, Eritrea",
 "capital": "Aksum",
 "known_for": "Giant stelae, coinage, early Christianity",
-"life": "Trading kingdom linking Rome and India",
+"life": "Farmers grew teff and barley; merchants traded ivory and gold to Rome and India.",
 "food": "Teff, barley",
 "summary": "One of the four great powers of its time (according to Mani).",
 "wiki": "Kingdom_of_Aksum",
@@ -273,7 +284,8 @@
 "technology": "Own coinage, Ge'ez script",
 "rise": "Controlled Red Sea trade",
 "fall": "Islamic expansion cut trade",
-"legacy": "Ethiopian Christianity and Ge'ez"
+"legacy": "Ethiopian Christianity and Ge'ez",
+"culture": "Early Christianity, giant stelae and the Ge'ez script still used in Ethiopian liturgy."
 },
 {
 "name": "Ghana Empire",
@@ -283,7 +295,7 @@
 "region": "West Africa (Mauritania, Mali)",
 "capital": "Koumbi Saleh",
 "known_for": "Trans-Saharan gold trade",
-"life": "Kings taxed salt and gold caravans",
+"life": "Soninke farmers and traders controlled gold coming from the south and salt from the Sahara.",
 "food": "Millet, sorghum",
 "summary": "'Land of gold' for Arab geographers.",
 "wiki": "Ghana_Empire",
@@ -296,7 +308,8 @@
 "technology": "Gold and salt trade organisation",
 "rise": "Controlled trans-Saharan gold",
 "fall": "Almoravid pressure and drought",
-"legacy": "West Africa's first great empire"
+"legacy": "West Africa's first great empire",
+"culture": "Royal courts with elaborate ceremonies described by Arab geographers."
 },
 {
 "name": "Mali Empire",
@@ -306,7 +319,7 @@
 "region": "West Africa",
 "capital": "Niani",
 "known_for": "Mansa Musa, Timbuktu's libraries",
-"life": "Trading towns, Islamic scholarship, griots preserve history",
+"life": "Farmers, herders, fishers and traders lived under clan-based social orders; griots preserved history in song.",
 "food": "Millet, rice, shea",
 "summary": "Mansa Musa's 1324 pilgrimage spread gold through Cairo.",
 "wiki": "Mali_Empire",
@@ -319,7 +332,8 @@
 "technology": "Manuscript libraries, gold economy",
 "rise": "Sundiata defeated Sosso (1235)",
 "fall": "Succession disputes, Songhai rise",
-"legacy": "Timbuktu's learning"
+"legacy": "Timbuktu's learning",
+"culture": "The Sundiata epic, Timbuktu's Sankore university and manuscripts, mud mosques renewed each year."
 },
 {
 "name": "Songhai Empire",
@@ -329,7 +343,7 @@
 "region": "West Africa",
 "capital": "Gao",
 "known_for": "Largest West African empire",
-"life": "Riverine trade on the Niger",
+"life": "River fishermen, farmers and merchants along the Niger.",
 "food": "Rice, millet, fish",
 "summary": "Fell to Moroccan musketeers.",
 "wiki": "Songhai_Empire",
@@ -342,7 +356,8 @@
 "technology": "Large river navy",
 "rise": "Sonni Ali captured Timbuktu",
 "fall": "Moroccan musketeers at Tondibi (1591)",
-"legacy": "Largest West African empire"
+"legacy": "Largest West African empire",
+"culture": "Islamic scholarship in Timbuktu and Gao."
 },
 {
 "name": "Great Zimbabwe",
@@ -352,7 +367,7 @@
 "region": "Zimbabwe",
 "capital": "Great Zimbabwe",
 "known_for": "Dry-stone walled city",
-"life": "Cattle wealth, gold trade to the Swahili coast",
+"life": "Cattle herders and farmers; an elite lived inside the stone enclosures.",
 "food": "Sorghum, cattle",
 "summary": "Gave its name to modern Zimbabwe.",
 "wiki": "Great_Zimbabwe",
@@ -365,7 +380,8 @@
 "technology": "Gold trade, cattle wealth",
 "rise": "Controlled gold exports to the coast",
 "fall": "Trade shifted; resources exhausted",
-"legacy": "Gave Zimbabwe its name"
+"legacy": "Gave Zimbabwe its name",
+"culture": "Soapstone bird carvings now on Zimbabwe's flag."
 },
 {
 "name": "Swahili city-states",
@@ -375,7 +391,7 @@
 "region": "East African coast",
 "capital": "Kilwa, Mombasa",
 "known_for": "Coral-stone towns, Indian Ocean trade",
-"life": "Merchants trading with Arabia, India, China",
+"life": "Merchants, sailors and craftsmen in coral-stone towns.",
 "food": "Rice, coconut, fish",
 "summary": "A blend of Bantu, Arab and Persian cultures.",
 "wiki": "Swahili_culture",
@@ -388,7 +404,8 @@
 "technology": "Monsoon sailing dhows",
 "rise": "Trade with Arabia, India, China",
 "fall": "Portuguese attacks after 1500",
-"legacy": "Swahili language and culture"
+"legacy": "Swahili language and culture",
+"culture": "Swahili poetry, Islamic architecture and Indian Ocean dress and food."
 },
 {
 "name": "Kingdom of Benin",
@@ -398,7 +415,7 @@
 "region": "Nigeria",
 "capital": "Benin City",
 "known_for": "Benin Bronzes, city walls",
-"life": "Guilds of bronze casters; Oba kings",
+"life": "Guild craftsmen, farmers and court officials lived in a planned walled city.",
 "food": "Yams, palm oil",
 "summary": "The British looted the bronzes in 1897; some are now being returned.",
 "wiki": "Kingdom_of_Benin",
@@ -411,7 +428,8 @@
 "technology": "Bronze casting",
 "rise": "Grew as a forest kingdom",
 "fall": "British punitive expedition (1897)",
-"legacy": "Benin Bronzes"
+"legacy": "Benin Bronzes",
+"culture": "Bronze plaques recording court history; the Igue festival."
 },
 {
 "name": "Ottoman Empire",
@@ -421,7 +439,7 @@
 "region": "Anatolia, Balkans, Middle East, North Africa",
 "capital": "Istanbul",
 "known_for": "Conquest of Constantinople (1453), Suleiman, millets",
-"life": "Multi-faith empire with janissaries and guilds",
+"life": "Farmers under the timar system, urban guilds, merchants and a multi-faith population organised in millets.",
 "food": "Bread, yoghurt, kebab, coffee",
 "summary": "Lasted over six centuries.",
 "wiki": "Ottoman_Empire",
@@ -434,7 +452,8 @@
 "technology": "Gunpowder artillery, devshirme administration",
 "rise": "Osman's frontier state expanded into Anatolia and the Balkans",
 "fall": "Military decline, nationalism, WWI defeat",
-"legacy": "Six centuries of multi-ethnic rule"
+"legacy": "Six centuries of multi-ethnic rule",
+"culture": "Coffee houses, Iznik tiles, Sinan's mosques, calligraphy, music and the Turkish bath."
 },
 {
 "name": "Safavid Iran",
@@ -444,7 +463,7 @@
 "region": "Iran",
 "capital": "Isfahan",
 "known_for": "Shia Islam as state faith, Isfahan's architecture",
-"life": "Silk trade, carpet weaving",
+"life": "Silk farmers, carpet weavers and merchants; Isfahan held perhaps half a million people.",
 "food": "Rice (polow), bread",
 "summary": "'Isfahan is half the world.'",
 "wiki": "Safavid_Iran",
@@ -457,7 +476,8 @@
 "technology": "Carpet and silk industries",
 "rise": "Ismail I united Iran",
 "fall": "Afghan invasion (1722)",
-"legacy": "Shia Iran"
+"legacy": "Shia Iran",
+"culture": "Miniature painting, carpets, Shia festivals such as Muharram."
 },
 {
 "name": "Indus Valley Civilisation",
@@ -467,7 +487,7 @@
 "region": "Pakistan, NW India",
 "capital": "Harappa, Mohenjo-daro, Dholavira, Rakhigarhi",
 "known_for": "Grid cities, drains, standard bricks and weights, undeciphered script",
-"life": "Traders, craftspeople and farmers; no evidence of palaces or great temples",
+"life": "Most people farmed or herded; city dwellers worked as potters, bead-makers, metalworkers and traders. Brick houses had wells and bathrooms; children played with clay carts and whistles.",
 "food": "Wheat, barley, millets, pulses, sesame, dates; cattle",
 "summary": "Its cities had some of the best urban drainage of the ancient world.",
 "wiki": "Indus_Valley_Civilisation",
@@ -480,7 +500,8 @@
 "technology": "Standard weights, drainage, bead drilling, cotton textiles, possible dockyard",
 "rise": "Grew from Mehrgarh-era farming villages over 4,000 years",
 "fall": "Monsoon weakening, river shifts, trade decline (from ~1900 BCE)",
-"legacy": "Urban planning; possible continuity in Indian culture"
+"legacy": "Urban planning; possible continuity in Indian culture",
+"culture": "Seals with animals and the 'unicorn', terracotta figurines, the Dancing Girl bronze, and possible fire altars at Kalibangan."
 },
 {
 "name": "Vedic India",
@@ -490,7 +511,7 @@
 "region": "North India",
 "capital": "—",
 "known_for": "The Vedas, Sanskrit, fire rituals",
-"life": "Pastoral clans become kingdoms",
+"life": "Clans of herders and farmers measured wealth in cattle; later, settled villages grew barley and rice.",
 "food": "Barley, milk, ghee",
 "summary": "Foundation of Hindu traditions.",
 "wiki": "Vedic_period",
@@ -503,7 +524,8 @@
 "technology": "Iron ploughs (later), horse chariots, Vedic oral recitation",
 "rise": "Pastoral Indo-Aryan clans settled the Punjab and Ganga plains",
 "fall": "Transformed into territorial kingdoms (mahajanapadas)",
-"legacy": "Vedas, Sanskrit, ritual traditions"
+"legacy": "Vedas, Sanskrit, ritual traditions",
+"culture": "Hymns of the Rigveda, fire sacrifices (yajna), gods such as Indra, Agni and Varuna, and the oral tradition that preserved the Vedas."
 },
 {
 "name": "Magadha",
@@ -513,7 +535,7 @@
 "region": "Bihar",
 "capital": "Rajagriha, Pataliputra",
 "known_for": "Haryanka, Shishunaga and Nanda dynasties; Buddha and Mahavira's era",
-"life": "Rice-growing kingdom with iron and elephants",
+"life": "Rice farmers, ironworkers and traders in a fertile, rising kingdom.",
 "food": "Rice",
 "summary": "Became the core of the Mauryan Empire.",
 "wiki": "Magadha",
@@ -526,7 +548,8 @@
 "technology": "War elephants, catapults (mahashilakantaka)",
 "rise": "Rich iron mines and fertile soil",
 "fall": "Became the Mauryan empire",
-"legacy": "Seat of Buddhism and Jainism"
+"legacy": "Seat of Buddhism and Jainism",
+"culture": "Home ground of the Buddha's and Mahavira's teaching; early stupas and viharas."
 },
 {
 "name": "Maurya Empire",
@@ -536,7 +559,7 @@
 "region": "South Asia",
 "capital": "Pataliputra",
 "known_for": "Chandragupta, Chanakya's Arthashastra, Ashoka's edicts and dhamma",
-"life": "A bureaucratic state with spies, roads and taxes",
+"life": "Farmers paid around a quarter of their harvest in tax; cities had guilds, markets and wooden mansions. Megasthenes described seven social groups and well-run cities.",
 "food": "Rice, wheat, pulses",
 "summary": "Ashoka turned to Buddhism after Kalinga (261 BCE).",
 "wiki": "Maurya_Empire",
@@ -549,7 +572,8 @@
 "technology": "Roads, irrigation, a standing army",
 "rise": "Chandragupta defeated the Nandas",
 "fall": "Weak successors after Ashoka; Shunga coup",
-"legacy": "Ashoka's edicts and the lion capital"
+"legacy": "Ashoka's edicts and the lion capital",
+"culture": "Ashoka's dhamma, Buddhist missions to Sri Lanka and beyond, polished stone pillars and the Sanchi stupa."
 },
 {
 "name": "Satavahana dynasty",
@@ -559,7 +583,7 @@
 "region": "Deccan",
 "capital": "Pratishthana",
 "known_for": "Trade with Rome, Amaravati stupa",
-"life": "Merchants and Buddhist monasteries",
+"life": "Deccan farmers and merchants trading with Rome; Buddhist monasteries supported by traders.",
 "food": "Rice, millet",
 "summary": "Issued coins with kings' portraits.",
 "wiki": "Satavahana_dynasty",
@@ -572,7 +596,8 @@
 "technology": "Coinage with ship motifs",
 "rise": "Rose in the Deccan",
 "fall": "Fragmentation",
-"legacy": "Deccan trade with Rome"
+"legacy": "Deccan trade with Rome",
+"culture": "Amaravati sculpture and Karla caves."
 },
 {
 "name": "Sangam-era Tamilakam",
@@ -582,7 +607,7 @@
 "region": "Tamil Nadu, Kerala",
 "capital": "Madurai, Uraiyur, Vanji",
 "known_for": "Chera, Chola, Pandya kingdoms; Sangam poetry",
-"life": "Five landscape-based ways of life (tinai)",
+"life": "People lived by five landscapes (tinai): hills, forests, farmland, coast and desert, each with its own work and gods.",
 "food": "Rice, millets, pepper",
 "summary": "Sangam poems describe love and war across five landscapes.",
 "wiki": "Sangam_period",
@@ -595,7 +620,8 @@
 "technology": "Iron working, Tamil-Brahmi writing, overseas trade",
 "rise": "Port trade with Rome and Southeast Asia",
 "fall": "Kalabhra interregnum",
-"legacy": "Sangam poetry and Tamil classical culture"
+"legacy": "Sangam poetry and Tamil classical culture",
+"culture": "Sangam love and war poetry (akam and puram), hero stones, Murugan worship."
 },
 {
 "name": "Kushan Empire",
@@ -605,7 +631,7 @@
 "region": "Afghanistan, North India",
 "capital": "Purushapura, Mathura",
 "known_for": "Kanishka, Gandhara art, Silk Road",
-"life": "Cosmopolitan trade empire",
+"life": "A mix of nomad elites, farmers and Silk Road merchants.",
 "food": "Wheat, grapes",
 "summary": "Spread Mahayana Buddhism to Central Asia.",
 "wiki": "Kushan_Empire",
@@ -618,7 +644,8 @@
 "technology": "Gold coinage, Silk Road control",
 "rise": "Yuezhi nomads unified Bactria",
 "fall": "Sasanian and Gupta pressure",
-"legacy": "Mahayana Buddhism's spread"
+"legacy": "Mahayana Buddhism's spread",
+"culture": "Gandhara and Mathura art made the first Buddha images in human form."
 },
 {
 "name": "Gupta Empire",
@@ -628,7 +655,7 @@
 "region": "North India",
 "capital": "Pataliputra",
 "known_for": "Golden age of science and art: zero, Aryabhata, Kalidasa",
-"life": "Prosperous towns and guilds",
+"life": "Prosperous farmers and guilds; Faxian described peaceful towns and free hospitals.",
 "food": "Rice, wheat, sugar",
 "summary": "Weakened by Huna invasions.",
 "wiki": "Gupta_Empire",
@@ -641,7 +668,8 @@
 "technology": "Decimal numerals, zero, Aryabhata's astronomy, iron pillar",
 "rise": "Marriage alliance and conquests",
 "fall": "Huna invasions, breakaway governors",
-"legacy": "India's classical golden age"
+"legacy": "India's classical golden age",
+"culture": "Kalidasa's drama, Ajanta murals, temple building, Sanskrit learning and the Puranas."
 },
 {
 "name": "Pallava dynasty",
@@ -651,7 +679,7 @@
 "region": "Tamil Nadu",
 "capital": "Kanchipuram",
 "known_for": "Mamallapuram shore temples",
-"life": "Temple-building and maritime trade",
+"life": "Farmers in the Kaveri and Palar basins; port trade from Mamallapuram.",
 "food": "Rice",
 "summary": "Spread Indian scripts to Southeast Asia.",
 "wiki": "Pallava_dynasty",
@@ -664,7 +692,8 @@
 "technology": "Dravidian temple architecture",
 "rise": "Rose in Kanchipuram",
 "fall": "Defeated by Cholas",
-"legacy": "Spread of Indian scripts to Southeast Asia"
+"legacy": "Spread of Indian scripts to Southeast Asia",
+"culture": "Rock-cut temples and the bhakti poetry of the Alvars and Nayanars."
 },
 {
 "name": "Chalukya dynasty",
@@ -674,7 +703,7 @@
 "region": "Karnataka",
 "capital": "Badami",
 "known_for": "Rock-cut temples at Badami, Aihole, Pattadakal",
-"life": "Agrarian kingdom",
+"life": "Farmers and traders of the Deccan plateau.",
 "food": "Millet, rice",
 "summary": "Pulakeshin II defeated Harsha.",
 "wiki": "Chalukya_dynasty",
@@ -687,7 +716,8 @@
 "technology": "Vesara temple style",
 "rise": "Rose in Karnataka",
 "fall": "Rashtrakutas",
-"legacy": "Temple architecture"
+"legacy": "Temple architecture",
+"culture": "Temple experiments mixing northern and southern styles at Pattadakal."
 },
 {
 "name": "Rashtrakuta dynasty",
@@ -697,7 +727,7 @@
 "region": "Deccan",
 "capital": "Manyakheta",
 "known_for": "Kailasa temple at Ellora",
-"life": "Powerful Deccan empire",
+"life": "An agrarian empire of the Deccan with powerful feudatories.",
 "food": "Millet, rice",
 "summary": "Arab travellers ranked its king among the world's four greatest.",
 "wiki": "Rashtrakuta_dynasty",
@@ -710,7 +740,8 @@
 "technology": "Rock-cut engineering",
 "rise": "Overthrew Chalukyas",
 "fall": "Western Chalukyas",
-"legacy": "Ellora"
+"legacy": "Ellora",
+"culture": "Kannada literature and the Ellora Kailasa temple."
 },
 {
 "name": "Chola Empire",
@@ -720,7 +751,7 @@
 "region": "South India, Sri Lanka, Southeast Asia",
 "capital": "Thanjavur, Gangaikonda Cholapuram",
 "known_for": "Brihadeeswara temple, bronzes, navy, village self-government",
-"life": "Temple towns; elected village assemblies (Uttaramerur inscriptions)",
+"life": "Rice farmers under elected village assemblies; temple towns employed dancers, musicians and craftsmen.",
 "food": "Rice, coconut, pepper",
 "summary": "Rajendra I raided Srivijaya in 1025.",
 "wiki": "Chola_dynasty",
@@ -733,7 +764,8 @@
 "technology": "Bronze casting, navy, irrigation (Kallanai)",
 "rise": "Vijayalaya took Thanjavur",
 "fall": "Pandya and Hoysala rise",
-"legacy": "Bronzes, temples, maritime influence"
+"legacy": "Bronzes, temples, maritime influence",
+"culture": "Bronze Nataraja, temple festivals, Tamil devotional poetry and Bharatanatyam roots."
 },
 {
 "name": "Pala Empire",
@@ -743,7 +775,7 @@
 "region": "Bengal, Bihar",
 "capital": "Pataliputra",
 "known_for": "Nalanda and Vikramashila universities",
-"life": "Buddhist patronage",
+"life": "Rice farmers and traders of Bengal and Bihar.",
 "food": "Rice, fish",
 "summary": "Last great Buddhist empire in India.",
 "wiki": "Pala_Empire",
@@ -756,7 +788,8 @@
 "technology": "Pala art",
 "rise": "Gopala was elected",
 "fall": "Senas",
-"legacy": "Last great Buddhist empire in India"
+"legacy": "Last great Buddhist empire in India",
+"culture": "Buddhist universities of Nalanda and Vikramashila and Pala sculpture."
 },
 {
 "name": "Delhi Sultanate",
@@ -766,7 +799,7 @@
 "region": "North India",
 "capital": "Delhi",
 "known_for": "Qutub Minar, Persian culture, iqta system",
-"life": "Mamluk, Khalji, Tughlaq, Sayyid and Lodi dynasties",
+"life": "Peasant villages paid revenue to iqta holders; cities grew with Persian-speaking elites and Indian artisans.",
 "food": "Wheat, rice, meat",
 "summary": "Razia Sultan was its only woman ruler.",
 "wiki": "Delhi_Sultanate",
@@ -779,7 +812,8 @@
 "technology": "Persian wheel, paper, true arch and dome",
 "rise": "Muhammad of Ghor's conquests",
 "fall": "Timur's sack, provincial breakaway",
-"legacy": "Indo-Islamic architecture and Hindustani"
+"legacy": "Indo-Islamic architecture and Hindustani",
+"culture": "Sufi shrines, qawwali (Amir Khusrau), Indo-Islamic architecture and the birth of Hindustani."
 },
 {
 "name": "Vijayanagara Empire",
@@ -789,7 +823,7 @@
 "region": "South India",
 "capital": "Hampi",
 "known_for": "Hampi's bazaars and temples, Krishnadevaraya",
-"life": "A rich city visited by Persian and Portuguese travellers",
+"life": "Farmers, temple communities and merchants; Hampi's bazaars sold rubies and horses.",
 "food": "Rice, millets, spices",
 "summary": "Defeated at Talikota (1565).",
 "wiki": "Vijayanagara_Empire",
@@ -802,7 +836,8 @@
 "technology": "Water tanks and aqueducts",
 "rise": "Founded by Harihara and Bukka",
 "fall": "Battle of Talikota (1565)",
-"legacy": "South Indian art and Carnatic music"
+"legacy": "South Indian art and Carnatic music",
+"culture": "Mahanavami festival, Carnatic music and Telugu and Kannada poetry."
 },
 {
 "name": "Ahom kingdom",
@@ -812,7 +847,7 @@
 "region": "Assam",
 "capital": "Garhgaon",
 "known_for": "Resisted the Mughals for centuries; Lachit Borphukan at Saraighat (1671)",
-"life": "Wet-rice farming with paik labour system",
+"life": "Wet-rice farmers organised by the paik labour system.",
 "food": "Rice, fish",
 "summary": "Lasted nearly 600 years.",
 "wiki": "Ahom_kingdom",
@@ -825,7 +860,8 @@
 "technology": "Buranji chronicles, gunpowder",
 "rise": "Tai settlers under Sukaphaa",
 "fall": "Burmese invasions, British annexation",
-"legacy": "Assamese identity"
+"legacy": "Assamese identity",
+"culture": "Buranji chronicles and Bihu festivities."
 },
 {
 "name": "Mughal Empire",
@@ -835,7 +871,7 @@
 "region": "South Asia",
 "capital": "Agra, Fatehpur Sikri, Delhi",
 "known_for": "Akbar, Taj Mahal, miniature painting, Persianate culture",
-"life": "Mansabdari nobility; vast peasant economy",
+"life": "Most people were peasants paying a third or more of their harvest; cities held weavers, merchants and nobles' households.",
 "food": "Biryani, kebab, rice, wheat breads",
 "summary": "Ended after the 1857 uprising.",
 "wiki": "Mughal_Empire",
@@ -848,7 +884,8 @@
 "technology": "Gunpowder warfare, revenue survey (zabt), miniature painting",
 "rise": "Babur's victory at Panipat",
 "fall": "Succession wars, Marathas, British",
-"legacy": "Indo-Persian culture, cuisine and architecture"
+"legacy": "Indo-Persian culture, cuisine and architecture",
+"culture": "Miniature painting, Persian and Urdu poetry, Hindustani music, gardens, and cuisine such as biryani."
 },
 {
 "name": "Maratha Confederacy",
@@ -858,7 +895,7 @@
 "region": "India",
 "capital": "Raigad, Pune",
 "known_for": "Shivaji, Peshwas, guerrilla warfare, navy",
-"life": "Hill forts, chauth tax",
+"life": "Deccan peasants, soldiers and hill-fort garrisons.",
 "food": "Bhakri, jowar",
 "summary": "Became the dominant Indian power in the 18th century.",
 "wiki": "Maratha_Confederacy",
@@ -871,7 +908,8 @@
 "technology": "Guerrilla warfare, navy",
 "rise": "Shivaji's rebellion against the Mughals",
 "fall": "Panipat 1761, Anglo-Maratha Wars",
-"legacy": "Regional pride and resistance"
+"legacy": "Regional pride and resistance",
+"culture": "Bhakti saints like Tukaram and festivals such as Ganesh Chaturthi."
 },
 {
 "name": "Sikh Empire",
@@ -881,7 +919,7 @@
 "region": "Punjab",
 "capital": "Lahore",
 "known_for": "Maharaja Ranjit Singh, the Koh-i-Noor",
-"life": "A powerful secular state",
+"life": "Punjabi farmers and soldiers in a multi-faith state.",
 "food": "Wheat, dairy",
 "summary": "Annexed by the East India Company in 1849.",
 "wiki": "Sikh_Empire",
@@ -894,7 +932,8 @@
 "technology": "European-trained army",
 "rise": "Ranjit Singh unified misls",
 "fall": "Anglo-Sikh Wars",
-"legacy": "Sikh statehood memory"
+"legacy": "Sikh statehood memory",
+"culture": "Gurdwara langar, Baisakhi and the gilding of the Golden Temple."
 },
 {
 "name": "Kingdom of Mysore",
@@ -904,7 +943,7 @@
 "region": "Karnataka",
 "capital": "Mysore, Srirangapatna",
 "known_for": "Hyder Ali, Tipu Sultan's war rockets",
-"life": "Silk, sandalwood",
+"life": "Farmers and silk weavers; artisans for the court.",
 "food": "Ragi, rice",
 "summary": "Tipu's Mysorean rockets influenced British rocketry.",
 "wiki": "Kingdom_of_Mysore",
@@ -917,7 +956,8 @@
 "technology": "Iron-cased rockets",
 "rise": "Rise of Hyder Ali",
 "fall": "Fall of Srirangapatna (1799)",
-"legacy": "Rocketry"
+"legacy": "Rocketry",
+"culture": "Mysore Dasara and Mysore painting."
 },
 {
 "name": "East India Company rule",
@@ -927,7 +967,7 @@
 "region": "India",
 "capital": "Calcutta",
 "known_for": "Plassey, revenue extraction, Permanent Settlement",
-"life": "Company tax collectors, indigo and opium cultivation",
+"life": "Peasants paid high land revenue; weavers lost markets to British cloth.",
 "food": "—",
 "summary": "A private company ruled India with its own army of ~260,000.",
 "wiki": "Company_rule_in_India",
@@ -940,7 +980,8 @@
 "technology": "Survey of India, telegraph (later)",
 "rise": "Victory at Plassey",
 "fall": "1857 rebellion",
-"legacy": "Colonial administration"
+"legacy": "Colonial administration",
+"culture": "Company paintings and early printing presses in Calcutta."
 },
 {
 "name": "British Raj",
@@ -950,7 +991,7 @@
 "region": "India",
 "capital": "Calcutta, then New Delhi",
 "known_for": "Railways, famines, the national movement",
-"life": "Colonial administration; drain of wealth",
+"life": "Most Indians remained farmers facing famines; cities grew with mills, railways and an English-educated middle class.",
 "food": "—",
 "summary": "Ended with Independence and Partition in 1947.",
 "wiki": "British_Raj",
@@ -963,7 +1004,8 @@
 "technology": "Railways, telegraph, census",
 "rise": "Crown took over after 1857",
 "fall": "Independence movement, WWII",
-"legacy": "Modern Indian state institutions"
+"legacy": "Modern Indian state institutions",
+"culture": "The Bengal Renaissance, new Indian newspapers, and the rise of nationalism."
 },
 {
 "name": "Xia and Shang China",
@@ -973,7 +1015,7 @@
 "region": "Yellow River",
 "capital": "Anyang",
 "known_for": "Oracle bones, bronze casting",
-"life": "Kings, diviners and farmers",
+"life": "Millet farmers, bronze casters and diviners lived around royal centres.",
 "food": "Millet, rice",
 "summary": "The earliest Chinese writing on oracle bones.",
 "wiki": "Shang_dynasty",
@@ -986,7 +1028,8 @@
 "technology": "Bronze casting, oracle-bone writing, chariots",
 "rise": "Yellow River farming chiefdoms",
 "fall": "Zhou conquest",
-"legacy": "Chinese writing"
+"legacy": "Chinese writing",
+"culture": "Ancestor worship and oracle-bone divination."
 },
 {
 "name": "Zhou dynasty",
@@ -996,7 +1039,7 @@
 "region": "China",
 "capital": "Haojing, Luoyang",
 "known_for": "Mandate of Heaven, Confucius, Laozi",
-"life": "Feudal states, later warring kingdoms",
+"life": "Peasants worked land for lords under a feudal order.",
 "food": "Millet, wheat",
 "summary": "China's longest dynasty.",
 "wiki": "Zhou_dynasty",
@@ -1009,7 +1052,8 @@
 "technology": "Iron tools, crossbows (late)",
 "rise": "Overthrew the Shang",
 "fall": "Warring States",
-"legacy": "Confucian and Taoist philosophy"
+"legacy": "Confucian and Taoist philosophy",
+"culture": "Confucian rites, the Book of Songs and Taoist ideas."
 },
 {
 "name": "Qin dynasty",
@@ -1019,7 +1063,7 @@
 "region": "China",
 "capital": "Xianyang",
 "known_for": "Unification, the Terracotta Army, standard script",
-"life": "Harsh legalist rule; forced labour",
+"life": "Peasants were conscripted for armies and huge building projects.",
 "food": "Millet, wheat",
 "summary": "Gave China its name.",
 "wiki": "Qin_dynasty",
@@ -1032,7 +1076,8 @@
 "technology": "Standardised script, roads, weights",
 "rise": "Conquest of the six states",
 "fall": "Revolts after harsh rule",
-"legacy": "Unified China"
+"legacy": "Unified China",
+"culture": "Standardised writing and legalist philosophy."
 },
 {
 "name": "Han dynasty",
@@ -1042,7 +1087,7 @@
 "region": "China",
 "capital": "Chang'an, Luoyang",
 "known_for": "Paper, the Silk Road, Confucian civil service",
-"life": "Peasant farmers, iron ploughs",
+"life": "Peasant families farmed with iron ploughs; officials studied Confucian classics.",
 "food": "Millet, wheat, rice, soy",
 "summary": "Han is still the name of China's majority people.",
 "wiki": "Han_dynasty",
@@ -1055,7 +1100,8 @@
 "technology": "Paper, seismoscope, blast furnaces",
 "rise": "Liu Bang's victory",
 "fall": "Yellow Turbans, warlords",
-"legacy": "Han identity, Silk Road"
+"legacy": "Han identity, Silk Road",
+"culture": "Silk, lacquer, paper and the historian Sima Qian."
 },
 {
 "name": "Tang dynasty",
@@ -1065,7 +1111,7 @@
 "region": "China",
 "capital": "Chang'an",
 "known_for": "Poetry, woodblock printing, cosmopolitan capital",
-"life": "Chang'an had a million people",
+"life": "Chang'an was a cosmopolitan city of about a million.",
 "food": "Rice, tea",
 "summary": "A golden age of Chinese culture.",
 "wiki": "Tang_dynasty",
@@ -1078,7 +1124,8 @@
 "technology": "Woodblock printing, porcelain",
 "rise": "Li Yuan's rise",
 "fall": "An Lushan rebellion",
-"legacy": "Golden age of poetry"
+"legacy": "Golden age of poetry",
+"culture": "Poetry of Li Bai and Du Fu, tea culture and Buddhist art."
 },
 {
 "name": "Song dynasty",
@@ -1088,7 +1135,7 @@
 "region": "China",
 "capital": "Kaifeng, Hangzhou",
 "known_for": "Gunpowder weapons, compass, movable type, paper money",
-"life": "Commercial cities and rice economy",
+"life": "Commercial towns, rice farmers and scholar-officials.",
 "food": "Rice, tea",
 "summary": "The world's most advanced economy of its time.",
 "wiki": "Song_dynasty",
@@ -1101,7 +1148,8 @@
 "technology": "Gunpowder weapons, compass, movable type, paper money",
 "rise": "Coup by Zhao Kuangyin",
 "fall": "Mongol conquest",
-"legacy": "Commercial revolution"
+"legacy": "Commercial revolution",
+"culture": "Landscape painting, printed books and the tea house."
 },
 {
 "name": "Yuan dynasty",
@@ -1111,7 +1159,7 @@
 "region": "China",
 "capital": "Dadu (Beijing)",
 "known_for": "Kublai Khan, Marco Polo",
-"life": "Mongol rule",
+"life": "Mongol, Chinese and foreign populations under a layered order.",
 "food": "Mutton, dairy, rice",
 "summary": "Founded by Genghis Khan's grandson.",
 "wiki": "Yuan_dynasty",
@@ -1124,7 +1172,8 @@
 "technology": "Grand Canal extension",
 "rise": "Kublai Khan's conquest",
 "fall": "Rebellions",
-"legacy": "Opened China to Eurasia"
+"legacy": "Opened China to Eurasia",
+"culture": "Yuan drama and blue-and-white porcelain."
 },
 {
 "name": "Ming dynasty",
@@ -1134,7 +1183,7 @@
 "region": "China",
 "capital": "Nanjing, Beijing",
 "known_for": "Forbidden City, Zheng He's voyages, porcelain",
-"life": "Imperial bureaucracy",
+"life": "A large farming population and busy market towns.",
 "food": "Rice, sweet potato (new)",
 "summary": "Rebuilt the Great Wall in stone.",
 "wiki": "Ming_dynasty",
@@ -1147,7 +1196,8 @@
 "technology": "Treasure ships",
 "rise": "Zhu Yuanzhang expelled the Mongols",
 "fall": "Peasant revolts, Manchu conquest",
-"legacy": "Porcelain and exploration"
+"legacy": "Porcelain and exploration",
+"culture": "Porcelain, Ming novels and the Forbidden City."
 },
 {
 "name": "Qing dynasty",
@@ -1157,7 +1207,7 @@
 "region": "China",
 "capital": "Beijing",
 "known_for": "Manchu rule, Opium Wars",
-"life": "Population boom to ~400 million",
+"life": "A population boom to about 400 million farmers.",
 "food": "Rice, maize",
 "summary": "China's last imperial dynasty.",
 "wiki": "Qing_dynasty",
@@ -1170,7 +1220,8 @@
 "technology": "—",
 "rise": "Manchu conquest",
 "fall": "Opium Wars, Taiping, 1911",
-"legacy": "Modern China's borders"
+"legacy": "Modern China's borders",
+"culture": "Peking opera and Qing literature."
 },
 {
 "name": "Goguryeo, Baekje and Silla",
@@ -1180,7 +1231,7 @@
 "region": "Korea",
 "capital": "Gyeongju",
 "known_for": "Three Kingdoms, Silla's unification",
-"life": "Aristocratic bone-rank system",
+"life": "Farmers and aristocratic elites.",
 "food": "Rice, kimchi",
 "summary": "Silla's capital Gyeongju had an observatory (Cheomseongdae).",
 "wiki": "Three_Kingdoms_of_Korea",
@@ -1193,7 +1244,8 @@
 "technology": "Cheomseongdae observatory",
 "rise": "Three rival kingdoms",
 "fall": "Silla unified, then fragmented",
-"legacy": "Korean identity"
+"legacy": "Korean identity",
+"culture": "Buddhist temples such as Bulguksa."
 },
 {
 "name": "Joseon Korea",
@@ -1203,7 +1255,7 @@
 "region": "Korea",
 "capital": "Hanseong (Seoul)",
 "known_for": "Hangul alphabet (1443), Confucian state",
-"life": "Yangban scholars",
+"life": "Confucian society of yangban, farmers and artisans.",
 "food": "Rice, kimchi",
 "summary": "King Sejong created Hangul.",
 "wiki": "Joseon",
@@ -1216,7 +1268,8 @@
 "technology": "Hangul, rain gauge, turtle ships",
 "rise": "Yi Seong-gye's coup",
 "fall": "Japanese annexation",
-"legacy": "Hangul alphabet"
+"legacy": "Hangul alphabet",
+"culture": "Hangul, pansori and kimchi culture."
 },
 {
 "name": "Heian Japan",
@@ -1226,7 +1279,7 @@
 "region": "Japan",
 "capital": "Heian-kyō (Kyoto)",
 "known_for": "The Tale of Genji, court culture",
-"life": "Aristocrats and peasants",
+"life": "Aristocrats in Kyoto; peasants farmed rice.",
 "food": "Rice, fish",
 "summary": "The world's first novel by Murasaki Shikibu.",
 "wiki": "Heian_period",
@@ -1239,7 +1292,8 @@
 "technology": "Kana writing",
 "rise": "Capital moved to Heian-kyō",
 "fall": "Rise of samurai",
-"legacy": "Tale of Genji"
+"legacy": "Tale of Genji",
+"culture": "The Tale of Genji and waka poetry."
 },
 {
 "name": "Edo Japan (Tokugawa)",
@@ -1249,7 +1303,7 @@
 "region": "Japan",
 "capital": "Edo (Tokyo)",
 "known_for": "Samurai, isolation (sakoku), ukiyo-e",
-"life": "Peaceful, rigid class society",
+"life": "Samurai, farmers, artisans and merchants.",
 "food": "Rice, sushi, tofu",
 "summary": "Edo became one of the largest cities.",
 "wiki": "Edo_period",
@@ -1262,7 +1316,8 @@
 "technology": "Woodblock prints",
 "rise": "Sekigahara",
 "fall": "Meiji Restoration",
-"legacy": "Kabuki, ukiyo-e"
+"legacy": "Kabuki, ukiyo-e",
+"culture": "Kabuki, haiku (Bashō) and ukiyo-e prints."
 },
 {
 "name": "Funan",
@@ -1272,7 +1327,7 @@
 "region": "Mekong delta",
 "capital": "Vyadhapura",
 "known_for": "Indianised port kingdom",
-"life": "Maritime trade",
+"life": "Farmers and port traders.",
 "food": "Rice",
 "summary": "An early Southeast Asian state.",
 "wiki": "Funan",
@@ -1285,7 +1340,8 @@
 "technology": "Canals",
 "rise": "Maritime trade",
 "fall": "Chenla",
-"legacy": "Early Southeast Asian state"
+"legacy": "Early Southeast Asian state",
+"culture": "Hindu and Buddhist worship."
 },
 {
 "name": "Srivijaya",
@@ -1295,7 +1351,7 @@
 "region": "Sumatra, Malaya",
 "capital": "Palembang",
 "known_for": "Maritime trade empire, Buddhist learning",
-"life": "Controlled the Strait of Malacca",
+"life": "Sailors and traders around Palembang.",
 "food": "Rice, spices",
 "summary": "Studied by Chinese pilgrim Yijing.",
 "wiki": "Srivijaya",
@@ -1308,7 +1364,8 @@
 "technology": "Navigation",
 "rise": "Strait control",
 "fall": "Chola raids",
-"legacy": "Buddhist learning"
+"legacy": "Buddhist learning",
+"culture": "Buddhist learning centres."
 },
 {
 "name": "Khmer Empire",
@@ -1318,7 +1375,7 @@
 "region": "Cambodia",
 "capital": "Angkor",
 "known_for": "Angkor Wat, giant reservoirs (barays)",
-"life": "Rice farmers supporting a god-king",
+"life": "Rice farmers supporting temple cities.",
 "food": "Rice, fish",
 "summary": "Angkor may have been the largest pre-industrial city.",
 "wiki": "Khmer_Empire",
@@ -1331,7 +1388,8 @@
 "technology": "Barays (reservoirs)",
 "rise": "Jayavarman II's independence",
 "fall": "Ayutthaya and failing water systems",
-"legacy": "Angkor"
+"legacy": "Angkor",
+"culture": "Apsara dance and Angkor's reliefs."
 },
 {
 "name": "Majapahit",
@@ -1341,7 +1399,7 @@
 "region": "Java",
 "capital": "Trowulan",
 "known_for": "Largest Indonesian empire",
-"life": "Hindu-Buddhist court culture",
+"life": "Farmers and traders across Java.",
 "food": "Rice",
 "summary": "Inspired Indonesian nationalism.",
 "wiki": "Majapahit",
@@ -1354,7 +1412,8 @@
 "technology": "Navy",
 "rise": "Raden Wijaya",
 "fall": "Sultanates",
-"legacy": "Indonesian unity ideal"
+"legacy": "Indonesian unity ideal",
+"culture": "Wayang shadow puppetry and Old Javanese poetry."
 },
 {
 "name": "Polynesian voyagers",
@@ -1377,7 +1436,8 @@
 "technology": "Double-hulled canoes, star navigation",
 "rise": "Sailing from Taiwan and Samoa",
 "fall": "—",
-"legacy": "Settled the Pacific"
+"legacy": "Settled the Pacific",
+"culture": "Tattooing, navigation lore and oral genealogies."
 },
 {
 "name": "Minoan civilisation",
@@ -1387,7 +1447,7 @@
 "region": "Crete",
 "capital": "Knossos",
 "known_for": "Palaces, frescoes, Linear A",
-"life": "Seafaring traders",
+"life": "Farmers, sailors and palace craftsmen.",
 "food": "Olives, wine, fish",
 "summary": "Weakened by the Thera eruption.",
 "wiki": "Minoan_civilization",
@@ -1400,7 +1460,8 @@
 "technology": "Plumbing, frescoes",
 "rise": "Cretan trade",
 "fall": "Thera eruption, Mycenaean takeover",
-"legacy": "Aegean art"
+"legacy": "Aegean art",
+"culture": "Bull-leaping frescoes."
 },
 {
 "name": "Mycenaean Greece",
@@ -1410,7 +1471,7 @@
 "region": "Greece",
 "capital": "Mycenae",
 "known_for": "Linear B, Trojan War legends",
-"life": "Warrior palace states",
+"life": "Palace economies of farmers and warriors.",
 "food": "Barley, olives",
 "summary": "Fell in the Bronze Age collapse.",
 "wiki": "Mycenaean_Greece",
@@ -1423,7 +1484,8 @@
 "technology": "Linear B",
 "rise": "Mainland warrior states",
 "fall": "Bronze Age collapse",
-"legacy": "Homeric legends"
+"legacy": "Homeric legends",
+"culture": "Gold masks and epic oral tradition."
 },
 {
 "name": "Classical Greece",
@@ -1433,7 +1495,7 @@
 "region": "Greece",
 "capital": "Athens, Sparta",
 "known_for": "Democracy, philosophy, theatre, Olympics",
-"life": "Citizens, women excluded, many enslaved people",
+"life": "Citizen farmers, artisans and enslaved workers.",
 "food": "Bread, olives, wine, fish",
 "summary": "Socrates, Plato, Aristotle, the Parthenon.",
 "wiki": "Classical_Greece",
@@ -1446,7 +1508,8 @@
 "technology": "Philosophy, geometry, theatre",
 "rise": "Greek victories over Persia",
 "fall": "Peloponnesian War, Macedon",
-"legacy": "Democracy and philosophy"
+"legacy": "Democracy and philosophy",
+"culture": "Theatre, the Olympics and philosophy."
 },
 {
 "name": "Macedonian Empire",
@@ -1456,7 +1519,7 @@
 "region": "Greece to India",
 "capital": "Pella, Babylon",
 "known_for": "Alexander the Great",
-"life": "Conquest spreads Hellenistic culture",
+"life": "Soldiers and settlers across new cities.",
 "food": "—",
 "summary": "Reached the Beas River in Punjab (326 BCE).",
 "wiki": "Macedonia_(ancient_kingdom)",
@@ -1469,7 +1532,8 @@
 "technology": "Phalanx tactics",
 "rise": "Philip II and Alexander",
 "fall": "Split among generals",
-"legacy": "Hellenistic culture"
+"legacy": "Hellenistic culture",
+"culture": "Hellenistic art and libraries."
 },
 {
 "name": "Roman Republic",
@@ -1492,7 +1556,8 @@
 "technology": "Roads, legions",
 "rise": "Conquest of Italy",
 "fall": "Civil wars",
-"legacy": "Republican ideals"
+"legacy": "Republican ideals",
+"culture": "Roman law and festivals like Saturnalia."
 },
 {
 "name": "Roman Empire",
@@ -1502,7 +1567,7 @@
 "region": "Mediterranean, Europe",
 "capital": "Rome, Constantinople",
 "known_for": "Roads, aqueducts, concrete, Roman law, Christianity",
-"life": "Cities with baths and arenas; ~10–20% enslaved",
+"life": "City dwellers in insulae, peasants and enslaved workers.",
 "food": "Bread dole, wine, olive oil",
 "summary": "The Western Empire fell in 476 CE; the Eastern lasted to 1453.",
 "wiki": "Roman_Empire",
@@ -1515,7 +1580,8 @@
 "technology": "Concrete, aqueducts, law",
 "rise": "Augustus",
 "fall": "Crises, invasions",
-"legacy": "Law, Latin, Christianity"
+"legacy": "Law, Latin, Christianity",
+"culture": "Baths, games, Latin literature."
 },
 {
 "name": "Byzantine Empire",
@@ -1525,7 +1591,7 @@
 "region": "Eastern Mediterranean",
 "capital": "Constantinople",
 "known_for": "Hagia Sophia, Justinian's code, Orthodox Christianity",
-"life": "Greek-speaking Roman state",
+"life": "Farmers, monks and urban traders.",
 "food": "Bread, fish, wine",
 "summary": "Fell to the Ottomans in 1453.",
 "wiki": "Byzantine_Empire",
@@ -1538,7 +1604,8 @@
 "technology": "Greek fire",
 "rise": "Eastern Roman continuity",
 "fall": "Ottoman conquest",
-"legacy": "Orthodox Christianity"
+"legacy": "Orthodox Christianity",
+"culture": "Icons, mosaics and chariot races."
 },
 {
 "name": "Celts",
@@ -1548,7 +1615,7 @@
 "region": "Central and Western Europe",
 "capital": "—",
 "known_for": "Hill forts, La Tène art, druids",
-"life": "Tribal farmers and warriors",
+"life": "Tribal farmers and warriors.",
 "food": "Wheat, pork, beer",
 "summary": "Conquered by Rome except in Ireland and northern Britain.",
 "wiki": "Celts",
@@ -1561,7 +1628,8 @@
 "technology": "Iron working, chain mail",
 "rise": "Spread across Europe",
 "fall": "Roman conquest",
-"legacy": "Celtic languages and art"
+"legacy": "Celtic languages and art",
+"culture": "Druidic rituals and La Tène art."
 },
 {
 "name": "Vikings",
@@ -1571,7 +1639,7 @@
 "region": "Scandinavia, North Atlantic",
 "capital": "—",
 "known_for": "Longships, raids, Iceland, Greenland, Vinland",
-"life": "Farmers, traders and raiders",
+"life": "Farmers, sailors and traders.",
 "food": "Fish, porridge, mead",
 "summary": "Reached North America ~1000 CE.",
 "wiki": "Vikings",
@@ -1584,7 +1652,8 @@
 "technology": "Longships, navigation",
 "rise": "Raiding and trading",
 "fall": "Christianisation, kingdoms",
-"legacy": "Iceland's parliament"
+"legacy": "Iceland's parliament",
+"culture": "Sagas, runes and the thing assembly."
 },
 {
 "name": "Holy Roman Empire",
@@ -1594,7 +1663,7 @@
 "region": "Central Europe",
 "capital": "Aachen, Vienna",
 "known_for": "Charlemagne, a patchwork of states",
-"life": "Feudal princes",
+"life": "Peasants under lords; free cities of merchants.",
 "food": "Bread, beer",
 "summary": "'Neither holy, nor Roman, nor an empire' — Voltaire.",
 "wiki": "Holy_Roman_Empire",
@@ -1607,7 +1676,8 @@
 "technology": "Printing (Gutenberg)",
 "rise": "Charlemagne",
 "fall": "Napoleon",
-"legacy": "Federal traditions"
+"legacy": "Federal traditions",
+"culture": "Gothic cathedrals and printing."
 },
 {
 "name": "Kievan Rus'",
@@ -1630,7 +1700,8 @@
 "technology": "—",
 "rise": "Varangian rule",
 "fall": "Mongol invasion",
-"legacy": "East Slavic culture"
+"legacy": "East Slavic culture",
+"culture": "Orthodox icons and onion domes."
 },
 {
 "name": "Spanish Empire",
@@ -1640,7 +1711,7 @@
 "region": "Global",
 "capital": "Madrid",
 "known_for": "Conquest of the Americas, silver of Potosí",
-"life": "Colonies, missions, encomienda forced labour",
+"life": "Colonists, Indigenous labourers and enslaved Africans.",
 "food": "—",
 "summary": "'The empire on which the sun never sets' (first).",
 "wiki": "Spanish_Empire",
@@ -1653,7 +1724,8 @@
 "technology": "Galleons",
 "rise": "Columbus and conquistadors",
 "fall": "Independence wars",
-"legacy": "Spanish language worldwide"
+"legacy": "Spanish language worldwide",
+"culture": "Baroque churches and mestizo culture."
 },
 {
 "name": "Portuguese Empire",
@@ -1663,7 +1735,7 @@
 "region": "Global",
 "capital": "Lisbon",
 "known_for": "First global sea empire; Goa (to 1961)",
-"life": "Trading forts and plantations",
+"life": "Sailors, traders and colonists.",
 "food": "—",
 "summary": "Vasco da Gama reached India in 1498.",
 "wiki": "Portuguese_Empire",
@@ -1676,7 +1748,8 @@
 "technology": "Caravels",
 "rise": "Henry the Navigator",
 "fall": "Decolonisation",
-"legacy": "First global sea empire"
+"legacy": "First global sea empire",
+"culture": "Azulejo tiles and Indo-Portuguese culture in Goa."
 },
 {
 "name": "British Empire",
@@ -1686,7 +1759,7 @@
 "region": "Global",
 "capital": "London",
 "known_for": "At its peak ruled ~a quarter of the world's land and people",
-"life": "Colonies, settlers, indentured labour",
+"life": "Settlers, colonial subjects and indentured labourers.",
 "food": "Tea, sugar",
 "summary": "India was its most valuable colony.",
 "wiki": "British_Empire",
@@ -1699,7 +1772,8 @@
 "technology": "Steamships, railways",
 "rise": "Trade companies and navy",
 "fall": "Decolonisation",
-"legacy": "English and Commonwealth"
+"legacy": "English and Commonwealth",
+"culture": "Cricket, the English language and global sport."
 },
 {
 "name": "Russian Empire",
@@ -1709,7 +1783,7 @@
 "region": "Eurasia",
 "capital": "St Petersburg",
 "known_for": "Peter the Great, serfdom, expansion to the Pacific",
-"life": "Serf-based agriculture",
+"life": "Serfs, nobles and merchants.",
 "food": "Rye bread, cabbage",
 "summary": "Ended in the 1917 revolution.",
 "wiki": "Russian_Empire",
@@ -1722,7 +1796,8 @@
 "technology": "—",
 "rise": "Peter the Great",
 "fall": "1917 revolution",
-"legacy": "Russian expansion"
+"legacy": "Russian expansion",
+"culture": "Tolstoy, Tchaikovsky and Orthodox festivals."
 },
 {
 "name": "Soviet Union",
@@ -1732,7 +1807,7 @@
 "region": "Eurasia",
 "capital": "Moscow",
 "known_for": "Communism, industrialisation, space race",
-"life": "Collective farms, five-year plans",
+"life": "Collective farmers and industrial workers.",
 "food": "Bread, potatoes",
 "summary": "Dissolved into 15 states in 1991.",
 "wiki": "Soviet_Union",
@@ -1745,7 +1820,8 @@
 "technology": "Space programme, nuclear power",
 "rise": "1917 revolution",
 "fall": "1991 dissolution",
-"legacy": "Cold War legacy"
+"legacy": "Cold War legacy",
+"culture": "Constructivist art, ballet and space-age culture."
 },
 {
 "name": "Norte Chico (Caral)",
@@ -1768,7 +1844,8 @@
 "technology": "Quipu (possible)",
 "rise": "Coastal fishing and farming",
 "fall": "Decline",
-"legacy": "Oldest American civilisation"
+"legacy": "Oldest American civilisation",
+"culture": "Flutes and ceremonial plazas."
 },
 {
 "name": "Olmec",
@@ -1778,7 +1855,7 @@
 "region": "Gulf of Mexico",
 "capital": "San Lorenzo, La Venta",
 "known_for": "Colossal stone heads",
-"life": "Ceremonial centres",
+"life": "Farmers and ceremonial centres.",
 "food": "Maize, beans, squash",
 "summary": "The 'mother culture' of Mesoamerica.",
 "wiki": "Olmecs",
@@ -1791,7 +1868,8 @@
 "technology": "Rubber, possible writing",
 "rise": "Gulf farming",
 "fall": "Environmental change",
-"legacy": "Mesoamerican culture"
+"legacy": "Mesoamerican culture",
+"culture": "Jaguar imagery and the ballgame."
 },
 {
 "name": "Maya civilisation",
@@ -1801,7 +1879,7 @@
 "region": "Yucatán, Guatemala, Belize",
 "capital": "Tikal, Calakmul, Chichén Itzá",
 "known_for": "Full writing system, calendar, zero, astronomy",
-"life": "City-states of farmers, scribes and kings",
+"life": "Maize farmers in villages around temple cities.",
 "food": "Maize (tortillas, tamales), beans, cacao",
 "summary": "Classic cities declined amid drought and war around 800–900 CE.",
 "wiki": "Maya_civilization",
@@ -1814,7 +1892,8 @@
 "technology": "Writing, zero, calendar",
 "rise": "Village growth",
 "fall": "Drought and warfare (~800–900 CE)",
-"legacy": "Maya peoples today"
+"legacy": "Maya peoples today",
+"culture": "The ballgame, glyph writing and the Popol Vuh."
 },
 {
 "name": "Teotihuacan",
@@ -1824,7 +1903,7 @@
 "region": "Valley of Mexico",
 "capital": "Teotihuacan",
 "known_for": "Pyramids of the Sun and Moon",
-"life": "A planned city of ~100,000",
+"life": "Craftsmen and farmers in apartment compounds.",
 "food": "Maize, beans",
 "summary": "Its name means 'place where the gods were created'.",
 "wiki": "Teotihuacan",
@@ -1837,7 +1916,8 @@
 "technology": "Urban planning",
 "rise": "Obsidian trade",
 "fall": "Fire and revolt (~550)",
-"legacy": "Aztec reverence"
+"legacy": "Aztec reverence",
+"culture": "Feathered serpent imagery."
 },
 {
 "name": "Aztec Empire",
@@ -1847,7 +1927,7 @@
 "region": "Central Mexico",
 "capital": "Tenochtitlan",
 "known_for": "Floating gardens (chinampas), causeways, markets",
-"life": "Tribute empire; calpulli neighbourhoods",
+"life": "Calpulli neighbourhoods of farmers and artisans.",
 "food": "Maize, beans, chilli, chocolate, amaranth",
 "summary": "Tenochtitlan (~200,000) fell to Cortés and smallpox.",
 "wiki": "Aztec_Empire",
@@ -1860,7 +1940,8 @@
 "technology": "Chinampas",
 "rise": "Mexica alliance",
 "fall": "Spanish conquest, smallpox",
-"legacy": "Mexican identity"
+"legacy": "Mexican identity",
+"culture": "Feathered art, poetry and markets like Tlatelolco."
 },
 {
 "name": "Inca Empire",
@@ -1870,7 +1951,7 @@
 "region": "Andes",
 "capital": "Cusco",
 "known_for": "Machu Picchu, 40,000 km of roads, quipu knots",
-"life": "Mit'a labour, terrace farming, storehouses",
+"life": "Ayllu kin groups of farmers owing labour (mit'a).",
 "food": "Potatoes (chuño), maize, quinoa, llama meat",
 "summary": "The largest empire in the pre-Columbian Americas.",
 "wiki": "Inca_Empire",
@@ -1883,7 +1964,8 @@
 "technology": "Roads, quipu, terraces",
 "rise": "Pachacuti's conquests",
 "fall": "Civil war, smallpox, Pizarro",
-"legacy": "Andean heritage"
+"legacy": "Andean heritage",
+"culture": "Inti Raymi and fine textiles."
 },
 {
 "name": "Ancestral Puebloans",
@@ -1906,7 +1988,8 @@
 "technology": "Dry farming",
 "rise": "Maize farming",
 "fall": "Great drought",
-"legacy": "Pueblo peoples"
+"legacy": "Pueblo peoples",
+"culture": "Kivas and pottery."
 },
 {
 "name": "Mississippian culture",
@@ -1916,7 +1999,7 @@
 "region": "Eastern USA",
 "capital": "Cahokia",
 "known_for": "Earthen mound cities",
-"life": "Cahokia had ~10,000–20,000 people",
+"life": "Maize farmers around mound centres.",
 "food": "Maize, beans, squash",
 "summary": "Monks Mound is the largest pre-Columbian earthwork north of Mexico.",
 "wiki": "Mississippian_culture",
@@ -1929,7 +2012,8 @@
 "technology": "Maize farming",
 "rise": "Cahokia's rise",
 "fall": "Decline",
-"legacy": "Mound-building heritage"
+"legacy": "Mound-building heritage",
+"culture": "Shell gorgets and ceremonial mounds."
 },
 {
 "name": "Haudenosaunee Confederacy",
@@ -1939,7 +2023,7 @@
 "region": "Northeast USA, Canada",
 "capital": "Onondaga",
 "known_for": "Great Law of Peace",
-"life": "Longhouse villages; women chose chiefs",
+"life": "Longhouse families led by clan mothers.",
 "food": "Three Sisters: maize, beans, squash",
 "summary": "Influenced debates about American federalism.",
 "wiki": "Iroquois",
@@ -1952,7 +2036,8 @@
 "technology": "Three Sisters farming",
 "rise": "Great Law of Peace",
 "fall": "Colonial wars",
-"legacy": "Democratic ideals"
+"legacy": "Democratic ideals",
+"culture": "The Great Law of Peace and wampum belts."
 },
 {
 "name": "United States",
@@ -1962,7 +2047,7 @@
 "region": "North America",
 "capital": "Washington, D.C.",
 "known_for": "Constitution, industrial and military power",
-"life": "Democracy built alongside slavery until 1865",
+"life": "Farmers, industrial workers and later a service economy.",
 "food": "—",
 "summary": "Became the leading world power after 1945.",
 "wiki": "United_States",
@@ -1975,6 +2060,7 @@
 "technology": "Industrial and digital technology",
 "rise": "Revolution",
 "fall": "—",
-"legacy": "Superpower"
+"legacy": "Superpower",
+"culture": "Jazz, Hollywood and the internet."
 }
 ]

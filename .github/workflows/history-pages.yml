@@ -1,4 +1,4 @@
-name: History encyclopedia (build & deploy to Pages)
+name: History encyclopedia (build & link check)
 
 on:
   push:
@@ -8,11 +8,9 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: history-pages
+  group: history-build
   cancel-in-progress: true
 
 jobs:
@@ -30,20 +28,3 @@ jobs:
         run: SKIP_PDF=1 python history/scripts/build_site.py
       - name: Check links
         run: python history/scripts/check_links.py
-      - name: Assemble site
-        run: |
-          mkdir -p _site
-          cp -r history/index.html history/wiki history/assets history/prompts.md _site/
-          touch _site/.nojekyll
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
