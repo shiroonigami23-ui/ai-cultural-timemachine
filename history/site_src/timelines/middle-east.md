@@ -1,9 +1,9 @@
 ---
 title: Timeline: Middle East
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (83 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (88 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (83 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (88 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -48,17 +48,19 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (11)
+:::collapse !Iron Age (1200–500 BCE) (13)
 <div class="timeline">
 <div class="ev"><span class="yr">1200 BCE</span>: 📅 Technology: <a href="/wiki/events/iron-smelting-spreads.html">Iron smelting spreads</a> — Iron Age begins</div>
 <div class="ev"><span class="yr">1200 BCE</span>: 👤 Born: <a href="/wiki/people/zoroaster.html">Zoroaster</a> — Founded Zoroastrianism</div>
 <div class="ev"><span class="yr">1177 BCE</span>: 📅 Invasion: <a href="/wiki/events/sea-peoples-raids.html">Sea Peoples&#x27; raids</a> — Part of the Late Bronze Age collapse</div>
 <div class="ev"><span class="yr">1050 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ancient-israel-and-judah.html">Ancient Israel and Judah</a> — c. 1050–586 BCE</div>
+<div class="ev"><span class="yr">634 BCE</span>: 👤 Born: <a href="/wiki/people/nebuchadnezzar-ii.html">Nebuchadnezzar II</a> — Babylon&#x27;s walls and Ishtar Gate</div>
 <div class="ev"><span class="yr">612 BCE</span>: 📅 War: <a href="/wiki/events/fall-of-nineveh.html">Fall of Nineveh</a> — End of Assyria</div>
 <div class="ev"><span class="yr">600 BCE</span>: 👤 Born: <a href="/wiki/people/cyrus-the-great.html">Cyrus the Great</a> — Founded the Achaemenid Empire</div>
 <div class="ev"><span class="yr">587 BCE</span>: 📅 Conquest: <a href="/wiki/events/babylonian-captivity.html">Babylonian captivity</a> — Jewish exile</div>
 <div class="ev"><span class="yr">550 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/achaemenid-persian-empire.html">Achaemenid Persian Empire</a> — 550–330 BCE</div>
 <div class="ev"><span class="yr">550 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/achaemenid-dynasty.html">Achaemenid dynasty</a> — Cyrus the Great overthrew the Medes (550 BCE), conquered Lydia and Babylon (539 BCE), and his successors took Egypt and northwest India.</div>
+<div class="ev"><span class="yr">550 BCE</span>: 👤 Born: <a href="/wiki/people/darius-i.html">Darius I</a> — Organised the Achaemenid Empire</div>
 <div class="ev"><span class="yr">539 BCE</span>: 📅 Conquest: <a href="/wiki/events/cyrus-takes-babylon.html">Cyrus takes Babylon</a> — Persian Empire</div>
 <div class="ev"><span class="yr">518 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/persepolis.html">Persepolis</a> — Darius I</div>
 </div>
@@ -78,7 +80,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (15)
+:::collapse !Early medieval (500–1000) (16)
 <div class="timeline">
 <div class="ev"><span class="yr">537 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/hagia-sophia.html">Hagia Sophia</a> — Justinian</div>
 <div class="ev"><span class="yr">570 CE</span>: 👤 Born: <a href="/wiki/people/prophet-muhammad.html">Prophet Muhammad</a> — Founder of Islam</div>
@@ -94,16 +96,18 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">820 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/al-khwarizmi-s-algebra.html">Al-Khwarizmi&#x27;s Algebra</a> — c. 820</div>
 <div class="ev"><span class="yr">830 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/house-of-wisdom-translations.html">House of Wisdom translations</a> — 9th century</div>
 <div class="ev"><span class="yr">900 CE</span>: ⚙ Invention: <a href="/wiki/inventions/windmill.html">Windmill</a> — Persia</div>
+<div class="ev"><span class="yr">940 CE</span>: 👤 Born: <a href="/wiki/people/ferdowsi.html">Ferdowsi</a> — Shahnameh</div>
 <div class="ev"><span class="yr">980 CE</span>: 👤 Born: <a href="/wiki/people/ibn-sina-avicenna.html">Ibn Sina (Avicenna)</a> — Canon of Medicine</div>
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (12)
+:::collapse !Late medieval (1000–1500) (13)
 <div class="timeline">
 <div class="ev"><span class="yr">1025</span>: 📜 Manuscript: <a href="/wiki/manuscripts/ibn-sina-s-canon-of-medicine.html">Ibn Sina&#x27;s Canon of Medicine</a> — 1025</div>
 <div class="ev"><span class="yr">1037</span>: 👑 Dynasty: <a href="/wiki/dynasties/seljuk-empire.html">Seljuk Empire</a> — Tughril Beg led Oghuz Turks to take Baghdad in 1055. Alp Arslan defeated Byzantium at Manzikert (1071), opening Anatolia to Turks; vizier Ni</div>
 <div class="ev"><span class="yr">1071</span>: 📅 War: <a href="/wiki/events/battle-of-manzikert.html">Battle of Manzikert</a> — Turks enter Anatolia</div>
 <div class="ev"><span class="yr">1096</span>: 📅 War: <a href="/wiki/events/first-crusade.html">First Crusade</a> — Crusaders take Jerusalem</div>
+<div class="ev"><span class="yr">1137</span>: 👤 Born: <a href="/wiki/people/saladin.html">Saladin</a> — Retook Jerusalem</div>
 <div class="ev"><span class="yr">1171</span>: 👑 Dynasty: <a href="/wiki/dynasties/ayyubid-dynasty.html">Ayyubid dynasty</a> — Saladin, a Kurdish general, ended the Fatimids, united Egypt and Syria, and recaptured Jerusalem in 1187.</div>
 <div class="ev"><span class="yr">1187</span>: 📅 War: <a href="/wiki/events/saladin-retakes-jerusalem.html">Saladin retakes Jerusalem</a> — End of the Crusader kingdom&#x27;s core</div>
 <div class="ev"><span class="yr">1256</span>: 👑 Dynasty: <a href="/wiki/dynasties/ilkhanate.html">Ilkhanate</a> — Hulagu Khan, Genghis Khan&#x27;s grandson, destroyed the Assassins&#x27; fortresses and sacked Baghdad (1258), killing the last Abbasid cali</div>
@@ -123,8 +127,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (2)
+:::collapse Industrial and imperial age (1800–1945) (3)
 <div class="timeline">
+<div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/mustafa-kemal-atat-rk.html">Mustafa Kemal Atatürk</a> — Turkish Republic</div>
 <div class="ev"><span class="yr">1915</span>: 📅 Genocide: <a href="/wiki/events/armenian-genocide.html">Armenian genocide</a> — About 1 million Armenians killed</div>
 <div class="ev"><span class="yr">1923</span>: 📅 Politics: <a href="/wiki/events/turkish-republic-founded.html">Turkish Republic founded</a> — End of Ottoman rule</div>
 </div>

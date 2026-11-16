@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
       - run: pip install -r history/scripts/requirements.txt
       - name: Generate branching timelines
-        run: python history/scripts/make_timelines.py
+        run: python history/scripts/make_links.py && python history/scripts/make_timelines.py
       - name: Build the encyclopedia
         run: SKIP_PDF=1 python history/scripts/build_site.py
       - name: Check links

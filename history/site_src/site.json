@@ -14,10 +14,6 @@
    "oldest stone tools"
   ],
   [
-   "27",
-   "human species"
-  ],
-  [
    "86",
    "civilisations"
   ],
@@ -30,11 +26,15 @@
    "turning points"
   ],
   [
+   "234",
+   "historical figures"
+  ],
+  [
    "44",
    "manuscripts"
   ],
   [
-   "1034+",
+   "1,149+",
    "catalog entries"
   ]
  ],
@@ -498,12 +498,6 @@
      "label": "🗿 Monuments"
     },
     {
-     "type": "backname",
-     "coll": "people",
-     "theirs": "region",
-     "label": "👤 People"
-    },
-    {
      "type": "text",
      "coll": "events",
      "mine": "fall",
@@ -532,6 +526,12 @@
      "coll": "manuscripts",
      "theirs": "contents",
      "label": "📜 Manuscripts & texts"
+    },
+    {
+     "type": "backname",
+     "coll": "people",
+     "theirs": "link_text",
+     "label": "👤 People"
     }
    ],
    "prompt": "Photorealistic, historically accurate reconstruction of a busy street or court in the {name} ({when}) at its height in {region}, with period clothing, architecture and daily life, cinematic, 16:9, no text"
@@ -551,18 +551,6 @@
    "links": [
     {
      "type": "text",
-     "coll": "people",
-     "mine": "founder",
-     "label": "👤 Founder"
-    },
-    {
-     "type": "text",
-     "coll": "people",
-     "mine": "notable",
-     "label": "👤 Notable rulers"
-    },
-    {
-     "type": "text",
      "coll": "events",
      "mine": "fall",
      "label": "📅 How it ended"
@@ -572,6 +560,12 @@
      "coll": "events",
      "theirs": "summary",
      "label": "📅 Events"
+    },
+    {
+     "type": "backname",
+     "coll": "people",
+     "theirs": "link_text",
+     "label": "👤 People"
     }
    ],
    "id": "dynasties",
@@ -685,6 +679,10 @@
     [
      "summary",
      "What happened"
+    ],
+    [
+     "details",
+     "Causes, course and consequences"
     ]
    ],
    "columns": [
@@ -717,33 +715,33 @@
    "links": [
     {
      "type": "text",
-     "coll": "people",
-     "mine": "summary",
-     "label": "👤 People"
-    },
-    {
-     "type": "text",
      "coll": "civilizations",
-     "mine": "summary",
+     "mine": "link_text",
      "label": "🏛 Civilisations"
     },
     {
      "type": "text",
      "coll": "dynasties",
-     "mine": "summary",
+     "mine": "link_text",
      "label": "👑 Dynasties"
     },
     {
      "type": "text",
      "coll": "sites",
-     "mine": "summary",
+     "mine": "link_text",
      "label": "🗿 Sites"
     },
     {
      "type": "text",
      "coll": "hominins",
-     "mine": "summary",
+     "mine": "link_text",
      "label": "🦴 Human species"
+    },
+    {
+     "type": "backname",
+     "coll": "people",
+     "theirs": "link_text",
+     "label": "👤 People involved"
     }
    ]
   },
@@ -762,11 +760,11 @@
    "id": "people",
    "icon": "👤",
    "title": "People of History",
-   "short": "Rulers, thinkers, freedom fighters",
+   "short": "Rulers, tyrants, revolutionaries, prophets, philosophers, scientists, writers, artists and explorers",
    "noun": "people",
    "file": "data/people.json",
    "sub_key": "role",
-   "desc": "Rulers and conquerors, freedom fighters, philosophers, scientists, poets and reformers from every age, with India's in depth.",
+   "desc": "Over 230 people who shaped history — emperors and queens, tyrants, freedom fighters and revolutionaries, prophets and philosophers, scientists, writers from Valmiki and Homer to Shakespeare and Premchand, artists and entertainers from Tansen to Charlie Chaplin and Marilyn Monroe, and explorers — each with a full biography and links to the empires, dynasties, events and beliefs they belong to.",
    "facts": [
     [
      "lived",
@@ -783,12 +781,16 @@
     [
      "known_for",
      "Known for"
+    ],
+    [
+     "connections",
+     "Connected to"
     ]
    ],
    "texts": [
     [
      "summary",
-     "Overview"
+     "Life and significance"
     ]
    ],
    "columns": [
@@ -821,28 +823,34 @@
    "prompt": "Painterly, historically accurate portrait of {name} ({lived}), {role} of {region}, period clothing and setting, museum-quality oil painting style, 4:5, no text",
    "links": [
     {
-     "type": "backname",
-     "coll": "dynasties",
-     "theirs": "notable",
-     "label": "👑 Dynasty"
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "link_text",
+     "label": "🏛 Empires & civilisations"
     },
     {
-     "type": "backname",
+     "type": "text",
      "coll": "dynasties",
-     "theirs": "founder",
-     "label": "👑 Founded"
+     "mine": "link_text",
+     "label": "👑 Dynasties"
     },
     {
-     "type": "backname",
+     "type": "text",
      "coll": "events",
-     "theirs": "summary",
+     "mine": "link_text",
      "label": "📅 Events"
     },
     {
-     "type": "backname",
+     "type": "text",
      "coll": "beliefs",
-     "theirs": "founder",
-     "label": "🕉 Founded"
+     "mine": "link_text",
+     "label": "🕉 Religions & beliefs"
+    },
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "link_text",
+     "label": "👤 Related people"
     },
     {
      "type": "backname",
@@ -854,7 +862,7 @@
      "type": "backname",
      "coll": "manuscripts",
      "theirs": "contents",
-     "label": "📜 Manuscripts & texts"
+     "label": "📜 Manuscripts"
     }
    ]
   },
@@ -1162,12 +1170,6 @@
    "prompt": "Photorealistic photograph of an ancient artefact or sacred site representing {name}, museum lighting, 16:9, no text",
    "links": [
     {
-     "type": "text",
-     "coll": "people",
-     "mine": "founder",
-     "label": "👤 Founder"
-    },
-    {
      "type": "backname",
      "coll": "festivals",
      "theirs": "tradition",
@@ -1184,6 +1186,12 @@
      "coll": "manuscripts",
      "theirs": "contents",
      "label": "📜 Manuscripts & texts"
+    },
+    {
+     "type": "backname",
+     "coll": "people",
+     "theirs": "link_text",
+     "label": "👤 People"
     }
    ]
   },

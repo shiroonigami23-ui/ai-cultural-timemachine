@@ -1,9 +1,9 @@
 ---
 title: Timeline: Africa
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (91 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (96 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (91 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (96 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (35)
 <div class="timeline">
@@ -55,7 +55,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (15)
+:::collapse !Bronze Age (3000–1200 BCE) (16)
 <div class="timeline">
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Climate shift: <a href="/wiki/events/end-of-the-green-sahara.html">End of the Green Sahara</a> — Herders move to the Nile</div>
 <div class="ev"><span class="yr">3000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/calendar-solar.html">Calendar (solar)</a> — Egypt</div>
@@ -70,6 +70,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1500 BCE</span>: 📅 Migration: <a href="/wiki/events/bantu-expansion.html">Bantu expansion</a> — Spread farming, iron and Bantu languages across half of Africa</div>
 <div class="ev"><span class="yr">1380 BCE</span>: 👤 Born: <a href="/wiki/people/akhenaten.html">Akhenaten</a> — Tried to make Egypt worship one sun god</div>
 <div class="ev"><span class="yr">1350 BCE</span>: 📅 Religion: <a href="/wiki/events/akhenatens-religious-revolution.html">Akhenaten&#x27;s religious revolution</a> — Short-lived worship of the Aten</div>
+<div class="ev"><span class="yr">1341 BCE</span>: 👤 Born: <a href="/wiki/people/tutankhamun.html">Tutankhamun</a> — Intact tomb</div>
 <div class="ev"><span class="yr">1303 BCE</span>: 👤 Born: <a href="/wiki/people/ramesses-ii.html">Ramesses II</a> — Abu Simbel, Kadesh</div>
 <div class="ev"><span class="yr">1264 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/abu-simbel.html">Abu Simbel</a> — Ramesses II</div>
 </div>
@@ -118,23 +119,27 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (3)
+:::collapse Early modern (1500–1800) (4)
 <div class="timeline">
 <div class="ev"><span class="yr">1526</span>: 📅 Forced migration: <a href="/wiki/events/atlantic-slave-trade.html">Atlantic slave trade</a> — ~12.5 million Africans transported</div>
 <div class="ev"><span class="yr">1701</span>: 👑 Dynasty: <a href="/wiki/dynasties/ashanti-empire.html">Ashanti Empire</a> — Around 1701 Osei Tutu, with the priest Okomfo Anokye, united Akan states; tradition says the Golden Stool descended from the sky, embodying </div>
+<div class="ev"><span class="yr">1787</span>: 👤 Born: <a href="/wiki/people/shaka-zulu.html">Shaka Zulu</a> — Zulu kingdom</div>
 <div class="ev"><span class="yr">1791</span>: 📅 Revolution: <a href="/wiki/events/haitian-revolution.html">Haitian Revolution</a> — First nation founded by formerly enslaved people</div>
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (7)
+:::collapse Industrial and imperial age (1800–1945) (10)
 <div class="timeline">
 <div class="ev"><span class="yr">1816</span>: 👑 Dynasty: <a href="/wiki/dynasties/zulu-kingdom.html">Zulu Kingdom</a> — Shaka (r. 1816–1828), a son of a minor chief, reorganised Zulu warriors into regiments (amabutho) armed with the short stabbing spear (iklwa</div>
 <div class="ev"><span class="yr">1869</span>: 📅 Construction: <a href="/wiki/events/suez-canal-opens.html">Suez Canal opens</a> — Shorter route to India</div>
 <div class="ev"><span class="yr">1881</span>: 📅 Colonisation: <a href="/wiki/events/scramble-for-africa.html">Scramble for Africa</a> — 90% of Africa colonised</div>
 <div class="ev"><span class="yr">1884</span>: 📅 Colonialism: <a href="/wiki/events/berlin-conference.html">Berlin Conference</a> — Partition of Africa</div>
 <div class="ev"><span class="yr">1885</span>: 📅 Colonial atrocity: <a href="/wiki/events/partition-of-africa-and-the-congo-free-state.html">Partition of Africa and the Congo Free State</a> — Millions died</div>
+<div class="ev"><span class="yr">1892</span>: 👤 Born: <a href="/wiki/people/haile-selassie.html">Haile Selassie</a> — Resisted Italy</div>
 <div class="ev"><span class="yr">1896</span>: 📅 War: <a href="/wiki/events/battle-of-adwa.html">Battle of Adwa</a> — Ethiopia stays independent</div>
+<div class="ev"><span class="yr">1909</span>: 👤 Born: <a href="/wiki/people/kwame-nkrumah.html">Kwame Nkrumah</a> — Ghana&#x27;s independence</div>
 <div class="ev"><span class="yr">1918</span>: 👤 Born: <a href="/wiki/people/nelson-mandela.html">Nelson Mandela</a> — Ended apartheid</div>
+<div class="ev"><span class="yr">1930</span>: 👤 Born: <a href="/wiki/people/chinua-achebe.html">Chinua Achebe</a> — Things Fall Apart</div>
 </div>
 :::
 

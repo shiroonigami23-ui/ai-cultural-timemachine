@@ -1,9 +1,9 @@
 ---
 title: Timeline: Americas
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (50 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (55 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (50 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (55 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -44,24 +44,27 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (11)
+:::collapse !Late medieval (1000–1500) (13)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 📅 Exploration: <a href="/wiki/events/norse-reach-north-america.html">Norse reach North America</a> — First European landing in the Americas</div>
 <div class="ev"><span class="yr">1200</span>: 📜 Manuscript: <a href="/wiki/manuscripts/dresden-codex.html">Dresden Codex</a> — 11th–12th century</div>
 <div class="ev"><span class="yr">1250</span>: 🗿 Built / founded: <a href="/wiki/sites/moai-of-easter-island.html">Moai of Easter Island</a> — Rapa Nui</div>
 <div class="ev"><span class="yr">1325</span>: 📅 City founding: <a href="/wiki/events/founding-of-tenochtitlan.html">Founding of Tenochtitlan</a> — Capital of the Aztec empire</div>
 <div class="ev"><span class="yr">1376</span>: 👑 Dynasty: <a href="/wiki/dynasties/aztec-rulers-tlatoani.html">Aztec rulers (Tlatoani)</a> — The Mexica founded Tenochtitlan in 1325 and the Triple Alliance formed in 1428.</div>
+<div class="ev"><span class="yr">1418</span>: 👤 Born: <a href="/wiki/people/pachacuti.html">Pachacuti</a> — Built the Inca Empire</div>
 <div class="ev"><span class="yr">1428</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/aztec-empire.html">Aztec Empire</a> — 1428–1521</div>
 <div class="ev"><span class="yr">1438</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/inca-empire.html">Inca Empire</a> — 1438–1533</div>
 <div class="ev"><span class="yr">1438</span>: 👑 Dynasty: <a href="/wiki/dynasties/inca-sapa-inca-line.html">Inca Sapa Inca line</a> — Pachacuti (r. 1438–1471) turned the Cusco kingdom into an empire.</div>
 <div class="ev"><span class="yr">1450</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/haudenosaunee-confederacy.html">Haudenosaunee Confederacy</a> — c. 1450 (or earlier) – today</div>
 <div class="ev"><span class="yr">1450</span>: 🗿 Built / founded: <a href="/wiki/sites/machu-picchu.html">Machu Picchu</a> — Pachacuti</div>
+<div class="ev"><span class="yr">1466</span>: 👤 Born: <a href="/wiki/people/moctezuma-ii.html">Moctezuma II</a> — Met Cortés</div>
 <div class="ev"><span class="yr">1492</span>: 📅 Exploration: <a href="/wiki/events/columbus-reaches-the-americas.html">Columbus reaches the Americas</a> — Columbian Exchange begins</div>
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (9)
+:::collapse Early modern (1500–1800) (10)
 <div class="timeline">
+<div class="ev"><span class="yr">1502</span>: 👤 Born: <a href="/wiki/people/atahualpa.html">Atahualpa</a> — Captured by Pizarro</div>
 <div class="ev"><span class="yr">1521</span>: 📅 Conquest: <a href="/wiki/events/fall-of-tenochtitlan.html">Fall of Tenochtitlan</a> — End of the Aztec Empire</div>
 <div class="ev"><span class="yr">1532</span>: 📅 Conquest: <a href="/wiki/events/spanish-conquest-of-the-inca.html">Spanish conquest of the Inca</a> — End of the Inca Empire</div>
 <div class="ev"><span class="yr">1541</span>: 📜 Manuscript: <a href="/wiki/manuscripts/codex-mendoza.html">Codex Mendoza</a> — c. 1541</div>
@@ -74,7 +77,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (9)
+:::collapse Industrial and imperial age (1800–1945) (11)
 <div class="timeline">
 <div class="ev"><span class="yr">1810</span>: 📅 Independence: <a href="/wiki/events/latin-american-independence.html">Latin American independence</a> — New republics</div>
 <div class="ev"><span class="yr">1846</span>: ⚙ Invention: <a href="/wiki/inventions/anaesthesia.html">Anaesthesia</a> — USA</div>
@@ -83,6 +86,8 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1882</span>: 👤 Born: <a href="/wiki/people/franklin-d-roosevelt.html">Franklin D. Roosevelt</a> — New Deal, WWII</div>
 <div class="ev"><span class="yr">1903</span>: 📅 Technology: <a href="/wiki/events/wright-brothers-flight.html">Wright brothers&#x27; flight</a> — Powered flight</div>
 <div class="ev"><span class="yr">1903</span>: ⚙ Invention: <a href="/wiki/inventions/aeroplane.html">Aeroplane</a> — USA</div>
+<div class="ev"><span class="yr">1926</span>: 👤 Born: <a href="/wiki/people/fidel-castro.html">Fidel Castro</a> — Cuban Revolution</div>
+<div class="ev"><span class="yr">1928</span>: 👤 Born: <a href="/wiki/people/che-guevara.html">Che Guevara</a> — Cuban Revolution</div>
 <div class="ev"><span class="yr">1929</span>: 👤 Born: <a href="/wiki/people/martin-luther-king-jr.html">Martin Luther King Jr.</a> — &#x27;I Have a Dream&#x27;</div>
 <div class="ev"><span class="yr">1942</span>: ⚙ Invention: <a href="/wiki/inventions/nuclear-energy.html">Nuclear energy</a> — USA</div>
 </div>

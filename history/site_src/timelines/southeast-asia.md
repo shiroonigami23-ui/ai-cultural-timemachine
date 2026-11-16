@@ -1,9 +1,9 @@
 ---
 title: Timeline: Southeast Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (21 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (23 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (21 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (23 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -49,9 +49,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (1)
+:::collapse Industrial and imperial age (1800–1945) (3)
 <div class="timeline">
 <div class="ev"><span class="yr">1883</span>: 📅 Volcanic eruption: <a href="/wiki/events/krakatoa-eruption.html">Krakatoa eruption</a> — ~36,000 deaths, global sunsets</div>
+<div class="ev"><span class="yr">1890</span>: 👤 Born: <a href="/wiki/people/ho-chi-minh.html">Ho Chi Minh</a> — Vietnamese independence</div>
+<div class="ev"><span class="yr">1925</span>: 👤 Born: <a href="/wiki/people/pol-pot.html">Pol Pot</a> — Cambodian genocide</div>
 </div>
 :::
 

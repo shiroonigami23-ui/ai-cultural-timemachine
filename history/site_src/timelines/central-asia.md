@@ -1,9 +1,9 @@
 ---
 title: Timeline: Central Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Central Asia, from the earliest evidence to today (12 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Central Asia, from the earliest evidence to today (13 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Central Asia, from the earliest evidence to today (12 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Central Asia, from the earliest evidence to today (13 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (4)
 <div class="timeline">
@@ -36,8 +36,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (1)
+:::collapse !Late medieval (1000–1500) (2)
 <div class="timeline">
+<div class="ev"><span class="yr">1336</span>: 👤 Born: <a href="/wiki/people/timur.html">Timur</a> — Timurid Empire</div>
 <div class="ev"><span class="yr">1370</span>: 👑 Dynasty: <a href="/wiki/dynasties/timurid-empire.html">Timurid Empire</a> — Timur conquered from Delhi to Anatolia and made Samarkand dazzling. His grandson Ulugh Beg built an observatory.</div>
 </div>
 :::

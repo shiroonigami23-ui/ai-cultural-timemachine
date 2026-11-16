@@ -3,6 +3,16 @@
 All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
+## [Unreleased] - 2026-11-16 (part 2)
+### Changed (depth)
+- All 247 original events gained a 'Causes, course and consequences' section.
+- Rewrote all eras, human species, festivals and peoples and tribes in depth.
+- Rewrote Europe, Americas and modern empires (US, British Empire, Soviet Union, Russian, Spanish, Portuguese, Byzantine and others) in depth.
+- Rewrote 97 short biographies (Churchill, Roosevelt, Stalin, Hitler, Mao, Gandhi, Nehru, Ambedkar, scientists and philosophers).
+### Added
+- 115 historical figures: writers, artists and entertainers, philosophers, scientists, explorers, revolutionaries, rulers and tyrants.
+- `scripts/make_links.py`: two-way links between people and the empires, dynasties, events and beliefs they belong to.
+
 ## [Unreleased] - 2026-11-16
 ### Changed (depth)
 - Rewrote every civilisation's government, architecture, technology, rise, fall, legacy and food as researched multi-sentence accounts (86 civilisations).

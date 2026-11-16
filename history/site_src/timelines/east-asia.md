@@ -1,9 +1,9 @@
 ---
 title: Timeline: East Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (80 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (85 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (80 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (85 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -39,8 +39,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (15)
+:::collapse !Classical age (500 BCE–500 CE) (16)
 <div class="timeline">
+<div class="ev"><span class="yr">372 BCE</span>: 👤 Born: <a href="/wiki/people/mencius.html">Mencius</a> — Confucian thinker</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/guodian-bamboo-slips.html">Guodian bamboo slips</a> — c. 300 BCE</div>
 <div class="ev"><span class="yr">264 BCE</span>: 📅 War: <a href="/wiki/events/punic-wars.html">Punic Wars</a> — Rome destroys Carthage</div>
 <div class="ev"><span class="yr">259 BCE</span>: 👤 Born: <a href="/wiki/people/qin-shi-huang.html">Qin Shi Huang</a> — Unified China; Terracotta Army</div>
@@ -59,7 +60,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (13)
+:::collapse !Early medieval (500–1000) (14)
 <div class="timeline">
 <div class="ev"><span class="yr">581 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/sui-dynasty.html">Sui dynasty</a> — Yang Jian (Emperor Wen) reunified China in 589 and restored examinations.</div>
 <div class="ev"><span class="yr">618 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/tang-dynasty.html">Tang dynasty</a> — 618–907</div>
@@ -74,10 +75,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">918 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/goryeo.html">Goryeo</a> — Wang Geon reunified Korea in 918; Goryeo printed the Tripitaka Koreana and the first metal movable type (Jikji, 1377).</div>
 <div class="ev"><span class="yr">960 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/song-dynasty.html">Song dynasty</a> — 960–1279</div>
 <div class="ev"><span class="yr">960 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/song-dynasty.html">Song dynasty</a> — General Zhao Kuangyin was proclaimed emperor by his troops in 960 and reunified most of China, ending the Five Dynasties chaos.</div>
+<div class="ev"><span class="yr">973 CE</span>: 👤 Born: <a href="/wiki/people/murasaki-shikibu.html">Murasaki Shikibu</a> — The Tale of Genji</div>
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (21)
+:::collapse !Late medieval (1000–1500) (22)
 <div class="timeline">
 <div class="ev"><span class="yr">1010</span>: 📜 Manuscript: <a href="/wiki/manuscripts/tale-of-genji.html">Tale of Genji</a> — c. 1010</div>
 <div class="ev"><span class="yr">1040</span>: ⚙ Invention: <a href="/wiki/inventions/compass.html">Compass</a> — China</div>
@@ -86,6 +88,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1162</span>: 👤 Born: <a href="/wiki/people/genghis-khan.html">Genghis Khan</a> — Founded the Mongol Empire</div>
 <div class="ev"><span class="yr">1185</span>: 👑 Dynasty: <a href="/wiki/dynasties/kamakura-shogunate.html">Kamakura shogunate</a> — Minamoto no Yoritomo won the Genpei War and in 1192 was named shogun, creating rule by warriors from Kamakura; the Hōjō family later ruled a</div>
 <div class="ev"><span class="yr">1206</span>: 📅 Conquest: <a href="/wiki/events/mongol-conquests.html">Mongol conquests</a> — ~30–40 million deaths (estimates)</div>
+<div class="ev"><span class="yr">1215</span>: 👤 Born: <a href="/wiki/people/kublai-khan.html">Kublai Khan</a> — Yuan dynasty</div>
 <div class="ev"><span class="yr">1251</span>: 📜 Manuscript: <a href="/wiki/manuscripts/tripitaka-koreana.html">Tripitaka Koreana</a> — 1237–1251</div>
 <div class="ev"><span class="yr">1271</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/yuan-dynasty.html">Yuan dynasty</a> — 1271–1368</div>
 <div class="ev"><span class="yr">1271</span>: 👑 Dynasty: <a href="/wiki/dynasties/yuan-dynasty.html">Yuan dynasty</a> — Genghis Khan&#x27;s Mongols attacked the Jin from 1211. His grandson Kublai declared the Yuan dynasty in 1271 and destroyed the Southern Son</div>
@@ -115,10 +118,12 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (6)
+:::collapse Industrial and imperial age (1800–1945) (8)
 <div class="timeline">
 <div class="ev"><span class="yr">1850</span>: 📅 Civil war: <a href="/wiki/events/taiping-rebellion.html">Taiping Rebellion</a> — 20–30 million dead</div>
+<div class="ev"><span class="yr">1866</span>: 👤 Born: <a href="/wiki/people/sun-yat-sen.html">Sun Yat-sen</a> — Father of the Republic of China</div>
 <div class="ev"><span class="yr">1868</span>: 📅 Politics: <a href="/wiki/events/meiji-restoration.html">Meiji Restoration</a> — Rapid modernisation</div>
+<div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/lu-xun.html">Lu Xun</a> — The True Story of Ah Q</div>
 <div class="ev"><span class="yr">1893</span>: 👤 Born: <a href="/wiki/people/mao-zedong.html">Mao Zedong</a> — Founded the PRC</div>
 <div class="ev"><span class="yr">1904</span>: 📅 War: <a href="/wiki/events/russo-japanese-war.html">Russo-Japanese War</a> — First Asian victory over a European power</div>
 <div class="ev"><span class="yr">1911</span>: 📅 Revolution: <a href="/wiki/events/xinhai-revolution.html">Xinhai Revolution</a> — End of imperial China</div>
