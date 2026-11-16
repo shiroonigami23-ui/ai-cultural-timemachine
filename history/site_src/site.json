@@ -18,7 +18,7 @@
    "civilisations"
   ],
   [
-   "296",
+   "310",
    "turning points"
   ],
   [
@@ -26,15 +26,15 @@
    "historical figures"
   ],
   [
-   "92",
-   "inventions"
+   "50",
+   "structures explained"
   ],
   [
    "38",
    "hidden histories"
   ],
   [
-   "1,242+",
+   "1,322+",
    "catalog entries"
   ]
  ],
@@ -71,7 +71,9 @@
     "manuscripts-and-texts",
     "rulers-and-dynasties",
     "wars-plagues-and-disasters",
-    "hidden-history-and-conspiracies"
+    "hidden-history-and-conspiracies",
+    "engineering-and-construction",
+    "invasions-and-conquests"
    ]
   },
   {
@@ -539,6 +541,12 @@
      "coll": "hidden_history",
      "theirs": "link_text",
      "label": "🔓 Hidden history"
+    },
+    {
+     "type": "backname",
+     "coll": "engineering",
+     "theirs": "link_text",
+     "label": "🏗 Built by this civilisation"
     }
    ],
    "prompt": "Photorealistic, historically accurate reconstruction of a busy street or court in the {name} ({when}) at its height in {region}, with period clothing, architecture and daily life, cinematic, 16:9, no text"
@@ -573,6 +581,12 @@
      "coll": "people",
      "theirs": "link_text",
      "label": "👤 People"
+    },
+    {
+     "type": "backname",
+     "coll": "engineering",
+     "theirs": "link_text",
+     "label": "🏗 Monuments"
     }
    ],
    "id": "dynasties",
@@ -761,6 +775,12 @@
      "coll": "inventions",
      "theirs": "link_text",
      "label": "⚙ Inventions"
+    },
+    {
+     "type": "backname",
+     "coll": "engineering",
+     "theirs": "link_text",
+     "label": "🏗 Structures"
     }
    ]
   },
@@ -888,6 +908,12 @@
      "coll": "inventions",
      "theirs": "link_text",
      "label": "⚙ Inventions"
+    },
+    {
+     "type": "backname",
+     "coll": "engineering",
+     "theirs": "link_text",
+     "label": "🏗 Structures"
     }
    ]
   },
@@ -1051,6 +1077,12 @@
      "coll": "hominins",
      "mine": "name",
      "label": "🦴 Human species"
+    },
+    {
+     "type": "backname",
+     "coll": "engineering",
+     "theirs": "link_text",
+     "label": "🏗 Structures"
     }
    ]
   },
@@ -1429,6 +1461,143 @@
   {
    "name_key": "name",
    "group_key": "group",
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "live_photos": true,
+   "studies": true,
+   "sounds": false,
+   "id": "engineering",
+   "icon": "🏗",
+   "title": "How It Was Built",
+   "short": "Pyramids, the Colosseum, Ellora, bridges, tunnels, bunkers and crafts — explained step by step",
+   "noun": "structures",
+   "file": "data/engineering.json",
+   "sub_key": "when",
+   "desc": "How people actually built the great works of history, step by step: the Pyramids, the Colosseum and Pantheon, Roman aqueducts and the Great Wall; India's Mohenjo-daro drains, the Kailasa temple carved from the top down, the rust-proof Iron Pillar, stepwells and the Taj Mahal; famous bridges from the Inca grass bridge and Zhaozhou to Howrah, Pamban and the Chenab; underground and wartime engineering from the Cu Chi tunnels and Iwo Jima to Derinkuyu and the Great Escape; and everyday technology like pottery, lost-wax bronze, wootz steel and qanats. Each entry covers materials, workforce, the building steps, the clever tricks and hidden stories, and its legacy.",
+   "facts": [
+    [
+     "when",
+     "Built"
+    ],
+    [
+     "where",
+     "Where"
+    ],
+    [
+     "builders",
+     "Built by"
+    ],
+    [
+     "materials",
+     "Materials"
+    ],
+    [
+     "workforce",
+     "Workforce"
+    ],
+    [
+     "size",
+     "Size"
+    ],
+    [
+     "connections",
+     "Linked to"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "steps",
+     "How it was built, step by step"
+    ],
+    [
+     "tricks",
+     "Clever engineering and hidden stories"
+    ],
+    [
+     "legacy",
+     "Legacy"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "Built"
+    ],
+    [
+     "where",
+     "Where"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Structures by type"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "link_text",
+     "label": "🏛 Empires & civilisations"
+    },
+    {
+     "type": "text",
+     "coll": "dynasties",
+     "mine": "link_text",
+     "label": "👑 Dynasties"
+    },
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "link_text",
+     "label": "👤 People"
+    },
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "link_text",
+     "label": "📅 Events"
+    },
+    {
+     "type": "text",
+     "coll": "engineering",
+     "mine": "link_text",
+     "label": "🏗 Related structures"
+    },
+    {
+     "type": "text",
+     "coll": "hidden_history",
+     "mine": "link_text",
+     "label": "🔓 Hidden history"
+    },
+    {
+     "type": "text",
+     "coll": "peoples",
+     "mine": "link_text",
+     "label": "🧑‍🤝‍🧑 Peoples"
+    },
+    {
+     "type": "text",
+     "coll": "beliefs",
+     "mine": "link_text",
+     "label": "🕉 Beliefs"
+    }
+   ],
+   "prompt": "Cutaway technical illustration showing how {name} was built ({when}, {where}), workers and tools, warm documentary style, 16:9, no text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
    "live_photos": true,
    "studies": true,
    "sounds": false,
@@ -1691,6 +1860,12 @@
      "coll": "inventions",
      "mine": "link_text",
      "label": "⚙ Inventions"
+    },
+    {
+     "type": "backname",
+     "coll": "engineering",
+     "theirs": "link_text",
+     "label": "🏗 Structures"
     }
    ],
    "prompt": "Atmospheric documentary photograph evoking {name} ({when}, {region}), archival style, dramatic light, 16:9, no text"
@@ -1824,6 +1999,10 @@
   {
    "id": "india",
    "title": "India"
+  },
+  {
+   "id": "engineering",
+   "title": "How it was built"
   },
   {
    "id": "hidden_history",

@@ -1,9 +1,9 @@
 ---
 title: Timeline: Americas
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (84 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (90 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (84 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (90 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -44,7 +44,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (13)
+:::collapse !Late medieval (1000–1500) (15)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 📅 Exploration: <a href="/wiki/events/norse-reach-north-america.html">Norse reach North America</a> — First European landing in the Americas</div>
 <div class="ev"><span class="yr">1200</span>: 📜 Manuscript: <a href="/wiki/manuscripts/dresden-codex.html">Dresden Codex</a> — 11th–12th century</div>
@@ -57,6 +57,8 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1438</span>: 👑 Dynasty: <a href="/wiki/dynasties/inca-sapa-inca-line.html">Inca Sapa Inca line</a> — Pachacuti (r. 1438–1471) turned the Cusco kingdom into an empire.</div>
 <div class="ev"><span class="yr">1450</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/haudenosaunee-confederacy.html">Haudenosaunee Confederacy</a> — c. 1450 (or earlier) – today</div>
 <div class="ev"><span class="yr">1450</span>: 🗿 Built / founded: <a href="/wiki/sites/machu-picchu.html">Machu Picchu</a> — Pachacuti</div>
+<div class="ev"><span class="yr">1450</span>: 🏗 Built: <a href="/wiki/engineering/machu-picchu.html">Machu Picchu</a> — Peru</div>
+<div class="ev"><span class="yr">1450</span>: 🏗 Built: <a href="/wiki/engineering/q-eswachaka-rope-bridge.html">Q&#x27;eswachaka rope bridge</a> — Apurímac River, Peru</div>
 <div class="ev"><span class="yr">1466</span>: 👤 Born: <a href="/wiki/people/moctezuma-ii.html">Moctezuma II</a> — Met Cortés</div>
 <div class="ev"><span class="yr">1492</span>: 📅 Exploration: <a href="/wiki/events/columbus-reaches-the-americas.html">Columbus reaches the Americas</a> — Columbian Exchange begins</div>
 </div>
@@ -78,7 +80,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (25)
+:::collapse Industrial and imperial age (1800–1945) (28)
 <div class="timeline">
 <div class="ev"><span class="yr">1810</span>: 📅 Independence: <a href="/wiki/events/latin-american-independence.html">Latin American independence</a> — New republics</div>
 <div class="ev"><span class="yr">1846</span>: ⚙ Invention: <a href="/wiki/inventions/anaesthesia.html">Anaesthesia</a> — USA</div>
@@ -91,6 +93,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1876</span>: ⚙ Invention: <a href="/wiki/inventions/telephone.html">Telephone</a> — USA</div>
 <div class="ev"><span class="yr">1882</span>: 📅 Invention: <a href="/wiki/events/edison-s-light-and-pearl-street-station.html">Edison&#x27;s light and Pearl Street station</a> — Start of electric utilities</div>
 <div class="ev"><span class="yr">1882</span>: 👤 Born: <a href="/wiki/people/franklin-d-roosevelt.html">Franklin D. Roosevelt</a> — New Deal, WWII</div>
+<div class="ev"><span class="yr">1883</span>: 🏗 Built: <a href="/wiki/engineering/brooklyn-bridge.html">Brooklyn Bridge</a> — New York, USA</div>
 <div class="ev"><span class="yr">1884</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/edison-stole-tesla-s-inventions.html">Edison stole Tesla&#x27;s inventions</a> — Mostly myth</div>
 <div class="ev"><span class="yr">1888</span>: ⚙ Invention: <a href="/wiki/inventions/alternating-current-power-grid.html">Alternating current power grid</a> — USA</div>
 <div class="ev"><span class="yr">1895</span>: 📅 Invention: <a href="/wiki/events/niagara-falls-power-plant.html">Niagara Falls power plant</a> — Victory of alternating current</div>
@@ -102,13 +105,15 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1928</span>: 👤 Born: <a href="/wiki/people/che-guevara.html">Che Guevara</a> — Cuban Revolution</div>
 <div class="ev"><span class="yr">1929</span>: 👤 Born: <a href="/wiki/people/martin-luther-king-jr.html">Martin Luther King Jr.</a> — &#x27;I Have a Dream&#x27;</div>
 <div class="ev"><span class="yr">1932</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tuskegee-syphilis-study.html">Tuskegee syphilis study</a> — Documented fact</div>
+<div class="ev"><span class="yr">1937</span>: 🏗 Built: <a href="/wiki/engineering/golden-gate-bridge.html">Golden Gate Bridge</a> — San Francisco, USA</div>
+<div class="ev"><span class="yr">1940</span>: 🏗 Built: <a href="/wiki/engineering/tacoma-narrows-bridge-collapse.html">Tacoma Narrows Bridge collapse</a> — Washington, USA</div>
 <div class="ev"><span class="yr">1942</span>: 📅 Science and war: <a href="/wiki/events/manhattan-project-begins.html">Manhattan Project begins</a> — Race for the atomic bomb</div>
 <div class="ev"><span class="yr">1942</span>: ⚙ Invention: <a href="/wiki/inventions/nuclear-energy.html">Nuclear energy</a> — USA</div>
 <div class="ev"><span class="yr">1943</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tesla-s-seized-papers.html">Tesla&#x27;s seized papers</a> — Documented fact (myth exaggerated)</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (21)
+:::collapse Contemporary (1945–today) (22)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Science and war: <a href="/wiki/events/trinity-nuclear-test.html">Trinity nuclear test</a> — The first nuclear explosion</div>
 <div class="ev"><span class="yr">1945</span>: ⚙ Invention: <a href="/wiki/inventions/atomic-bomb.html">Atomic bomb</a> — Los Alamos, USA</div>
@@ -123,6 +128,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1962</span>: 📅 Cold War: <a href="/wiki/events/cuban-missile-crisis.html">Cuban Missile Crisis</a> — Nuclear brink</div>
 <div class="ev"><span class="yr">1962</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-northwoods.html">Operation Northwoods</a> — Documented fact (proposed, rejected)</div>
 <div class="ev"><span class="yr">1963</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/jfk-assassination.html">JFK assassination</a> — Disputed</div>
+<div class="ev"><span class="yr">1966</span>: 🏗 Built: <a href="/wiki/engineering/cheyenne-mountain-complex.html">Cheyenne Mountain Complex</a> — Colorado, USA</div>
 <div class="ev"><span class="yr">1969</span>: 📅 Exploration: <a href="/wiki/events/moon-landing.html">Moon landing</a> — First humans on the Moon</div>
 <div class="ev"><span class="yr">1969</span>: 📅 Invention: <a href="/wiki/events/arpanet-s-first-message.html">ARPANET&#x27;s first message</a> — Birth of the internet</div>
 <div class="ev"><span class="yr">1969</span>: ⚙ Invention: <a href="/wiki/inventions/internet.html">Internet</a> — USA, CERN</div>

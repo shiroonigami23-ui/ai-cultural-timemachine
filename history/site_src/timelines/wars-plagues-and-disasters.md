@@ -1,9 +1,9 @@
 ---
 title: Timeline: Wars, plagues and disasters
-summary: The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (121 entries)
+summary: The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (135 entries)
 level: Timeline
 ---
-The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (121 entries)
+The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (135 entries)
 
 :::collapse Deep prehistory (before 10,000 BCE) (1)
 <div class="timeline">
@@ -33,7 +33,7 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (18)
+:::collapse !Classical age (500 BCE–500 CE) (19)
 <div class="timeline">
 <div class="ev"><span class="yr">490 BCE</span>: 📅 War: <a href="/wiki/events/persian-wars.html">Persian Wars</a> <span class='muted'>· Middle East</span> — Marathon, Thermopylae, Salamis</div>
 <div class="ev"><span class="yr">490 BCE</span>: 📅 War: <a href="/wiki/events/battle-of-marathon.html">Battle of Marathon</a> <span class='muted'>· Europe</span> — Greek victory over Persia</div>
@@ -51,18 +51,20 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 <div class="ev"><span class="yr">165 CE</span>: 📅 Pandemic (likely smallpox): <a href="/wiki/events/antonine-plague.html">Antonine Plague</a> <span class='muted'>· Global</span> — Millions dead</div>
 <div class="ev"><span class="yr">235 CE</span>: 📅 Collapse: <a href="/wiki/events/crisis-of-the-third-century.html">Crisis of the Third Century</a> <span class='muted'>· Europe</span> — Near collapse of Rome</div>
 <div class="ev"><span class="yr">410 CE</span>: 📅 War: <a href="/wiki/events/sack-of-rome-by-visigoths.html">Sack of Rome by Visigoths</a> <span class='muted'>· Europe</span> — Shock to the Roman world</div>
+<div class="ev"><span class="yr">451 CE</span>: 📅 Invasion: <a href="/wiki/events/attila-s-invasion-of-gaul-and-italy.html">Attila&#x27;s invasion of Gaul and Italy</a> <span class='muted'>· Europe</span> — Huns at their height</div>
 <div class="ev"><span class="yr">460 CE</span>: 📅 Invasion: <a href="/wiki/events/huna-invasions-of-india.html">Huna invasions of India</a> <span class='muted'>· South Asia</span> — Gupta decline</div>
 <div class="ev"><span class="yr">476 CE</span>: 📅 Collapse: <a href="/wiki/events/fall-of-the-western-roman-empire.html">Fall of the Western Roman Empire</a> <span class='muted'>· Europe</span> — Start of the Middle Ages in the West</div>
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (9)
+:::collapse !Early medieval (500–1000) (10)
 <div class="timeline">
 <div class="ev"><span class="yr">536 CE</span>: 📅 Climate shock: <a href="/wiki/events/volcanic-winter-of-536.html">Volcanic winter of 536</a> <span class='muted'>· Global</span> — &#x27;The worst year to be alive&#x27;; crop failures</div>
 <div class="ev"><span class="yr">541 CE</span>: 📅 Pandemic (Yersinia pestis): <a href="/wiki/events/plague-of-justinian.html">Plague of Justinian</a> <span class='muted'>· Global</span> — Tens of millions dead over two centuries</div>
 <div class="ev"><span class="yr">624 CE</span>: 📅 War: <a href="/wiki/events/battle-of-badr.html">Battle of Badr</a> <span class='muted'>· Middle East</span> — Early Muslim victory</div>
 <div class="ev"><span class="yr">636 CE</span>: 📅 War: <a href="/wiki/events/battle-of-qadisiyyah.html">Battle of Qadisiyyah</a> <span class='muted'>· Middle East</span> — Fall of Sasanian Persia</div>
 <div class="ev"><span class="yr">670 CE</span>: 📅 War: <a href="/wiki/events/tang-tibet-wars.html">Tang–Tibet wars</a> <span class='muted'>· East Asia</span> — Rise of the Tibetan Empire</div>
+<div class="ev"><span class="yr">711 CE</span>: 📅 Invasion: <a href="/wiki/events/umayyad-conquest-of-hispania.html">Umayyad conquest of Hispania</a> <span class='muted'>· Europe</span> — Seven centuries of Muslim rule in Spain</div>
 <div class="ev"><span class="yr">712 CE</span>: 📅 Conquest: <a href="/wiki/events/arab-conquest-of-sindh.html">Arab conquest of Sindh</a> <span class='muted'>· South Asia</span> — Islam arrives in South Asia by land</div>
 <div class="ev"><span class="yr">732 CE</span>: 📅 War: <a href="/wiki/events/battle-of-tours.html">Battle of Tours</a> <span class='muted'>· Europe</span> — Halted Umayyad expansion into Francia</div>
 <div class="ev"><span class="yr">751 CE</span>: 📅 War: <a href="/wiki/events/battle-of-talas.html">Battle of Talas</a> <span class='muted'>· East Asia</span> — Papermaking spreads west (traditional account)</div>
@@ -70,7 +72,7 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (18)
+:::collapse !Late medieval (1000–1500) (20)
 <div class="timeline">
 <div class="ev"><span class="yr">1025</span>: 📅 War: <a href="/wiki/events/chola-naval-expedition-to-srivijaya.html">Chola naval expedition to Srivijaya</a> <span class='muted'>· Southeast Asia</span> — Chola dominance of sea trade</div>
 <div class="ev"><span class="yr">1025</span>: 📅 Invasion: <a href="/wiki/events/mahmud-of-ghazni-raids-somnath.html">Mahmud of Ghazni raids Somnath</a> <span class='muted'>· South Asia</span> — Plunder of temple wealth</div>
@@ -81,6 +83,8 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 <div class="ev"><span class="yr">1192</span>: 📅 War: <a href="/wiki/events/second-battle-of-tarain.html">Second Battle of Tarain</a> <span class='muted'>· South Asia</span> — Muhammad of Ghor defeats Prithviraj Chauhan</div>
 <div class="ev"><span class="yr">1204</span>: 📅 War: <a href="/wiki/events/fourth-crusade-sacks-constantinople.html">Fourth Crusade sacks Constantinople</a> <span class='muted'>· Europe</span> — Byzantine collapse</div>
 <div class="ev"><span class="yr">1206</span>: 📅 Conquest: <a href="/wiki/events/mongol-conquests.html">Mongol conquests</a> <span class='muted'>· East Asia</span> — ~30–40 million deaths (estimates)</div>
+<div class="ev"><span class="yr">1221</span>: 📅 Invasion: <a href="/wiki/events/mongol-invasions-of-india.html">Mongol invasions of India</a> <span class='muted'>· South Asia</span> — Repelled by the Delhi Sultanate</div>
+<div class="ev"><span class="yr">1237</span>: 📅 Invasion: <a href="/wiki/events/mongol-invasion-of-kievan-rus.html">Mongol invasion of Kievan Rus&#x27;</a> <span class='muted'>· Europe</span> — Two centuries of the &#x27;Tatar yoke&#x27;</div>
 <div class="ev"><span class="yr">1260</span>: 📅 War: <a href="/wiki/events/battle-of-ain-jalut.html">Battle of Ain Jalut</a> <span class='muted'>· Middle East</span> — Mongol advance halted</div>
 <div class="ev"><span class="yr">1274</span>: 📅 War: <a href="/wiki/events/mongol-invasions-of-japan.html">Mongol invasions of Japan</a> <span class='muted'>· East Asia</span> — &#x27;Kamikaze&#x27; storms</div>
 <div class="ev"><span class="yr">1315</span>: 📅 Famine: <a href="/wiki/events/great-famine-of-europe.html">Great Famine of Europe</a> <span class='muted'>· Europe</span> — Millions dead</div>
@@ -121,9 +125,10 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (26)
+:::collapse Industrial and imperial age (1800–1945) (32)
 <div class="timeline">
 <div class="ev"><span class="yr">1803</span>: 📅 War: <a href="/wiki/events/napoleonic-wars.html">Napoleonic Wars</a> <span class='muted'>· Europe</span> — Redrew Europe; ended at Waterloo</div>
+<div class="ev"><span class="yr">1812</span>: 📅 Invasion: <a href="/wiki/events/napoleon-s-invasion-of-russia.html">Napoleon&#x27;s invasion of Russia</a> <span class='muted'>· Europe</span> — Destroyed Napoleon&#x27;s Grande Armée</div>
 <div class="ev"><span class="yr">1815</span>: 📅 Volcanic eruption: <a href="/wiki/events/tambora-eruption.html">Tambora eruption</a> <span class='muted'>· South Asia</span> — &#x27;Year Without a Summer&#x27; (1816)</div>
 <div class="ev"><span class="yr">1815</span>: 📅 War: <a href="/wiki/events/battle-of-waterloo.html">Battle of Waterloo</a> <span class='muted'>· Europe</span> — End of Napoleon</div>
 <div class="ev"><span class="yr">1817</span>: 📅 Pandemic: <a href="/wiki/events/cholera-pandemics.html">Cholera pandemics</a> <span class='muted'>· Global</span> — Millions dead</div>
@@ -143,16 +148,21 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 <div class="ev"><span class="yr">1927</span>: 📅 Civil war: <a href="/wiki/events/chinese-civil-war.html">Chinese Civil War</a> <span class='muted'>· East Asia</span> — Communist victory</div>
 <div class="ev"><span class="yr">1932</span>: 📅 Famine: <a href="/wiki/events/holodomor.html">Holodomor</a> <span class='muted'>· Europe</span> — Millions died</div>
 <div class="ev"><span class="yr">1936</span>: 📅 Civil war: <a href="/wiki/events/spanish-civil-war.html">Spanish Civil War</a> <span class='muted'>· Europe</span> — Franco&#x27;s dictatorship</div>
+<div class="ev"><span class="yr">1937</span>: 📅 Invasion: <a href="/wiki/events/japanese-invasion-of-china-and-the-nanjing-massacre.html">Japanese invasion of China and the Nanjing Massacre</a> <span class='muted'>· East Asia</span> — Start of the war in Asia</div>
 <div class="ev"><span class="yr">1939</span>: 📅 World war: <a href="/wiki/events/world-war-ii.html">World War II</a> <span class='muted'>· Global</span> — 70–85 million dead, the deadliest war</div>
+<div class="ev"><span class="yr">1939</span>: 📅 Invasion: <a href="/wiki/events/german-invasion-of-poland.html">German invasion of Poland</a> <span class='muted'>· Europe</span> — Start of World War II in Europe</div>
 <div class="ev"><span class="yr">1941</span>: 📅 Genocide: <a href="/wiki/events/the-holocaust.html">The Holocaust</a> <span class='muted'>· Europe</span> — ~6 million Jews murdered</div>
+<div class="ev"><span class="yr">1941</span>: 📅 Invasion: <a href="/wiki/events/operation-barbarossa.html">Operation Barbarossa</a> <span class='muted'>· Europe</span> — Largest invasion in history</div>
 <div class="ev"><span class="yr">1942</span>: 📅 War: <a href="/wiki/events/battle-of-stalingrad.html">Battle of Stalingrad</a> <span class='muted'>· Europe</span> — Turning point of WWII</div>
 <div class="ev"><span class="yr">1942</span>: 📅 Science and war: <a href="/wiki/events/manhattan-project-begins.html">Manhattan Project begins</a> <span class='muted'>· Americas</span> — Race for the atomic bomb</div>
+<div class="ev"><span class="yr">1942</span>: 📅 Invasion: <a href="/wiki/events/fall-of-singapore.html">Fall of Singapore</a> <span class='muted'>· Southeast Asia</span> — Britain&#x27;s worst military defeat</div>
 <div class="ev"><span class="yr">1943</span>: 📅 Famine: <a href="/wiki/events/bengal-famine-of-1943.html">Bengal famine of 1943</a> <span class='muted'>· South Asia</span> — ~2–3 million dead</div>
 <div class="ev"><span class="yr">1944</span>: 📅 War: <a href="/wiki/events/battles-of-imphal-and-kohima.html">Battles of Imphal and Kohima</a> <span class='muted'>· South Asia</span> — Japan&#x27;s invasion of India stopped</div>
+<div class="ev"><span class="yr">1944</span>: 📅 Invasion: <a href="/wiki/events/d-day-landings.html">D-Day landings</a> <span class='muted'>· Europe</span> — Opened the Western Front</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (14)
+:::collapse Contemporary (1945–today) (18)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 War: <a href="/wiki/events/atomic-bombings-of-hiroshima-and-nagasaki.html">Atomic bombings of Hiroshima and Nagasaki</a> <span class='muted'>· East Asia</span> — ~110,000–210,000 dead</div>
 <div class="ev"><span class="yr">1945</span>: 📅 Science and war: <a href="/wiki/events/trinity-nuclear-test.html">Trinity nuclear test</a> <span class='muted'>· Americas</span> — The first nuclear explosion</div>
@@ -162,11 +172,15 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 <div class="ev"><span class="yr">1962</span>: 📅 Cold War: <a href="/wiki/events/cuban-missile-crisis.html">Cuban Missile Crisis</a> <span class='muted'>· Americas</span> — Nuclear brink</div>
 <div class="ev"><span class="yr">1971</span>: 📅 War: <a href="/wiki/events/bangladesh-liberation-war.html">Bangladesh Liberation War</a> <span class='muted'>· South Asia</span> — Bangladesh independent</div>
 <div class="ev"><span class="yr">1974</span>: 📅 Science and war: <a href="/wiki/events/smiling-buddha-nuclear-test.html">Smiling Buddha nuclear test</a> <span class='muted'>· South Asia</span> — India becomes a nuclear power</div>
+<div class="ev"><span class="yr">1979</span>: 📅 Invasion: <a href="/wiki/events/soviet-invasion-of-afghanistan.html">Soviet invasion of Afghanistan</a> <span class='muted'>· Central Asia</span> — Cold War proxy war</div>
 <div class="ev"><span class="yr">1981</span>: 📅 Pandemic: <a href="/wiki/events/hiv-aids-pandemic.html">HIV/AIDS pandemic</a> <span class='muted'>· Global</span> — ~40 million deaths</div>
 <div class="ev"><span class="yr">1984</span>: 📅 Disaster: <a href="/wiki/events/bhopal-gas-tragedy.html">Bhopal gas tragedy</a> <span class='muted'>· South Asia</span> — Thousands killed by toxic gas</div>
 <div class="ev"><span class="yr">1986</span>: 📅 Disaster: <a href="/wiki/events/chernobyl-disaster.html">Chernobyl disaster</a> <span class='muted'>· Europe</span> — Nuclear catastrophe</div>
+<div class="ev"><span class="yr">1990</span>: 📅 Invasion: <a href="/wiki/events/iraqi-invasion-of-kuwait-and-gulf-war.html">Iraqi invasion of Kuwait and Gulf War</a> <span class='muted'>· Middle East</span> — US-led coalition war</div>
 <div class="ev"><span class="yr">1994</span>: 📅 Genocide: <a href="/wiki/events/rwandan-genocide.html">Rwandan genocide</a> <span class='muted'>· Africa</span> — ~500,000–800,000 killed</div>
+<div class="ev"><span class="yr">2003</span>: 📅 Invasion: <a href="/wiki/events/us-invasion-of-iraq.html">US invasion of Iraq</a> <span class='muted'>· Middle East</span> — Toppled Saddam Hussein</div>
 <div class="ev"><span class="yr">2004</span>: 📅 Natural disaster: <a href="/wiki/events/2004-indian-ocean-tsunami.html">2004 Indian Ocean tsunami</a> <span class='muted'>· South Asia</span> — ~230,000 dead</div>
 <div class="ev"><span class="yr">2020</span>: 📅 Pandemic: <a href="/wiki/events/covid-19-pandemic.html">COVID-19 pandemic</a> <span class='muted'>· Global</span> — ~7 million reported deaths (many more estimated)</div>
+<div class="ev"><span class="yr">2022</span>: 📅 Invasion: <a href="/wiki/events/russian-invasion-of-ukraine.html">Russian invasion of Ukraine</a> <span class='muted'>· Europe</span> — Largest war in Europe since 1945</div>
 </div>
 :::

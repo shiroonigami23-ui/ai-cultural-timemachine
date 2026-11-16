@@ -1,9 +1,9 @@
 ---
 title: Timeline: South Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (239 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (256 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (239 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (256 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (2)
 <div class="timeline">
@@ -21,11 +21,13 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (7)
+:::collapse !Bronze Age (3000–1200 BCE) (9)
 <div class="timeline">
 <div class="ev"><span class="yr">2650 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/dholavira.html">Dholavira</a> — Indus people</div>
 <div class="ev"><span class="yr">2600 BCE</span>: 📅 Urbanisation: <a href="/wiki/events/indus-mature-urban-phase.html">Indus mature urban phase</a> — South Asia&#x27;s first cities</div>
 <div class="ev"><span class="yr">2500 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/mohenjo-daro.html">Mohenjo-daro</a> — Indus people</div>
+<div class="ev"><span class="yr">2500 BCE</span>: 🏗 Built: <a href="/wiki/engineering/mohenjo-daro-drainage-and-great-bath.html">Mohenjo-daro drainage and Great Bath</a> — Sindh, Pakistan</div>
+<div class="ev"><span class="yr">2500 BCE</span>: 🏗 Built: <a href="/wiki/engineering/lost-wax-bronze-casting.html">Lost-wax bronze casting</a> — Near East, Indus Valley, Chola India</div>
 <div class="ev"><span class="yr">2200 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/lothal.html">Lothal</a> — Indus people</div>
 <div class="ev"><span class="yr">1500 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/vedic-india.html">Vedic India</a> — c. 1500–500 BCE</div>
 <div class="ev"><span class="yr">1500 BCE</span>: 📅 Literature: <a href="/wiki/events/rigveda-composed.html">Rigveda composed</a> — Oldest Indian text</div>
@@ -49,7 +51,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (45)
+:::collapse !Classical age (500 BCE–500 CE) (48)
 <div class="timeline">
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/panini.html">Panini</a> — Ashtadhyayi Sanskrit grammar</div>
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/valmiki.html">Valmiki</a> — Ramayana</div>
@@ -65,6 +67,8 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">300 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/sangam-era-tamilakam.html">Sangam-era Tamilakam</a> — c. 300 BCE–300 CE</div>
 <div class="ev"><span class="yr">300 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/wootz-steel.html">Wootz steel</a> — South India</div>
 <div class="ev"><span class="yr">300 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/steel-crucible.html">Steel (crucible)</a> — South India</div>
+<div class="ev"><span class="yr">300 BCE</span>: 🏗 Built: <a href="/wiki/engineering/wootz-steel.html">Wootz steel</a> — South India and Sri Lanka</div>
+<div class="ev"><span class="yr">300 BCE</span>: 🏗 Built: <a href="/wiki/engineering/indian-muslin-weaving.html">Indian muslin weaving</a> — Dhaka, Bengal</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/arthashastra.html">Arthashastra</a> — c. 3rd century BCE – 3rd century CE</div>
 <div class="ev"><span class="yr">261 BCE</span>: 📅 War: <a href="/wiki/events/kalinga-war.html">Kalinga War</a> — ~100,000 killed; Ashoka renounces war</div>
 <div class="ev"><span class="yr">260 BCE</span>: 📅 Politics: <a href="/wiki/events/ashokas-edicts.html">Ashoka&#x27;s edicts</a> — First Indian moral state</div>
@@ -92,6 +96,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">350 CE</span>: ⚙ Invention: <a href="/wiki/inventions/crystallised-sugar.html">Crystallised sugar</a> — India</div>
 <div class="ev"><span class="yr">380 CE</span>: 👤 Born: <a href="/wiki/people/chandragupta-ii.html">Chandragupta II</a> — Vikramaditya</div>
 <div class="ev"><span class="yr">400 CE</span>: 👤 Born: <a href="/wiki/people/kalidasa.html">Kalidasa</a> — Abhijnanashakuntalam, Meghaduta</div>
+<div class="ev"><span class="yr">402 CE</span>: 🏗 Built: <a href="/wiki/engineering/iron-pillar-of-delhi.html">Iron Pillar of Delhi</a> — Qutb complex, Delhi</div>
 <div class="ev"><span class="yr">427 CE</span>: 📅 Education: <a href="/wiki/events/nalanda-founded.html">Nalanda founded</a> — One of the first great residential universities</div>
 <div class="ev"><span class="yr">427 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/nalanda-mahavihara.html">Nalanda Mahavihara</a> — Gupta kings</div>
 <div class="ev"><span class="yr">460 CE</span>: 📅 Invasion: <a href="/wiki/events/huna-invasions-of-india.html">Huna invasions of India</a> — Gupta decline</div>
@@ -99,7 +104,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (25)
+:::collapse !Early medieval (500–1000) (27)
 <div class="timeline">
 <div class="ev"><span class="yr">500 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/pushyabhuti-vardhana-dynasty.html">Pushyabhuti (Vardhana) dynasty</a> — The Pushyabhutis ruled Thanesar (Haryana) and rose by fighting the Hunas. Harshavardhana (r. 606–647) took over Kannauj after his sister&#x2</div>
 <div class="ev"><span class="yr">500 CE</span>: ⚙ Invention: <a href="/wiki/inventions/zero-and-decimal-place-value.html">Zero and decimal place value</a> — India</div>
@@ -119,9 +124,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">753 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/rashtrakuta-dynasty.html">Rashtrakuta dynasty</a> — 753–982 CE</div>
 <div class="ev"><span class="yr">753 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/rashtrakuta-dynasty.html">Rashtrakuta dynasty</a> — Dantidurga, a Chalukya feudatory, overthrew Kirtivarman II around 753 and founded the Rashtrakuta dynasty in the Deccan. His successor Krish</div>
 <div class="ev"><span class="yr">760 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/ellora-kailasa-temple.html">Ellora Kailasa Temple</a> — Rashtrakutas</div>
+<div class="ev"><span class="yr">760 CE</span>: 🏗 Built: <a href="/wiki/engineering/kailasa-temple-ellora.html">Kailasa temple, Ellora</a> — Ellora, Maharashtra</div>
 <div class="ev"><span class="yr">788 CE</span>: 👤 Born: <a href="/wiki/people/adi-shankaracharya.html">Adi Shankaracharya</a> — Advaita Vedanta</div>
 <div class="ev"><span class="yr">848 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/chola-empire.html">Chola Empire</a> — 848–1279 CE</div>
 <div class="ev"><span class="yr">848 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/chola-dynasty-imperial.html">Chola dynasty (Imperial)</a> — The early Cholas appear in Sangam literature, but the Imperial Cholas began when Vijayalaya captured Thanjavur from the Muttaraiyars around </div>
+<div class="ev"><span class="yr">850 CE</span>: 🏗 Built: <a href="/wiki/engineering/chand-baori-stepwell.html">Chand Baori stepwell</a> — Abhaneri, Rajasthan</div>
 <div class="ev"><span class="yr">947 CE</span>: 👤 Born: <a href="/wiki/people/rajaraja-chola-i.html">Rajaraja Chola I</a> — Brihadeeswara temple</div>
 <div class="ev"><span class="yr">950 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/khajuraho-temples.html">Khajuraho temples</a> — Chandelas</div>
 <div class="ev"><span class="yr">973 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/western-chalukyas-kalyani.html">Western Chalukyas (Kalyani)</a> — Tailapa II, a Rashtrakuta feudatory claiming Chalukya descent, overthrew his overlords in 973 and ruled from Kalyani. His dynasty fought lon</div>
@@ -129,13 +136,15 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (33)
+:::collapse !Late medieval (1000–1500) (37)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: ⚙ Invention: <a href="/wiki/inventions/spinning-wheel.html">Spinning wheel</a> — India or China</div>
 <div class="ev"><span class="yr">1010</span>: 🗿 Built / founded: <a href="/wiki/sites/brihadeeswara-temple.html">Brihadeeswara Temple</a> — Rajaraja Chola I</div>
+<div class="ev"><span class="yr">1010</span>: 🏗 Built: <a href="/wiki/engineering/brihadeeswarar-temple.html">Brihadeeswarar temple</a> — Thanjavur, Tamil Nadu</div>
 <div class="ev"><span class="yr">1019</span>: 📅 Military campaign: <a href="/wiki/events/rajendra-chola-s-ganga-expedition.html">Rajendra Chola&#x27;s Ganga expedition</a> — Chola power reaches its height</div>
 <div class="ev"><span class="yr">1025</span>: 📅 Invasion: <a href="/wiki/events/mahmud-of-ghazni-raids-somnath.html">Mahmud of Ghazni raids Somnath</a> — Plunder of temple wealth</div>
 <div class="ev"><span class="yr">1026</span>: 👑 Dynasty: <a href="/wiki/dynasties/hoysala-empire.html">Hoysala Empire</a> — Hill chiefs from the Malnad region of Karnataka, the Hoysalas served as Chalukya feudatories and became independent under Vishnuvardhana (r.</div>
+<div class="ev"><span class="yr">1063</span>: 🏗 Built: <a href="/wiki/engineering/rani-ki-vav-stepwell.html">Rani ki Vav stepwell</a> — Patan, Gujarat</div>
 <div class="ev"><span class="yr">1078</span>: 👑 Dynasty: <a href="/wiki/dynasties/eastern-ganga-dynasty.html">Eastern Ganga dynasty</a> — Anantavarman Chodaganga (r. 1078–1147) ruled from the Godavari to the Ganga and began the Jagannath temple at Puri. Narasimhadeva I (r. 1238</div>
 <div class="ev"><span class="yr">1114</span>: 👤 Born: <a href="/wiki/people/bhaskara-ii.html">Bhaskara II</a> — Lilavati; early calculus ideas</div>
 <div class="ev"><span class="yr">1163</span>: 👑 Dynasty: <a href="/wiki/dynasties/kakatiya-dynasty.html">Kakatiya dynasty</a> — Kakatiyas were Chalukya feudatories in Telangana who became independent under Prola II and Rudra I (c. 1163). Ganapati (r. 1199–1262) and hi</div>
@@ -146,9 +155,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1200</span>: ⚙ Invention: <a href="/wiki/inventions/snakes-and-ladders-moksha-patam.html">Snakes and ladders (moksha patam)</a> — India</div>
 <div class="ev"><span class="yr">1206</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/delhi-sultanate.html">Delhi Sultanate</a> — 1206–1526</div>
 <div class="ev"><span class="yr">1206</span>: 👑 Dynasty: <a href="/wiki/dynasties/mamluk-slave-dynasty.html">Mamluk (Slave) dynasty</a> — Qutb ud-Din Aibak, a Turkic slave who rose as Muhammad of Ghor&#x27;s general, ruled from Delhi from 1206. Iltutmish (r. 1211–1236) consolid</div>
+<div class="ev"><span class="yr">1221</span>: 📅 Invasion: <a href="/wiki/events/mongol-invasions-of-india.html">Mongol invasions of India</a> — Repelled by the Delhi Sultanate</div>
 <div class="ev"><span class="yr">1228</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ahom-kingdom.html">Ahom kingdom</a> — 1228–1826</div>
 <div class="ev"><span class="yr">1228</span>: 👑 Dynasty: <a href="/wiki/dynasties/ahom-dynasty.html">Ahom dynasty</a> — The Tai prince Sukaphaa crossed the Patkai hills in 1228 and united local peoples.</div>
 <div class="ev"><span class="yr">1250</span>: 🗿 Built / founded: <a href="/wiki/sites/konark-sun-temple.html">Konark Sun Temple</a> — Narasimhadeva I</div>
+<div class="ev"><span class="yr">1250</span>: 🏗 Built: <a href="/wiki/engineering/konark-sun-temple.html">Konark Sun Temple</a> — Odisha</div>
 <div class="ev"><span class="yr">1290</span>: 👑 Dynasty: <a href="/wiki/dynasties/khalji-dynasty.html">Khalji dynasty</a> — Jalaluddin Khalji seized power in 1290, ending the Turkish nobles&#x27; monopoly. His nephew Alauddin murdered him in 1296 and, with the loo</div>
 <div class="ev"><span class="yr">1320</span>: 👑 Dynasty: <a href="/wiki/dynasties/tughlaq-dynasty.html">Tughlaq dynasty</a> — Ghiyasuddin Tughlaq founded the dynasty in 1320 and built Tughlaqabad. Muhammad bin Tughlaq (r. 1325–51) was brilliant but erratic: token cu</div>
 <div class="ev"><span class="yr">1326</span>: 👑 Dynasty: <a href="/wiki/dynasties/rajput-kingdoms-of-mewar-sisodia.html">Rajput kingdoms of Mewar (Sisodia)</a> — Hammir Singh recaptured Chittor around 1326 after Alauddin Khalji&#x27;s siege of 1303. Rana Kumbha (r. 1433–68) built the Vijay Stambh and </div>
@@ -167,7 +178,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (45)
+:::collapse Early modern (1500–1800) (47)
 <div class="timeline">
 <div class="ev"><span class="yr">1508</span>: 👤 Born: <a href="/wiki/people/humayun.html">Humayun</a> — Lost and regained the empire</div>
 <div class="ev"><span class="yr">1510</span>: 📅 Colonialism: <a href="/wiki/events/portuguese-take-goa.html">Portuguese take Goa</a> — European colony in India</div>
@@ -178,6 +189,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1530</span>: 📜 Manuscript: <a href="/wiki/manuscripts/baburnama.html">Baburnama</a> — c. 1530 (illustrated copies c. 1590)</div>
 <div class="ev"><span class="yr">1540</span>: 👑 Dynasty: <a href="/wiki/dynasties/suri-dynasty.html">Suri dynasty</a> — Sher Shah Suri, an Afghan commander, defeated the Mughal Humayun at Chausa (1539) and Kannauj (1540) and ruled north India. He introduced th</div>
 <div class="ev"><span class="yr">1542</span>: 👤 Born: <a href="/wiki/people/akbar.html">Akbar</a> — Religious tolerance (Sulh-i-kul), Din-i-Ilahi</div>
+<div class="ev"><span class="yr">1550</span>: 🏗 Built: <a href="/wiki/engineering/golconda-fort-acoustics.html">Golconda Fort acoustics</a> — Hyderabad, Telangana</div>
 <div class="ev"><span class="yr">1556</span>: 📅 War: <a href="/wiki/events/second-battle-of-panipat.html">Second Battle of Panipat</a> — Akbar&#x27;s reign begins</div>
 <div class="ev"><span class="yr">1565</span>: 📅 War: <a href="/wiki/events/battle-of-talikota.html">Battle of Talikota</a> — Destruction of Hampi</div>
 <div class="ev"><span class="yr">1571</span>: 🗿 Built / founded: <a href="/wiki/sites/fatehpur-sikri.html">Fatehpur Sikri</a> — Akbar</div>
@@ -191,6 +203,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1618</span>: 👤 Born: <a href="/wiki/people/aurangzeb.html">Aurangzeb</a> — Largest Mughal extent</div>
 <div class="ev"><span class="yr">1632</span>: 🗿 Built / founded: <a href="/wiki/sites/taj-mahal.html">Taj Mahal</a> — Shah Jahan</div>
 <div class="ev"><span class="yr">1639</span>: 🗿 Built / founded: <a href="/wiki/sites/red-fort.html">Red Fort</a> — Shah Jahan</div>
+<div class="ev"><span class="yr">1653</span>: 🏗 Built: <a href="/wiki/engineering/taj-mahal.html">Taj Mahal</a> — Agra, Uttar Pradesh</div>
 <div class="ev"><span class="yr">1674</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/maratha-confederacy.html">Maratha Confederacy</a> — 1674–1818</div>
 <div class="ev"><span class="yr">1674</span>: 👑 Dynasty: <a href="/wiki/dynasties/maratha-empire-bhonsle-and-peshwas.html">Maratha Empire (Bhonsle and Peshwas)</a> — Shivaji (1630–1680) built a state in the Western Ghats by seizing Bijapur forts, defeated Afzal Khan (1659), escaped from Aurangzeb&#x27;s c</div>
 <div class="ev"><span class="yr">1674</span>: 📅 Politics: <a href="/wiki/events/shivajis-coronation.html">Shivaji&#x27;s coronation</a> — Maratha kingdom</div>
@@ -217,8 +230,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (43)
+:::collapse Industrial and imperial age (1800–1945) (46)
 <div class="timeline">
+<div class="ev"><span class="yr">1800</span>: 🏗 Built: <a href="/wiki/engineering/living-root-bridges.html">Living root bridges</a> — Meghalaya</div>
 <div class="ev"><span class="yr">1815</span>: 📅 Volcanic eruption: <a href="/wiki/events/tambora-eruption.html">Tambora eruption</a> — &#x27;Year Without a Summer&#x27; (1816)</div>
 <div class="ev"><span class="yr">1827</span>: 👤 Born: <a href="/wiki/people/mangal-pandey.html">Mangal Pandey</a> — Sparked the 1857 uprising</div>
 <div class="ev"><span class="yr">1828</span>: 👤 Born: <a href="/wiki/people/rani-lakshmibai.html">Rani Lakshmibai</a> — 1857 uprising</div>
@@ -251,6 +265,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1905</span>: 📅 Political: <a href="/wiki/events/partition-of-bengal.html">Partition of Bengal</a> — Swadeshi movement</div>
 <div class="ev"><span class="yr">1907</span>: 👤 Born: <a href="/wiki/people/bhagat-singh.html">Bhagat Singh</a> — Martyr at 23</div>
 <div class="ev"><span class="yr">1909</span>: 👤 Born: <a href="/wiki/people/homi-j-bhabha.html">Homi J. Bhabha</a> — Father of India&#x27;s nuclear programme</div>
+<div class="ev"><span class="yr">1914</span>: 🏗 Built: <a href="/wiki/engineering/pamban-bridge.html">Pamban Bridge</a> — Rameswaram, Tamil Nadu</div>
 <div class="ev"><span class="yr">1917</span>: 📅 Freedom struggle: <a href="/wiki/events/champaran-satyagraha.html">Champaran Satyagraha</a> — Gandhi&#x27;s first Indian movement</div>
 <div class="ev"><span class="yr">1917</span>: 👤 Born: <a href="/wiki/people/indira-gandhi.html">Indira Gandhi</a> — Bangladesh war, Emergency</div>
 <div class="ev"><span class="yr">1919</span>: 📅 Massacre: <a href="/wiki/events/jallianwala-bagh-massacre.html">Jallianwala Bagh massacre</a> — Hundreds killed by British troops</div>
@@ -260,12 +275,13 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1931</span>: 👤 Born: <a href="/wiki/people/a-p-j-abdul-kalam.html">A. P. J. Abdul Kalam</a> — Missile programme</div>
 <div class="ev"><span class="yr">1942</span>: 📅 Freedom struggle: <a href="/wiki/events/quit-india-movement.html">Quit India Movement</a> — &#x27;Do or die&#x27;</div>
 <div class="ev"><span class="yr">1943</span>: 📅 Famine: <a href="/wiki/events/bengal-famine-of-1943.html">Bengal famine of 1943</a> — ~2–3 million dead</div>
+<div class="ev"><span class="yr">1943</span>: 🏗 Built: <a href="/wiki/engineering/howrah-bridge.html">Howrah Bridge</a> — Kolkata, West Bengal</div>
 <div class="ev"><span class="yr">1943</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/churchill-and-the-bengal-famine.html">Churchill and the Bengal famine</a> — Disputed and debated</div>
 <div class="ev"><span class="yr">1944</span>: 📅 War: <a href="/wiki/events/battles-of-imphal-and-kohima.html">Battles of Imphal and Kohima</a> — Japan&#x27;s invasion of India stopped</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (24)
+:::collapse Contemporary (1945–today) (25)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Independence: <a href="/wiki/events/decolonisation-of-africa-and-asia.html">Decolonisation of Africa and Asia</a> — Dozens of new nations</div>
 <div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/death-of-subhas-chandra-bose.html">Death of Subhas Chandra Bose</a> — Unresolved</div>
@@ -289,6 +305,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">2004</span>: 📅 Natural disaster: <a href="/wiki/events/2004-indian-ocean-tsunami.html">2004 Indian Ocean tsunami</a> — ~230,000 dead</div>
 <div class="ev"><span class="yr">2016</span>: 📅 Invention: <a href="/wiki/events/launch-of-upi.html">Launch of UPI</a> — Digital payments revolution</div>
 <div class="ev"><span class="yr">2016</span>: ⚙ Invention: <a href="/wiki/inventions/upi-unified-payments-interface.html">UPI (Unified Payments Interface)</a> — India</div>
+<div class="ev"><span class="yr">2022</span>: 🏗 Built: <a href="/wiki/engineering/chenab-rail-bridge.html">Chenab Rail Bridge</a> — Jammu and Kashmir</div>
 <div class="ev"><span class="yr">2023</span>: 📅 Exploration: <a href="/wiki/events/chandrayaan-3-lands-on-the-moon.html">Chandrayaan-3 lands on the Moon</a> — First landing near the lunar south pole</div>
 <div class="ev"><span class="yr">2023</span>: 📅 Demography: <a href="/wiki/events/india-becomes-most-populous-country.html">India becomes most populous country</a> — ~1.43 billion people</div>
 </div>

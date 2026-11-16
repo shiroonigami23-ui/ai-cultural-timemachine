@@ -1,9 +1,9 @@
 ---
 title: Timeline: East Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (87 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (93 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (87 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (93 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -39,15 +39,17 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (16)
+:::collapse !Classical age (500 BCE–500 CE) (18)
 <div class="timeline">
 <div class="ev"><span class="yr">372 BCE</span>: 👤 Born: <a href="/wiki/people/mencius.html">Mencius</a> — Confucian thinker</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/guodian-bamboo-slips.html">Guodian bamboo slips</a> — c. 300 BCE</div>
 <div class="ev"><span class="yr">264 BCE</span>: 📅 War: <a href="/wiki/events/punic-wars.html">Punic Wars</a> — Rome destroys Carthage</div>
 <div class="ev"><span class="yr">259 BCE</span>: 👤 Born: <a href="/wiki/people/qin-shi-huang.html">Qin Shi Huang</a> — Unified China; Terracotta Army</div>
+<div class="ev"><span class="yr">256 BCE</span>: 🏗 Built: <a href="/wiki/engineering/dujiangyan-irrigation-system.html">Dujiangyan irrigation system</a> — Sichuan, China</div>
 <div class="ev"><span class="yr">221 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/qin-dynasty.html">Qin dynasty</a> — 221–206 BCE</div>
 <div class="ev"><span class="yr">221 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/qin-dynasty.html">Qin dynasty</a> — Qin, a western state, became powerful after Shang Yang&#x27;s Legalist reforms (4th century BCE). King Ying Zheng conquered the other six Wa</div>
 <div class="ev"><span class="yr">221 BCE</span>: 📅 State formation: <a href="/wiki/events/unification-of-china-under-qin.html">Unification of China under Qin</a> — First emperor</div>
+<div class="ev"><span class="yr">221 BCE</span>: 🏗 Built: <a href="/wiki/engineering/great-wall-of-china.html">Great Wall of China</a> — Northern China</div>
 <div class="ev"><span class="yr">215 BCE</span>: 📅 Construction: <a href="/wiki/events/great-wall-unified-by-qin.html">Great Wall unified by Qin</a> — Northern defence</div>
 <div class="ev"><span class="yr">210 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/terracotta-army.html">Terracotta Army</a> — Qin Shi Huang</div>
 <div class="ev"><span class="yr">206 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/han-dynasty.html">Han dynasty</a> — 206 BCE–220 CE</div>
@@ -60,9 +62,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (14)
+:::collapse !Early medieval (500–1000) (15)
 <div class="timeline">
 <div class="ev"><span class="yr">581 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/sui-dynasty.html">Sui dynasty</a> — Yang Jian (Emperor Wen) reunified China in 589 and restored examinations.</div>
+<div class="ev"><span class="yr">605 CE</span>: 🏗 Built: <a href="/wiki/engineering/zhaozhou-bridge.html">Zhaozhou Bridge</a> — Hebei, China</div>
 <div class="ev"><span class="yr">618 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/tang-dynasty.html">Tang dynasty</a> — 618–907</div>
 <div class="ev"><span class="yr">618 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/tang-dynasty.html">Tang dynasty</a> — After the short Sui dynasty reunified China (581) but exhausted it with huge canal projects and failed wars in Korea, rebellions broke out. </div>
 <div class="ev"><span class="yr">624 CE</span>: 👤 Born: <a href="/wiki/people/empress-wu-zetian.html">Empress Wu Zetian</a> — China&#x27;s only female emperor</div>
@@ -118,7 +121,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (9)
+:::collapse Industrial and imperial age (1800–1945) (10)
 <div class="timeline">
 <div class="ev"><span class="yr">1850</span>: 📅 Civil war: <a href="/wiki/events/taiping-rebellion.html">Taiping Rebellion</a> — 20–30 million dead</div>
 <div class="ev"><span class="yr">1866</span>: 👤 Born: <a href="/wiki/people/sun-yat-sen.html">Sun Yat-sen</a> — Father of the Republic of China</div>
@@ -129,12 +132,15 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1911</span>: 📅 Revolution: <a href="/wiki/events/xinhai-revolution.html">Xinhai Revolution</a> — End of imperial China</div>
 <div class="ev"><span class="yr">1927</span>: 📅 Civil war: <a href="/wiki/events/chinese-civil-war.html">Chinese Civil War</a> — Communist victory</div>
 <div class="ev"><span class="yr">1936</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/unit-731-and-the-us-cover-up.html">Unit 731 and the US cover-up</a> — Documented fact</div>
+<div class="ev"><span class="yr">1937</span>: 📅 Invasion: <a href="/wiki/events/japanese-invasion-of-china-and-the-nanjing-massacre.html">Japanese invasion of China and the Nanjing Massacre</a> — Start of the war in Asia</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (5)
+:::collapse Contemporary (1945–today) (7)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 War: <a href="/wiki/events/atomic-bombings-of-hiroshima-and-nagasaki.html">Atomic bombings of Hiroshima and Nagasaki</a> — ~110,000–210,000 dead</div>
+<div class="ev"><span class="yr">1945</span>: 🏗 Built: <a href="/wiki/engineering/iwo-jima-tunnel-fortress.html">Iwo Jima tunnel fortress</a> — Iwo Jima, Japan</div>
+<div class="ev"><span class="yr">1945</span>: 🏗 Built: <a href="/wiki/engineering/okinawa-caves-and-japanese-underground-hq.html">Okinawa caves and Japanese underground HQ</a> — Okinawa, Japan</div>
 <div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/hiroshima-bombing-was-unnecessary.html">Hiroshima bombing was unnecessary</a> — Disputed</div>
 <div class="ev"><span class="yr">1949</span>: 📅 Revolution: <a href="/wiki/events/chinese-revolution.html">Chinese Revolution</a> — People&#x27;s Republic founded</div>
 <div class="ev"><span class="yr">1950</span>: 📅 War: <a href="/wiki/events/korean-war.html">Korean War</a> — Divided peninsula</div>

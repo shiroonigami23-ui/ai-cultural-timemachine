@@ -4,6 +4,14 @@ All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
 
+## [Unreleased] - 2026-11-17 (part 2)
+### Added
+- How It Was Built: 50 structures and technologies (wonders, Indian engineering, bridges, underground and wartime engineering, crafts) with step-by-step building accounts, linked to empires, people and events.
+- 14 invasion events (Attila, Hispania, the Mongols in Russia and India, Napoleon in Russia, Nanjing, Poland, Barbarossa, Singapore, D-Day, Afghanistan, Kuwait, Iraq, Ukraine).
+- Engineering and Invasions & conquests theme timelines.
+### Changed
+- Reader page no longer shows a 'Reader' heading above articles.
+
 ## [Unreleased] - 2026-11-17
 ### Added
 - In-site reader (`wiki/read.html`): every Wikipedia link now opens the full article inside this site, with images, contents and links that stay in the site; pages we have our own article for open those instead.

@@ -318,7 +318,7 @@ document.addEventListener('DOMContentLoaded',function(){
    if(location.hash){var el=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(el)el.scrollIntoView()}else scrollTo(0,0);
   }).catch(function(){box.innerHTML='<h1>'+esc(t)+'</h1><p class="muted">Could not reach Wikipedia right now. <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(t.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Open the original</a>.</p>'});
  }
- document.addEventListener('DOMContentLoaded',function(){var box=document.getElementById('reader');if(!box)return;
+ document.addEventListener('DOMContentLoaded',function(){var box=document.getElementById('reader');if(!box)return;var ph=[].slice.call(document.querySelectorAll('h1')).filter(function(h){return !box.contains(h)})[0];if(ph)ph.style.display='none';
   var f=document.getElementById('rdform');if(f)f.onsubmit=function(e){e.preventDefault();var v=f.querySelector('input').value.trim();if(v)location.href=readURL(v)};
   var t=new URLSearchParams(location.search).get('t');if(!t){box.innerHTML='<p class="muted">Type any topic above to read about it here.</p>';return}
   t=t.replace(/_/g,' ');if(f)f.querySelector('input').value=t;getMap().then(function(map){render(box,map,t)})});

@@ -1,9 +1,9 @@
 ---
 title: Timeline: Global
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (127 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (128 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (127 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (128 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (7)
 <div class="timeline">
@@ -17,7 +17,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Neolithic and first farmers (10,000–3000 BCE) (8)
+:::collapse Neolithic and first farmers (10,000–3000 BCE) (9)
 <div class="timeline">
 <div class="ev"><span class="yr">10,000 yr ago</span>: 📅 Extinction: <a href="/wiki/events/quaternary-megafauna-extinction.html">Quaternary megafauna extinction</a> — Mammoths, giant sloths, cave lions vanish</div>
 <div class="ev"><span class="yr">9500 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/agriculture.html">Agriculture</a> — Fertile Crescent and elsewhere</div>
@@ -26,6 +26,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">5000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/cotton-textiles-and-chintz.html">Cotton textiles and chintz</a> — Indus region</div>
 <div class="ev"><span class="yr">4000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/plough-ard.html">Plough (ard)</a> — Mesopotamia; Indus</div>
 <div class="ev"><span class="yr">4000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/potters-wheel.html">Potter&#x27;s wheel</a> — Mesopotamia</div>
+<div class="ev"><span class="yr">4000 BCE</span>: 🏗 Built: <a href="/wiki/engineering/potter-s-wheel-and-kiln-fired-pottery.html">Potter&#x27;s wheel and kiln-fired pottery</a> — East Asia (pottery); Mesopotamia (wheel)</div>
 <div class="ev"><span class="yr">3300 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/bronze.html">Bronze</a> — Near East</div>
 </div>
 :::
