@@ -263,7 +263,7 @@ details.dsec>summary{cursor:pointer;font-weight:700;font-size:1.05rem;padding:.6
 details.dsec>summary::before{content:"▸ ";color:var(--accent)}details.dsec[open]>summary::before{content:"▾ "}
 details.dsec .dbody{padding-bottom:.8rem}details.dsec .dbody p,details.dsec .dbody li{line-height:1.7}
 details.dsec .dbody h3,details.dsec .dbody h4{font-size:1rem;margin:1rem 0 .3rem;color:var(--fg2)}
-.dbody figure{display:none}.dbody table{display:none}
+.dbody .rdtable,.dbody .rdinfo{overflow-x:auto;max-width:100%}.dbody table{border-collapse:collapse;font-size:.88em}.dbody th,.dbody td{border:1px solid var(--line);padding:.25rem .45rem;vertical-align:top}
 .wsrc{font-size:.8rem;color:var(--muted);margin-top:.4rem}
 a.intl{border-bottom:1px dashed var(--accent)}
 .loadingbar{height:4px;border-radius:2px;background:linear-gradient(90deg,var(--chip),var(--accent),var(--chip));background-size:200% 100%;animation:lb 1.2s linear infinite;margin:.6rem 0}
