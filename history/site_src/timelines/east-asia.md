@@ -1,9 +1,9 @@
 ---
 title: Timeline: East Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (93 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (97 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (93 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (97 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -13,9 +13,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Neolithic and first farmers (10,000–3000 BCE) (1)
+:::collapse Neolithic and first farmers (10,000–3000 BCE) (2)
 <div class="timeline">
 <div class="ev"><span class="yr">7000 BCE</span>: 📅 Agriculture: <a href="/wiki/events/rice-cultivation-in-the-yangtze.html">Rice cultivation in the Yangtze</a> — Rice farming begins</div>
+<div class="ev"><span class="yr">4500 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/chinese-dragon-long.html">Chinese dragon (Long)</a> — China</div>
 </div>
 :::
 
@@ -39,9 +40,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (18)
+:::collapse !Classical age (500 BCE–500 CE) (19)
 <div class="timeline">
 <div class="ev"><span class="yr">372 BCE</span>: 👤 Born: <a href="/wiki/people/mencius.html">Mencius</a> — Confucian thinker</div>
+<div class="ev"><span class="yr">300 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/kitsune.html">Kitsune</a> — China and Japan</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/guodian-bamboo-slips.html">Guodian bamboo slips</a> — c. 300 BCE</div>
 <div class="ev"><span class="yr">264 BCE</span>: 📅 War: <a href="/wiki/events/punic-wars.html">Punic Wars</a> — Rome destroys Carthage</div>
 <div class="ev"><span class="yr">259 BCE</span>: 👤 Born: <a href="/wiki/people/qin-shi-huang.html">Qin Shi Huang</a> — Unified China; Terracotta Army</div>
@@ -62,7 +64,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (15)
+:::collapse !Early medieval (500–1000) (17)
 <div class="timeline">
 <div class="ev"><span class="yr">581 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/sui-dynasty.html">Sui dynasty</a> — Yang Jian (Emperor Wen) reunified China in 589 and restored examinations.</div>
 <div class="ev"><span class="yr">605 CE</span>: 🏗 Built: <a href="/wiki/engineering/zhaozhou-bridge.html">Zhaozhou Bridge</a> — Hebei, China</div>
@@ -70,11 +72,13 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">618 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/tang-dynasty.html">Tang dynasty</a> — After the short Sui dynasty reunified China (581) but exhausted it with huge canal projects and failed wars in Korea, rebellions broke out. </div>
 <div class="ev"><span class="yr">624 CE</span>: 👤 Born: <a href="/wiki/people/empress-wu-zetian.html">Empress Wu Zetian</a> — China&#x27;s only female emperor</div>
 <div class="ev"><span class="yr">670 CE</span>: 📅 War: <a href="/wiki/events/tang-tibet-wars.html">Tang–Tibet wars</a> — Rise of the Tibetan Empire</div>
+<div class="ev"><span class="yr">720 CE</span>: 🐉 Myth: <a href="/wiki/creatures/tengu.html">Tengu</a> — Japan</div>
 <div class="ev"><span class="yr">751 CE</span>: 📅 War: <a href="/wiki/events/battle-of-talas.html">Battle of Talas</a> — Papermaking spreads west (traditional account)</div>
 <div class="ev"><span class="yr">755 CE</span>: 📅 Uprising: <a href="/wiki/events/an-lushan-rebellion.html">An Lushan rebellion</a> — Millions dead; Tang weakened</div>
 <div class="ev"><span class="yr">794 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/heian-japan.html">Heian Japan</a> — 794–1185</div>
 <div class="ev"><span class="yr">850 CE</span>: ⚙ Invention: <a href="/wiki/inventions/gunpowder.html">Gunpowder</a> — China</div>
 <div class="ev"><span class="yr">868 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/diamond-sutra-dunhuang.html">Diamond Sutra (Dunhuang)</a> — 868 CE</div>
+<div class="ev"><span class="yr">900 CE</span>: 🐉 Myth: <a href="/wiki/creatures/oni.html">Oni</a> — Japan</div>
 <div class="ev"><span class="yr">918 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/goryeo.html">Goryeo</a> — Wang Geon reunified Korea in 918; Goryeo printed the Tripitaka Koreana and the first metal movable type (Jikji, 1377).</div>
 <div class="ev"><span class="yr">960 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/song-dynasty.html">Song dynasty</a> — 960–1279</div>
 <div class="ev"><span class="yr">960 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/song-dynasty.html">Song dynasty</a> — General Zhao Kuangyin was proclaimed emperor by his troops in 960 and reunified most of China, ending the Five Dynasties chaos.</div>

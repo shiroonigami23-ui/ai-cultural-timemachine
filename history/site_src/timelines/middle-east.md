@@ -1,9 +1,9 @@
 ---
 title: Timeline: Middle East
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (96 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (99 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (96 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (99 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -27,8 +27,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (17)
+:::collapse !Bronze Age (3000–1200 BCE) (19)
 <div class="timeline">
+<div class="ev"><span class="yr">3000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/griffin.html">Griffin</a> — Near East, Central Asia, Greece</div>
 <div class="ev"><span class="yr">2400 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/pyramid-texts.html">Pyramid Texts</a> — c. 2400–2300 BCE</div>
 <div class="ev"><span class="yr">2334 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/akkadian-empire.html">Akkadian Empire</a> — c. 2334–2154 BCE</div>
 <div class="ev"><span class="yr">2334 BCE</span>: 📅 Conquest: <a href="/wiki/events/sargon-founds-akkad.html">Sargon founds Akkad</a> — The first empire</div>
@@ -43,6 +44,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1650 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/hittite-empire.html">Hittite Empire</a> — c. 1650–1180 BCE</div>
 <div class="ev"><span class="yr">1550 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/rhind-mathematical-papyrus.html">Rhind Mathematical Papyrus</a> — c. 1550 BCE (copy of an older text)</div>
 <div class="ev"><span class="yr">1500 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/phoenicia.html">Phoenicia</a> — c. 1500–300 BCE</div>
+<div class="ev"><span class="yr">1400 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/leviathan.html">Leviathan</a> — Canaan and ancient Israel</div>
 <div class="ev"><span class="yr">1350 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/amarna-letters.html">Amarna letters</a> — c. 1360–1330 BCE</div>
 <div class="ev"><span class="yr">1274 BCE</span>: 📅 War: <a href="/wiki/events/battle-of-kadesh.html">Battle of Kadesh</a> — Led to the first known peace treaty</div>
 <div class="ev"><span class="yr">1250 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/book-of-the-dead-papyrus-of-ani.html">Book of the Dead (Papyrus of Ani)</a> — c. 1250 BCE</div>
@@ -69,7 +71,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (11)
+:::collapse !Classical age (500 BCE–500 CE) (12)
 <div class="timeline">
 <div class="ev"><span class="yr">490 BCE</span>: 📅 War: <a href="/wiki/events/persian-wars.html">Persian Wars</a> — Marathon, Thermopylae, Salamis</div>
 <div class="ev"><span class="yr">400 BCE</span>: 🏗 Built: <a href="/wiki/engineering/yakhch-l-ice-houses-and-windcatchers.html">Yakhchāl ice houses and windcatchers</a> — Persia</div>
@@ -82,6 +84,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">30 CE</span>: 📅 Religion: <a href="/wiki/events/crucifixion-of-jesus.html">Crucifixion of Jesus</a> — Birth of Christianity</div>
 <div class="ev"><span class="yr">224 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/sasanian-empire.html">Sasanian Empire</a> — Ardashir I founded the empire in 224, promoting Zoroastrianism as state religion. Shapur I captured the Roman emperor Valerian (260). Khosro</div>
 <div class="ev"><span class="yr">325 CE</span>: 📅 Religious council: <a href="/wiki/events/council-of-nicaea.html">Council of Nicaea</a> — Defined core Christian doctrine</div>
+<div class="ev"><span class="yr">400 CE</span>: 🐉 Myth: <a href="/wiki/creatures/djinn-jinn.html">Djinn (Jinn)</a> — Arabia and the Islamic world</div>
 </div>
 :::
 

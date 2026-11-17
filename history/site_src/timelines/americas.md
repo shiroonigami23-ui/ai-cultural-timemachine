@@ -1,9 +1,9 @@
 ---
 title: Timeline: Americas
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (90 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (94 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (90 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (94 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -64,14 +64,16 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (11)
+:::collapse Early modern (1500–1800) (13)
 <div class="timeline">
+<div class="ev"><span class="yr">1500</span>: 🐉 Myth: <a href="/wiki/creatures/thunderbird.html">Thunderbird</a> — North America</div>
 <div class="ev"><span class="yr">1502</span>: 👤 Born: <a href="/wiki/people/atahualpa.html">Atahualpa</a> — Captured by Pizarro</div>
 <div class="ev"><span class="yr">1521</span>: 📅 Conquest: <a href="/wiki/events/fall-of-tenochtitlan.html">Fall of Tenochtitlan</a> — End of the Aztec Empire</div>
 <div class="ev"><span class="yr">1532</span>: 📅 Conquest: <a href="/wiki/events/spanish-conquest-of-the-inca.html">Spanish conquest of the Inca</a> — End of the Inca Empire</div>
 <div class="ev"><span class="yr">1541</span>: 📜 Manuscript: <a href="/wiki/manuscripts/codex-mendoza.html">Codex Mendoza</a> — c. 1541</div>
 <div class="ev"><span class="yr">1550</span>: 📜 Manuscript: <a href="/wiki/manuscripts/popol-vuh.html">Popol Vuh</a> — c. 1550s; Ximénez copy c. 1701</div>
 <div class="ev"><span class="yr">1577</span>: 📜 Manuscript: <a href="/wiki/manuscripts/florentine-codex.html">Florentine Codex</a> — 1545–1577</div>
+<div class="ev"><span class="yr">1600</span>: 🐉 Myth: <a href="/wiki/creatures/wendigo.html">Wendigo</a> — Northern North America</div>
 <div class="ev"><span class="yr">1607</span>: 📅 Colonialism: <a href="/wiki/events/jamestown-founded.html">Jamestown founded</a> — English America</div>
 <div class="ev"><span class="yr">1763</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/smallpox-blankets.html">Smallpox blankets</a> — Partly true</div>
 <div class="ev"><span class="yr">1775</span>: 📅 Revolution: <a href="/wiki/events/american-revolution.html">American Revolution</a> — Independence of the USA</div>
@@ -113,7 +115,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (22)
+:::collapse Contemporary (1945–today) (24)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Science and war: <a href="/wiki/events/trinity-nuclear-test.html">Trinity nuclear test</a> — The first nuclear explosion</div>
 <div class="ev"><span class="yr">1945</span>: ⚙ Invention: <a href="/wiki/inventions/atomic-bomb.html">Atomic bomb</a> — Los Alamos, USA</div>
@@ -124,6 +126,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1955</span>: ⚙ Invention: <a href="/wiki/inventions/polio-vaccine.html">Polio vaccine</a> — USA</div>
 <div class="ev"><span class="yr">1956</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/cointelpro.html">COINTELPRO</a> — Documented fact</div>
 <div class="ev"><span class="yr">1958</span>: ⚙ Invention: <a href="/wiki/inventions/microchip.html">Microchip</a> — USA</div>
+<div class="ev"><span class="yr">1958</span>: 🐉 Myth: <a href="/wiki/creatures/bigfoot-sasquatch.html">Bigfoot (Sasquatch)</a> — Pacific Northwest, USA and Canada</div>
 <div class="ev"><span class="yr">1960</span>: ⚙ Invention: <a href="/wiki/inventions/contraceptive-pill.html">Contraceptive pill</a> — USA</div>
 <div class="ev"><span class="yr">1962</span>: 📅 Cold War: <a href="/wiki/events/cuban-missile-crisis.html">Cuban Missile Crisis</a> — Nuclear brink</div>
 <div class="ev"><span class="yr">1962</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-northwoods.html">Operation Northwoods</a> — Documented fact (proposed, rejected)</div>
@@ -133,6 +136,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1969</span>: 📅 Invention: <a href="/wiki/events/arpanet-s-first-message.html">ARPANET&#x27;s first message</a> — Birth of the internet</div>
 <div class="ev"><span class="yr">1969</span>: ⚙ Invention: <a href="/wiki/inventions/internet.html">Internet</a> — USA, CERN</div>
 <div class="ev"><span class="yr">1972</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/watergate.html">Watergate</a> — Documented fact</div>
+<div class="ev"><span class="yr">1995</span>: 🐉 Myth: <a href="/wiki/creatures/chupacabra.html">Chupacabra</a> — Puerto Rico and Latin America</div>
 <div class="ev"><span class="yr">2001</span>: 📅 Terrorism: <a href="/wiki/events/september-11-attacks.html">September 11 attacks</a> — ~3,000 killed; wars in Afghanistan and Iraq</div>
 <div class="ev"><span class="yr">2007</span>: 📅 Invention: <a href="/wiki/events/launch-of-the-iphone.html">Launch of the iPhone</a> — Smartphone revolution</div>
 <div class="ev"><span class="yr">2007</span>: ⚙ Invention: <a href="/wiki/inventions/smartphone.html">Smartphone</a> — USA</div>

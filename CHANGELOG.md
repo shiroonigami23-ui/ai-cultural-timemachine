@@ -5,6 +5,12 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 
 
 
+## [Unreleased] - 2026-11-17 (myths)
+### Added
+- Legendary & Mythical Creatures catalog (43 creatures from Greek, Near Eastern, European, South Asian, East Asian and American traditions) with first-recorded dates, habitat, diet, powers, stories, beliefs and a 'could it exist?' verdict.
+- 14 legendary heroes and related figures (Perseus, Heracles, Theseus, Bellerophon, Odysseus, Jason, Beowulf, Saint George, Sigurd, Gilgamesh, Minamoto no Raikō, Vikramaditya, King Solomon, Rabbi Judah Loew), linked both ways to their creatures.
+- Myths and legendary creatures theme timeline.
+
 ## [Unreleased] - 2026-11-17 (homepage and tracker)
 ### Changed
 - Homepage catalogs grouped into themed blocks with one-line blurbs; the Browse menu uses the same groups.

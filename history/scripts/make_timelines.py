@@ -30,7 +30,7 @@ for c in dyn: items.append((c["start"], c["lane"], "👑 Dynasty", c["name"], f"
 for e in ev:
     if isinstance(e.get("year"), int): items.append((e["year"], e.get("lane") or lane_of(e), "📅 " + str(e.get("etype", "Event")), e["name"], f"/wiki/events/{e['slug']}.html", e.get("impact", "")))
 for p in ppl:
-    if isinstance(p.get("born"), int): items.append((p["born"], lane_of(p), "👤 Born", p["name"], f"/wiki/people/{p['slug']}.html", p.get("known_for", "")))
+    if isinstance(p.get("born"), int) and not p.get("group", "").startswith("Legendary"): items.append((p["born"], lane_of(p), "👤 Born", p["name"], f"/wiki/people/{p['slug']}.html", p.get("known_for", "")))
 for s in sites:
     if isinstance(s.get("year"), int): items.append((s["year"], lane_of(s), "🗿 Built / founded", s["name"], f"/wiki/sites/{s['slug']}.html", s.get("built_by", "")))
 for i in inv:
@@ -38,6 +38,8 @@ for i in inv:
 man, bel, lang, hid = L("manuscripts.json"), L("beliefs.json"), L("languages.json"), L("hidden_history.json")
 eng = L("engineering.json")
 for e in eng: items.append((e["year"], e["lane"], "🏗 Built", e["name"], f"/wiki/engineering/{e['slug']}.html", e.get("where", "")))
+cre = L("creatures.json")
+for c in cre: items.append((c["year"], c["lane"], "🐉 Myth", c["name"], f"/wiki/creatures/{c['slug']}.html", c.get("origin", "")))
 for h in hid: items.append((h["year"], h["lane"], "🔓 Hidden history", h["name"], f"/wiki/hidden_history/{h['slug']}.html", h.get("verdict", "")))
 for m in man: items.append((m["year"], m["lane"], "📜 Manuscript", m["name"], f"/wiki/manuscripts/{m['slug']}.html", m.get("when", "")))
 for h in hom: items.append((h["start"], lane_of(h, "Africa"), "🦴 Human species appears", h["name"], f"/wiki/hominins/{h['slug']}.html", h.get("region", "")))
@@ -86,7 +88,7 @@ svg = (f'<div class="swim"><svg viewBox="0 0 1210 {ytop + 10}" role="img" aria-l
        f'{ticks}{"".join(lanes_svg)}</svg></div>')
 intro = ("Human history did not move in step everywhere. Farming, cities, iron, writing and industry arrived at different times in different regions, so this timeline branches by region. "
          "Each bar is a civilisation (amber) or dynasty (blue); hover for dates and click to open it. Below are the region timelines, each with every catalogued civilisation, dynasty, event, person, monument, invention and human species, sorted by date.")
-links = " · ".join(f"[{l}](/wiki/timelines/{SLUG[l]}.html)" for l in LANES) + "\n\n**Theme timelines:** [Religions](/wiki/timelines/religions-and-beliefs.html) · [Languages and writing](/wiki/timelines/languages-and-writing.html) · [Technology](/wiki/timelines/technology-and-science.html) · [Manuscripts](/wiki/timelines/manuscripts-and-texts.html) · [Rulers and dynasties](/wiki/timelines/rulers-and-dynasties.html) · [Wars, plagues and disasters](/wiki/timelines/wars-plagues-and-disasters.html) · [Hidden history and conspiracies](/wiki/timelines/hidden-history-and-conspiracies.html) · [Engineering](/wiki/timelines/engineering-and-construction.html) · [Invasions and conquests](/wiki/timelines/invasions-and-conquests.html)"
+links = " · ".join(f"[{l}](/wiki/timelines/{SLUG[l]}.html)" for l in LANES) + "\n\n**Theme timelines:** [Religions](/wiki/timelines/religions-and-beliefs.html) · [Languages and writing](/wiki/timelines/languages-and-writing.html) · [Technology](/wiki/timelines/technology-and-science.html) · [Manuscripts](/wiki/timelines/manuscripts-and-texts.html) · [Rulers and dynasties](/wiki/timelines/rulers-and-dynasties.html) · [Wars, plagues and disasters](/wiki/timelines/wars-plagues-and-disasters.html) · [Hidden history and conspiracies](/wiki/timelines/hidden-history-and-conspiracies.html) · [Engineering](/wiki/timelines/engineering-and-construction.html) · [Invasions and conquests](/wiki/timelines/invasions-and-conquests.html) · [Myths and legendary creatures](/wiki/timelines/myths-and-legendary-creatures.html)"
 allrows = [r for r in items]
 ov = ["---\ntitle: The Branching Timeline of Humanity\nsummary: Civilisations and dynasties of every region side by side from 3500 BCE to today, with region-by-region timelines of every event.\nlevel: Timeline\n---",
       intro, "", svg, "", "**Region timelines:** " + links, "",
@@ -115,6 +117,8 @@ THEMES = [
   [r for r in items if r[2].startswith("🏗")]),
  ("invasions-and-conquests", "Timeline: Invasions and conquests", "Every catalogued invasion, conquest, siege and war of conquest, from the Sea Peoples and Alexander to the 21st century.",
   [r for r in items if r[2].startswith("📅") and any(w in r[2].lower()+" "+r[3].lower() for w in ("invasion", "conquest", "conquer", "siege", "sack", "raid", "campaign", "expedition", "battle", "war"))]),
+ ("myths-and-legendary-creatures", "Timeline: Myths and legendary creatures", "When each legendary creature first appears in art or writing, from the Xishuipo shell dragon (c. 4500 BCE) and the griffins of Susa to the vampire panics of the 1720s and modern cryptids.",
+  [r for r in items if r[2].startswith("🐉")]),
  ("rulers-and-dynasties", "Timeline: Rulers, dynasties and empires", "Every catalogued empire and dynasty in date order across the world: who rose, when, and alongside whom.",
   [r for r in items if r[2].startswith("🏛") or r[2].startswith("👑")]),
  ("wars-plagues-and-disasters", "Timeline: Wars, plagues and disasters", "The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars.",

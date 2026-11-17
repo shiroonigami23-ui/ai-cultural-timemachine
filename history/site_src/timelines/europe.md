@@ -1,9 +1,9 @@
 ---
 title: Timeline: Europe
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (237 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (257 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (237 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (257 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (6)
 <div class="timeline">
@@ -24,32 +24,41 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (5)
+:::collapse !Bronze Age (3000–1200 BCE) (6)
 <div class="timeline">
 <div class="ev"><span class="yr">3000 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/stonehenge.html">Stonehenge</a> — Neolithic Britons</div>
 <div class="ev"><span class="yr">2500 BCE</span>: 🏗 Built: <a href="/wiki/engineering/stonehenge.html">Stonehenge</a> — Wiltshire, England</div>
 <div class="ev"><span class="yr">1900 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/knossos.html">Knossos</a> — Minoans</div>
+<div class="ev"><span class="yr">1800 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/dragon.html">Dragon</a> — Near East and Europe</div>
 <div class="ev"><span class="yr">1750 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/mycenaean-greece.html">Mycenaean Greece</a> — c. 1750–1050 BCE</div>
 <div class="ev"><span class="yr">1600 BCE</span>: 📅 Natural disaster: <a href="/wiki/events/thera-eruption.html">Thera eruption</a> — Minoan decline</div>
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (10)
+:::collapse !Iron Age (1200–500 BCE) (18)
 <div class="timeline">
 <div class="ev"><span class="yr">1200 BCE</span>: 📅 War: <a href="/wiki/events/trojan-war-traditional.html">Trojan War (traditional)</a> — Legend of Homer&#x27;s Iliad</div>
+<div class="ev"><span class="yr">900 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/centaur.html">Centaur</a> — Ancient Greece</div>
 <div class="ev"><span class="yr">800 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/celts.html">Celts</a> — c. 800 BCE–100 CE</div>
 <div class="ev"><span class="yr">776 BCE</span>: 📅 Culture: <a href="/wiki/events/olympic-games-founded.html">Olympic Games founded</a> — Greek unity through sport</div>
 <div class="ev"><span class="yr">753 BCE</span>: 📅 City founding: <a href="/wiki/events/founding-of-rome.html">Founding of Rome</a> — —</div>
 <div class="ev"><span class="yr">753 BCE</span>: 📅 City founding: <a href="/wiki/events/rome-founded-legend.html">Rome founded (legend)</a> — Rome begins</div>
 <div class="ev"><span class="yr">750 BCE</span>: 👤 Born: <a href="/wiki/people/homer.html">Homer</a> — Iliad and Odyssey</div>
+<div class="ev"><span class="yr">750 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/cyclops.html">Cyclops</a> — Ancient Greece</div>
+<div class="ev"><span class="yr">750 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/chimera.html">Chimera</a> — Ancient Greece and Lycia (Anatolia)</div>
 <div class="ev"><span class="yr">700 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/pompeii.html">Pompeii</a> — Romans</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/hydra.html">Hydra</a> — Ancient Greece</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/medusa-and-the-gorgons.html">Medusa and the Gorgons</a> — Ancient Greece</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/minotaur.html">Minotaur</a> — Ancient Greece and Crete</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/pegasus.html">Pegasus</a> — Ancient Greece</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/cerberus.html">Cerberus</a> — Ancient Greece</div>
 <div class="ev"><span class="yr">510 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/classical-greece.html">Classical Greece</a> — 510–323 BCE</div>
 <div class="ev"><span class="yr">509 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/roman-republic.html">Roman Republic</a> — 509–27 BCE</div>
 <div class="ev"><span class="yr">508 BCE</span>: 📅 Politics: <a href="/wiki/events/athenian-democracy.html">Athenian democracy</a> — Rule by citizens</div>
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (43)
+:::collapse !Classical age (500 BCE–500 CE) (45)
 <div class="timeline">
 <div class="ev"><span class="yr">490 BCE</span>: 📅 War: <a href="/wiki/events/battle-of-marathon.html">Battle of Marathon</a> — Greek victory over Persia</div>
 <div class="ev"><span class="yr">484 BCE</span>: 👤 Born: <a href="/wiki/people/herodotus.html">Herodotus</a> — &#x27;Father of History&#x27;</div>
@@ -74,12 +83,14 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">31 BCE</span>: 📅 War: <a href="/wiki/events/battle-of-actium.html">Battle of Actium</a> — Rome&#x27;s empire begins</div>
 <div class="ev"><span class="yr">27 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/roman-empire.html">Roman Empire</a> — 27 BCE–476 CE (West)</div>
 <div class="ev"><span class="yr">27 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/julio-claudian-dynasty.html">Julio-Claudian dynasty</a> — Octavian defeated Antony and Cleopatra at Actium (31 BCE) and in 27 BCE took the title Augustus. He kept the forms of the Republic while con</div>
+<div class="ev"><span class="yr">8 CE</span>: 🐉 Myth: <a href="/wiki/creatures/werewolf.html">Werewolf</a> — Greece, Rome, medieval Europe</div>
 <div class="ev"><span class="yr">9 CE</span>: 📅 War: <a href="/wiki/events/teutoburg-forest.html">Teutoburg Forest</a> — Rome stops at the Rhine</div>
 <div class="ev"><span class="yr">12 CE</span>: 👤 Born: <a href="/wiki/people/caligula.html">Caligula</a> — Notorious cruelty</div>
 <div class="ev"><span class="yr">37 CE</span>: 👤 Born: <a href="/wiki/people/nero.html">Nero</a> — Great Fire of Rome</div>
 <div class="ev"><span class="yr">43 CE</span>: 📅 Conquest: <a href="/wiki/events/roman-conquest-of-britain.html">Roman conquest of Britain</a> — Roman Britain for ~370 years</div>
 <div class="ev"><span class="yr">50 CE</span>: 🏗 Built: <a href="/wiki/engineering/pont-du-gard.html">Pont du Gard</a> — Southern France</div>
 <div class="ev"><span class="yr">72 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/colosseum.html">Colosseum</a> — Vespasian and Titus</div>
+<div class="ev"><span class="yr">77 CE</span>: 🐉 Myth: <a href="/wiki/creatures/basilisk.html">Basilisk</a> — Roman Empire, Libya</div>
 <div class="ev"><span class="yr">79 CE</span>: 📅 Volcanic eruption: <a href="/wiki/events/eruption-of-vesuvius.html">Eruption of Vesuvius</a> — Buried Pompeii and Herculaneum</div>
 <div class="ev"><span class="yr">80 CE</span>: 🏗 Built: <a href="/wiki/engineering/colosseum.html">Colosseum</a> — Rome, Italy</div>
 <div class="ev"><span class="yr">113 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/pantheon.html">Pantheon</a> — Hadrian</div>
@@ -97,9 +108,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (17)
+:::collapse !Early medieval (500–1000) (19)
 <div class="timeline">
+<div class="ev"><span class="yr">500 CE</span>: 🐉 Myth: <a href="/wiki/creatures/golem.html">Golem</a> — Jewish tradition</div>
 <div class="ev"><span class="yr">537 CE</span>: 🏗 Built: <a href="/wiki/engineering/hagia-sophia.html">Hagia Sophia</a> — Constantinople (Istanbul)</div>
+<div class="ev"><span class="yr">565 CE</span>: 🐉 Myth: <a href="/wiki/creatures/loch-ness-monster.html">Loch Ness Monster</a> — Scotland</div>
 <div class="ev"><span class="yr">711 CE</span>: 📅 Invasion: <a href="/wiki/events/umayyad-conquest-of-hispania.html">Umayyad conquest of Hispania</a> — Seven centuries of Muslim rule in Spain</div>
 <div class="ev"><span class="yr">732 CE</span>: 📅 War: <a href="/wiki/events/battle-of-tours.html">Battle of Tours</a> — Halted Umayyad expansion into Francia</div>
 <div class="ev"><span class="yr">751 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/carolingian-dynasty.html">Carolingian dynasty</a> — Pepin the Short deposed the last Merovingian with papal approval (751). His son Charlemagne conquered Lombards and Saxons and was crowned em</div>
@@ -119,20 +132,25 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (33)
+:::collapse !Late medieval (1000–1500) (38)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 📜 Manuscript: <a href="/wiki/manuscripts/beowulf-manuscript.html">Beowulf manuscript</a> — c. 1000</div>
 <div class="ev"><span class="yr">1066</span>: 👑 Dynasty: <a href="/wiki/dynasties/normans-and-plantagenets.html">Normans and Plantagenets</a> — William of Normandy won at Hastings in 1066, compiled the Domesday Book and built castles. Henry II founded the Plantagenet line (1154), rul</div>
 <div class="ev"><span class="yr">1066</span>: 📅 Conquest: <a href="/wiki/events/battle-of-hastings.html">Battle of Hastings</a> — Norman conquest</div>
 <div class="ev"><span class="yr">1086</span>: 📜 Manuscript: <a href="/wiki/manuscripts/domesday-book.html">Domesday Book</a> — 1086</div>
+<div class="ev"><span class="yr">1140</span>: 🐉 Myth: <a href="/wiki/creatures/goblin.html">Goblin</a> — Medieval Europe (France, England, Germany)</div>
+<div class="ev"><span class="yr">1200</span>: 🐉 Myth: <a href="/wiki/creatures/wyvern.html">Wyvern</a> — Medieval England and France</div>
 <div class="ev"><span class="yr">1204</span>: 📅 War: <a href="/wiki/events/fourth-crusade-sacks-constantinople.html">Fourth Crusade sacks Constantinople</a> — Byzantine collapse</div>
 <div class="ev"><span class="yr">1215</span>: 📅 Law: <a href="/wiki/events/magna-carta.html">Magna Carta</a> — Limited royal power</div>
 <div class="ev"><span class="yr">1215</span>: 📜 Manuscript: <a href="/wiki/manuscripts/magna-carta.html">Magna Carta</a> — 1215</div>
+<div class="ev"><span class="yr">1220</span>: 🐉 Myth: <a href="/wiki/creatures/troll.html">Troll</a> — Scandinavia</div>
+<div class="ev"><span class="yr">1220</span>: 🐉 Myth: <a href="/wiki/creatures/gargoyle.html">Gargoyle</a> — Medieval France</div>
 <div class="ev"><span class="yr">1237</span>: 📅 Invasion: <a href="/wiki/events/mongol-invasion-of-kievan-rus.html">Mongol invasion of Kievan Rus&#x27;</a> — Two centuries of the &#x27;Tatar yoke&#x27;</div>
 <div class="ev"><span class="yr">1259</span>: 👑 Dynasty: <a href="/wiki/dynasties/palaiologos-dynasty.html">Palaiologos dynasty</a> — Michael VIII Palaiologos, regent for a boy emperor of the Nicaean exile state, recaptured Constantinople from the Latin crusaders in 1261 an</div>
 <div class="ev"><span class="yr">1270</span>: ⚙ Invention: <a href="/wiki/inventions/mechanical-clock.html">Mechanical clock</a> — Europe</div>
 <div class="ev"><span class="yr">1273</span>: 👑 Dynasty: <a href="/wiki/dynasties/habsburg-dynasty.html">Habsburg dynasty</a> — Rudolf I was elected King of the Romans in 1273; marriage alliances brought Burgundy, Spain, Bohemia and Hungary. Charles V (r. 1519–56) rul</div>
 <div class="ev"><span class="yr">1286</span>: ⚙ Invention: <a href="/wiki/inventions/spectacles.html">Spectacles</a> — Italy</div>
+<div class="ev"><span class="yr">1300</span>: 🐉 Myth: <a href="/wiki/creatures/banshee.html">Banshee</a> — Ireland</div>
 <div class="ev"><span class="yr">1315</span>: 📅 Famine: <a href="/wiki/events/great-famine-of-europe.html">Great Famine of Europe</a> — Millions dead</div>
 <div class="ev"><span class="yr">1337</span>: 📅 War: <a href="/wiki/events/hundred-years-war.html">Hundred Years&#x27; War</a> — National identities formed</div>
 <div class="ev"><span class="yr">1400</span>: 👤 Born: <a href="/wiki/people/johannes-gutenberg.html">Johannes Gutenberg</a> — Movable-type printing press</div>
@@ -157,7 +175,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (43)
+:::collapse Early modern (1500–1800) (45)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/charles-v.html">Charles V</a> — Empire on which the sun never set</div>
 <div class="ev"><span class="yr">1510</span>: 📜 Manuscript: <a href="/wiki/manuscripts/leonardo-s-codex-leicester.html">Leonardo&#x27;s Codex Leicester</a> — 1506–1510</div>
@@ -191,8 +209,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1712</span>: 👤 Born: <a href="/wiki/people/jean-jacques-rousseau.html">Jean-Jacques Rousseau</a> — The Social Contract</div>
 <div class="ev"><span class="yr">1712</span>: ⚙ Invention: <a href="/wiki/inventions/steam-engine.html">Steam engine</a> — Britain</div>
 <div class="ev"><span class="yr">1721</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/russian-empire.html">Russian Empire</a> — 1721–1917</div>
+<div class="ev"><span class="yr">1725</span>: 🐉 Myth: <a href="/wiki/creatures/vampire.html">Vampire</a> — Eastern Europe</div>
 <div class="ev"><span class="yr">1729</span>: 👤 Born: <a href="/wiki/people/catherine-the-great.html">Catherine the Great</a> — Expanded Russia</div>
 <div class="ev"><span class="yr">1749</span>: 👤 Born: <a href="/wiki/people/edward-jenner.html">Edward Jenner</a> — Smallpox vaccine</div>
+<div class="ev"><span class="yr">1752</span>: 🐉 Myth: <a href="/wiki/creatures/kraken.html">Kraken</a> — Norway and Greenland</div>
 <div class="ev"><span class="yr">1758</span>: 👤 Born: <a href="/wiki/people/maximilien-robespierre.html">Maximilien Robespierre</a> — Reign of Terror</div>
 <div class="ev"><span class="yr">1769</span>: 👤 Born: <a href="/wiki/people/napoleon-bonaparte.html">Napoleon Bonaparte</a> — Napoleonic Code, conquests</div>
 <div class="ev"><span class="yr">1770</span>: 👤 Born: <a href="/wiki/people/ludwig-van-beethoven.html">Ludwig van Beethoven</a> — Ninth Symphony</div>

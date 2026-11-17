@@ -1,9 +1,9 @@
 ---
 title: Timeline: Global
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (128 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (130 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (128 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (130 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (7)
 <div class="timeline">
@@ -43,8 +43,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (1)
+:::collapse !Iron Age (1200–500 BCE) (3)
 <div class="timeline">
+<div class="ev"><span class="yr">1000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/giants.html">Giants</a> — Worldwide</div>
+<div class="ev"><span class="yr">1000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/mermaid.html">Mermaid</a> — Near East, Europe, worldwide</div>
 <div class="ev"><span class="yr">558 BCE</span>: 👤 Born: <a href="/wiki/people/bimbisara.html">Bimbisara</a> — Founder of Magadha&#x27;s power</div>
 </div>
 :::

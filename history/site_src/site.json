@@ -22,7 +22,7 @@
    "turning points"
   ],
   [
-   "250",
+   "264",
    "historical figures"
   ],
   [
@@ -30,11 +30,11 @@
    "structures explained"
   ],
   [
-   "38",
-   "hidden histories"
+   "43",
+   "legendary creatures"
   ],
   [
-   "1,322+",
+   "1,379+",
    "catalog entries"
   ]
  ],
@@ -73,7 +73,8 @@
     "wars-plagues-and-disasters",
     "hidden-history-and-conspiracies",
     "engineering-and-construction",
-    "invasions-and-conquests"
+    "invasions-and-conquests",
+    "myths-and-legendary-creatures"
    ]
   },
   {
@@ -547,6 +548,12 @@
      "coll": "engineering",
      "theirs": "link_text",
      "label": "🏗 Built by this civilisation"
+    },
+    {
+     "type": "backname",
+     "coll": "creatures",
+     "theirs": "link_text",
+     "label": "🐉 Legends"
     }
    ],
    "prompt": "Photorealistic, historically accurate reconstruction of a busy street or court in the {name} ({when}) at its height in {region}, with period clothing, architecture and daily life, cinematic, 16:9, no text"
@@ -914,6 +921,12 @@
      "coll": "engineering",
      "theirs": "link_text",
      "label": "🏗 Structures"
+    },
+    {
+     "type": "backname",
+     "coll": "creatures",
+     "theirs": "link_text",
+     "label": "🐉 Creatures faced"
     }
    ]
   },
@@ -1083,6 +1096,12 @@
      "coll": "engineering",
      "theirs": "link_text",
      "label": "🏗 Structures"
+    },
+    {
+     "type": "backname",
+     "coll": "creatures",
+     "theirs": "link_text",
+     "label": "🐉 Legends"
     }
    ]
   },
@@ -1249,6 +1268,12 @@
      "coll": "people",
      "theirs": "link_text",
      "label": "👤 People"
+    },
+    {
+     "type": "backname",
+     "coll": "creatures",
+     "theirs": "link_text",
+     "label": "🐉 Legendary creatures"
     }
    ]
   },
@@ -1767,9 +1792,158 @@
      "coll": "manuscripts",
      "mine": "summary",
      "label": "📜 Related texts"
+    },
+    {
+     "type": "backname",
+     "coll": "creatures",
+     "theirs": "link_text",
+     "label": "🐉 Creatures in this text"
     }
    ],
    "prompt": "Museum photograph of the {name} ({when}), {material}, {script} script, soft gallery lighting, archival detail, 16:9, no added text"
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "live_photos": true,
+   "studies": false,
+   "sounds": false,
+   "id": "creatures",
+   "icon": "🐉",
+   "title": "Legendary & Mythical Creatures",
+   "short": "Dragons, griffins, Medusa, djinn, rakshasas, oni, yeti and more — origins, legends and could they exist?",
+   "noun": "creatures",
+   "file": "data/creatures.json",
+   "sub_key": "origin",
+   "desc": "Dragons, griffins, centaurs, Medusa, the Hydra, cyclopes, the Chimera and Minotaur; Leviathan, djinn and the golem; trolls, goblins, vampires, werewolves, the kraken and unicorn; rakshasas, the brahmarakshasa, vetala, nagas and Garuda; Chinese dragons, oni and kitsune; the yeti, Bigfoot and the Loch Ness Monster. For each: when and where it is first recorded, what it looks like, where it lives and what it eats, its powers, the stories it appears in and the heroes who fought it — and a straight answer on whether anything like it could exist, from fossils and real animals to hoaxes and DNA tests.",
+   "facts": [
+    [
+     "first",
+     "First recorded"
+    ],
+    [
+     "origin",
+     "Origin"
+    ],
+    [
+     "habitat",
+     "Where it lives"
+    ],
+    [
+     "diet",
+     "What it eats"
+    ],
+    [
+     "slayers",
+     "Heroes who faced it"
+    ],
+    [
+     "verdict",
+     "Could it exist?"
+    ]
+   ],
+   "texts": [
+    [
+     "looks",
+     "What it looks like"
+    ],
+    [
+     "powers",
+     "Powers and weaknesses"
+    ],
+    [
+     "stories",
+     "Stories and legends"
+    ],
+    [
+     "belief",
+     "Popular belief and legacy"
+    ],
+    [
+     "could",
+     "Could it really exist?"
+    ]
+   ],
+   "columns": [
+    [
+     "origin",
+     "Origin"
+    ],
+    [
+     "verdict",
+     "Could it exist?"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Creatures by tradition"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "link_text",
+     "label": "🗡 Heroes and people"
+    },
+    {
+     "type": "text",
+     "coll": "beliefs",
+     "mine": "link_text",
+     "label": "🕉 Religions and beliefs"
+    },
+    {
+     "type": "text",
+     "coll": "manuscripts",
+     "mine": "link_text",
+     "label": "📜 Texts"
+    },
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "link_text",
+     "label": "🏛 Civilisations"
+    },
+    {
+     "type": "text",
+     "coll": "creatures",
+     "mine": "link_text",
+     "label": "🐉 Related creatures"
+    },
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "link_text",
+     "label": "📅 Events"
+    },
+    {
+     "type": "text",
+     "coll": "peoples",
+     "mine": "link_text",
+     "label": "🧑‍🤝‍🧑 Peoples"
+    },
+    {
+     "type": "text",
+     "coll": "languages",
+     "mine": "link_text",
+     "label": "🗣 Languages"
+    },
+    {
+     "type": "text",
+     "coll": "festivals",
+     "mine": "link_text",
+     "label": "🎉 Festivals"
+    }
+   ],
+   "prompt": "Museum-quality illustration of the legendary {name} from {origin} folklore, in the style of an old illuminated manuscript, detailed, 16:9, no text"
   },
   {
    "name_key": "name",
@@ -2060,7 +2234,8 @@
     "beliefs",
     "languages",
     "manuscripts",
-    "sites"
+    "sites",
+    "creatures"
    ]
   },
   {
@@ -2087,7 +2262,7 @@
   "Cu Chi tunnels",
   "Indus script",
   "Black Death",
-  "Taj Mahal",
-  "Atomic bomb"
+  "Medusa",
+  "Dragon"
  ]
 }

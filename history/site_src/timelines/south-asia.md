@@ -1,9 +1,9 @@
 ---
 title: Timeline: South Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (256 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (264 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (256 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (264 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (2)
 <div class="timeline">
@@ -35,9 +35,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (11)
+:::collapse !Iron Age (1200–500 BCE) (13)
 <div class="timeline">
 <div class="ev"><span class="yr">1200 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/iron-smelting.html">Iron smelting</a> — Anatolia; India (independently?)</div>
+<div class="ev"><span class="yr">1200 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/rakshasa.html">Rakshasa</a> — India</div>
+<div class="ev"><span class="yr">1000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/naga.html">Naga</a> — India; spread to Southeast Asia</div>
 <div class="ev"><span class="yr">800 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/upanishads.html">Upanishads</a> — c. 800–300 BCE</div>
 <div class="ev"><span class="yr">684 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/magadha.html">Magadha</a> — c. 684–320 BCE</div>
 <div class="ev"><span class="yr">600 BCE</span>: 📅 Political change: <a href="/wiki/events/kurukshetra-and-the-mahajanapadas.html">Kurukshetra and the Mahajanapadas</a> — Rise of 16 great kingdoms</div>
@@ -51,11 +53,13 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (48)
+:::collapse !Classical age (500 BCE–500 CE) (51)
 <div class="timeline">
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/panini.html">Panini</a> — Ashtadhyayi Sanskrit grammar</div>
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/valmiki.html">Valmiki</a> — Ramayana</div>
 <div class="ev"><span class="yr">400 BCE</span>: 👤 Born: <a href="/wiki/people/vyasa.html">Vyasa</a> — Mahabharata</div>
+<div class="ev"><span class="yr">400 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/unicorn.html">Unicorn</a> — India (as reported) and Europe</div>
+<div class="ev"><span class="yr">400 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/garuda.html">Garuda</a> — India</div>
 <div class="ev"><span class="yr">375 BCE</span>: 👤 Born: <a href="/wiki/people/chanakya.html">Chanakya</a> — Arthashastra</div>
 <div class="ev"><span class="yr">350 BCE</span>: 👤 Born: <a href="/wiki/people/chandragupta-maurya.html">Chandragupta Maurya</a> — Founded the Maurya Empire</div>
 <div class="ev"><span class="yr">345 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/nanda-empire.html">Nanda Empire</a> — Mahapadma Nanda, said by Puranas to be the son of a Shudra woman, overthrew the Shishunagas and defeated many older kshatriya dynasties, ear</div>
@@ -77,6 +81,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">250 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/sanchi-stupa.html">Sanchi Stupa</a> — Ashoka</div>
 <div class="ev"><span class="yr">200 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/indo-greek-kingdoms.html">Indo-Greek kingdoms</a> — Greek kingdoms of Bactria, left over from Alexander&#x27;s conquest and the Seleucid empire, crossed the Hindu Kush around 200 BCE under Dem</div>
 <div class="ev"><span class="yr">200 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/ajanta-caves.html">Ajanta Caves</a> — Buddhist monks</div>
+<div class="ev"><span class="yr">200 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/makara.html">Makara</a> — India</div>
 <div class="ev"><span class="yr">200 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/tolkappiyam-and-sangam-anthologies.html">Tolkappiyam and Sangam anthologies</a> — c. 300 BCE – 300 CE</div>
 <div class="ev"><span class="yr">185 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/shunga-dynasty.html">Shunga dynasty</a> — In about 185 BCE the commander-in-chief Pushyamitra Shunga assassinated the last Maurya emperor, Brihadratha, during a military parade and t</div>
 <div class="ev"><span class="yr">100 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/satavahana-dynasty.html">Satavahana dynasty</a> — c. 100 BCE–220 CE</div>
@@ -104,10 +109,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (27)
+:::collapse !Early medieval (500–1000) (28)
 <div class="timeline">
 <div class="ev"><span class="yr">500 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/pushyabhuti-vardhana-dynasty.html">Pushyabhuti (Vardhana) dynasty</a> — The Pushyabhutis ruled Thanesar (Haryana) and rose by fighting the Hunas. Harshavardhana (r. 606–647) took over Kannauj after his sister&#x2</div>
 <div class="ev"><span class="yr">500 CE</span>: ⚙ Invention: <a href="/wiki/inventions/zero-and-decimal-place-value.html">Zero and decimal place value</a> — India</div>
+<div class="ev"><span class="yr">500 CE</span>: 🐉 Myth: <a href="/wiki/creatures/brahmarakshasa.html">Brahmarakshasa</a> — India, especially Kerala and Karnataka</div>
 <div class="ev"><span class="yr">500 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/gilgit-manuscripts.html">Gilgit manuscripts</a> — c. 5th–6th century CE</div>
 <div class="ev"><span class="yr">543 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/chalukya-dynasty.html">Chalukya dynasty</a> — 543–753 CE (Badami)</div>
 <div class="ev"><span class="yr">590 CE</span>: 👤 Born: <a href="/wiki/people/harsha.html">Harsha</a> — Patron of Nalanda; hosted Xuanzang</div>
@@ -136,7 +142,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (37)
+:::collapse !Late medieval (1000–1500) (38)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: ⚙ Invention: <a href="/wiki/inventions/spinning-wheel.html">Spinning wheel</a> — India or China</div>
 <div class="ev"><span class="yr">1010</span>: 🗿 Built / founded: <a href="/wiki/sites/brihadeeswara-temple.html">Brihadeeswara Temple</a> — Rajaraja Chola I</div>
@@ -145,6 +151,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1025</span>: 📅 Invasion: <a href="/wiki/events/mahmud-of-ghazni-raids-somnath.html">Mahmud of Ghazni raids Somnath</a> — Plunder of temple wealth</div>
 <div class="ev"><span class="yr">1026</span>: 👑 Dynasty: <a href="/wiki/dynasties/hoysala-empire.html">Hoysala Empire</a> — Hill chiefs from the Malnad region of Karnataka, the Hoysalas served as Chalukya feudatories and became independent under Vishnuvardhana (r.</div>
 <div class="ev"><span class="yr">1063</span>: 🏗 Built: <a href="/wiki/engineering/rani-ki-vav-stepwell.html">Rani ki Vav stepwell</a> — Patan, Gujarat</div>
+<div class="ev"><span class="yr">1070</span>: 🐉 Myth: <a href="/wiki/creatures/vetala-betaal.html">Vetala (Betaal)</a> — India</div>
 <div class="ev"><span class="yr">1078</span>: 👑 Dynasty: <a href="/wiki/dynasties/eastern-ganga-dynasty.html">Eastern Ganga dynasty</a> — Anantavarman Chodaganga (r. 1078–1147) ruled from the Godavari to the Ganga and began the Jagannath temple at Puri. Narasimhadeva I (r. 1238</div>
 <div class="ev"><span class="yr">1114</span>: 👤 Born: <a href="/wiki/people/bhaskara-ii.html">Bhaskara II</a> — Lilavati; early calculus ideas</div>
 <div class="ev"><span class="yr">1163</span>: 👑 Dynasty: <a href="/wiki/dynasties/kakatiya-dynasty.html">Kakatiya dynasty</a> — Kakatiyas were Chalukya feudatories in Telangana who became independent under Prola II and Rudra I (c. 1163). Ganapati (r. 1199–1262) and hi</div>
@@ -230,7 +237,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (46)
+:::collapse Industrial and imperial age (1800–1945) (47)
 <div class="timeline">
 <div class="ev"><span class="yr">1800</span>: 🏗 Built: <a href="/wiki/engineering/living-root-bridges.html">Living root bridges</a> — Meghalaya</div>
 <div class="ev"><span class="yr">1815</span>: 📅 Volcanic eruption: <a href="/wiki/events/tambora-eruption.html">Tambora eruption</a> — &#x27;Year Without a Summer&#x27; (1816)</div>
@@ -271,6 +278,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1919</span>: 📅 Massacre: <a href="/wiki/events/jallianwala-bagh-massacre.html">Jallianwala Bagh massacre</a> — Hundreds killed by British troops</div>
 <div class="ev"><span class="yr">1919</span>: 👤 Born: <a href="/wiki/people/vikram-sarabhai.html">Vikram Sarabhai</a> — Father of the Indian space programme</div>
 <div class="ev"><span class="yr">1920</span>: 📅 Freedom struggle: <a href="/wiki/events/non-cooperation-movement.html">Non-Cooperation Movement</a> — Mass boycott of British institutions</div>
+<div class="ev"><span class="yr">1921</span>: 🐉 Myth: <a href="/wiki/creatures/yeti.html">Yeti</a> — Himalaya (Nepal, Tibet, Bhutan)</div>
 <div class="ev"><span class="yr">1930</span>: 📅 Freedom struggle: <a href="/wiki/events/salt-march.html">Salt March</a> — Civil disobedience</div>
 <div class="ev"><span class="yr">1931</span>: 👤 Born: <a href="/wiki/people/a-p-j-abdul-kalam.html">A. P. J. Abdul Kalam</a> — Missile programme</div>
 <div class="ev"><span class="yr">1942</span>: 📅 Freedom struggle: <a href="/wiki/events/quit-india-movement.html">Quit India Movement</a> — &#x27;Do or die&#x27;</div>

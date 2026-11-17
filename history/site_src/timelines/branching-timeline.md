@@ -9,7 +9,7 @@ Human history did not move in step everywhere. Farming, cities, iron, writing an
 
 **Region timelines:** [Africa](/wiki/timelines/africa.html) · [Middle East](/wiki/timelines/middle-east.html) · [Europe](/wiki/timelines/europe.html) · [South Asia](/wiki/timelines/south-asia.html) · [Central Asia](/wiki/timelines/central-asia.html) · [East Asia](/wiki/timelines/east-asia.html) · [Southeast Asia](/wiki/timelines/southeast-asia.html) · [Americas](/wiki/timelines/americas.html) · [Oceania](/wiki/timelines/oceania.html) · [Global](/wiki/timelines/global.html)
 
-**Theme timelines:** [Religions](/wiki/timelines/religions-and-beliefs.html) · [Languages and writing](/wiki/timelines/languages-and-writing.html) · [Technology](/wiki/timelines/technology-and-science.html) · [Manuscripts](/wiki/timelines/manuscripts-and-texts.html) · [Rulers and dynasties](/wiki/timelines/rulers-and-dynasties.html) · [Wars, plagues and disasters](/wiki/timelines/wars-plagues-and-disasters.html) · [Hidden history and conspiracies](/wiki/timelines/hidden-history-and-conspiracies.html) · [Engineering](/wiki/timelines/engineering-and-construction.html) · [Invasions and conquests](/wiki/timelines/invasions-and-conquests.html)
+**Theme timelines:** [Religions](/wiki/timelines/religions-and-beliefs.html) · [Languages and writing](/wiki/timelines/languages-and-writing.html) · [Technology](/wiki/timelines/technology-and-science.html) · [Manuscripts](/wiki/timelines/manuscripts-and-texts.html) · [Rulers and dynasties](/wiki/timelines/rulers-and-dynasties.html) · [Wars, plagues and disasters](/wiki/timelines/wars-plagues-and-disasters.html) · [Hidden history and conspiracies](/wiki/timelines/hidden-history-and-conspiracies.html) · [Engineering](/wiki/timelines/engineering-and-construction.html) · [Invasions and conquests](/wiki/timelines/invasions-and-conquests.html) · [Myths and legendary creatures](/wiki/timelines/myths-and-legendary-creatures.html)
 
 Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writing by 3200 BCE, while much of Europe, the Americas and Africa south of the Sahara were still farming villages or hunter-gatherer lands; Australia's peoples kept a hunter-gatherer way of life for 65,000 years; and Polynesians reached New Zealand only around 1300 CE. Each branch below follows its own path.
 
@@ -87,7 +87,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse Neolithic and first farmers (10,000–3000 BCE) (33)
+:::collapse Neolithic and first farmers (10,000–3000 BCE) (34)
 <div class="timeline">
 <div class="ev"><span class="yr">10,000 yr ago</span>: 📅 Extinction: <a href="/wiki/events/quaternary-megafauna-extinction.html">Quaternary megafauna extinction</a> <span class='muted'>· Global</span> — Mammoths, giant sloths, cave lions vanish</div>
 <div class="ev"><span class="yr">10,000 yr ago</span>: 🗿 Built / founded: <a href="/wiki/sites/bhimbetka-rock-shelters.html">Bhimbetka rock shelters</a> <span class='muted'>· South Asia</span> — Hunter-gatherers</div>
@@ -106,6 +106,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">5000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/cotton-textiles-and-chintz.html">Cotton textiles and chintz</a> <span class='muted'>· Global</span> — Indus region</div>
 <div class="ev"><span class="yr">4600 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/rakhigarhi.html">Rakhigarhi</a> <span class='muted'>· South Asia</span> — Indus people</div>
 <div class="ev"><span class="yr">4500 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/sumer.html">Sumer</a> <span class='muted'>· Middle East</span> — c. 4500–1900 BCE</div>
+<div class="ev"><span class="yr">4500 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/chinese-dragon-long.html">Chinese dragon (Long)</a> <span class='muted'>· East Asia</span> — China</div>
 <div class="ev"><span class="yr">4000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/plough-ard.html">Plough (ard)</a> <span class='muted'>· Global</span> — Mesopotamia; Indus</div>
 <div class="ev"><span class="yr">4000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/potters-wheel.html">Potter&#x27;s wheel</a> <span class='muted'>· Global</span> — Mesopotamia</div>
 <div class="ev"><span class="yr">4000 BCE</span>: 🏗 Built: <a href="/wiki/engineering/potter-s-wheel-and-kiln-fired-pottery.html">Potter&#x27;s wheel and kiln-fired pottery</a> <span class='muted'>· Global</span> — East Asia (pottery); Mesopotamia (wheel)</div>
@@ -125,13 +126,14 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (64)
+:::collapse !Bronze Age (3000–1200 BCE) (68)
 <div class="timeline">
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Climate shift: <a href="/wiki/events/end-of-the-green-sahara.html">End of the Green Sahara</a> <span class='muted'>· Africa</span> — Herders move to the Nile</div>
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Migration: <a href="/wiki/events/austronesian-expansion.html">Austronesian expansion</a> <span class='muted'>· Southeast Asia</span> — Largest ocean migration in history</div>
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Migration: <a href="/wiki/events/indo-european-migrations.html">Indo-European migrations</a> <span class='muted'>· Global</span> — Spread Indo-European languages from Ireland to India</div>
 <div class="ev"><span class="yr">3000 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/stonehenge.html">Stonehenge</a> <span class='muted'>· Europe</span> — Neolithic Britons</div>
 <div class="ev"><span class="yr">3000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/calendar-solar.html">Calendar (solar)</a> <span class='muted'>· Africa</span> — Egypt</div>
+<div class="ev"><span class="yr">3000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/griffin.html">Griffin</a> <span class='muted'>· Middle East</span> — Near East, Central Asia, Greece</div>
 <div class="ev"><span class="yr">2686 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/old-kingdom-of-egypt.html">Old Kingdom of Egypt</a> <span class='muted'>· Africa</span> — Building on the unification of Egypt around 3100 BCE, the Third Dynasty king Djoser and his architect Imhotep raised the Step Pyramid at Saq</div>
 <div class="ev"><span class="yr">2650 BCE</span>: 👤 Born: <a href="/wiki/people/imhotep.html">Imhotep</a> <span class='muted'>· Africa</span> — Designed the first pyramid</div>
 <div class="ev"><span class="yr">2650 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/dholavira.html">Dholavira</a> <span class='muted'>· South Asia</span> — Indus people</div>
@@ -146,6 +148,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">2500 BCE</span>: 🏗 Built: <a href="/wiki/engineering/stonehenge.html">Stonehenge</a> <span class='muted'>· Europe</span> — Wiltshire, England</div>
 <div class="ev"><span class="yr">2500 BCE</span>: 🏗 Built: <a href="/wiki/engineering/mohenjo-daro-drainage-and-great-bath.html">Mohenjo-daro drainage and Great Bath</a> <span class='muted'>· South Asia</span> — Sindh, Pakistan</div>
 <div class="ev"><span class="yr">2500 BCE</span>: 🏗 Built: <a href="/wiki/engineering/lost-wax-bronze-casting.html">Lost-wax bronze casting</a> <span class='muted'>· South Asia</span> — Near East, Indus Valley, Chola India</div>
+<div class="ev"><span class="yr">2500 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/sphinx.html">Sphinx</a> <span class='muted'>· Africa</span> — Ancient Egypt and Greece</div>
 <div class="ev"><span class="yr">2400 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/pyramid-texts.html">Pyramid Texts</a> <span class='muted'>· Middle East</span> — c. 2400–2300 BCE</div>
 <div class="ev"><span class="yr">2334 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/akkadian-empire.html">Akkadian Empire</a> <span class='muted'>· Middle East</span> — c. 2334–2154 BCE</div>
 <div class="ev"><span class="yr">2334 BCE</span>: 📅 Conquest: <a href="/wiki/events/sargon-founds-akkad.html">Sargon founds Akkad</a> <span class='muted'>· Middle East</span> — The first empire</div>
@@ -164,6 +167,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1894 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/babylonia.html">Babylonia</a> <span class='muted'>· Middle East</span> — c. 1894–539 BCE</div>
 <div class="ev"><span class="yr">1810 BCE</span>: 👤 Born: <a href="/wiki/people/hammurabi.html">Hammurabi</a> <span class='muted'>· Middle East</span> — Code of Hammurabi</div>
 <div class="ev"><span class="yr">1800 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/alphabet.html">Alphabet</a> <span class='muted'>· Middle East</span> — Sinai / Levant</div>
+<div class="ev"><span class="yr">1800 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/dragon.html">Dragon</a> <span class='muted'>· Europe</span> — Near East and Europe</div>
 <div class="ev"><span class="yr">1754 BCE</span>: 📅 Law: <a href="/wiki/events/code-of-hammurabi.html">Code of Hammurabi</a> <span class='muted'>· Middle East</span> — Written law</div>
 <div class="ev"><span class="yr">1754 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/code-of-hammurabi.html">Code of Hammurabi</a> <span class='muted'>· Middle East</span> — c. 1754 BCE</div>
 <div class="ev"><span class="yr">1750 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/mycenaean-greece.html">Mycenaean Greece</a> <span class='muted'>· Europe</span> — c. 1750–1050 BCE</div>
@@ -182,6 +186,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1500 BCE</span>: 📅 Literature: <a href="/wiki/events/rigveda-composed.html">Rigveda composed</a> <span class='muted'>· South Asia</span> — Oldest Indian text</div>
 <div class="ev"><span class="yr">1500 BCE</span>: 📅 Migration: <a href="/wiki/events/bantu-expansion.html">Bantu expansion</a> <span class='muted'>· Africa</span> — Spread farming, iron and Bantu languages across half of Africa</div>
 <div class="ev"><span class="yr">1500 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/rigveda.html">Rigveda</a> <span class='muted'>· South Asia</span> — Composed c. 1500–1200 BCE; oral, written manuscripts from c. 1040 CE</div>
+<div class="ev"><span class="yr">1400 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/leviathan.html">Leviathan</a> <span class='muted'>· Middle East</span> — Canaan and ancient Israel</div>
 <div class="ev"><span class="yr">1380 BCE</span>: 👤 Born: <a href="/wiki/people/akhenaten.html">Akhenaten</a> <span class='muted'>· Africa</span> — Tried to make Egypt worship one sun god</div>
 <div class="ev"><span class="yr">1350 BCE</span>: 📅 Religion: <a href="/wiki/events/akhenatens-religious-revolution.html">Akhenaten&#x27;s religious revolution</a> <span class='muted'>· Africa</span> — Short-lived worship of the Aten</div>
 <div class="ev"><span class="yr">1350 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/amarna-letters.html">Amarna letters</a> <span class='muted'>· Middle East</span> — c. 1360–1330 BCE</div>
@@ -194,18 +199,23 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (46)
+:::collapse !Iron Age (1200–500 BCE) (58)
 <div class="timeline">
 <div class="ev"><span class="yr">1200 BCE</span>: 📅 War: <a href="/wiki/events/trojan-war-traditional.html">Trojan War (traditional)</a> <span class='muted'>· Europe</span> — Legend of Homer&#x27;s Iliad</div>
 <div class="ev"><span class="yr">1200 BCE</span>: 📅 Technology: <a href="/wiki/events/iron-smelting-spreads.html">Iron smelting spreads</a> <span class='muted'>· Middle East</span> — Iron Age begins</div>
 <div class="ev"><span class="yr">1200 BCE</span>: 👤 Born: <a href="/wiki/people/zoroaster.html">Zoroaster</a> <span class='muted'>· Middle East</span> — Founded Zoroastrianism</div>
 <div class="ev"><span class="yr">1200 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/iron-smelting.html">Iron smelting</a> <span class='muted'>· South Asia</span> — Anatolia; India (independently?)</div>
+<div class="ev"><span class="yr">1200 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/rakshasa.html">Rakshasa</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">1177 BCE</span>: 📅 Invasion: <a href="/wiki/events/sea-peoples-raids.html">Sea Peoples&#x27; raids</a> <span class='muted'>· Middle East</span> — Part of the Late Bronze Age collapse</div>
 <div class="ev"><span class="yr">1070 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/kingdom-of-kush.html">Kingdom of Kush</a> <span class='muted'>· Africa</span> — c. 1070 BCE–350 CE</div>
 <div class="ev"><span class="yr">1050 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ancient-israel-and-judah.html">Ancient Israel and Judah</a> <span class='muted'>· Middle East</span> — c. 1050–586 BCE</div>
 <div class="ev"><span class="yr">1046 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/zhou-dynasty.html">Zhou dynasty</a> <span class='muted'>· East Asia</span> — 1046–256 BCE</div>
 <div class="ev"><span class="yr">1046 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/zhou-dynasty.html">Zhou dynasty</a> <span class='muted'>· East Asia</span> — King Wu of Zhou defeated the last Shang king at Muye around 1046 BCE.</div>
 <div class="ev"><span class="yr">1000 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/polynesian-voyagers.html">Polynesian voyagers</a> <span class='muted'>· Oceania</span> — c. 1000 BCE–1300 CE</div>
+<div class="ev"><span class="yr">1000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/giants.html">Giants</a> <span class='muted'>· Global</span> — Worldwide</div>
+<div class="ev"><span class="yr">1000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/naga.html">Naga</a> <span class='muted'>· South Asia</span> — India; spread to Southeast Asia</div>
+<div class="ev"><span class="yr">1000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/mermaid.html">Mermaid</a> <span class='muted'>· Global</span> — Near East, Europe, worldwide</div>
+<div class="ev"><span class="yr">900 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/centaur.html">Centaur</a> <span class='muted'>· Europe</span> — Ancient Greece</div>
 <div class="ev"><span class="yr">814 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/carthage.html">Carthage</a> <span class='muted'>· Africa</span> — 814–146 BCE</div>
 <div class="ev"><span class="yr">800 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/celts.html">Celts</a> <span class='muted'>· Europe</span> — c. 800 BCE–100 CE</div>
 <div class="ev"><span class="yr">800 BCE</span>: 🏗 Built: <a href="/wiki/engineering/derinkuyu-underground-city.html">Derinkuyu underground city</a> <span class='muted'>· Middle East</span> — Cappadocia, Turkey</div>
@@ -215,8 +225,15 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">753 BCE</span>: 📅 City founding: <a href="/wiki/events/founding-of-rome.html">Founding of Rome</a> <span class='muted'>· Europe</span> — —</div>
 <div class="ev"><span class="yr">753 BCE</span>: 📅 City founding: <a href="/wiki/events/rome-founded-legend.html">Rome founded (legend)</a> <span class='muted'>· Europe</span> — Rome begins</div>
 <div class="ev"><span class="yr">750 BCE</span>: 👤 Born: <a href="/wiki/people/homer.html">Homer</a> <span class='muted'>· Europe</span> — Iliad and Odyssey</div>
+<div class="ev"><span class="yr">750 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/cyclops.html">Cyclops</a> <span class='muted'>· Europe</span> — Ancient Greece</div>
+<div class="ev"><span class="yr">750 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/chimera.html">Chimera</a> <span class='muted'>· Europe</span> — Ancient Greece and Lycia (Anatolia)</div>
 <div class="ev"><span class="yr">700 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/great-wall-of-china.html">Great Wall of China</a> <span class='muted'>· East Asia</span> — Many dynasties</div>
 <div class="ev"><span class="yr">700 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/pompeii.html">Pompeii</a> <span class='muted'>· Europe</span> — Romans</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/hydra.html">Hydra</a> <span class='muted'>· Europe</span> — Ancient Greece</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/medusa-and-the-gorgons.html">Medusa and the Gorgons</a> <span class='muted'>· Europe</span> — Ancient Greece</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/minotaur.html">Minotaur</a> <span class='muted'>· Europe</span> — Ancient Greece and Crete</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/pegasus.html">Pegasus</a> <span class='muted'>· Europe</span> — Ancient Greece</div>
+<div class="ev"><span class="yr">700 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/cerberus.html">Cerberus</a> <span class='muted'>· Europe</span> — Ancient Greece</div>
 <div class="ev"><span class="yr">684 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/magadha.html">Magadha</a> <span class='muted'>· South Asia</span> — c. 684–320 BCE</div>
 <div class="ev"><span class="yr">634 BCE</span>: 👤 Born: <a href="/wiki/people/nebuchadnezzar-ii.html">Nebuchadnezzar II</a> <span class='muted'>· Middle East</span> — Babylon&#x27;s walls and Ishtar Gate</div>
 <div class="ev"><span class="yr">612 BCE</span>: 📅 War: <a href="/wiki/events/fall-of-nineveh.html">Fall of Nineveh</a> <span class='muted'>· Middle East</span> — End of Assyria</div>
@@ -245,7 +262,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (147)
+:::collapse !Classical age (500 BCE–500 CE) (155)
 <div class="timeline">
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/panini.html">Panini</a> <span class='muted'>· South Asia</span> — Ashtadhyayi Sanskrit grammar</div>
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/valmiki.html">Valmiki</a> <span class='muted'>· South Asia</span> — Ramayana</div>
@@ -258,10 +275,13 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">447 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/parthenon.html">Parthenon</a> <span class='muted'>· Europe</span> — Athenians (Pericles)</div>
 <div class="ev"><span class="yr">431 BCE</span>: 📅 War: <a href="/wiki/events/peloponnesian-war.html">Peloponnesian War</a> <span class='muted'>· Europe</span> — Athens defeated by Sparta</div>
 <div class="ev"><span class="yr">430 BCE</span>: 📅 Epidemic: <a href="/wiki/events/plague-of-athens.html">Plague of Athens</a> <span class='muted'>· Europe</span> — Killed perhaps a quarter of Athens, including Pericles</div>
+<div class="ev"><span class="yr">430 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/phoenix.html">Phoenix</a> <span class='muted'>· Africa</span> — Egypt and Greece; similar fenghuang in China</div>
 <div class="ev"><span class="yr">428 BCE</span>: 👤 Born: <a href="/wiki/people/plato.html">Plato</a> <span class='muted'>· Global</span> — The Republic, the Academy</div>
 <div class="ev"><span class="yr">400 BCE</span>: 👤 Born: <a href="/wiki/people/vyasa.html">Vyasa</a> <span class='muted'>· South Asia</span> — Mahabharata</div>
 <div class="ev"><span class="yr">400 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/tikal.html">Tikal</a> <span class='muted'>· Americas</span> — Maya</div>
 <div class="ev"><span class="yr">400 BCE</span>: 🏗 Built: <a href="/wiki/engineering/yakhch-l-ice-houses-and-windcatchers.html">Yakhchāl ice houses and windcatchers</a> <span class='muted'>· Middle East</span> — Persia</div>
+<div class="ev"><span class="yr">400 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/unicorn.html">Unicorn</a> <span class='muted'>· South Asia</span> — India (as reported) and Europe</div>
+<div class="ev"><span class="yr">400 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/garuda.html">Garuda</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">399 BCE</span>: 📅 Philosophy: <a href="/wiki/events/death-of-socrates.html">Death of Socrates</a> <span class='muted'>· Europe</span> — Martyr of free inquiry</div>
 <div class="ev"><span class="yr">384 BCE</span>: 👤 Born: <a href="/wiki/people/aristotle.html">Aristotle</a> <span class='muted'>· Europe</span> — Logic, biology, ethics</div>
 <div class="ev"><span class="yr">375 BCE</span>: 👤 Born: <a href="/wiki/people/chanakya.html">Chanakya</a> <span class='muted'>· South Asia</span> — Arthashastra</div>
@@ -289,6 +309,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">300 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/steel-crucible.html">Steel (crucible)</a> <span class='muted'>· South Asia</span> — South India</div>
 <div class="ev"><span class="yr">300 BCE</span>: 🏗 Built: <a href="/wiki/engineering/wootz-steel.html">Wootz steel</a> <span class='muted'>· South Asia</span> — South India and Sri Lanka</div>
 <div class="ev"><span class="yr">300 BCE</span>: 🏗 Built: <a href="/wiki/engineering/indian-muslin-weaving.html">Indian muslin weaving</a> <span class='muted'>· South Asia</span> — Dhaka, Bengal</div>
+<div class="ev"><span class="yr">300 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/kitsune.html">Kitsune</a> <span class='muted'>· East Asia</span> — China and Japan</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/arthashastra.html">Arthashastra</a> <span class='muted'>· South Asia</span> — c. 3rd century BCE – 3rd century CE</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/guodian-bamboo-slips.html">Guodian bamboo slips</a> <span class='muted'>· East Asia</span> — c. 300 BCE</div>
 <div class="ev"><span class="yr">287 BCE</span>: 👤 Born: <a href="/wiki/people/archimedes.html">Archimedes</a> <span class='muted'>· Global</span> — Buoyancy, levers</div>
@@ -315,6 +336,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">200 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/indo-greek-kingdoms.html">Indo-Greek kingdoms</a> <span class='muted'>· South Asia</span> — Greek kingdoms of Bactria, left over from Alexander&#x27;s conquest and the Seleucid empire, crossed the Hindu Kush around 200 BCE under Dem</div>
 <div class="ev"><span class="yr">200 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/ajanta-caves.html">Ajanta Caves</a> <span class='muted'>· South Asia</span> — Buddhist monks</div>
 <div class="ev"><span class="yr">200 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/concrete.html">Concrete</a> <span class='muted'>· Europe</span> — Rome</div>
+<div class="ev"><span class="yr">200 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/makara.html">Makara</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">200 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/tolkappiyam-and-sangam-anthologies.html">Tolkappiyam and Sangam anthologies</a> <span class='muted'>· South Asia</span> — c. 300 BCE – 300 CE</div>
 <div class="ev"><span class="yr">185 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/shunga-dynasty.html">Shunga dynasty</a> <span class='muted'>· South Asia</span> — In about 185 BCE the commander-in-chief Pushyamitra Shunga assassinated the last Maurya emperor, Brihadratha, during a military parade and t</div>
 <div class="ev"><span class="yr">150 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/antikythera-mechanism.html">Antikythera mechanism</a> <span class='muted'>· Europe</span> — Greece</div>
@@ -340,6 +362,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">27 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/roman-empire.html">Roman Empire</a> <span class='muted'>· Europe</span> — 27 BCE–476 CE (West)</div>
 <div class="ev"><span class="yr">27 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/julio-claudian-dynasty.html">Julio-Claudian dynasty</a> <span class='muted'>· Europe</span> — Octavian defeated Antony and Cleopatra at Actium (31 BCE) and in 27 BCE took the title Augustus. He kept the forms of the Republic while con</div>
 <div class="ev"><span class="yr">4 BCE</span>: 👤 Born: <a href="/wiki/people/jesus-of-nazareth.html">Jesus of Nazareth</a> <span class='muted'>· Global</span> — Central figure of Christianity</div>
+<div class="ev"><span class="yr">8 CE</span>: 🐉 Myth: <a href="/wiki/creatures/werewolf.html">Werewolf</a> <span class='muted'>· Europe</span> — Greece, Rome, medieval Europe</div>
 <div class="ev"><span class="yr">9 CE</span>: 📅 War: <a href="/wiki/events/teutoburg-forest.html">Teutoburg Forest</a> <span class='muted'>· Europe</span> — Rome stops at the Rhine</div>
 <div class="ev"><span class="yr">12 CE</span>: 👤 Born: <a href="/wiki/people/caligula.html">Caligula</a> <span class='muted'>· Europe</span> — Notorious cruelty</div>
 <div class="ev"><span class="yr">30 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/kushan-empire.html">Kushan Empire</a> <span class='muted'>· Central Asia</span> — c. 30–375 CE</div>
@@ -351,6 +374,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">50 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/funan.html">Funan</a> <span class='muted'>· Southeast Asia</span> — c. 50–550 CE</div>
 <div class="ev"><span class="yr">50 CE</span>: 🏗 Built: <a href="/wiki/engineering/pont-du-gard.html">Pont du Gard</a> <span class='muted'>· Europe</span> — Southern France</div>
 <div class="ev"><span class="yr">72 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/colosseum.html">Colosseum</a> <span class='muted'>· Europe</span> — Vespasian and Titus</div>
+<div class="ev"><span class="yr">77 CE</span>: 🐉 Myth: <a href="/wiki/creatures/basilisk.html">Basilisk</a> <span class='muted'>· Europe</span> — Roman Empire, Libya</div>
 <div class="ev"><span class="yr">78 CE</span>: 👤 Born: <a href="/wiki/people/kanishka.html">Kanishka</a> <span class='muted'>· Global</span> — Patron of Buddhism</div>
 <div class="ev"><span class="yr">79 CE</span>: 📅 Volcanic eruption: <a href="/wiki/events/eruption-of-vesuvius.html">Eruption of Vesuvius</a> <span class='muted'>· Europe</span> — Buried Pompeii and Herculaneum</div>
 <div class="ev"><span class="yr">80 CE</span>: 🏗 Built: <a href="/wiki/engineering/colosseum.html">Colosseum</a> <span class='muted'>· Europe</span> — Rome, Italy</div>
@@ -384,6 +408,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">350 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/codex-sinaiticus.html">Codex Sinaiticus</a> <span class='muted'>· Europe</span> — c. 330–360 CE</div>
 <div class="ev"><span class="yr">380 CE</span>: 👤 Born: <a href="/wiki/people/chandragupta-ii.html">Chandragupta II</a> <span class='muted'>· South Asia</span> — Vikramaditya</div>
 <div class="ev"><span class="yr">400 CE</span>: 👤 Born: <a href="/wiki/people/kalidasa.html">Kalidasa</a> <span class='muted'>· South Asia</span> — Abhijnanashakuntalam, Meghaduta</div>
+<div class="ev"><span class="yr">400 CE</span>: 🐉 Myth: <a href="/wiki/creatures/djinn-jinn.html">Djinn (Jinn)</a> <span class='muted'>· Middle East</span> — Arabia and the Islamic world</div>
 <div class="ev"><span class="yr">402 CE</span>: 🏗 Built: <a href="/wiki/engineering/iron-pillar-of-delhi.html">Iron Pillar of Delhi</a> <span class='muted'>· South Asia</span> — Qutb complex, Delhi</div>
 <div class="ev"><span class="yr">410 CE</span>: 📅 War: <a href="/wiki/events/sack-of-rome-by-visigoths.html">Sack of Rome by Visigoths</a> <span class='muted'>· Europe</span> — Shock to the Roman world</div>
 <div class="ev"><span class="yr">427 CE</span>: 📅 Education: <a href="/wiki/events/nalanda-founded.html">Nalanda founded</a> <span class='muted'>· South Asia</span> — One of the first great residential universities</div>
@@ -397,10 +422,12 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (91)
+:::collapse !Early medieval (500–1000) (96)
 <div class="timeline">
 <div class="ev"><span class="yr">500 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/pushyabhuti-vardhana-dynasty.html">Pushyabhuti (Vardhana) dynasty</a> <span class='muted'>· South Asia</span> — The Pushyabhutis ruled Thanesar (Haryana) and rose by fighting the Hunas. Harshavardhana (r. 606–647) took over Kannauj after his sister&#x2</div>
 <div class="ev"><span class="yr">500 CE</span>: ⚙ Invention: <a href="/wiki/inventions/zero-and-decimal-place-value.html">Zero and decimal place value</a> <span class='muted'>· South Asia</span> — India</div>
+<div class="ev"><span class="yr">500 CE</span>: 🐉 Myth: <a href="/wiki/creatures/golem.html">Golem</a> <span class='muted'>· Europe</span> — Jewish tradition</div>
+<div class="ev"><span class="yr">500 CE</span>: 🐉 Myth: <a href="/wiki/creatures/brahmarakshasa.html">Brahmarakshasa</a> <span class='muted'>· South Asia</span> — India, especially Kerala and Karnataka</div>
 <div class="ev"><span class="yr">500 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/gilgit-manuscripts.html">Gilgit manuscripts</a> <span class='muted'>· South Asia</span> — c. 5th–6th century CE</div>
 <div class="ev"><span class="yr">536 CE</span>: 📅 Climate shock: <a href="/wiki/events/volcanic-winter-of-536.html">Volcanic winter of 536</a> <span class='muted'>· Global</span> — &#x27;The worst year to be alive&#x27;; crop failures</div>
 <div class="ev"><span class="yr">537 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/hagia-sophia.html">Hagia Sophia</a> <span class='muted'>· Middle East</span> — Justinian</div>
@@ -408,6 +435,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">541 CE</span>: 📅 Pandemic (Yersinia pestis): <a href="/wiki/events/plague-of-justinian.html">Plague of Justinian</a> <span class='muted'>· Global</span> — Tens of millions dead over two centuries</div>
 <div class="ev"><span class="yr">543 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/chalukya-dynasty.html">Chalukya dynasty</a> <span class='muted'>· South Asia</span> — 543–753 CE (Badami)</div>
 <div class="ev"><span class="yr">552 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/g-kt-rk-khaganate.html">Göktürk Khaganate</a> <span class='muted'>· Central Asia</span> — Bumin Qaghan revolted against the Rouran (552). The Orkhon inscriptions are the earliest written Turkic.</div>
+<div class="ev"><span class="yr">565 CE</span>: 🐉 Myth: <a href="/wiki/creatures/loch-ness-monster.html">Loch Ness Monster</a> <span class='muted'>· Europe</span> — Scotland</div>
 <div class="ev"><span class="yr">570 CE</span>: 👤 Born: <a href="/wiki/people/prophet-muhammad.html">Prophet Muhammad</a> <span class='muted'>· Middle East</span> — Founder of Islam</div>
 <div class="ev"><span class="yr">581 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/sui-dynasty.html">Sui dynasty</a> <span class='muted'>· East Asia</span> — Yang Jian (Emperor Wen) reunified China in 589 and restored examinations.</div>
 <div class="ev"><span class="yr">590 CE</span>: 👤 Born: <a href="/wiki/people/harsha.html">Harsha</a> <span class='muted'>· South Asia</span> — Patron of Nalanda; hosted Xuanzang</div>
@@ -434,6 +462,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">670 CE</span>: 📅 War: <a href="/wiki/events/tang-tibet-wars.html">Tang–Tibet wars</a> <span class='muted'>· East Asia</span> — Rise of the Tibetan Empire</div>
 <div class="ev"><span class="yr">711 CE</span>: 📅 Invasion: <a href="/wiki/events/umayyad-conquest-of-hispania.html">Umayyad conquest of Hispania</a> <span class='muted'>· Europe</span> — Seven centuries of Muslim rule in Spain</div>
 <div class="ev"><span class="yr">712 CE</span>: 📅 Conquest: <a href="/wiki/events/arab-conquest-of-sindh.html">Arab conquest of Sindh</a> <span class='muted'>· South Asia</span> — Islam arrives in South Asia by land</div>
+<div class="ev"><span class="yr">720 CE</span>: 🐉 Myth: <a href="/wiki/creatures/tengu.html">Tengu</a> <span class='muted'>· East Asia</span> — Japan</div>
 <div class="ev"><span class="yr">730 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/gurjara-pratihara-dynasty.html">Gurjara-Pratihara dynasty</a> <span class='muted'>· South Asia</span> — Nagabhata I (c. 730–760) won fame by repelling Arab armies from Sindh, protecting western India. His successors took Kannauj (c. 816) and un</div>
 <div class="ev"><span class="yr">732 CE</span>: 📅 War: <a href="/wiki/events/battle-of-tours.html">Battle of Tours</a> <span class='muted'>· Europe</span> — Halted Umayyad expansion into Francia</div>
 <div class="ev"><span class="yr">748 CE</span>: 👤 Born: <a href="/wiki/people/charlemagne.html">Charlemagne</a> <span class='muted'>· Global</span> — Unified Western Europe</div>
@@ -476,6 +505,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">882 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/kievan-rus.html">Kievan Rus&#x27;</a> <span class='muted'>· Europe</span> — 882–1240</div>
 <div class="ev"><span class="yr">886 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/house-of-wessex-and-anglo-saxon-england.html">House of Wessex and Anglo-Saxon England</a> <span class='muted'>· Europe</span> — Alfred the Great (r. 871–899) of Wessex defeated the Danish Great Heathen Army at Edington (878) and built fortified towns (burhs) and a nav</div>
 <div class="ev"><span class="yr">900 CE</span>: ⚙ Invention: <a href="/wiki/inventions/windmill.html">Windmill</a> <span class='muted'>· Middle East</span> — Persia</div>
+<div class="ev"><span class="yr">900 CE</span>: 🐉 Myth: <a href="/wiki/creatures/oni.html">Oni</a> <span class='muted'>· East Asia</span> — Japan</div>
 <div class="ev"><span class="yr">909 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/fatimid-caliphate.html">Fatimid Caliphate</a> <span class='muted'>· Africa</span> — Ismaili Shia leader al-Mahdi founded the caliphate in Tunisia (909); they conquered Egypt in 969 and founded Cairo and al-Azhar.</div>
 <div class="ev"><span class="yr">918 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/goryeo.html">Goryeo</a> <span class='muted'>· East Asia</span> — Wang Geon reunified Korea in 918; Goryeo printed the Tripitaka Koreana and the first metal movable type (Jikji, 1377).</div>
 <div class="ev"><span class="yr">940 CE</span>: 👤 Born: <a href="/wiki/people/ferdowsi.html">Ferdowsi</a> <span class='muted'>· Middle East</span> — Shahnameh</div>
@@ -493,7 +523,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (166)
+:::collapse !Late medieval (1000–1500) (172)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 📅 Exploration: <a href="/wiki/events/norse-reach-north-america.html">Norse reach North America</a> <span class='muted'>· Americas</span> — First European landing in the Americas</div>
 <div class="ev"><span class="yr">1000</span>: ⚙ Invention: <a href="/wiki/inventions/spinning-wheel.html">Spinning wheel</a> <span class='muted'>· South Asia</span> — India or China</div>
@@ -514,6 +544,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1063</span>: 🏗 Built: <a href="/wiki/engineering/rani-ki-vav-stepwell.html">Rani ki Vav stepwell</a> <span class='muted'>· South Asia</span> — Patan, Gujarat</div>
 <div class="ev"><span class="yr">1066</span>: 👑 Dynasty: <a href="/wiki/dynasties/normans-and-plantagenets.html">Normans and Plantagenets</a> <span class='muted'>· Europe</span> — William of Normandy won at Hastings in 1066, compiled the Domesday Book and built castles. Henry II founded the Plantagenet line (1154), rul</div>
 <div class="ev"><span class="yr">1066</span>: 📅 Conquest: <a href="/wiki/events/battle-of-hastings.html">Battle of Hastings</a> <span class='muted'>· Europe</span> — Norman conquest</div>
+<div class="ev"><span class="yr">1070</span>: 🐉 Myth: <a href="/wiki/creatures/vetala-betaal.html">Vetala (Betaal)</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">1071</span>: 📅 War: <a href="/wiki/events/battle-of-manzikert.html">Battle of Manzikert</a> <span class='muted'>· Middle East</span> — Turks enter Anatolia</div>
 <div class="ev"><span class="yr">1078</span>: 👑 Dynasty: <a href="/wiki/dynasties/eastern-ganga-dynasty.html">Eastern Ganga dynasty</a> <span class='muted'>· South Asia</span> — Anantavarman Chodaganga (r. 1078–1147) ruled from the Godavari to the Ganga and began the Jagannath temple at Puri. Narasimhadeva I (r. 1238</div>
 <div class="ev"><span class="yr">1086</span>: 📜 Manuscript: <a href="/wiki/manuscripts/domesday-book.html">Domesday Book</a> <span class='muted'>· Europe</span> — 1086</div>
@@ -524,6 +555,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1114</span>: 👤 Born: <a href="/wiki/people/bhaskara-ii.html">Bhaskara II</a> <span class='muted'>· South Asia</span> — Lilavati; early calculus ideas</div>
 <div class="ev"><span class="yr">1132</span>: ⚙ Invention: <a href="/wiki/inventions/cannon.html">Cannon</a> <span class='muted'>· East Asia</span> — China</div>
 <div class="ev"><span class="yr">1137</span>: 👤 Born: <a href="/wiki/people/saladin.html">Saladin</a> <span class='muted'>· Middle East</span> — Retook Jerusalem</div>
+<div class="ev"><span class="yr">1140</span>: 🐉 Myth: <a href="/wiki/creatures/goblin.html">Goblin</a> <span class='muted'>· Europe</span> — Medieval Europe (France, England, Germany)</div>
 <div class="ev"><span class="yr">1150</span>: 📅 Construction: <a href="/wiki/events/angkor-wat-built.html">Angkor Wat built</a> <span class='muted'>· Southeast Asia</span> — Largest religious monument</div>
 <div class="ev"><span class="yr">1150</span>: 🗿 Built / founded: <a href="/wiki/sites/angkor-wat.html">Angkor Wat</a> <span class='muted'>· Southeast Asia</span> — Suryavarman II</div>
 <div class="ev"><span class="yr">1150</span>: 🏗 Built: <a href="/wiki/engineering/angkor-water-system.html">Angkor water system</a> <span class='muted'>· Southeast Asia</span> — Cambodia</div>
@@ -539,6 +571,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1193</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/nalanda-library-burned-for-months.html">Nalanda library burned for months</a> <span class='muted'>· South Asia</span> — Partly true</div>
 <div class="ev"><span class="yr">1199</span>: 🗿 Built / founded: <a href="/wiki/sites/qutub-minar.html">Qutub Minar</a> <span class='muted'>· South Asia</span> — Qutb ud-Din Aibak, Iltutmish</div>
 <div class="ev"><span class="yr">1200</span>: ⚙ Invention: <a href="/wiki/inventions/snakes-and-ladders-moksha-patam.html">Snakes and ladders (moksha patam)</a> <span class='muted'>· South Asia</span> — India</div>
+<div class="ev"><span class="yr">1200</span>: 🐉 Myth: <a href="/wiki/creatures/wyvern.html">Wyvern</a> <span class='muted'>· Europe</span> — Medieval England and France</div>
 <div class="ev"><span class="yr">1200</span>: 📜 Manuscript: <a href="/wiki/manuscripts/dresden-codex.html">Dresden Codex</a> <span class='muted'>· Americas</span> — 11th–12th century</div>
 <div class="ev"><span class="yr">1204</span>: 📅 War: <a href="/wiki/events/fourth-crusade-sacks-constantinople.html">Fourth Crusade sacks Constantinople</a> <span class='muted'>· Europe</span> — Byzantine collapse</div>
 <div class="ev"><span class="yr">1205</span>: 👤 Born: <a href="/wiki/people/razia-sultan.html">Razia Sultan</a> <span class='muted'>· Global</span> — First woman ruler of the Delhi Sultanate</div>
@@ -549,6 +582,8 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1215</span>: 📅 Law: <a href="/wiki/events/magna-carta.html">Magna Carta</a> <span class='muted'>· Europe</span> — Limited royal power</div>
 <div class="ev"><span class="yr">1215</span>: 👤 Born: <a href="/wiki/people/kublai-khan.html">Kublai Khan</a> <span class='muted'>· East Asia</span> — Yuan dynasty</div>
 <div class="ev"><span class="yr">1215</span>: 📜 Manuscript: <a href="/wiki/manuscripts/magna-carta.html">Magna Carta</a> <span class='muted'>· Europe</span> — 1215</div>
+<div class="ev"><span class="yr">1220</span>: 🐉 Myth: <a href="/wiki/creatures/troll.html">Troll</a> <span class='muted'>· Europe</span> — Scandinavia</div>
+<div class="ev"><span class="yr">1220</span>: 🐉 Myth: <a href="/wiki/creatures/gargoyle.html">Gargoyle</a> <span class='muted'>· Europe</span> — Medieval France</div>
 <div class="ev"><span class="yr">1221</span>: 📅 Invasion: <a href="/wiki/events/mongol-invasions-of-india.html">Mongol invasions of India</a> <span class='muted'>· South Asia</span> — Repelled by the Delhi Sultanate</div>
 <div class="ev"><span class="yr">1228</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ahom-kingdom.html">Ahom kingdom</a> <span class='muted'>· South Asia</span> — 1228–1826</div>
 <div class="ev"><span class="yr">1228</span>: 👑 Dynasty: <a href="/wiki/dynasties/ahom-dynasty.html">Ahom dynasty</a> <span class='muted'>· South Asia</span> — The Tai prince Sukaphaa crossed the Patkai hills in 1228 and united local peoples.</div>
@@ -584,6 +619,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1299</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ottoman-empire.html">Ottoman Empire</a> <span class='muted'>· Middle East</span> — 1299–1922</div>
 <div class="ev"><span class="yr">1299</span>: 👑 Dynasty: <a href="/wiki/dynasties/ottoman-dynasty.html">Ottoman dynasty</a> <span class='muted'>· Middle East</span> — Osman I&#x27;s frontier principality in Anatolia expanded into the Balkans; Mehmed II took Constantinople in 1453; Selim I took Egypt and Ar</div>
 <div class="ev"><span class="yr">1300</span>: 📅 City building: <a href="/wiki/events/great-zimbabwe-at-its-height.html">Great Zimbabwe at its height</a> <span class='muted'>· Africa</span> — Southern Africa&#x27;s largest stone city</div>
+<div class="ev"><span class="yr">1300</span>: 🐉 Myth: <a href="/wiki/creatures/banshee.html">Banshee</a> <span class='muted'>· Europe</span> — Ireland</div>
 <div class="ev"><span class="yr">1300</span>: 📜 Manuscript: <a href="/wiki/manuscripts/timbuktu-manuscripts.html">Timbuktu manuscripts</a> <span class='muted'>· Africa</span> — 13th–20th centuries</div>
 <div class="ev"><span class="yr">1304</span>: 👤 Born: <a href="/wiki/people/ibn-battuta.html">Ibn Battuta</a> <span class='muted'>· Africa</span> — Travelled ~120,000 km incl. India</div>
 <div class="ev"><span class="yr">1315</span>: 📅 Famine: <a href="/wiki/events/great-famine-of-europe.html">Great Famine of Europe</a> <span class='muted'>· Europe</span> — Millions dead</div>
@@ -664,10 +700,11 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (134)
+:::collapse Early modern (1500–1800) (138)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/tansen.html">Tansen</a> <span class='muted'>· Global</span> — Hindustani classical music</div>
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/charles-v.html">Charles V</a> <span class='muted'>· Europe</span> — Empire on which the sun never set</div>
+<div class="ev"><span class="yr">1500</span>: 🐉 Myth: <a href="/wiki/creatures/thunderbird.html">Thunderbird</a> <span class='muted'>· Americas</span> — North America</div>
 <div class="ev"><span class="yr">1501</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/safavid-iran.html">Safavid Iran</a> <span class='muted'>· Middle East</span> — 1501–1736</div>
 <div class="ev"><span class="yr">1501</span>: 👑 Dynasty: <a href="/wiki/dynasties/safavid-dynasty.html">Safavid dynasty</a> <span class='muted'>· Middle East</span> — Ismail I, head of a Sufi order, took Tabriz (1501) and imposed Shia Islam. Shah Abbas I (r. 1588–1629) moved the capital to Isfahan.</div>
 <div class="ev"><span class="yr">1502</span>: 👤 Born: <a href="/wiki/people/atahualpa.html">Atahualpa</a> <span class='muted'>· Americas</span> — Captured by Pizarro</div>
@@ -717,6 +754,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1596</span>: 👤 Born: <a href="/wiki/people/ren-descartes.html">René Descartes</a> <span class='muted'>· Europe</span> — &#x27;I think, therefore I am&#x27;</div>
 <div class="ev"><span class="yr">1600</span>: 📅 Trade / colonialism: <a href="/wiki/events/founding-of-the-east-india-company.html">Founding of the East India Company</a> <span class='muted'>· South Asia</span> — A trading company that conquered India</div>
 <div class="ev"><span class="yr">1600</span>: 📅 War: <a href="/wiki/events/battle-of-sekigahara.html">Battle of Sekigahara</a> <span class='muted'>· East Asia</span> — Tokugawa peace</div>
+<div class="ev"><span class="yr">1600</span>: 🐉 Myth: <a href="/wiki/creatures/wendigo.html">Wendigo</a> <span class='muted'>· Americas</span> — Northern North America</div>
 <div class="ev"><span class="yr">1602</span>: 📅 Trade: <a href="/wiki/events/dutch-east-india-company-founded.html">Dutch East India Company founded</a> <span class='muted'>· Europe</span> — First public company</div>
 <div class="ev"><span class="yr">1603</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/edo-japan-tokugawa.html">Edo Japan (Tokugawa)</a> <span class='muted'>· East Asia</span> — 1603–1868</div>
 <div class="ev"><span class="yr">1603</span>: 👑 Dynasty: <a href="/wiki/dynasties/tokugawa-shogunate.html">Tokugawa shogunate</a> <span class='muted'>· East Asia</span> — Tokugawa Ieyasu won the Battle of Sekigahara (1600) and became shogun in 1603, ending a century of civil war.</div>
@@ -756,6 +794,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1724</span>: 👤 Born: <a href="/wiki/people/immanuel-kant.html">Immanuel Kant</a> <span class='muted'>· Global</span> — Critique of Pure Reason</div>
 <div class="ev"><span class="yr">1725</span>: 👤 Born: <a href="/wiki/people/ahilyabai-holkar.html">Ahilyabai Holkar</a> <span class='muted'>· Global</span> — Builder of temples</div>
 <div class="ev"><span class="yr">1725</span>: 👤 Born: <a href="/wiki/people/robert-clive.html">Robert Clive</a> <span class='muted'>· South Asia</span> — Plassey</div>
+<div class="ev"><span class="yr">1725</span>: 🐉 Myth: <a href="/wiki/creatures/vampire.html">Vampire</a> <span class='muted'>· Europe</span> — Eastern Europe</div>
 <div class="ev"><span class="yr">1729</span>: 👤 Born: <a href="/wiki/people/catherine-the-great.html">Catherine the Great</a> <span class='muted'>· Europe</span> — Expanded Russia</div>
 <div class="ev"><span class="yr">1730</span>: 👤 Born: <a href="/wiki/people/velu-nachiyar.html">Velu Nachiyar</a> <span class='muted'>· Global</span> — Fought the British</div>
 <div class="ev"><span class="yr">1732</span>: 👤 Born: <a href="/wiki/people/george-washington.html">George Washington</a> <span class='muted'>· Global</span> — Led the American Revolution</div>
@@ -766,6 +805,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1743</span>: 👤 Born: <a href="/wiki/people/toussaint-louverture.html">Toussaint Louverture</a> <span class='muted'>· Global</span> — Led the Haitian Revolution</div>
 <div class="ev"><span class="yr">1749</span>: 👤 Born: <a href="/wiki/people/edward-jenner.html">Edward Jenner</a> <span class='muted'>· Europe</span> — Smallpox vaccine</div>
 <div class="ev"><span class="yr">1751</span>: 👤 Born: <a href="/wiki/people/tipu-sultan.html">Tipu Sultan</a> <span class='muted'>· Global</span> — Resisted the British; rockets</div>
+<div class="ev"><span class="yr">1752</span>: 🐉 Myth: <a href="/wiki/creatures/kraken.html">Kraken</a> <span class='muted'>· Europe</span> — Norway and Greenland</div>
 <div class="ev"><span class="yr">1756</span>: 📅 World war: <a href="/wiki/events/seven-years-war.html">Seven Years&#x27; War</a> <span class='muted'>· Global</span> — Britain dominates India and North America</div>
 <div class="ev"><span class="yr">1756</span>: 📅 War: <a href="/wiki/events/black-hole-of-calcutta.html">Black Hole of Calcutta</a> <span class='muted'>· South Asia</span> — Pretext for Plassey</div>
 <div class="ev"><span class="yr">1756</span>: 👤 Born: <a href="/wiki/people/wolfgang-amadeus-mozart.html">Wolfgang Amadeus Mozart</a> <span class='muted'>· Global</span> — The Magic Flute, Requiem</div>
@@ -803,7 +843,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (201)
+:::collapse Industrial and imperial age (1800–1945) (202)
 <div class="timeline">
 <div class="ev"><span class="yr">1800</span>: ⚙ Invention: <a href="/wiki/inventions/electric-battery.html">Electric battery</a> <span class='muted'>· Europe</span> — Italy</div>
 <div class="ev"><span class="yr">1800</span>: 🏗 Built: <a href="/wiki/engineering/living-root-bridges.html">Living root bridges</a> <span class='muted'>· South Asia</span> — Meghalaya</div>
@@ -955,6 +995,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1920</span>: 📅 Freedom struggle: <a href="/wiki/events/non-cooperation-movement.html">Non-Cooperation Movement</a> <span class='muted'>· South Asia</span> — Mass boycott of British institutions</div>
 <div class="ev"><span class="yr">1920</span>: 👤 Born: <a href="/wiki/people/rosalind-franklin.html">Rosalind Franklin</a> <span class='muted'>· Europe</span> — X-ray images of DNA</div>
 <div class="ev"><span class="yr">1921</span>: 👤 Born: <a href="/wiki/people/satyajit-ray.html">Satyajit Ray</a> <span class='muted'>· Global</span> — Apu Trilogy</div>
+<div class="ev"><span class="yr">1921</span>: 🐉 Myth: <a href="/wiki/creatures/yeti.html">Yeti</a> <span class='muted'>· South Asia</span> — Himalaya (Nepal, Tibet, Bhutan)</div>
 <div class="ev"><span class="yr">1922</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/soviet-union.html">Soviet Union</a> <span class='muted'>· Europe</span> — 1922–1991</div>
 <div class="ev"><span class="yr">1923</span>: 📅 Politics: <a href="/wiki/events/turkish-republic-founded.html">Turkish Republic founded</a> <span class='muted'>· Middle East</span> — End of Ottoman rule</div>
 <div class="ev"><span class="yr">1923</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/leaded-petrol-cover-up.html">Leaded petrol cover-up</a> <span class='muted'>· Global</span> — Documented fact</div>
@@ -1009,7 +1050,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (93)
+:::collapse Contemporary (1945–today) (95)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 War: <a href="/wiki/events/atomic-bombings-of-hiroshima-and-nagasaki.html">Atomic bombings of Hiroshima and Nagasaki</a> <span class='muted'>· East Asia</span> — ~110,000–210,000 dead</div>
 <div class="ev"><span class="yr">1945</span>: 📅 Independence: <a href="/wiki/events/decolonisation-of-africa-and-asia.html">Decolonisation of Africa and Asia</a> <span class='muted'>· South Asia</span> — Dozens of new nations</div>
@@ -1046,6 +1087,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1957</span>: 📅 Space: <a href="/wiki/events/sputnik-launched.html">Sputnik launched</a> <span class='muted'>· Europe</span> — Start of the space age</div>
 <div class="ev"><span class="yr">1957</span>: ⚙ Invention: <a href="/wiki/inventions/space-flight.html">Space flight</a> <span class='muted'>· Global</span> — USSR</div>
 <div class="ev"><span class="yr">1958</span>: ⚙ Invention: <a href="/wiki/inventions/microchip.html">Microchip</a> <span class='muted'>· Americas</span> — USA</div>
+<div class="ev"><span class="yr">1958</span>: 🐉 Myth: <a href="/wiki/creatures/bigfoot-sasquatch.html">Bigfoot (Sasquatch)</a> <span class='muted'>· Americas</span> — Pacific Northwest, USA and Canada</div>
 <div class="ev"><span class="yr">1959</span>: 📅 Famine: <a href="/wiki/events/chinese-great-leap-forward-famine.html">Chinese Great Leap Forward famine</a> <span class='muted'>· East Asia</span> — Tens of millions died</div>
 <div class="ev"><span class="yr">1960</span>: ⚙ Invention: <a href="/wiki/inventions/green-revolution-seeds.html">Green Revolution seeds</a> <span class='muted'>· South Asia</span> — Mexico, Philippines, India</div>
 <div class="ev"><span class="yr">1960</span>: ⚙ Invention: <a href="/wiki/inventions/contraceptive-pill.html">Contraceptive pill</a> <span class='muted'>· Americas</span> — USA</div>
@@ -1084,6 +1126,7 @@ Not everyone evolved at the same rate: Mesopotamia and Egypt had cities and writ
 <div class="ev"><span class="yr">1991</span>: 📅 Economic: <a href="/wiki/events/indian-economic-liberalisation.html">Indian economic liberalisation</a> <span class='muted'>· South Asia</span> — Opened the economy</div>
 <div class="ev"><span class="yr">1994</span>: 📅 Politics: <a href="/wiki/events/end-of-apartheid.html">End of apartheid</a> <span class='muted'>· Africa</span> — Democracy for all</div>
 <div class="ev"><span class="yr">1994</span>: 📅 Genocide: <a href="/wiki/events/rwandan-genocide.html">Rwandan genocide</a> <span class='muted'>· Africa</span> — ~500,000–800,000 killed</div>
+<div class="ev"><span class="yr">1995</span>: 🐉 Myth: <a href="/wiki/creatures/chupacabra.html">Chupacabra</a> <span class='muted'>· Americas</span> — Puerto Rico and Latin America</div>
 <div class="ev"><span class="yr">2001</span>: 📅 Terrorism: <a href="/wiki/events/september-11-attacks.html">September 11 attacks</a> <span class='muted'>· Americas</span> — ~3,000 killed; wars in Afghanistan and Iraq</div>
 <div class="ev"><span class="yr">2002</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/iraq-wmd-intelligence.html">Iraq WMD intelligence</a> <span class='muted'>· Middle East</span> — Documented fact</div>
 <div class="ev"><span class="yr">2003</span>: 📅 Science: <a href="/wiki/events/human-genome-project-completed.html">Human Genome Project completed</a> <span class='muted'>· Global</span> — Read the human DNA</div>
