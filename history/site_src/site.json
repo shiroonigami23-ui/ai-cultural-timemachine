@@ -1947,7 +1947,10 @@
    "name": "Herculaneum scrolls",
    "status": "PHerc. 1667 read in full without opening (25 Jun 2026)",
    "next": "~600 unopened scrolls remain",
-   "query": "Herculaneum papyri"
+   "query": "Herculaneum papyri",
+   "must": [
+    "herculaneum"
+   ]
   },
   {
    "id": "keeladi",
@@ -1955,7 +1958,11 @@
    "name": "Keeladi (Tamil Nadu)",
    "status": "11th phase since 18 Mar 2026: brick structures, drains, 1,300+ artefacts, iron furnace",
    "next": "Ancient-DNA papers expected by Dec 2026",
-   "query": "Keeladi excavation"
+   "query": "Keeladi",
+   "must": [
+    "keeladi",
+    "keezhadi"
+   ]
   },
   {
    "id": "indus",
@@ -1963,7 +1970,11 @@
    "name": "Indus script",
    "status": "Still undeciphered (~4,000+ inscriptions)",
    "next": "Computational decipherment efforts",
-   "query": "Indus script"
+   "query": "Indus script",
+   "must": [
+    "indus",
+    "harappan"
+   ]
   },
   {
    "id": "adna",
@@ -1971,7 +1982,13 @@
    "name": "Ancient DNA",
    "status": "Rakhigarhi, Keeladi and Adichanallur genomes",
    "next": "More South Asian genomes",
-   "query": "ancient DNA human population history"
+   "query": "ancient DNA",
+   "must": [
+    "ancient dna",
+    "ancient genomes",
+    "palaeogenom",
+    "paleogenom"
+   ]
   }
  ],
  "tracker_page": "data/tracker",
