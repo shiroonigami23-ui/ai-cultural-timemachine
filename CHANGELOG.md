@@ -4,6 +4,14 @@ All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
 
+
+## [Unreleased] - 2026-11-17 (homepage and tracker)
+### Changed
+- Homepage catalogs grouped into themed blocks with one-line blurbs; the Browse menu uses the same groups.
+- Bigger hero search with suggested searches.
+### Added
+- Weekly GitHub Action (`update-tracker.yml`) that fetches the newest papers for each live-tracker stream from OpenAlex, adds a 'Latest research' section to the tracker page, updates the tracker date and rebuilds the site.
+
 ## [Unreleased] - 2026-11-17 (part 2)
 ### Added
 - How It Was Built: 50 structures and technologies (wonders, Indian engineering, bridges, underground and wartime engineering, crafts) with step-by-step building accounts, linked to empires, people and events.

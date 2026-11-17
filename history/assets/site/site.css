@@ -316,3 +316,10 @@ details[open]>.dbody,details.coll[open]>.collin{animation:fadein .35s ease}
 .rdbody figcaption,.dbody figcaption,.rdbody .thumbcaption{opacity:.8;margin-top:.3rem}
 .rdbody .infobox img{border-radius:6px}
 @media(max-width:700px){.dbody .dfig{float:none;max-width:100%;margin:1rem 0}}
+
+/* homepage grouping */
+.homegroup{margin:0 0 1.4rem}.homegroup .hg{margin:.6rem 0 .6rem;font-size:1.05rem;letter-spacing:.02em;opacity:.9}
+.secgrid.compact .seccard p{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:.9rem}
+.hints{margin-top:10px;font-size:.9rem;opacity:.9}.hints a{display:inline-block;margin:4px 4px 0 0;padding:4px 10px;border-radius:999px;background:var(--chip);color:var(--fg);text-decoration:none}
+.megahead{grid-column:1/-1;font-weight:700;font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;opacity:.7;margin:.6rem 0 0}
+.herosearch input{font-size:1.15rem;padding:16px 20px;max-width:720px}

@@ -101,7 +101,7 @@ TEMPLATE = r"""<!DOCTYPE html>
  <button class="themebtn" title="Light / dark" aria-label="Toggle theme" onclick="const d=document.documentElement;d.dataset.theme=d.dataset.theme==='dark'?'light':'dark';try{localStorage.setItem('theme',d.dataset.theme)}catch(e){}">🌓</button>
 </div>
 <div id="megamenu" class="megamenu"><div class="wrap"><div class="megagrid">
- {% for c in cfg.collections %}<a class="megatile cat" href="{{ root }}wiki/{{ c.id }}/index.html"><span class="mi">{{ c.icon }}</span><b>{{ c.title }}</b><small>{{ c.short or 'Catalog' }}</small></a>{% endfor %}
+ {% if cfg.home_groups %}{% set cmap = {} %}{% for c in cfg.collections %}{% set _ = cmap.update({c.id: c}) %}{% endfor %}{% for g in cfg.home_groups %}<div class="megahead">{{ g.icon }} {{ g.title }}</div>{% for i in g.ids %}{% if i in cmap %}{% set c = cmap[i] %}<a class="megatile cat" href="{{ root }}wiki/{{ c.id }}/index.html"><span class="mi">{{ c.icon }}</span><b>{{ c.title }}</b></a>{% endif %}{% endfor %}{% endfor %}<div class="megahead">📚 Articles & tools</div>{% else %}{% for c in cfg.collections %}<a class="megatile cat" href="{{ root }}wiki/{{ c.id }}/index.html"><span class="mi">{{ c.icon }}</span><b>{{ c.title }}</b><small>{{ c.short or 'Catalog' }}</small></a>{% endfor %}{% endif %}
  {% for s in sections %}<a class="megatile" href="{{ root }}wiki/{{ s.id }}/index.html"><span class="mi">{{ s.icon }}</span><b>{{ s.title }}</b><small>{{ s.pages|length }} articles</small></a>{% endfor %}
  <a class="megatile" href="{{ root }}wiki/statistics/index.html"><span class="mi">📊</span><b>Statistics</b><small>Animated charts</small></a>
  <a class="megatile" href="{{ root }}wiki/timeline.html"><span class="mi">🕰</span><b>Timeline</b><small>Key dates</small></a>
@@ -476,10 +476,15 @@ def export_pdfs(sections):
     print(f"exported {n} PDFs")
 
 
+TRACKED = None
+
 def main():
     env = Environment(loader=BaseLoader(), autoescape=False)
     T = env.from_string(TEMPLATE)
     built = CFG.get("reviewed", datetime.date.today().isoformat())
+    global TRACKED
+    _ff = os.path.join(SRC, "data", "tracker_feed.json")
+    TRACKED = json.load(open(_ff, encoding="utf-8")).get("updated") if os.path.exists(_ff) else None
     sections, allpages, search = [], [], []
     global NAV
     NAV = [dict(id=x["id"], title=x["title"]) for x in CFG.get("nav_order", [])] or [dict(id=x["id"], title=x["title"]) for x in CFG["sections"] + CFG.get("collections", [])]
@@ -517,12 +522,28 @@ def main():
     def write(rel, title, content, depth, summary="", cur_sec="", bodyclass=""):
         root = "../" * depth if depth else ""
         page = T.render(cfg=CFG, nav=NAV, title=title, summary=summary, content=content, root=root, sections=sections,
-                        cur_sec=cur_sec, npages=len(allpages), built=built, bodyclass=bodyclass, tracker=CFG.get("tracker", []))
+                        cur_sec=cur_sec, npages=len(allpages), built=TRACKED or built, bodyclass=bodyclass, tracker=CFG.get("tracker", []))
         out = os.path.join(ROOT, rel); os.makedirs(os.path.dirname(out), exist_ok=True)
         page = page.replace('assets/site/site.js"', f'assets/site/site.js?v={VER:x}"').replace('assets/site/site.css"', f'assets/site/site.css?v={VER:x}"')
         open(out, "w", encoding="utf-8").write(relativize(page, depth))
 
     A, S, P = env.from_string(ARTICLE), env.from_string(SECTION), env.from_string(PLAIN)
+    feedf = os.path.join(SRC, "data", "tracker_feed.json")
+    FEED = json.load(open(feedf, encoding="utf-8")) if os.path.exists(feedf) else None
+    if FEED:
+        tp = CFG.get("tracker_page", "")
+        for sec in sections:
+            for p in sec["pages"]:
+                if f"{sec['id']}/{p['slug']}" == tp:
+                    names = {t["id"]: (t.get("icon", ""), t["name"]) for t in CFG.get("tracker", [])}
+                    blocks = []
+                    for tid, works in FEED.get("streams", {}).items():
+                        if not works: continue
+                        ic, nm = names.get(tid, ("", tid))
+                        li = "".join(f'<li><a href="{html.escape(w["url"])}" target="_blank" rel="noopener">{html.escape(w["title"])}</a> <span class="muted small">· {html.escape(w.get("venue") or "")} · {html.escape(w["date"])}</span></li>' for w in works)
+                        blocks.append(f'<h3>{ic} {html.escape(nm)}</h3><ul>{li}</ul>')
+                    if blocks:
+                        p["html"] = p["html"] + f'<h2 id="latest-research">📡 Latest research (updated automatically every week)</h2><p class="muted">Newest papers matching each stream, from OpenAlex. Last checked {html.escape(FEED["updated"])}.</p>' + "".join(blocks)
     for sec in sections:
         root = "../../"
         write(f"wiki/{sec['id']}/index.html", sec["title"], S.render(sec=sec, root=root), 2, sec["desc"], sec["id"])
@@ -573,16 +594,29 @@ def main():
     meta, body = parse(os.path.join(SRC, "home.md"))
     home_html = markdown.markdown(callouts(body), extensions=MD_EXT, extension_configs=MD_CFG)
     stats = "".join(f'<div class="stat"><b>{html.escape(a)}</b><span>{html.escape(b)}</span></div>' for a, b in CFG["stats"])
-    seccards = "".join(f'<a class="seccard" href="/wiki/{s["id"]}/index.html"><div class="si">{s["icon"]}</div><h3>{s["title"]}</h3><p>{s["desc"]}</p><span class="cm">{len(s["pages"])} articles</span></a>' for s in sections)
-    collcards = "".join(f'<a class="seccard coll" href="/wiki/{c["id"]}/index.html"><div class="si">{c["icon"]}</div><h3>{c["title"]}</h3><p>{c["desc"]}</p><span class="cm">{n} entries</span></a>' for c, n in colls)
+    seccards = "".join(f'<a class="seccard" href="/wiki/{s["id"]}/index.html"><div class="si">{s["icon"]}</div><h3>{s["title"]}</h3><p>{html.escape(s["desc"].split(". ")[0])}</p><span class="cm">{len(s["pages"])} articles</span></a>' for s in sections)
+    card = lambda c, n: f'<a class="seccard coll" href="/wiki/{c["id"]}/index.html"><div class="si">{c["icon"]}</div><h3>{c["title"]}</h3><p>{html.escape(c.get("short") or c["desc"].split(". ")[0])}</p><span class="cm">{n} entries</span></a>'
+    collcards = "".join(card(c, n) for c, n in colls)
+    hg = CFG.get("home_groups")
+    if hg:
+        byid = {c["id"]: (c, n) for c, n in colls}; used = set(); parts = []
+        for g in hg:
+            cs = [byid[i] for i in g["ids"] if i in byid]; used.update(g["ids"])
+            if cs: parts.append(f'<section class="homegroup"><h3 class="hg">{g.get("icon","")} {html.escape(g["title"])}</h3><div class="secgrid compact">{"".join(card(c, n) for c, n in cs)}</div></section>')
+        rest = [cn for cn in colls if cn[0]["id"] not in used]
+        if rest: parts.append(f'<section class="homegroup"><h3 class="hg">More catalogs</h3><div class="secgrid compact">{"".join(card(c, n) for c, n in rest)}</div></section>')
+        collblock = "<h2>Explore the encyclopedia</h2>" + "".join(parts)
+    else:
+        collblock = f"<h2>Encyclopedia catalogs</h2><div class=\"secgrid compact\">{collcards}</div>"
     nentries = sum(n for _, n in colls)
     feat = [p for p in allpages if p["slug"] in CFG.get("featured", [])]
     featcards = "".join(f'<a class="card" href="{p["url"]}">{('<img src="/' + p["image"] + '" alt="" loading="lazy">') if p["image"] else ""}<div class="cb"><span class="tag">{next(s["title"] for s in sections if s["id"]==p["sec"])}</span><h3>{p["title"]}</h3><p>{p["summary"]}</p></div></a>' for p in feat)
     totalwords = sum(p["words"] for p in allpages)
+    hints = ('<div class="hints">Try: ' + " ".join(f'<a href="/wiki/search.html?q={html.escape(h.replace(" ", "+"))}">{html.escape(h)}</a>' for h in CFG.get("search_hints", [])) + '</div>') if CFG.get("search_hints") else ""
     content = f'''<section class="hero"><div class="wrap"><div class="kicker">{CFG["kicker"]}</div><h1>{CFG["logo"]} {CFG["name"]}</h1><p class="lede">{CFG["tagline"]}</p>
-<form class="herosearch" action="/wiki/search.html"><input name="q" placeholder="Search {len(allpages)} articles and {nentries} catalog entries…"></form>
+<form class="herosearch" action="/wiki/search.html"><input name="q" placeholder="🔎 Search {len(allpages)} articles and {nentries} catalog entries…" aria-label="Search"></form>{hints}
 <div class="stats">{stats}</div></div></section>
-<main class="wrap home"><h2>Encyclopedia catalogs</h2><div class="secgrid">{collcards}</div><h2>In-depth articles by section</h2><div class="secgrid">{seccards}</div>
+<main class="wrap home">{collblock}<h2>In-depth articles by section</h2><div class="secgrid compact">{seccards}</div>
 <h2>Featured deep dives</h2><div class="cards">{featcards}</div>
 <div class="prose wide homebody">{home_html}</div>
 <p class="muted small">{len(allpages)} articles · {nentries} catalog entries · ~{totalwords//1000}k words · {len(biblio)} distinct sources · reviewed {built}</p></main>'''

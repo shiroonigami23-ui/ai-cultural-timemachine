@@ -1946,28 +1946,32 @@
    "icon": "📜",
    "name": "Herculaneum scrolls",
    "status": "PHerc. 1667 read in full without opening (25 Jun 2026)",
-   "next": "~600 unopened scrolls remain"
+   "next": "~600 unopened scrolls remain",
+   "query": "Herculaneum papyri"
   },
   {
    "id": "keeladi",
    "icon": "🏺",
    "name": "Keeladi (Tamil Nadu)",
    "status": "11th phase since 18 Mar 2026: brick structures, drains, 1,300+ artefacts, iron furnace",
-   "next": "Ancient-DNA papers expected by Dec 2026"
+   "next": "Ancient-DNA papers expected by Dec 2026",
+   "query": "Keeladi excavation"
   },
   {
    "id": "indus",
    "icon": "🔣",
    "name": "Indus script",
    "status": "Still undeciphered (~4,000+ inscriptions)",
-   "next": "Computational decipherment efforts"
+   "next": "Computational decipherment efforts",
+   "query": "Indus script"
   },
   {
    "id": "adna",
    "icon": "🧬",
    "name": "Ancient DNA",
    "status": "Rakhigarhi, Keeladi and Adichanallur genomes",
-   "next": "More South Asian genomes"
+   "next": "More South Asian genomes",
+   "query": "ancient DNA human population history"
   }
  ],
  "tracker_page": "data/tracker",
@@ -2009,5 +2013,64 @@
    "title": "Hidden history"
   }
  ],
- "prompt_style": "Photorealistic, historically accurate, documentary style, 16:9, no text"
+ "prompt_style": "Photorealistic, historically accurate, documentary style, 16:9, no text",
+ "home_groups": [
+  {
+   "icon": "🧬",
+   "title": "Origins",
+   "ids": [
+    "hominins",
+    "eras",
+    "ancient_species"
+   ]
+  },
+  {
+   "icon": "👑",
+   "title": "Power & conflict",
+   "ids": [
+    "civilizations",
+    "dynasties",
+    "events",
+    "people"
+   ]
+  },
+  {
+   "icon": "🎭",
+   "title": "Culture & belief",
+   "ids": [
+    "peoples",
+    "festivals",
+    "beliefs",
+    "languages",
+    "manuscripts",
+    "sites"
+   ]
+  },
+  {
+   "icon": "⚙",
+   "title": "Knowledge & engineering",
+   "ids": [
+    "inventions",
+    "engineering"
+   ]
+  },
+  {
+   "icon": "🔬",
+   "title": "Evidence",
+   "ids": [
+    "papers",
+    "hidden_history"
+   ]
+  }
+ ],
+ "search_hints": [
+  "Mughal Empire",
+  "Colosseum",
+  "Ashoka",
+  "Cu Chi tunnels",
+  "Indus script",
+  "Black Death",
+  "Taj Mahal",
+  "Atomic bomb"
+ ]
 }
