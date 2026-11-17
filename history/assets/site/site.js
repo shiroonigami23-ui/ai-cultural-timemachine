@@ -1,3 +1,7 @@
+// shared helpers for Wikipedia-sourced HTML
+window.wkUnwrap=function(a){if(a.querySelector('img')){var f=document.createDocumentFragment();while(a.firstChild)f.appendChild(a.firstChild);a.replaceWith(f)}else a.replaceWith(document.createTextNode(a.textContent))};
+window.wkImgs=function(root){root.querySelectorAll('img').forEach(function(i){['src','srcset','data-src'].forEach(function(k){var v=i.getAttribute(k);if(v)i.setAttribute(k,v.replace(/(^|\s|,)\/\//g,'$1https://'))});if(!i.getAttribute('src')&&i.getAttribute('data-src'))i.setAttribute('src',i.getAttribute('data-src'));i.loading='lazy';i.decoding='async';i.referrerPolicy='no-referrer';i.removeAttribute('width');i.removeAttribute('height');var w=+(i.getAttribute('data-file-width')||0);if(w&&w<40)i.classList.add('icon')});
+ root.querySelectorAll('.lazy-image-placeholder').forEach(function(p){var src=p.getAttribute('data-src');if(!src)return;var im=document.createElement('img');im.src=src.replace(/^\/\//,'https://');if(p.getAttribute('data-srcset'))im.srcset=p.getAttribute('data-srcset').replace(/(^|\s|,)\/\//g,'$1https://');im.alt=p.getAttribute('data-alt')||'';im.loading='lazy';p.replaceWith(im)})};
 // TOC scroll-spy
 (function(){const links=[...document.querySelectorAll('.toc a')];if(!links.length)return;
 const map=new Map(links.map(a=>[decodeURIComponent(a.hash.slice(1)),a]));
@@ -192,9 +196,6 @@ document.addEventListener('DOMContentLoaded',function(){
  function icon(t){for(var i=0;i<ICON.length;i++)if(ICON[i][0].test(t))return ICON[i][1];return '📄'}
  var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').split('?')[0].replace('assets/site/site.css','');
 
-function wkUnwrap(a){if(a.querySelector('img')){var f=document.createDocumentFragment();while(a.firstChild)f.appendChild(a.firstChild);a.replaceWith(f)}else a.replaceWith(document.createTextNode(a.textContent))}
-function wkImgs(root){root.querySelectorAll('img').forEach(function(i){['src','srcset','data-src'].forEach(function(k){var v=i.getAttribute(k);if(v)i.setAttribute(k,v.replace(/(^|\s|,)\/\//g,'$1https://'))});if(!i.getAttribute('src')&&i.getAttribute('data-src'))i.setAttribute('src',i.getAttribute('data-src'));i.loading='lazy';i.decoding='async';i.referrerPolicy='no-referrer';i.removeAttribute('width');i.removeAttribute('height');var w=+(i.getAttribute('data-file-width')||0);if(w&&w<40)i.classList.add('icon')});
- root.querySelectorAll('.lazy-image-placeholder').forEach(function(p){var src=p.getAttribute('data-src');if(!src)return;var im=document.createElement('img');im.src=src.replace(/^\/\//,'https://');if(p.getAttribute('data-srcset'))im.srcset=p.getAttribute('data-srcset').replace(/(^|\s|,)\/\//g,'$1https://');im.alt=p.getAttribute('data-alt')||'';im.loading='lazy';p.replaceWith(im)})}
  function clean(node,map){
   node.querySelectorAll('sup.reference,.mw-editsection,style,link,.hatnote,.navbox,.metadata,.reflist,.mw-empty-elt,table,.gallery,.noprint,.shortdescription,.ambox,.sidebar,.infobox').forEach(function(n){n.remove()});
   node.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
@@ -321,7 +322,7 @@ function wkImgs(root){root.querySelectorAll('img').forEach(function(i){['src','s
     '<article class="prose rdbody">'+root.innerHTML+'</article>'+
     '<div class="wsrc">Article “'+esc(title)+'” from <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(title.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Wikipedia</a> by its contributors, licensed CC BY-SA 4.0, loaded live. Dashed links open our own pages; other links stay inside this reader.</div>';
    if(location.hash){var el=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(el)el.scrollIntoView()}else scrollTo(0,0);
-  }).catch(function(){box.innerHTML='<h1>'+esc(t)+'</h1><p class="muted">Could not reach Wikipedia right now. <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(t.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Open the original</a>.</p>'});
+  }).catch(function(e){if(window.console)console.error('reader',e);box.innerHTML='<h1>'+esc(t)+'</h1><p class="muted">Could not load this article right now. <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(t.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Open the original</a>.</p>'});
  }
  document.addEventListener('DOMContentLoaded',function(){var box=document.getElementById('reader');if(!box)return;var ph=[].slice.call(document.querySelectorAll('h1')).filter(function(h){return !box.contains(h)})[0];if(ph)ph.style.display='none';
   var f=document.getElementById('rdform');if(f)f.onsubmit=function(e){e.preventDefault();var v=f.querySelector('input').value.trim();if(v)location.href=readURL(v)};
