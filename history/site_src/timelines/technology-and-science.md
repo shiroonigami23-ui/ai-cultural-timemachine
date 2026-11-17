@@ -1,9 +1,9 @@
 ---
 title: Timeline: Technology and science
-summary: Every catalogued invention and discovery, from 3.3-million-year-old stone tools to the internet, showing how knowledge accumulated and spread between regions. (92 entries)
+summary: Every catalogued invention and discovery, from 3.3-million-year-old stone tools to the internet, showing how knowledge accumulated and spread between regions. (97 entries)
 level: Timeline
 ---
-Every catalogued invention and discovery, from 3.3-million-year-old stone tools to the internet, showing how knowledge accumulated and spread between regions. (92 entries)
+Every catalogued invention and discovery, from 3.3-million-year-old stone tools to the internet, showing how knowledge accumulated and spread between regions. (97 entries)
 
 :::collapse Deep prehistory (before 10,000 BCE) (12)
 <div class="timeline">
@@ -54,8 +54,9 @@ Every catalogued invention and discovery, from 3.3-million-year-old stone tools 
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (8)
+:::collapse !Classical age (500 BCE–500 CE) (9)
 <div class="timeline">
+<div class="ev"><span class="yr">400 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/trebuchet.html">Trebuchet</a> <span class='muted'>· East Asia</span> — China; Middle East</div>
 <div class="ev"><span class="yr">312 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/aqueducts.html">Aqueducts</a> <span class='muted'>· Europe</span> — Rome</div>
 <div class="ev"><span class="yr">300 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/wootz-steel.html">Wootz steel</a> <span class='muted'>· South Asia</span> — South India</div>
 <div class="ev"><span class="yr">300 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/steel-crucible.html">Steel (crucible)</a> <span class='muted'>· South Asia</span> — South India</div>
@@ -77,13 +78,14 @@ Every catalogued invention and discovery, from 3.3-million-year-old stone tools 
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (9)
+:::collapse !Late medieval (1000–1500) (10)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: ⚙ Invention: <a href="/wiki/inventions/spinning-wheel.html">Spinning wheel</a> <span class='muted'>· South Asia</span> — India or China</div>
 <div class="ev"><span class="yr">1040</span>: ⚙ Invention: <a href="/wiki/inventions/compass.html">Compass</a> <span class='muted'>· East Asia</span> — China</div>
 <div class="ev"><span class="yr">1040</span>: ⚙ Invention: <a href="/wiki/inventions/movable-type.html">Movable type</a> <span class='muted'>· East Asia</span> — China</div>
 <div class="ev"><span class="yr">1132</span>: ⚙ Invention: <a href="/wiki/inventions/cannon.html">Cannon</a> <span class='muted'>· East Asia</span> — China</div>
 <div class="ev"><span class="yr">1200</span>: ⚙ Invention: <a href="/wiki/inventions/snakes-and-ladders-moksha-patam.html">Snakes and ladders (moksha patam)</a> <span class='muted'>· South Asia</span> — India</div>
+<div class="ev"><span class="yr">1250</span>: ⚙ Invention: <a href="/wiki/inventions/longbow.html">Longbow</a> <span class='muted'>· Europe</span> — England and Wales</div>
 <div class="ev"><span class="yr">1270</span>: ⚙ Invention: <a href="/wiki/inventions/mechanical-clock.html">Mechanical clock</a> <span class='muted'>· Europe</span> — Europe</div>
 <div class="ev"><span class="yr">1286</span>: ⚙ Invention: <a href="/wiki/inventions/spectacles.html">Spectacles</a> <span class='muted'>· Europe</span> — Italy</div>
 <div class="ev"><span class="yr">1440</span>: ⚙ Invention: <a href="/wiki/inventions/printing-press.html">Printing press</a> <span class='muted'>· Europe</span> — Germany</div>
@@ -102,7 +104,7 @@ Every catalogued invention and discovery, from 3.3-million-year-old stone tools 
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (21)
+:::collapse Industrial and imperial age (1800–1945) (24)
 <div class="timeline">
 <div class="ev"><span class="yr">1800</span>: ⚙ Invention: <a href="/wiki/inventions/electric-battery.html">Electric battery</a> <span class='muted'>· Europe</span> — Italy</div>
 <div class="ev"><span class="yr">1825</span>: ⚙ Invention: <a href="/wiki/inventions/railway.html">Railway</a> <span class='muted'>· Europe</span> — England</div>
@@ -113,6 +115,7 @@ Every catalogued invention and discovery, from 3.3-million-year-old stone tools 
 <div class="ev"><span class="yr">1869</span>: ⚙ Invention: <a href="/wiki/inventions/periodic-table.html">Periodic table</a> <span class='muted'>· Europe</span> — Russia</div>
 <div class="ev"><span class="yr">1876</span>: ⚙ Invention: <a href="/wiki/inventions/telephone.html">Telephone</a> <span class='muted'>· Americas</span> — USA</div>
 <div class="ev"><span class="yr">1879</span>: ⚙ Invention: <a href="/wiki/inventions/light-bulb.html">Light bulb</a> <span class='muted'>· Europe</span> — USA / Britain</div>
+<div class="ev"><span class="yr">1884</span>: ⚙ Invention: <a href="/wiki/inventions/machine-gun.html">Machine gun</a> <span class='muted'>· Europe</span> — Britain/USA</div>
 <div class="ev"><span class="yr">1886</span>: ⚙ Invention: <a href="/wiki/inventions/automobile.html">Automobile</a> <span class='muted'>· Europe</span> — Germany</div>
 <div class="ev"><span class="yr">1888</span>: ⚙ Invention: <a href="/wiki/inventions/alternating-current-power-grid.html">Alternating current power grid</a> <span class='muted'>· Americas</span> — USA</div>
 <div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/radio.html">Radio</a> <span class='muted'>· South Asia</span> — Italy / India</div>
@@ -120,6 +123,8 @@ Every catalogued invention and discovery, from 3.3-million-year-old stone tools 
 <div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/cinema.html">Cinema</a> <span class='muted'>· Europe</span> — Paris, France</div>
 <div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/x-rays.html">X-rays</a> <span class='muted'>· Europe</span> — Würzburg, Germany</div>
 <div class="ev"><span class="yr">1903</span>: ⚙ Invention: <a href="/wiki/inventions/aeroplane.html">Aeroplane</a> <span class='muted'>· Americas</span> — USA</div>
+<div class="ev"><span class="yr">1915</span>: ⚙ Invention: <a href="/wiki/inventions/poison-gas.html">Poison gas</a> <span class='muted'>· Europe</span> — Germany</div>
+<div class="ev"><span class="yr">1916</span>: ⚙ Invention: <a href="/wiki/inventions/tank.html">Tank</a> <span class='muted'>· Europe</span> — Britain</div>
 <div class="ev"><span class="yr">1926</span>: ⚙ Invention: <a href="/wiki/inventions/space-rocket.html">Space rocket</a> <span class='muted'>· Europe</span> — USA, Germany, USSR</div>
 <div class="ev"><span class="yr">1927</span>: ⚙ Invention: <a href="/wiki/inventions/television.html">Television</a> <span class='muted'>· Europe</span> — Britain and USA</div>
 <div class="ev"><span class="yr">1928</span>: ⚙ Invention: <a href="/wiki/inventions/antibiotics.html">Antibiotics</a> <span class='muted'>· Europe</span> — Britain</div>

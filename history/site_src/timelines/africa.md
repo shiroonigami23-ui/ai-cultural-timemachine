@@ -1,9 +1,9 @@
 ---
 title: Timeline: Africa
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (100 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (102 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (100 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Africa, from the earliest evidence to today (102 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (35)
 <div class="timeline">
@@ -79,17 +79,19 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (2)
+:::collapse !Iron Age (1200–500 BCE) (3)
 <div class="timeline">
 <div class="ev"><span class="yr">1070 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/kingdom-of-kush.html">Kingdom of Kush</a> — c. 1070 BCE–350 CE</div>
 <div class="ev"><span class="yr">814 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/carthage.html">Carthage</a> — 814–146 BCE</div>
+<div class="ev"><span class="yr">520 BCE</span>: 👤 Born: <a href="/wiki/people/ephialtes-of-trachis.html">Ephialtes of Trachis</a> — Betraying the Greeks at Thermopylae</div>
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (5)
+:::collapse !Classical age (500 BCE–500 CE) (6)
 <div class="timeline">
 <div class="ev"><span class="yr">430 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/phoenix.html">Phoenix</a> — Egypt and Greece; similar fenghuang in China</div>
 <div class="ev"><span class="yr">305 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/ptolemaic-dynasty.html">Ptolemaic dynasty</a> — Ptolemy I, Alexander&#x27;s general, took Egypt in 305 BCE; Alexandria&#x27;s Library and Lighthouse were built.</div>
+<div class="ev"><span class="yr">200 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/iliad-and-odyssey-papyri.html">Iliad and Odyssey papyri</a> — Papyrus fragments from 3rd century BCE</div>
 <div class="ev"><span class="yr">69 BCE</span>: 👤 Born: <a href="/wiki/people/cleopatra.html">Cleopatra</a> — Last pharaoh</div>
 <div class="ev"><span class="yr">100 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/aksum.html">Aksum</a> — c. 100–940 CE</div>
 <div class="ev"><span class="yr">300 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ghana-empire.html">Ghana Empire</a> — c. 300–1200 CE</div>

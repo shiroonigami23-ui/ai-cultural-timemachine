@@ -1,9 +1,9 @@
 ---
 title: Timeline: Global
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (130 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (138 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (130 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (138 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (7)
 <div class="timeline">
@@ -51,7 +51,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (13)
+:::collapse !Classical age (500 BCE–500 CE) (14)
 <div class="timeline">
 <div class="ev"><span class="yr">495 BCE</span>: 👤 Born: <a href="/wiki/people/pericles.html">Pericles</a> — Led Athens in its golden age</div>
 <div class="ev"><span class="yr">470 BCE</span>: 👤 Born: <a href="/wiki/people/socrates.html">Socrates</a> — Socratic method</div>
@@ -62,6 +62,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">287 BCE</span>: 👤 Born: <a href="/wiki/people/archimedes.html">Archimedes</a> — Buoyancy, levers</div>
 <div class="ev"><span class="yr">247 BCE</span>: 👤 Born: <a href="/wiki/people/hannibal.html">Hannibal</a> — Crossed the Alps with elephants</div>
 <div class="ev"><span class="yr">100 BCE</span>: 👤 Born: <a href="/wiki/people/thiruvalluvar.html">Thiruvalluvar</a> — Thirukkural</div>
+<div class="ev"><span class="yr">18 BCE</span>: 👤 Born: <a href="/wiki/people/arminius.html">Arminius</a> — Destroying three Roman legions at the Teutoburg Forest</div>
 <div class="ev"><span class="yr">4 BCE</span>: 👤 Born: <a href="/wiki/people/jesus-of-nazareth.html">Jesus of Nazareth</a> — Central figure of Christianity</div>
 <div class="ev"><span class="yr">78 CE</span>: 👤 Born: <a href="/wiki/people/kanishka.html">Kanishka</a> — Patron of Buddhism</div>
 <div class="ev"><span class="yr">165 CE</span>: 📅 Pandemic (likely smallpox): <a href="/wiki/events/antonine-plague.html">Antonine Plague</a> — Millions dead</div>
@@ -69,8 +70,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (4)
+:::collapse !Early medieval (500–1000) (5)
 <div class="timeline">
+<div class="ev"><span class="yr">500 CE</span>: 🏗 Built: <a href="/wiki/engineering/trebuchet-and-siege-engines.html">Trebuchet and siege engines</a> — China, Middle East, Europe</div>
 <div class="ev"><span class="yr">536 CE</span>: 📅 Climate shock: <a href="/wiki/events/volcanic-winter-of-536.html">Volcanic winter of 536</a> — &#x27;The worst year to be alive&#x27;; crop failures</div>
 <div class="ev"><span class="yr">541 CE</span>: 📅 Pandemic (Yersinia pestis): <a href="/wiki/events/plague-of-justinian.html">Plague of Justinian</a> — Tens of millions dead over two centuries</div>
 <div class="ev"><span class="yr">610 CE</span>: 👤 Born: <a href="/wiki/people/pulakeshin-ii.html">Pulakeshin II</a> — Defeated Harsha</div>
@@ -103,9 +105,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (19)
+:::collapse Early modern (1500–1800) (24)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/tansen.html">Tansen</a> — Hindustani classical music</div>
+<div class="ev"><span class="yr">1524</span>: 👤 Born: <a href="/wiki/people/rani-durgavati.html">Rani Durgavati</a> — Fighting Akbar&#x27;s army</div>
 <div class="ev"><span class="yr">1525</span>: 👤 Born: <a href="/wiki/people/rani-abbakka-chowta.html">Rani Abbakka Chowta</a> — Fought the Portuguese</div>
 <div class="ev"><span class="yr">1532</span>: 👤 Born: <a href="/wiki/people/tulsidas.html">Tulsidas</a> — Ramcharitmanas, Hanuman Chalisa</div>
 <div class="ev"><span class="yr">1540</span>: 👤 Born: <a href="/wiki/people/rana-pratap.html">Rana Pratap</a> — Resisted Akbar</div>
@@ -113,21 +116,25 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1556</span>: ⚙ Invention: <a href="/wiki/inventions/printing-in-india.html">Printing in India</a> — Goa</div>
 <div class="ev"><span class="yr">1622</span>: 👤 Born: <a href="/wiki/people/lachit-borphukan.html">Lachit Borphukan</a> — Battle of Saraighat</div>
 <div class="ev"><span class="yr">1630</span>: 👤 Born: <a href="/wiki/people/chhatrapati-shivaji.html">Chhatrapati Shivaji</a> — Founded the Maratha state; navy; hill forts</div>
+<div class="ev"><span class="yr">1700</span>: 👤 Born: <a href="/wiki/people/bajirao-i.html">Bajirao I</a> — Never lost a battle</div>
 <div class="ev"><span class="yr">1724</span>: 👤 Born: <a href="/wiki/people/immanuel-kant.html">Immanuel Kant</a> — Critique of Pure Reason</div>
 <div class="ev"><span class="yr">1725</span>: 👤 Born: <a href="/wiki/people/ahilyabai-holkar.html">Ahilyabai Holkar</a> — Builder of temples</div>
 <div class="ev"><span class="yr">1730</span>: 👤 Born: <a href="/wiki/people/velu-nachiyar.html">Velu Nachiyar</a> — Fought the British</div>
 <div class="ev"><span class="yr">1732</span>: 👤 Born: <a href="/wiki/people/george-washington.html">George Washington</a> — Led the American Revolution</div>
 <div class="ev"><span class="yr">1736</span>: 👤 Born: <a href="/wiki/people/james-watt.html">James Watt</a> — Improved steam engine</div>
 <div class="ev"><span class="yr">1743</span>: 👤 Born: <a href="/wiki/people/toussaint-louverture.html">Toussaint Louverture</a> — Led the Haitian Revolution</div>
+<div class="ev"><span class="yr">1750</span>: 👤 Born: <a href="/wiki/people/mir-sadiq.html">Mir Sadiq</a> — Accused of betraying Tipu Sultan</div>
 <div class="ev"><span class="yr">1751</span>: 👤 Born: <a href="/wiki/people/tipu-sultan.html">Tipu Sultan</a> — Resisted the British; rockets</div>
 <div class="ev"><span class="yr">1756</span>: 📅 World war: <a href="/wiki/events/seven-years-war.html">Seven Years&#x27; War</a> — Britain dominates India and North America</div>
 <div class="ev"><span class="yr">1756</span>: 👤 Born: <a href="/wiki/people/wolfgang-amadeus-mozart.html">Wolfgang Amadeus Mozart</a> — The Magic Flute, Requiem</div>
+<div class="ev"><span class="yr">1778</span>: 👤 Born: <a href="/wiki/people/rani-chennamma-of-kittur.html">Rani Chennamma of Kittur</a> — Early armed resistance to the East India Company</div>
 <div class="ev"><span class="yr">1780</span>: 👤 Born: <a href="/wiki/people/maharaja-ranjit-singh.html">Maharaja Ranjit Singh</a> — Sikh Empire</div>
+<div class="ev"><span class="yr">1791</span>: 👤 Born: <a href="/wiki/people/hari-singh-nalwa.html">Hari Singh Nalwa</a> — Conquering Peshawar and holding the Khyber</div>
 <div class="ev"><span class="yr">1797</span>: 👤 Born: <a href="/wiki/people/mirza-ghalib.html">Mirza Ghalib</a> — Urdu and Persian ghazals</div>
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (32)
+:::collapse Industrial and imperial age (1800–1945) (33)
 <div class="timeline">
 <div class="ev"><span class="yr">1809</span>: 👤 Born: <a href="/wiki/people/abraham-lincoln.html">Abraham Lincoln</a> — Ended slavery, preserved the Union</div>
 <div class="ev"><span class="yr">1817</span>: 📅 Pandemic: <a href="/wiki/events/cholera-pandemics.html">Cholera pandemics</a> — Millions dead</div>
@@ -146,6 +153,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1878</span>: 👤 Born: <a href="/wiki/people/joseph-stalin.html">Joseph Stalin</a> — Industrialisation, purges, WWII victory</div>
 <div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/alexander-fleming.html">Alexander Fleming</a> — Discovery of penicillin</div>
 <div class="ev"><span class="yr">1882</span>: 👤 Born: <a href="/wiki/people/subramania-bharati.html">Subramania Bharati</a> — Modern Tamil poetry, women&#x27;s rights</div>
+<div class="ev"><span class="yr">1887</span>: 👤 Born: <a href="/wiki/people/vidkun-quisling.html">Vidkun Quisling</a> — Collaborating with Nazi Germany</div>
 <div class="ev"><span class="yr">1894</span>: 📅 Pandemic: <a href="/wiki/events/third-plague-pandemic.html">Third plague pandemic</a> — ~12 million dead in India</div>
 <div class="ev"><span class="yr">1901</span>: 📅 Invention: <a href="/wiki/events/marconi-s-transatlantic-radio-signal.html">Marconi&#x27;s transatlantic radio signal</a> — Wireless communication across oceans</div>
 <div class="ev"><span class="yr">1912</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/titanic-insurance-switch.html">Titanic insurance switch</a> — Debunked</div>

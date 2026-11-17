@@ -1,9 +1,9 @@
 ---
 title: Timeline: Southeast Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (28 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (29 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (28 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Southeast Asia, from the earliest evidence to today (29 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -59,11 +59,12 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (4)
+:::collapse Contemporary (1945–today) (5)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Independence: <a href="/wiki/events/indonesian-independence.html">Indonesian independence</a> — End of Dutch rule</div>
 <div class="ev"><span class="yr">1964</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/gulf-of-tonkin-incident.html">Gulf of Tonkin incident</a> — Partly true</div>
 <div class="ev"><span class="yr">1965</span>: 🏗 Built: <a href="/wiki/engineering/cu-chi-tunnels.html">Cu Chi tunnels</a> — Near Ho Chi Minh City, Vietnam</div>
 <div class="ev"><span class="yr">1965</span>: 🏗 Built: <a href="/wiki/engineering/viet-cong-booby-traps.html">Viet Cong booby traps</a> — South Vietnam</div>
+<div class="ev"><span class="yr">1968</span>: ⚔ Battle: <a href="/wiki/battles/my-lai-massacre.html">My Lai Massacre</a> — Vietnam War</div>
 </div>
 :::

@@ -5,6 +5,16 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 
 
 
+## [Unreleased] - 2026-11-17 (battles)
+### Added
+- Battles, Sieges & Betrayals catalog (30 entries, Thermopylae to Srebrenica): sides, commanders, forces, casualties, how it was fought, traitors and backstabbing, atrocities and war crimes, and how it reshaped history. Linked both ways with people, empires, dynasties, events, forts, sites and weapons.
+- 'Castles, forts & siege warfare' in How It Was Built: how castle defences worked (thick walls, moats, drawbridges, portcullises, murder holes, machicolations, sally ports and escape gates), Krak des Chevaliers, Theodosian Walls, Chittorgarh, Kumbhalgarh, Gwalior, Daulatabad, Murud-Janjira, Himeji, star forts and siege engines.
+- 14 commanders, traitors and resisters (Ephialtes, Arminius, Brutus, Mir Jafar, Mir Sadiq, Benedict Arnold, Quisling, Khalid ibn al-Walid, Subutai, Bajirao I, Hari Singh Nalwa, Rani Durgavati, Kittur Chennamma, Tatya Tope).
+- 12 forts, castles and memorials; 10 manuscripts (Mahabharata, Ramayana, Bayeux Tapestry, Art of War slips, Padmavat, Rajatarangini…); 5 war inventions (trebuchet, stirrup, longbow, machine gun, poison gas, tank); 3 eras (Age of castles, Gunpowder empires, Age of Revolutions); 3 events (Yarmouk, Palkhed, Jamrud).
+- Battles, betrayals and atrocities theme timeline; two new research-tracker streams (battlefield archaeology, castle research).
+### Changed
+- Catalogue subtitles no longer carry hard-coded counts.
+
 ## [Unreleased] - 2026-11-17 (myths)
 ### Added
 - Legendary & Mythical Creatures catalog (43 creatures from Greek, Near Eastern, European, South Asian, East Asian and American traditions) with first-recorded dates, habitat, diet, powers, stories, beliefs and a 'could it exist?' verdict.

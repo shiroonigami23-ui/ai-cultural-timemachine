@@ -1,9 +1,9 @@
 ---
 title: Timeline: Americas
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (94 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (97 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (94 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (97 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -64,17 +64,19 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (13)
+:::collapse Early modern (1500–1800) (15)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 🐉 Myth: <a href="/wiki/creatures/thunderbird.html">Thunderbird</a> — North America</div>
 <div class="ev"><span class="yr">1502</span>: 👤 Born: <a href="/wiki/people/atahualpa.html">Atahualpa</a> — Captured by Pizarro</div>
 <div class="ev"><span class="yr">1521</span>: 📅 Conquest: <a href="/wiki/events/fall-of-tenochtitlan.html">Fall of Tenochtitlan</a> — End of the Aztec Empire</div>
 <div class="ev"><span class="yr">1532</span>: 📅 Conquest: <a href="/wiki/events/spanish-conquest-of-the-inca.html">Spanish conquest of the Inca</a> — End of the Inca Empire</div>
+<div class="ev"><span class="yr">1532</span>: ⚔ Battle: <a href="/wiki/battles/ambush-at-cajamarca.html">Ambush at Cajamarca</a> — Spanish conquest of the Inca</div>
 <div class="ev"><span class="yr">1541</span>: 📜 Manuscript: <a href="/wiki/manuscripts/codex-mendoza.html">Codex Mendoza</a> — c. 1541</div>
 <div class="ev"><span class="yr">1550</span>: 📜 Manuscript: <a href="/wiki/manuscripts/popol-vuh.html">Popol Vuh</a> — c. 1550s; Ximénez copy c. 1701</div>
 <div class="ev"><span class="yr">1577</span>: 📜 Manuscript: <a href="/wiki/manuscripts/florentine-codex.html">Florentine Codex</a> — 1545–1577</div>
 <div class="ev"><span class="yr">1600</span>: 🐉 Myth: <a href="/wiki/creatures/wendigo.html">Wendigo</a> — Northern North America</div>
 <div class="ev"><span class="yr">1607</span>: 📅 Colonialism: <a href="/wiki/events/jamestown-founded.html">Jamestown founded</a> — English America</div>
+<div class="ev"><span class="yr">1741</span>: 👤 Born: <a href="/wiki/people/benedict-arnold.html">Benedict Arnold</a> — Plotting to surrender West Point to the British</div>
 <div class="ev"><span class="yr">1763</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/smallpox-blankets.html">Smallpox blankets</a> — Partly true</div>
 <div class="ev"><span class="yr">1775</span>: 📅 Revolution: <a href="/wiki/events/american-revolution.html">American Revolution</a> — Independence of the USA</div>
 <div class="ev"><span class="yr">1776</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/united-states.html">United States</a> — 1776–today</div>
@@ -82,7 +84,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (28)
+:::collapse Industrial and imperial age (1800–1945) (29)
 <div class="timeline">
 <div class="ev"><span class="yr">1810</span>: 📅 Independence: <a href="/wiki/events/latin-american-independence.html">Latin American independence</a> — New republics</div>
 <div class="ev"><span class="yr">1846</span>: ⚙ Invention: <a href="/wiki/inventions/anaesthesia.html">Anaesthesia</a> — USA</div>
@@ -98,6 +100,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1883</span>: 🏗 Built: <a href="/wiki/engineering/brooklyn-bridge.html">Brooklyn Bridge</a> — New York, USA</div>
 <div class="ev"><span class="yr">1884</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/edison-stole-tesla-s-inventions.html">Edison stole Tesla&#x27;s inventions</a> — Mostly myth</div>
 <div class="ev"><span class="yr">1888</span>: ⚙ Invention: <a href="/wiki/inventions/alternating-current-power-grid.html">Alternating current power grid</a> — USA</div>
+<div class="ev"><span class="yr">1890</span>: ⚔ Battle: <a href="/wiki/battles/wounded-knee-massacre.html">Wounded Knee Massacre</a> — American Indian Wars</div>
 <div class="ev"><span class="yr">1895</span>: 📅 Invention: <a href="/wiki/events/niagara-falls-power-plant.html">Niagara Falls power plant</a> — Victory of alternating current</div>
 <div class="ev"><span class="yr">1903</span>: 📅 Technology: <a href="/wiki/events/wright-brothers-flight.html">Wright brothers&#x27; flight</a> — Powered flight</div>
 <div class="ev"><span class="yr">1903</span>: ⚙ Invention: <a href="/wiki/inventions/aeroplane.html">Aeroplane</a> — USA</div>

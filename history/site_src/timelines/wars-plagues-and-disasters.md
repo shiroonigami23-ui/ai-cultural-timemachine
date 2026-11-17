@@ -1,9 +1,9 @@
 ---
 title: Timeline: Wars, plagues and disasters
-summary: The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (135 entries)
+summary: The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (138 entries)
 level: Timeline
 ---
-The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (135 entries)
+The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (138 entries)
 
 :::collapse Deep prehistory (before 10,000 BCE) (1)
 <div class="timeline">
@@ -57,12 +57,13 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (10)
+:::collapse !Early medieval (500–1000) (11)
 <div class="timeline">
 <div class="ev"><span class="yr">536 CE</span>: 📅 Climate shock: <a href="/wiki/events/volcanic-winter-of-536.html">Volcanic winter of 536</a> <span class='muted'>· Global</span> — &#x27;The worst year to be alive&#x27;; crop failures</div>
 <div class="ev"><span class="yr">541 CE</span>: 📅 Pandemic (Yersinia pestis): <a href="/wiki/events/plague-of-justinian.html">Plague of Justinian</a> <span class='muted'>· Global</span> — Tens of millions dead over two centuries</div>
 <div class="ev"><span class="yr">624 CE</span>: 📅 War: <a href="/wiki/events/battle-of-badr.html">Battle of Badr</a> <span class='muted'>· Middle East</span> — Early Muslim victory</div>
 <div class="ev"><span class="yr">636 CE</span>: 📅 War: <a href="/wiki/events/battle-of-qadisiyyah.html">Battle of Qadisiyyah</a> <span class='muted'>· Middle East</span> — Fall of Sasanian Persia</div>
+<div class="ev"><span class="yr">636 CE</span>: 📅 Battle: <a href="/wiki/events/battle-of-yarmouk.html">Battle of Yarmouk</a> <span class='muted'>· Middle East</span> — Opened the Levant to the Arabs</div>
 <div class="ev"><span class="yr">670 CE</span>: 📅 War: <a href="/wiki/events/tang-tibet-wars.html">Tang–Tibet wars</a> <span class='muted'>· East Asia</span> — Rise of the Tibetan Empire</div>
 <div class="ev"><span class="yr">711 CE</span>: 📅 Invasion: <a href="/wiki/events/umayyad-conquest-of-hispania.html">Umayyad conquest of Hispania</a> <span class='muted'>· Europe</span> — Seven centuries of Muslim rule in Spain</div>
 <div class="ev"><span class="yr">712 CE</span>: 📅 Conquest: <a href="/wiki/events/arab-conquest-of-sindh.html">Arab conquest of Sindh</a> <span class='muted'>· South Asia</span> — Islam arrives in South Asia by land</div>
@@ -97,7 +98,7 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (23)
+:::collapse Early modern (1500–1800) (24)
 <div class="timeline">
 <div class="ev"><span class="yr">1520</span>: 📅 Epidemics: <a href="/wiki/events/smallpox-in-the-americas.html">Smallpox in the Americas</a> <span class='muted'>· Europe</span> — Up to ~90% of Indigenous people died</div>
 <div class="ev"><span class="yr">1521</span>: 📅 Conquest: <a href="/wiki/events/fall-of-tenochtitlan.html">Fall of Tenochtitlan</a> <span class='muted'>· Americas</span> — End of the Aztec Empire</div>
@@ -113,6 +114,7 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 <div class="ev"><span class="yr">1618</span>: 📅 War: <a href="/wiki/events/thirty-years-war.html">Thirty Years&#x27; War</a> <span class='muted'>· Europe</span> — ~8 million dead; Peace of Westphalia</div>
 <div class="ev"><span class="yr">1642</span>: 📅 War: <a href="/wiki/events/english-civil-war.html">English Civil War</a> <span class='muted'>· Europe</span> — King executed</div>
 <div class="ev"><span class="yr">1644</span>: 📅 Conquest: <a href="/wiki/events/manchu-conquest-of-china.html">Manchu conquest of China</a> <span class='muted'>· East Asia</span> — Qing dynasty</div>
+<div class="ev"><span class="yr">1728</span>: 📅 Battle: <a href="/wiki/events/battle-of-palkhed.html">Battle of Palkhed</a> <span class='muted'>· South Asia</span> — Maratha mastery of the Deccan</div>
 <div class="ev"><span class="yr">1739</span>: 📅 War: <a href="/wiki/events/nadir-shah-sacks-delhi.html">Nadir Shah sacks Delhi</a> <span class='muted'>· South Asia</span> — Peacock Throne and Koh-i-Noor taken</div>
 <div class="ev"><span class="yr">1756</span>: 📅 World war: <a href="/wiki/events/seven-years-war.html">Seven Years&#x27; War</a> <span class='muted'>· Global</span> — Britain dominates India and North America</div>
 <div class="ev"><span class="yr">1756</span>: 📅 War: <a href="/wiki/events/black-hole-of-calcutta.html">Black Hole of Calcutta</a> <span class='muted'>· South Asia</span> — Pretext for Plassey</div>
@@ -125,13 +127,14 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (32)
+:::collapse Industrial and imperial age (1800–1945) (33)
 <div class="timeline">
 <div class="ev"><span class="yr">1803</span>: 📅 War: <a href="/wiki/events/napoleonic-wars.html">Napoleonic Wars</a> <span class='muted'>· Europe</span> — Redrew Europe; ended at Waterloo</div>
 <div class="ev"><span class="yr">1812</span>: 📅 Invasion: <a href="/wiki/events/napoleon-s-invasion-of-russia.html">Napoleon&#x27;s invasion of Russia</a> <span class='muted'>· Europe</span> — Destroyed Napoleon&#x27;s Grande Armée</div>
 <div class="ev"><span class="yr">1815</span>: 📅 Volcanic eruption: <a href="/wiki/events/tambora-eruption.html">Tambora eruption</a> <span class='muted'>· South Asia</span> — &#x27;Year Without a Summer&#x27; (1816)</div>
 <div class="ev"><span class="yr">1815</span>: 📅 War: <a href="/wiki/events/battle-of-waterloo.html">Battle of Waterloo</a> <span class='muted'>· Europe</span> — End of Napoleon</div>
 <div class="ev"><span class="yr">1817</span>: 📅 Pandemic: <a href="/wiki/events/cholera-pandemics.html">Cholera pandemics</a> <span class='muted'>· Global</span> — Millions dead</div>
+<div class="ev"><span class="yr">1837</span>: 📅 Battle: <a href="/wiki/events/battle-of-jamrud.html">Battle of Jamrud</a> <span class='muted'>· South Asia</span> — Sikh hold on the Khyber</div>
 <div class="ev"><span class="yr">1839</span>: 📅 War: <a href="/wiki/events/opium-wars.html">Opium Wars</a> <span class='muted'>· South Asia</span> — Hong Kong ceded; &#x27;century of humiliation&#x27;</div>
 <div class="ev"><span class="yr">1845</span>: 📅 Famine: <a href="/wiki/events/irish-great-famine.html">Irish Great Famine</a> <span class='muted'>· Europe</span> — ~1 million dead, 1 million emigrated</div>
 <div class="ev"><span class="yr">1850</span>: 📅 Civil war: <a href="/wiki/events/taiping-rebellion.html">Taiping Rebellion</a> <span class='muted'>· East Asia</span> — 20–30 million dead</div>

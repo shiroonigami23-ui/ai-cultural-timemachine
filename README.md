@@ -35,22 +35,23 @@ A full **history encyclopedia** now ships with the app in [`history/`](history/)
 
 | Catalog | Entries | What's inside |
 |---|---|---|
-| 🌳 Branching timeline | 980+ dated items | Civilisations and dynasties of 10 regions side by side, a full timeline for each region, and 10 theme timelines: religions, languages and writing, technology, manuscripts, hidden history, engineering, invasions and conquests, myths and legendary creatures, rulers, wars and disasters |
+| 🌳 Branching timeline | 1,170+ dated items | Civilisations and dynasties of 10 regions side by side, a full timeline for each region, and 11 theme timelines: religions, languages and writing, technology, manuscripts, hidden history, engineering, invasions and conquests, battles betrayals and atrocities, myths and legendary creatures, rulers, wars and disasters |
 | 🦴 Human species | 27 | From *Sahelanthropus* and Lucy to *Homo erectus*, Neanderthals, Denisovans and us: brain size, height, tools, firsts |
-| ⏳ Eras & Ages | 40 | Deep time to the Anthropocene: a full account of each era, how people lived, what they ate, the species of the time |
+| ⏳ Eras & Ages | 43 | Deep time to the Anthropocene: a full account of each era, how people lived, what they ate, the species of the time |
 | 🏛 Civilisations & Empires | 86 | Multi-paragraph, researched sections on government, architecture, technology, food, how each rose, how it declined or fell, and its legacy |
 | 👑 Dynasties & Rulers | 98 | Founders, capitals, notable rulers, and detailed accounts of how each gained and lost power |
-| 📅 Events | 310 | Every event has a 'causes, course and consequences' section; Human evolution, ice ages, eruptions, plagues, conquests, the East India Company, 1857, both world wars, Partition; each tagged with its region |
-| 👤 People | 264 | Rulers, queens, tyrants, revolutionaries, prophets, philosophers, scientists, writers (Valmiki, Homer, Shakespeare, Premchand, Tolstoy), artists and entertainers (Tansen, Michelangelo, Charlie Chaplin, Marilyn Monroe) and explorers; each with a biography and links to the empires, dynasties, events and beliefs they belong to |
-| 🗿 Sites & Wonders | 48 | Göbekli Tepe, Dholavira, the Pyramids, Angkor, the Taj Mahal |
+| 📅 Events | 313 | Every event has a 'causes, course and consequences' section; Human evolution, ice ages, eruptions, plagues, conquests, the East India Company, 1857, both world wars, Partition; each tagged with its region |
+| ⚔ Battles, Sieges & Betrayals | 30 | Thermopylae to Srebrenica — sides, commanders, forces and casualties; how each was fought; the traitors and backstabbing (Ephialtes, Mir Jafar, Mir Sadiq); atrocities and war crimes; and how it reshaped history |
+| 👤 People | 278 | Rulers, queens, tyrants, revolutionaries, prophets, philosophers, scientists, writers (Valmiki, Homer, Shakespeare, Premchand, Tolstoy), artists and entertainers (Tansen, Michelangelo, Charlie Chaplin, Marilyn Monroe) and explorers; each with a biography and links to the empires, dynasties, events and beliefs they belong to |
+| 🗿 Sites & Wonders | 60 | Göbekli Tepe, Dholavira, the Pyramids, Angkor, the Taj Mahal, plus forts, castles and memorials (Chittorgarh, Kumbhalgarh, Mehrangarh, Krak des Chevaliers, Masada, Jallianwala Bagh) |
 | 🗣 Languages | 67 | Language families, ancient and modern languages, scripts and descendants |
 | 🏹 Peoples & Tribes | 31 | Hunter-gatherers, Adivasi and Indigenous peoples, Neanderthals |
 | 🪔 Festivals | 36 | Origins, how they are celebrated, festive food |
 | 🕉 Religions, Philosophies & Scripts | 44 | From animism and Vedic religion to Manichaeism, the Sunni–Shia split, Protestantism and Navayana; scripts from cuneiform to Ol Chiki |
-| ⚙ Inventions | 92 | Fire to AI; major inventions (printing press, telephone, light bulb, AC grid, aeroplane, radio, cinema, penicillin, atomic bomb, DNA, rockets, internet) have the story behind them, the rivalries and hidden history, and how they changed the world |
+| ⚙ Inventions | 97 | Fire to AI; major inventions (printing press, telephone, light bulb, AC grid, aeroplane, radio, cinema, penicillin, atomic bomb, DNA, rockets, internet) have the story behind them, the rivalries and hidden history, and how they changed the world |
 | 🦣 Species of Past Ages | 23 | Mammoths, *Smilodon*, the dodo, the aurochs |
-| 📜 Manuscripts & Texts | 44 | Pyramid Texts, Gilgamesh, the Rigveda, Ashoka's edicts, the Bakhshali manuscript, oracle bones, the Diamond Sutra, the Dead Sea Scrolls, Codex Sinaiticus, Timbuktu manuscripts, Maya and Aztec codices |
-| 🏗 How It Was Built | 50 | Step-by-step accounts of how the Pyramids, Colosseum, Pantheon, aqueducts, Great Wall, Kailasa at Ellora, the Iron Pillar, stepwells, the Taj Mahal, 12 famous bridges, the Cu Chi tunnels, Iwo Jima, Derinkuyu and the Great Escape were built, plus pottery, bronze casting, wootz steel and qanats |
+| 📜 Manuscripts & Texts | 54 | Pyramid Texts, Gilgamesh, the Rigveda, Ashoka's edicts, the Bakhshali manuscript, oracle bones, the Diamond Sutra, the Dead Sea Scrolls, Codex Sinaiticus, Timbuktu manuscripts, Maya and Aztec codices |
+| 🏗 How It Was Built | 61 | Step-by-step accounts of how the Pyramids, Colosseum, Pantheon, aqueducts, Great Wall, Kailasa at Ellora, the Iron Pillar, stepwells, the Taj Mahal, 12 famous bridges, the Cu Chi tunnels, Iwo Jima, Derinkuyu and the Great Escape were built, plus pottery, bronze casting, wootz steel and qanats |
 | 🐉 Legendary & Mythical Creatures | 43 | Dragons, griffins, centaurs, Medusa, the Hydra, cyclopes, Leviathan, djinn, the golem, trolls, vampires, werewolves, the kraken, rakshasas, the brahmarakshasa, vetala, nagas, Garuda, oni, kitsune, yeti and more — first recorded date, origin, habitat, diet, powers, stories, the heroes who faced them (Perseus, Heracles, Beowulf, Saint George…) and whether anything like them could exist |
 | 🔓 Hidden History & Conspiracies | 38 | Cover-ups and secret programmes (Operation Paperclip, Unit 731, MKUltra, Tuskegee, Gulf of Tonkin, Operation Legacy), forgeries and famous conspiracy theories, each with the claim, what the evidence shows, and a verdict |
 | 📄 Research papers | 38 | Neanderthal and Denisovan genomes, Homo naledi, Lomekwi tools, horse origins, the Bantu and Polynesian migrations, plague genomes, the Maya droughts — each with a plain-language summary |

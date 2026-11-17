@@ -1,9 +1,9 @@
 ---
 title: Timeline: How it was built — engineering through the ages
-summary: Monuments, bridges, tunnels, bunkers and everyday technology in the order they were built. (50 entries)
+summary: Monuments, bridges, tunnels, bunkers and everyday technology in the order they were built. (61 entries)
 level: Timeline
 ---
-Monuments, bridges, tunnels, bunkers and everyday technology in the order they were built. (50 entries)
+Monuments, bridges, tunnels, bunkers and everyday technology in the order they were built. (61 entries)
 
 :::collapse Neolithic and first farmers (10,000–3000 BCE) (2)
 <div class="timeline">
@@ -28,7 +28,7 @@ Monuments, bridges, tunnels, bunkers and everyday technology in the order they w
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (13)
+:::collapse !Classical age (500 BCE–500 CE) (14)
 <div class="timeline">
 <div class="ev"><span class="yr">400 BCE</span>: 🏗 Built: <a href="/wiki/engineering/yakhch-l-ice-houses-and-windcatchers.html">Yakhchāl ice houses and windcatchers</a> <span class='muted'>· Middle East</span> — Persia</div>
 <div class="ev"><span class="yr">312 BCE</span>: 🏗 Built: <a href="/wiki/engineering/roman-aqueducts.html">Roman aqueducts</a> <span class='muted'>· Europe</span> — Rome and across the empire</div>
@@ -43,32 +43,43 @@ Monuments, bridges, tunnels, bunkers and everyday technology in the order they w
 <div class="ev"><span class="yr">80 CE</span>: 🏗 Built: <a href="/wiki/engineering/colosseum.html">Colosseum</a> <span class='muted'>· Europe</span> — Rome, Italy</div>
 <div class="ev"><span class="yr">125 CE</span>: 🏗 Built: <a href="/wiki/engineering/pantheon-dome.html">Pantheon dome</a> <span class='muted'>· Europe</span> — Rome, Italy</div>
 <div class="ev"><span class="yr">402 CE</span>: 🏗 Built: <a href="/wiki/engineering/iron-pillar-of-delhi.html">Iron Pillar of Delhi</a> <span class='muted'>· South Asia</span> — Qutb complex, Delhi</div>
+<div class="ev"><span class="yr">413 CE</span>: 🏗 Built: <a href="/wiki/engineering/theodosian-walls-of-constantinople.html">Theodosian Walls of Constantinople</a> <span class='muted'>· Europe</span> — Istanbul, Turkey</div>
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (4)
+:::collapse !Early medieval (500–1000) (7)
 <div class="timeline">
+<div class="ev"><span class="yr">500 CE</span>: 🏗 Built: <a href="/wiki/engineering/trebuchet-and-siege-engines.html">Trebuchet and siege engines</a> <span class='muted'>· Global</span> — China, Middle East, Europe</div>
+<div class="ev"><span class="yr">525 CE</span>: 🏗 Built: <a href="/wiki/engineering/gwalior-fort.html">Gwalior Fort</a> <span class='muted'>· South Asia</span> — Gwalior, Madhya Pradesh</div>
 <div class="ev"><span class="yr">537 CE</span>: 🏗 Built: <a href="/wiki/engineering/hagia-sophia.html">Hagia Sophia</a> <span class='muted'>· Europe</span> — Constantinople (Istanbul)</div>
 <div class="ev"><span class="yr">605 CE</span>: 🏗 Built: <a href="/wiki/engineering/zhaozhou-bridge.html">Zhaozhou Bridge</a> <span class='muted'>· East Asia</span> — Hebei, China</div>
+<div class="ev"><span class="yr">700 CE</span>: 🏗 Built: <a href="/wiki/engineering/chittorgarh-fort.html">Chittorgarh Fort</a> <span class='muted'>· South Asia</span> — Rajasthan</div>
 <div class="ev"><span class="yr">760 CE</span>: 🏗 Built: <a href="/wiki/engineering/kailasa-temple-ellora.html">Kailasa temple, Ellora</a> <span class='muted'>· South Asia</span> — Ellora, Maharashtra</div>
 <div class="ev"><span class="yr">850 CE</span>: 🏗 Built: <a href="/wiki/engineering/chand-baori-stepwell.html">Chand Baori stepwell</a> <span class='muted'>· South Asia</span> — Abhaneri, Rajasthan</div>
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (6)
+:::collapse !Late medieval (1000–1500) (10)
 <div class="timeline">
 <div class="ev"><span class="yr">1010</span>: 🏗 Built: <a href="/wiki/engineering/brihadeeswarar-temple.html">Brihadeeswarar temple</a> <span class='muted'>· South Asia</span> — Thanjavur, Tamil Nadu</div>
 <div class="ev"><span class="yr">1063</span>: 🏗 Built: <a href="/wiki/engineering/rani-ki-vav-stepwell.html">Rani ki Vav stepwell</a> <span class='muted'>· South Asia</span> — Patan, Gujarat</div>
+<div class="ev"><span class="yr">1100</span>: 🏗 Built: <a href="/wiki/engineering/how-castle-defences-worked.html">How castle defences worked</a> <span class='muted'>· Europe</span> — Europe and the Crusader states</div>
 <div class="ev"><span class="yr">1150</span>: 🏗 Built: <a href="/wiki/engineering/angkor-water-system.html">Angkor water system</a> <span class='muted'>· Southeast Asia</span> — Cambodia</div>
+<div class="ev"><span class="yr">1170</span>: 🏗 Built: <a href="/wiki/engineering/krak-des-chevaliers.html">Krak des Chevaliers</a> <span class='muted'>· Middle East</span> — Syria</div>
+<div class="ev"><span class="yr">1187</span>: 🏗 Built: <a href="/wiki/engineering/daulatabad-fort.html">Daulatabad Fort</a> <span class='muted'>· South Asia</span> — Maharashtra</div>
 <div class="ev"><span class="yr">1250</span>: 🏗 Built: <a href="/wiki/engineering/konark-sun-temple.html">Konark Sun Temple</a> <span class='muted'>· South Asia</span> — Odisha</div>
 <div class="ev"><span class="yr">1450</span>: 🏗 Built: <a href="/wiki/engineering/machu-picchu.html">Machu Picchu</a> <span class='muted'>· Americas</span> — Peru</div>
 <div class="ev"><span class="yr">1450</span>: 🏗 Built: <a href="/wiki/engineering/q-eswachaka-rope-bridge.html">Q&#x27;eswachaka rope bridge</a> <span class='muted'>· Americas</span> — Apurímac River, Peru</div>
+<div class="ev"><span class="yr">1458</span>: 🏗 Built: <a href="/wiki/engineering/kumbhalgarh-fort.html">Kumbhalgarh Fort</a> <span class='muted'>· South Asia</span> — Rajasthan</div>
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (3)
+:::collapse Early modern (1500–1800) (6)
 <div class="timeline">
+<div class="ev"><span class="yr">1500</span>: 🏗 Built: <a href="/wiki/engineering/star-forts.html">Star forts</a> <span class='muted'>· Europe</span> — Italy, then worldwide</div>
 <div class="ev"><span class="yr">1550</span>: 🏗 Built: <a href="/wiki/engineering/golconda-fort-acoustics.html">Golconda Fort acoustics</a> <span class='muted'>· South Asia</span> — Hyderabad, Telangana</div>
+<div class="ev"><span class="yr">1567</span>: 🏗 Built: <a href="/wiki/engineering/murud-janjira-sea-fort.html">Murud-Janjira sea fort</a> <span class='muted'>· South Asia</span> — Maharashtra coast</div>
+<div class="ev"><span class="yr">1609</span>: 🏗 Built: <a href="/wiki/engineering/himeji-castle.html">Himeji Castle</a> <span class='muted'>· East Asia</span> — Japan</div>
 <div class="ev"><span class="yr">1653</span>: 🏗 Built: <a href="/wiki/engineering/taj-mahal.html">Taj Mahal</a> <span class='muted'>· South Asia</span> — Agra, Uttar Pradesh</div>
 <div class="ev"><span class="yr">1779</span>: 🏗 Built: <a href="/wiki/engineering/iron-bridge.html">Iron Bridge</a> <span class='muted'>· Europe</span> — Shropshire, England</div>
 </div>

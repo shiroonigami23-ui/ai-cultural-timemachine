@@ -4958,5 +4958,53 @@
 "slug": "russian-invasion-of-ukraine",
 "lane": "Europe",
 "link_text": "Russia launched a full-scale invasion of Ukraine, following its 2014 annexation of Crimea. Ukraine resisted the attempt to take Kyiv. The war has killed hundreds of thousands and displaced millions. Largest war in Europe since 1945 Ukraine"
+},
+{
+"name": "Battle of Yarmouk",
+"year": 636,
+"when": "August 636",
+"etype": "Battle",
+"region": "Syria",
+"impact": "Opened the Levant to the Arabs",
+"summary": "Arab Muslim forces under Khalid ibn al-Walid destroyed a large Byzantine army in a six-day battle on the Yarmouk river.",
+"details": "Exhausted by its war with Persia, the Byzantine army was divided by ethnic rivalries; Arab cavalry exploited a gap and drove them into a ravine. Emperor Heraclius reportedly said 'Farewell, Syria'. Jerusalem surrendered in 637, and the Levant became Muslim and Arabic-speaking — reshaping the Middle East permanently.",
+"wiki": "Battle_of_the_Yarmuk",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "battle-of-yarmouk",
+"lane": "Middle East",
+"link_text": "Arab Muslim forces under Khalid ibn al-Walid destroyed a large Byzantine army in a six-day battle on the Yarmouk river. Exhausted by its war with Persia, the Byzantine army was divided by ethnic rivalries; Arab cavalry exploited a gap and drove them into a ravine. Emperor Heraclius reportedly said 'Farewell, Syria'. Jerusalem surrendered in 637, and the Levant became Muslim and Arabic-speaking — reshaping the Middle East permanently. Opened the Levant to the Arabs Syria"
+},
+{
+"name": "Battle of Palkhed",
+"year": 1728,
+"when": "28 February 1728",
+"etype": "Battle",
+"region": "Maharashtra",
+"impact": "Maratha mastery of the Deccan",
+"summary": "Bajirao I outmanoeuvred the Nizam of Hyderabad without a major battle.",
+"details": "Bajirao's light cavalry raided the Nizam's territory, drawing his heavy army after him, and then trapped it without water near Palkhed, forcing surrender. It is studied as a model of mobile warfare, and established Maratha supremacy in the Deccan, leading to their expansion north.",
+"wiki": "Battle_of_Palkhed",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "battle-of-palkhed",
+"lane": "South Asia",
+"link_text": "Bajirao I outmanoeuvred the Nizam of Hyderabad without a major battle. Bajirao's light cavalry raided the Nizam's territory, drawing his heavy army after him, and then trapped it without water near Palkhed, forcing surrender. It is studied as a model of mobile warfare, and established Maratha supremacy in the Deccan, leading to their expansion north. Maratha mastery of the Deccan Maharashtra"
+},
+{
+"name": "Battle of Jamrud",
+"year": 1837,
+"when": "30 April 1837",
+"etype": "Battle",
+"region": "Khyber Pass",
+"impact": "Sikh hold on the Khyber",
+"summary": "Afghan forces attacked the Sikh fort at Jamrud; Hari Singh Nalwa was killed, but the fort held.",
+"details": "The battle stopped Afghan attempts to retake Peshawar, keeping the Khyber in Sikh hands until the British annexed Punjab.",
+"wiki": "Battle_of_Jamrud",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "battle-of-jamrud",
+"lane": "South Asia",
+"link_text": "Afghan forces attacked the Sikh fort at Jamrud; Hari Singh Nalwa was killed, but the fort held. The battle stopped Afghan attempts to retake Peshawar, keeping the Khyber in Sikh hands until the British annexed Punjab. Sikh hold on the Khyber Khyber Pass"
 }
 ]

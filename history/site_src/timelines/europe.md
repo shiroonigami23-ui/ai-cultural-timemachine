@@ -1,9 +1,9 @@
 ---
 title: Timeline: Europe
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (257 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (280 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (257 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (280 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (6)
 <div class="timeline">
@@ -58,10 +58,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (45)
+:::collapse !Classical age (500 BCE–500 CE) (50)
 <div class="timeline">
 <div class="ev"><span class="yr">490 BCE</span>: 📅 War: <a href="/wiki/events/battle-of-marathon.html">Battle of Marathon</a> — Greek victory over Persia</div>
 <div class="ev"><span class="yr">484 BCE</span>: 👤 Born: <a href="/wiki/people/herodotus.html">Herodotus</a> — &#x27;Father of History&#x27;</div>
+<div class="ev"><span class="yr">480 BCE</span>: ⚔ Battle: <a href="/wiki/battles/battle-of-thermopylae.html">Battle of Thermopylae</a> — Second Persian invasion of Greece</div>
 <div class="ev"><span class="yr">460 BCE</span>: 👤 Born: <a href="/wiki/people/hippocrates.html">Hippocrates</a> — Father of Western medicine</div>
 <div class="ev"><span class="yr">447 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/parthenon.html">Parthenon</a> — Athenians (Pericles)</div>
 <div class="ev"><span class="yr">431 BCE</span>: 📅 War: <a href="/wiki/events/peloponnesian-war.html">Peloponnesian War</a> — Athens defeated by Sparta</div>
@@ -73,9 +74,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">312 BCE</span>: 🏗 Built: <a href="/wiki/engineering/roman-aqueducts.html">Roman aqueducts</a> — Rome and across the empire</div>
 <div class="ev"><span class="yr">312 BCE</span>: 🏗 Built: <a href="/wiki/engineering/roman-roads.html">Roman roads</a> — Across the Roman Empire</div>
 <div class="ev"><span class="yr">250 BCE</span>: 🏗 Built: <a href="/wiki/engineering/archimedes-screw.html">Archimedes screw</a> — Syracuse and Egypt</div>
+<div class="ev"><span class="yr">216 BCE</span>: ⚔ Battle: <a href="/wiki/battles/battle-of-cannae.html">Battle of Cannae</a> — Second Punic War</div>
 <div class="ev"><span class="yr">200 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/concrete.html">Concrete</a> — Rome</div>
 <div class="ev"><span class="yr">150 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/antikythera-mechanism.html">Antikythera mechanism</a> — Greece</div>
 <div class="ev"><span class="yr">100 BCE</span>: 👤 Born: <a href="/wiki/people/julius-caesar.html">Julius Caesar</a> — Conquered Gaul; ended the Republic</div>
+<div class="ev"><span class="yr">85 BCE</span>: 👤 Born: <a href="/wiki/people/marcus-junius-brutus.html">Marcus Junius Brutus</a> — Assassinating Julius Caesar</div>
 <div class="ev"><span class="yr">73 BCE</span>: 📅 Uprising: <a href="/wiki/events/spartacus-revolt.html">Spartacus revolt</a> — Largest slave revolt</div>
 <div class="ev"><span class="yr">63 BCE</span>: 👤 Born: <a href="/wiki/people/augustus.html">Augustus</a> — First Roman emperor; Pax Romana</div>
 <div class="ev"><span class="yr">58 BCE</span>: 📅 Conquest: <a href="/wiki/events/roman-conquest-of-gaul.html">Roman conquest of Gaul</a> — Gaul becomes Roman</div>
@@ -85,6 +88,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">27 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/julio-claudian-dynasty.html">Julio-Claudian dynasty</a> — Octavian defeated Antony and Cleopatra at Actium (31 BCE) and in 27 BCE took the title Augustus. He kept the forms of the Republic while con</div>
 <div class="ev"><span class="yr">8 CE</span>: 🐉 Myth: <a href="/wiki/creatures/werewolf.html">Werewolf</a> — Greece, Rome, medieval Europe</div>
 <div class="ev"><span class="yr">9 CE</span>: 📅 War: <a href="/wiki/events/teutoburg-forest.html">Teutoburg Forest</a> — Rome stops at the Rhine</div>
+<div class="ev"><span class="yr">9 CE</span>: ⚔ Battle: <a href="/wiki/battles/battle-of-the-teutoburg-forest.html">Battle of the Teutoburg Forest</a> — Roman–Germanic wars</div>
 <div class="ev"><span class="yr">12 CE</span>: 👤 Born: <a href="/wiki/people/caligula.html">Caligula</a> — Notorious cruelty</div>
 <div class="ev"><span class="yr">37 CE</span>: 👤 Born: <a href="/wiki/people/nero.html">Nero</a> — Great Fire of Rome</div>
 <div class="ev"><span class="yr">43 CE</span>: 📅 Conquest: <a href="/wiki/events/roman-conquest-of-britain.html">Roman conquest of Britain</a> — Roman Britain for ~370 years</div>
@@ -103,6 +107,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">330 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/byzantine-empire.html">Byzantine Empire</a> — 330–1453</div>
 <div class="ev"><span class="yr">350 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/codex-sinaiticus.html">Codex Sinaiticus</a> — c. 330–360 CE</div>
 <div class="ev"><span class="yr">410 CE</span>: 📅 War: <a href="/wiki/events/sack-of-rome-by-visigoths.html">Sack of Rome by Visigoths</a> — Shock to the Roman world</div>
+<div class="ev"><span class="yr">413 CE</span>: 🏗 Built: <a href="/wiki/engineering/theodosian-walls-of-constantinople.html">Theodosian Walls of Constantinople</a> — Istanbul, Turkey</div>
 <div class="ev"><span class="yr">451 CE</span>: 📅 Invasion: <a href="/wiki/events/attila-s-invasion-of-gaul-and-italy.html">Attila&#x27;s invasion of Gaul and Italy</a> — Huns at their height</div>
 <div class="ev"><span class="yr">476 CE</span>: 📅 Collapse: <a href="/wiki/events/fall-of-the-western-roman-empire.html">Fall of the Western Roman Empire</a> — Start of the Middle Ages in the West</div>
 </div>
@@ -132,13 +137,17 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (38)
+:::collapse !Late medieval (1000–1500) (47)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 📜 Manuscript: <a href="/wiki/manuscripts/beowulf-manuscript.html">Beowulf manuscript</a> — c. 1000</div>
 <div class="ev"><span class="yr">1066</span>: 👑 Dynasty: <a href="/wiki/dynasties/normans-and-plantagenets.html">Normans and Plantagenets</a> — William of Normandy won at Hastings in 1066, compiled the Domesday Book and built castles. Henry II founded the Plantagenet line (1154), rul</div>
 <div class="ev"><span class="yr">1066</span>: 📅 Conquest: <a href="/wiki/events/battle-of-hastings.html">Battle of Hastings</a> — Norman conquest</div>
+<div class="ev"><span class="yr">1077</span>: 📜 Manuscript: <a href="/wiki/manuscripts/bayeux-tapestry.html">Bayeux Tapestry</a> — c. 1070s</div>
+<div class="ev"><span class="yr">1078</span>: 🗿 Built / founded: <a href="/wiki/sites/tower-of-london.html">Tower of London</a> — William the Conqueror</div>
 <div class="ev"><span class="yr">1086</span>: 📜 Manuscript: <a href="/wiki/manuscripts/domesday-book.html">Domesday Book</a> — 1086</div>
+<div class="ev"><span class="yr">1100</span>: 🏗 Built: <a href="/wiki/engineering/how-castle-defences-worked.html">How castle defences worked</a> — Europe and the Crusader states</div>
 <div class="ev"><span class="yr">1140</span>: 🐉 Myth: <a href="/wiki/creatures/goblin.html">Goblin</a> — Medieval Europe (France, England, Germany)</div>
+<div class="ev"><span class="yr">1200</span>: 🗿 Built / founded: <a href="/wiki/sites/carcassonne.html">Carcassonne</a> — Romans, Visigoths, Trencavel lords</div>
 <div class="ev"><span class="yr">1200</span>: 🐉 Myth: <a href="/wiki/creatures/wyvern.html">Wyvern</a> — Medieval England and France</div>
 <div class="ev"><span class="yr">1204</span>: 📅 War: <a href="/wiki/events/fourth-crusade-sacks-constantinople.html">Fourth Crusade sacks Constantinople</a> — Byzantine collapse</div>
 <div class="ev"><span class="yr">1215</span>: 📅 Law: <a href="/wiki/events/magna-carta.html">Magna Carta</a> — Limited royal power</div>
@@ -146,6 +155,8 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1220</span>: 🐉 Myth: <a href="/wiki/creatures/troll.html">Troll</a> — Scandinavia</div>
 <div class="ev"><span class="yr">1220</span>: 🐉 Myth: <a href="/wiki/creatures/gargoyle.html">Gargoyle</a> — Medieval France</div>
 <div class="ev"><span class="yr">1237</span>: 📅 Invasion: <a href="/wiki/events/mongol-invasion-of-kievan-rus.html">Mongol invasion of Kievan Rus&#x27;</a> — Two centuries of the &#x27;Tatar yoke&#x27;</div>
+<div class="ev"><span class="yr">1238</span>: 🗿 Built / founded: <a href="/wiki/sites/alhambra.html">Alhambra</a> — Nasrid dynasty</div>
+<div class="ev"><span class="yr">1250</span>: ⚙ Invention: <a href="/wiki/inventions/longbow.html">Longbow</a> — England and Wales</div>
 <div class="ev"><span class="yr">1259</span>: 👑 Dynasty: <a href="/wiki/dynasties/palaiologos-dynasty.html">Palaiologos dynasty</a> — Michael VIII Palaiologos, regent for a boy emperor of the Nicaean exile state, recaptured Constantinople from the Latin crusaders in 1261 an</div>
 <div class="ev"><span class="yr">1270</span>: ⚙ Invention: <a href="/wiki/inventions/mechanical-clock.html">Mechanical clock</a> — Europe</div>
 <div class="ev"><span class="yr">1273</span>: 👑 Dynasty: <a href="/wiki/dynasties/habsburg-dynasty.html">Habsburg dynasty</a> — Rudolf I was elected King of the Romans in 1273; marriage alliances brought Burgundy, Spain, Bohemia and Hungary. Charles V (r. 1519–56) rul</div>
@@ -157,13 +168,16 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1410</span>: 📅 War: <a href="/wiki/events/battle-of-grunwald.html">Battle of Grunwald</a> — Teutonic Knights defeated</div>
 <div class="ev"><span class="yr">1412</span>: 👤 Born: <a href="/wiki/people/joan-of-arc.html">Joan of Arc</a> — Turned the Hundred Years&#x27; War</div>
 <div class="ev"><span class="yr">1415</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/portuguese-empire.html">Portuguese Empire</a> — 1415–1999</div>
+<div class="ev"><span class="yr">1415</span>: ⚔ Battle: <a href="/wiki/battles/battle-of-agincourt.html">Battle of Agincourt</a> — Hundred Years&#x27; War</div>
 <div class="ev"><span class="yr">1420</span>: 📜 Manuscript: <a href="/wiki/manuscripts/voynich-manuscript.html">Voynich manuscript</a> — Early 15th century (carbon-dated)</div>
 <div class="ev"><span class="yr">1440</span>: 📅 Invention: <a href="/wiki/events/gutenberg-printing-press.html">Gutenberg printing press</a> — Spread of books and ideas</div>
 <div class="ev"><span class="yr">1440</span>: ⚙ Invention: <a href="/wiki/inventions/printing-press.html">Printing press</a> — Germany</div>
+<div class="ev"><span class="yr">1440</span>: ⚔ Battle: <a href="/wiki/battles/the-black-dinner.html">The Black Dinner</a> — Scottish noble feuds</div>
 <div class="ev"><span class="yr">1450</span>: ⚙ Invention: <a href="/wiki/inventions/gun-carriage-and-matchlock.html">Gun carriage and matchlock</a> — Europe; Ottoman</div>
 <div class="ev"><span class="yr">1451</span>: 👤 Born: <a href="/wiki/people/christopher-columbus.html">Christopher Columbus</a> — Voyages to the Americas</div>
 <div class="ev"><span class="yr">1451</span>: 👤 Born: <a href="/wiki/people/isabella-i-of-castile.html">Isabella I of Castile</a> — Completed the Reconquista; sponsored Columbus</div>
 <div class="ev"><span class="yr">1452</span>: 👤 Born: <a href="/wiki/people/leonardo-da-vinci.html">Leonardo da Vinci</a> — Mona Lisa, notebooks</div>
+<div class="ev"><span class="yr">1453</span>: ⚔ Battle: <a href="/wiki/battles/fall-of-constantinople-siege.html">Fall of Constantinople (siege)</a> — Byzantine–Ottoman wars</div>
 <div class="ev"><span class="yr">1455</span>: 📜 Manuscript: <a href="/wiki/manuscripts/gutenberg-bible.html">Gutenberg Bible</a> — c. 1455</div>
 <div class="ev"><span class="yr">1473</span>: 👤 Born: <a href="/wiki/people/nicolaus-copernicus.html">Nicolaus Copernicus</a> — Sun-centred universe</div>
 <div class="ev"><span class="yr">1475</span>: 👤 Born: <a href="/wiki/people/michelangelo.html">Michelangelo</a> — David, Sistine Chapel ceiling</div>
@@ -175,9 +189,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (45)
+:::collapse Early modern (1500–1800) (47)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/charles-v.html">Charles V</a> — Empire on which the sun never set</div>
+<div class="ev"><span class="yr">1500</span>: 🏗 Built: <a href="/wiki/engineering/star-forts.html">Star forts</a> — Italy, then worldwide</div>
 <div class="ev"><span class="yr">1510</span>: 📜 Manuscript: <a href="/wiki/manuscripts/leonardo-s-codex-leicester.html">Leonardo&#x27;s Codex Leicester</a> — 1506–1510</div>
 <div class="ev"><span class="yr">1517</span>: 📅 Religion: <a href="/wiki/events/protestant-reformation.html">Protestant Reformation</a> — Split of Western Christianity</div>
 <div class="ev"><span class="yr">1520</span>: 📅 Epidemics: <a href="/wiki/events/smallpox-in-the-americas.html">Smallpox in the Americas</a> — Up to ~90% of Indigenous people died</div>
@@ -204,6 +219,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1661</span>: 🗿 Built / founded: <a href="/wiki/sites/versailles.html">Versailles</a> — Louis XIV</div>
 <div class="ev"><span class="yr">1672</span>: 👤 Born: <a href="/wiki/people/peter-the-great.html">Peter the Great</a> — Modernised Russia</div>
 <div class="ev"><span class="yr">1688</span>: 📅 Politics: <a href="/wiki/events/glorious-revolution.html">Glorious Revolution</a> — Parliamentary supremacy</div>
+<div class="ev"><span class="yr">1692</span>: ⚔ Battle: <a href="/wiki/battles/glencoe-massacre.html">Glencoe Massacre</a> — Jacobite unrest</div>
 <div class="ev"><span class="yr">1694</span>: 👤 Born: <a href="/wiki/people/voltaire.html">Voltaire</a> — Candide</div>
 <div class="ev"><span class="yr">1701</span>: 👑 Dynasty: <a href="/wiki/dynasties/hohenzollern-prussia-and-germany.html">Hohenzollern (Prussia and Germany)</a> — The Hohenzollerns, electors of Brandenburg, became kings in Prussia in 1701. Frederick William I built a disciplined army, and Frederick the</div>
 <div class="ev"><span class="yr">1712</span>: 👤 Born: <a href="/wiki/people/jean-jacques-rousseau.html">Jean-Jacques Rousseau</a> — The Social Contract</div>
@@ -225,7 +241,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (68)
+:::collapse Industrial and imperial age (1800–1945) (73)
 <div class="timeline">
 <div class="ev"><span class="yr">1800</span>: ⚙ Invention: <a href="/wiki/inventions/electric-battery.html">Electric battery</a> — Italy</div>
 <div class="ev"><span class="yr">1802</span>: 👤 Born: <a href="/wiki/people/victor-hugo.html">Victor Hugo</a> — Les Misérables</div>
@@ -261,6 +277,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1879</span>: ⚙ Invention: <a href="/wiki/inventions/light-bulb.html">Light bulb</a> — USA / Britain</div>
 <div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/pablo-picasso.html">Pablo Picasso</a> — Cubism, Guernica</div>
 <div class="ev"><span class="yr">1883</span>: 👤 Born: <a href="/wiki/people/benito-mussolini.html">Benito Mussolini</a> — Fascism</div>
+<div class="ev"><span class="yr">1884</span>: ⚙ Invention: <a href="/wiki/inventions/machine-gun.html">Machine gun</a> — Britain/USA</div>
 <div class="ev"><span class="yr">1886</span>: ⚙ Invention: <a href="/wiki/inventions/automobile.html">Automobile</a> — Germany</div>
 <div class="ev"><span class="yr">1889</span>: 👤 Born: <a href="/wiki/people/adolf-hitler.html">Adolf Hitler</a> — Started WWII; perpetrated the Holocaust</div>
 <div class="ev"><span class="yr">1889</span>: 👤 Born: <a href="/wiki/people/charlie-chaplin.html">Charlie Chaplin</a> — The Tramp; The Great Dictator</div>
@@ -273,6 +290,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1912</span>: 👤 Born: <a href="/wiki/people/alan-turing.html">Alan Turing</a> — Turing machine, Enigma codebreaking</div>
 <div class="ev"><span class="yr">1912</span>: 👤 Born: <a href="/wiki/people/wernher-von-braun.html">Wernher von Braun</a> — V-2 and Saturn V</div>
 <div class="ev"><span class="yr">1912</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/piltdown-man.html">Piltdown Man</a> — Proven hoax</div>
+<div class="ev"><span class="yr">1915</span>: ⚙ Invention: <a href="/wiki/inventions/poison-gas.html">Poison gas</a> — Germany</div>
+<div class="ev"><span class="yr">1916</span>: ⚙ Invention: <a href="/wiki/inventions/tank.html">Tank</a> — Britain</div>
+<div class="ev"><span class="yr">1916</span>: ⚔ Battle: <a href="/wiki/battles/battle-of-the-somme.html">Battle of the Somme</a> — World War I</div>
 <div class="ev"><span class="yr">1917</span>: 📅 Revolution: <a href="/wiki/events/russian-revolution.html">Russian Revolution</a> — First communist state</div>
 <div class="ev"><span class="yr">1920</span>: 👤 Born: <a href="/wiki/people/rosalind-franklin.html">Rosalind Franklin</a> — X-ray images of DNA</div>
 <div class="ev"><span class="yr">1922</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/soviet-union.html">Soviet Union</a> — 1922–1991</div>
@@ -293,14 +313,16 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1941</span>: 📅 Invasion: <a href="/wiki/events/operation-barbarossa.html">Operation Barbarossa</a> — Largest invasion in history</div>
 <div class="ev"><span class="yr">1942</span>: 📅 War: <a href="/wiki/events/battle-of-stalingrad.html">Battle of Stalingrad</a> — Turning point of WWII</div>
 <div class="ev"><span class="yr">1942</span>: 👤 Born: <a href="/wiki/people/stephen-hawking.html">Stephen Hawking</a> — Black holes, A Brief History of Time</div>
+<div class="ev"><span class="yr">1942</span>: ⚔ Battle: <a href="/wiki/battles/battle-of-stalingrad-battle.html">Battle of Stalingrad (battle)</a> — World War II</div>
 <div class="ev"><span class="yr">1944</span>: 📅 Invasion: <a href="/wiki/events/d-day-landings.html">D-Day landings</a> — Opened the Western Front</div>
 <div class="ev"><span class="yr">1944</span>: 🏗 Built: <a href="/wiki/engineering/the-great-escape-tunnel-harry.html">The Great Escape tunnel &#x27;Harry&#x27;</a> — Stalag Luft III, Poland</div>
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (9)
+:::collapse Contemporary (1945–today) (11)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: ⚙ Invention: <a href="/wiki/inventions/computer.html">Computer</a> — USA / Britain</div>
+<div class="ev"><span class="yr">1945</span>: ⚔ Battle: <a href="/wiki/battles/bombing-of-dresden.html">Bombing of Dresden</a> — World War II</div>
 <div class="ev"><span class="yr">1953</span>: 📅 Discovery: <a href="/wiki/events/discovery-of-the-dna-double-helix.html">Discovery of the DNA double helix</a> — Birth of molecular biology</div>
 <div class="ev"><span class="yr">1953</span>: ⚙ Invention: <a href="/wiki/inventions/dna-double-helix.html">DNA double helix</a> — Cambridge, UK</div>
 <div class="ev"><span class="yr">1955</span>: 👤 Born: <a href="/wiki/people/tim-berners-lee.html">Tim Berners-Lee</a> — World Wide Web</div>
@@ -308,6 +330,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1961</span>: 📅 Space: <a href="/wiki/events/yuri-gagarin-orbits-earth.html">Yuri Gagarin orbits Earth</a> — First human in space</div>
 <div class="ev"><span class="yr">1986</span>: 📅 Disaster: <a href="/wiki/events/chernobyl-disaster.html">Chernobyl disaster</a> — Nuclear catastrophe</div>
 <div class="ev"><span class="yr">1989</span>: 📅 Political: <a href="/wiki/events/fall-of-the-berlin-wall.html">Fall of the Berlin Wall</a> — End of the Cold War</div>
+<div class="ev"><span class="yr">1995</span>: ⚔ Battle: <a href="/wiki/battles/srebrenica-massacre.html">Srebrenica massacre</a> — Bosnian War</div>
 <div class="ev"><span class="yr">2022</span>: 📅 Invasion: <a href="/wiki/events/russian-invasion-of-ukraine.html">Russian invasion of Ukraine</a> — Largest war in Europe since 1945</div>
 </div>
 :::

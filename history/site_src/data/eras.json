@@ -183,6 +183,21 @@
 "slug": "4-2-kiloyear-event"
 },
 {
+"name": "Vedic period",
+"start": -1500,
+"end": -500,
+"when": "~1500 – 500 BCE",
+"region": "Northern India",
+"life": "Families lived in villages of mud and thatch, kept cattle as wealth, drank milk and ghee, performed fire sacrifices, and held assemblies called sabha and samiti.",
+"food": "Barley, milk, ghee, later rice",
+"species": "Cattle central to wealth",
+"summary": "The Vedic period (about 1500–500 BCE) is named after the Vedas, composed in Sanskrit by Indo-Aryan-speaking people in the northwest and later the Ganga plain. Early clans herded cattle and fought over pastures; later kingdoms (janapadas) formed, the varna system developed, and the Upanishads explored philosophy. Iron, rice farming and cities emerged by its end.",
+"wiki": "Vedic_period",
+"group": "Farming & first cities",
+"emoji": "🌾",
+"slug": "vedic-period"
+},
+{
 "name": "Late Bronze Age collapse",
 "start": -1200,
 "end": -1150,
@@ -211,21 +226,6 @@
 "group": "Farming & first cities",
 "emoji": "🌾",
 "slug": "iron-age"
-},
-{
-"name": "Vedic period",
-"start": -1500,
-"end": -500,
-"when": "~1500 – 500 BCE",
-"region": "Northern India",
-"life": "Families lived in villages of mud and thatch, kept cattle as wealth, drank milk and ghee, performed fire sacrifices, and held assemblies called sabha and samiti.",
-"food": "Barley, milk, ghee, later rice",
-"species": "Cattle central to wealth",
-"summary": "The Vedic period (about 1500–500 BCE) is named after the Vedas, composed in Sanskrit by Indo-Aryan-speaking people in the northwest and later the Ganga plain. Early clans herded cattle and fought over pastures; later kingdoms (janapadas) formed, the varna system developed, and the Upanishads explored philosophy. Iron, rice farming and cities emerged by its end.",
-"wiki": "Vedic_period",
-"group": "Farming & first cities",
-"emoji": "🌾",
-"slug": "vedic-period"
 },
 {
 "name": "Axial Age",
@@ -303,21 +303,6 @@
 "slug": "classical-golden-age-of-india-gupta"
 },
 {
-"name": "Late Antique Little Ice Age",
-"start": 536,
-"end": 660,
-"when": "536 – 660 CE",
-"region": "Northern Hemisphere",
-"life": "Farmers faced short, cold summers and famine; plague emptied cities; some regions saw people move to new lands.",
-"food": "Famine",
-"species": "—",
-"summary": "Three major volcanic eruptions in 536, 540 and 547 CE cooled the Northern Hemisphere by up to 2 °C for over a century (until about 660), according to tree rings. Crop failures, the Plague of Justinian from 541 and migrations of steppe peoples like the Avars coincided. The Byzantine and Sasanian empires were weakened just before the Arab conquests, and the Chinese Sui and Tang dynasties rose from the turmoil.",
-"wiki": "Late_Antique_Little_Ice_Age",
-"group": "Medieval world",
-"emoji": "🏰",
-"slug": "late-antique-little-ice-age"
-},
-{
 "name": "Early Middle Ages",
 "start": 500,
 "end": 1000,
@@ -331,6 +316,21 @@
 "group": "Medieval world",
 "emoji": "🏰",
 "slug": "early-middle-ages"
+},
+{
+"name": "Late Antique Little Ice Age",
+"start": 536,
+"end": 660,
+"when": "536 – 660 CE",
+"region": "Northern Hemisphere",
+"life": "Farmers faced short, cold summers and famine; plague emptied cities; some regions saw people move to new lands.",
+"food": "Famine",
+"species": "—",
+"summary": "Three major volcanic eruptions in 536, 540 and 547 CE cooled the Northern Hemisphere by up to 2 °C for over a century (until about 660), according to tree rings. Crop failures, the Plague of Justinian from 541 and migrations of steppe peoples like the Avars coincided. The Byzantine and Sasanian empires were weakened just before the Arab conquests, and the Chinese Sui and Tang dynasties rose from the turmoil.",
+"wiki": "Late_Antique_Little_Ice_Age",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "late-antique-little-ice-age"
 },
 {
 "name": "Islamic Golden Age",
@@ -348,21 +348,6 @@
 "slug": "islamic-golden-age"
 },
 {
-"name": "Medieval Warm Period",
-"start": 950,
-"end": 1250,
-"when": "950 – 1250 CE",
-"region": "North Atlantic",
-"life": "Longer growing seasons let European peasants clear new land; towns, cathedrals and trade grew.",
-"food": "Good harvests",
-"species": "—",
-"summary": "From about 950 to 1250, the North Atlantic and parts of the world were warmer. Vikings settled Iceland and Greenland and reached North America; Europe's population roughly doubled; vineyards grew in England. Elsewhere it brought droughts, contributing to the decline of the Ancestral Puebloans and possibly Angkor's water stress later.",
-"wiki": "Medieval_Warm_Period",
-"group": "Medieval world",
-"emoji": "🏰",
-"slug": "medieval-warm-period"
-},
-{
 "name": "Chola and medieval India",
 "start": 850,
 "end": 1300,
@@ -376,6 +361,36 @@
 "group": "Medieval world",
 "emoji": "🏰",
 "slug": "chola-and-medieval-india"
+},
+{
+"name": "Age of castles",
+"start": 900,
+"end": 1500,
+"when": "c. 900–1500",
+"region": "Europe and Middle East",
+"life": "Lords ruled from fortified castles, with peasants working the land around them; sieges were the most common form of war, lasting months.",
+"food": "Bread, pottage, ale; stored grain for sieges.",
+"species": "—",
+"summary": "After Viking raids and feudal fragmentation, lords built thousands of castles across Europe: wooden motte-and-baileys after 1066, then stone keeps and concentric castles inspired by Crusader fortresses. Gunpowder artillery ended their military role.",
+"wiki": "Castle",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "age-of-castles"
+},
+{
+"name": "Medieval Warm Period",
+"start": 950,
+"end": 1250,
+"when": "950 – 1250 CE",
+"region": "North Atlantic",
+"life": "Longer growing seasons let European peasants clear new land; towns, cathedrals and trade grew.",
+"food": "Good harvests",
+"species": "—",
+"summary": "From about 950 to 1250, the North Atlantic and parts of the world were warmer. Vikings settled Iceland and Greenland and reached North America; Europe's population roughly doubled; vineyards grew in England. Elsewhere it brought droughts, contributing to the decline of the Ancestral Puebloans and possibly Angkor's water stress later.",
+"wiki": "Medieval_Warm_Period",
+"group": "Medieval world",
+"emoji": "🏰",
+"slug": "medieval-warm-period"
 },
 {
 "name": "Mongol era",
@@ -393,19 +408,19 @@
 "slug": "mongol-era"
 },
 {
-"name": "Black Death era",
-"start": 1346,
-"end": 1353,
-"when": "1346 – 1353 CE",
-"region": "Eurasia, North Africa",
-"life": "Survivors found land plentiful and labour scarce, improving the lot of peasants and workers in Western Europe.",
-"food": "—",
-"species": "Black rats, fleas (Yersinia pestis)",
-"summary": "The Black Death, caused by Yersinia pestis, reached Crimea in 1346 and swept through the Middle East, North Africa and Europe by 1353, killing about a third to half of Europe's people and many elsewhere. Labour shortages raised wages and weakened serfdom; peasants rebelled (England 1381); Jews were persecuted; art became preoccupied with death. Plague recurred for centuries.",
-"wiki": "Black_Death",
+"name": "Delhi Sultanate and Vijayanagara",
+"start": 1206,
+"end": 1565,
+"when": "1206 – 1565 CE",
+"region": "India",
+"life": "Peasants paid land revenue to iqtadars and nayakas; towns grew around forts and markets; saints like Kabir, Nizamuddin Auliya and Chaitanya preached devotion.",
+"food": "Rice, millets, spices",
+"species": "—",
+"summary": "From 1206 to 1526, the Delhi Sultanate's Mamluk, Khalji, Tughlaq, Sayyid and Lodi dynasties ruled north India, repelling the Mongols. In the south, Vijayanagara (1336–1646) and the Bahmani Sultanate competed. Indo-Islamic architecture, the Persian wheel, Urdu–Hindavi, and the Bhakti and Sufi movements developed.",
+"wiki": "Delhi_Sultanate",
 "group": "Medieval world",
 "emoji": "🏰",
-"slug": "black-death-era"
+"slug": "delhi-sultanate-and-vijayanagara"
 },
 {
 "name": "Little Ice Age",
@@ -423,19 +438,19 @@
 "slug": "little-ice-age"
 },
 {
-"name": "Delhi Sultanate and Vijayanagara",
-"start": 1206,
-"end": 1565,
-"when": "1206 – 1565 CE",
-"region": "India",
-"life": "Peasants paid land revenue to iqtadars and nayakas; towns grew around forts and markets; saints like Kabir, Nizamuddin Auliya and Chaitanya preached devotion.",
-"food": "Rice, millets, spices",
-"species": "—",
-"summary": "From 1206 to 1526, the Delhi Sultanate's Mamluk, Khalji, Tughlaq, Sayyid and Lodi dynasties ruled north India, repelling the Mongols. In the south, Vijayanagara (1336–1646) and the Bahmani Sultanate competed. Indo-Islamic architecture, the Persian wheel, Urdu–Hindavi, and the Bhakti and Sufi movements developed.",
-"wiki": "Delhi_Sultanate",
+"name": "Black Death era",
+"start": 1346,
+"end": 1353,
+"when": "1346 – 1353 CE",
+"region": "Eurasia, North Africa",
+"life": "Survivors found land plentiful and labour scarce, improving the lot of peasants and workers in Western Europe.",
+"food": "—",
+"species": "Black rats, fleas (Yersinia pestis)",
+"summary": "The Black Death, caused by Yersinia pestis, reached Crimea in 1346 and swept through the Middle East, North Africa and Europe by 1353, killing about a third to half of Europe's people and many elsewhere. Labour shortages raised wages and weakened serfdom; peasants rebelled (England 1381); Jews were persecuted; art became preoccupied with death. Plague recurred for centuries.",
+"wiki": "Black_Death",
 "group": "Medieval world",
 "emoji": "🏰",
-"slug": "delhi-sultanate-and-vijayanagara"
+"slug": "black-death-era"
 },
 {
 "name": "Renaissance",
@@ -468,6 +483,21 @@
 "slug": "age-of-exploration"
 },
 {
+"name": "Gunpowder empires",
+"start": 1450,
+"end": 1750,
+"when": "c. 1450–1750",
+"region": "Ottoman, Safavid and Mughal empires",
+"life": "Large armies of musketeers and artillery; huge cities like Istanbul, Isfahan and Agra.",
+"food": "Varied regional cuisines; coffee spread.",
+"species": "—",
+"summary": "Historians Marshall Hodgson and William McNeill named the Ottoman, Safavid and Mughal empires 'gunpowder empires', because cannon and muskets let rulers smash rival fortresses and centralise power.",
+"wiki": "Gunpowder_empires",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "gunpowder-empires"
+},
+{
 "name": "Mughal era",
 "start": 1526,
 "end": 1857,
@@ -481,21 +511,6 @@
 "group": "Early modern world",
 "emoji": "⛵",
 "slug": "mughal-era"
-},
-{
-"name": "Colonial era",
-"start": 1600,
-"end": 1960,
-"when": "1600 – 1960s",
-"region": "Global",
-"life": "Colonised peoples paid heavy taxes, worked on plantations and mines, and resisted through revolts, reform and nationalism.",
-"food": "Sugar, tea, cotton, opium become global commodities",
-"species": "—",
-"summary": "From the 16th to the mid-20th century, European powers colonised the Americas, much of Asia and nearly all of Africa. Colonial rule extracted resources and labour, imposed borders, spread European languages and Christianity, and caused famines and genocides, while also introducing railways and modern education. Independence movements ended most empires after 1945.",
-"wiki": "Colonialism",
-"group": "Early modern world",
-"emoji": "⛵",
-"slug": "colonial-era"
 },
 {
 "name": "Scientific Revolution and Enlightenment",
@@ -513,6 +528,21 @@
 "slug": "scientific-revolution-and-enlightenment"
 },
 {
+"name": "Colonial era",
+"start": 1600,
+"end": 1960,
+"when": "1600 – 1960s",
+"region": "Global",
+"life": "Colonised peoples paid heavy taxes, worked on plantations and mines, and resisted through revolts, reform and nationalism.",
+"food": "Sugar, tea, cotton, opium become global commodities",
+"species": "—",
+"summary": "From the 16th to the mid-20th century, European powers colonised the Americas, much of Asia and nearly all of Africa. Colonial rule extracted resources and labour, imposed borders, spread European languages and Christianity, and caused famines and genocides, while also introducing railways and modern education. Independence movements ended most empires after 1945.",
+"wiki": "Colonialism",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "colonial-era"
+},
+{
 "name": "Industrial Revolution",
 "start": 1760,
 "end": 1900,
@@ -526,6 +556,21 @@
 "group": "Modern world",
 "emoji": "🏭",
 "slug": "industrial-revolution"
+},
+{
+"name": "Age of Revolutions",
+"start": 1765,
+"end": 1848,
+"when": "c. 1765–1848",
+"region": "Atlantic world",
+"life": "Ideas of liberty, rights and nationhood spread; peasants and slaves rose up.",
+"food": "—",
+"species": "—",
+"summary": "The American, French, Haitian and Latin American revolutions overthrew monarchies and colonial rule, spreading ideas of popular sovereignty.",
+"wiki": "Age_of_Revolution",
+"group": "Early modern world",
+"emoji": "⛵",
+"slug": "age-of-revolutions"
 },
 {
 "name": "British Raj",
@@ -573,21 +618,6 @@
 "slug": "cold-war"
 },
 {
-"name": "Information Age",
-"start": 1970,
-"end": 2026,
-"when": "1970s – today",
-"region": "Global",
-"life": "Most people now carry a connected device; information spreads instantly, along with misinformation.",
-"food": "Global supply chains",
-"species": "—",
-"summary": "Since the 1970s, microchips, personal computers, the internet (1983), the World Wide Web (1991) and smartphones have transformed communication, work and politics. India became a major IT services centre, and digital payments reached hundreds of millions. Artificial intelligence is the latest phase.",
-"wiki": "Information_Age",
-"group": "Modern world",
-"emoji": "🏭",
-"slug": "information-age"
-},
-{
 "name": "Anthropocene",
 "start": 1950,
 "end": 2026,
@@ -601,5 +631,20 @@
 "group": "Modern world",
 "emoji": "🏭",
 "slug": "anthropocene"
+},
+{
+"name": "Information Age",
+"start": 1970,
+"end": 2026,
+"when": "1970s – today",
+"region": "Global",
+"life": "Most people now carry a connected device; information spreads instantly, along with misinformation.",
+"food": "Global supply chains",
+"species": "—",
+"summary": "Since the 1970s, microchips, personal computers, the internet (1983), the World Wide Web (1991) and smartphones have transformed communication, work and politics. India became a major IT services centre, and digital payments reached hundreds of millions. Artificial intelligence is the latest phase.",
+"wiki": "Information_Age",
+"group": "Modern world",
+"emoji": "🏭",
+"slug": "information-age"
 }
 ]

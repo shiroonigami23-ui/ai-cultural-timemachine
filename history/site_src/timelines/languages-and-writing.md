@@ -1,9 +1,9 @@
 ---
 title: Timeline: Languages and writing
-summary: How language families spread and when scripts and key texts appeared, from proto-languages to modern tongues. (111 entries)
+summary: How language families spread and when scripts and key texts appeared, from proto-languages to modern tongues. (121 entries)
 level: Timeline
 ---
-How language families spread and when scripts and key texts appeared, from proto-languages to modern tongues. (111 entries)
+How language families spread and when scripts and key texts appeared, from proto-languages to modern tongues. (121 entries)
 
 :::collapse Deep prehistory (before 10,000 BCE) (1)
 <div class="timeline">
@@ -66,7 +66,7 @@ How language families spread and when scripts and key texts appeared, from proto
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (20)
+:::collapse !Classical age (500 BCE–500 CE) (24)
 <div class="timeline">
 <div class="ev"><span class="yr">500 BCE</span>: 🗣 Family: <a href="/wiki/languages/turkic.html">Turkic</a> <span class='muted'>· East Asia</span> — Mongolia and Siberia</div>
 <div class="ev"><span class="yr">500 BCE</span>: 🗣 Family: <a href="/wiki/languages/quechuan.html">Quechuan</a> <span class='muted'>· Americas</span> — Central Peru</div>
@@ -74,14 +74,18 @@ How language families spread and when scripts and key texts appeared, from proto
 <div class="ev"><span class="yr">500 BCE</span>: 🗣 Indo-Aryan: <a href="/wiki/languages/prakrits-and-pali.html">Prakrits and Pali</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">500 BCE</span>: 🗣 Sinitic: <a href="/wiki/languages/classical-chinese.html">Classical Chinese</a> <span class='muted'>· East Asia</span> — China</div>
 <div class="ev"><span class="yr">500 BCE</span>: 🗣 Language: <a href="/wiki/languages/ge-ez.html">Ge&#x27;ez</a> <span class='muted'>· Africa</span> — Ethiopia</div>
+<div class="ev"><span class="yr">400 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/mahabharata-critical-edition-manuscripts.html">Mahabharata (critical edition manuscripts)</a> <span class='muted'>· South Asia</span> — Many scripts</div>
 <div class="ev"><span class="yr">300 BCE</span>: 🗣 Dravidian: <a href="/wiki/languages/old-tamil.html">Old Tamil</a> <span class='muted'>· Global</span> — Tamil Nadu</div>
 <div class="ev"><span class="yr">300 BCE</span>: 🗣 Language: <a href="/wiki/languages/pali.html">Pali</a> <span class='muted'>· South Asia</span> — India</div>
 <div class="ev"><span class="yr">300 BCE</span>: 🗣 Language: <a href="/wiki/languages/tamil-classical.html">Tamil (Classical)</a> <span class='muted'>· Global</span> — Tamil Nadu</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/arthashastra.html">Arthashastra</a> <span class='muted'>· South Asia</span> — Grantha palm-leaf copy</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/guodian-bamboo-slips.html">Guodian bamboo slips</a> <span class='muted'>· East Asia</span> — Chu script</div>
+<div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/valmiki-ramayana-manuscripts.html">Valmiki Ramayana manuscripts</a> <span class='muted'>· South Asia</span> — Many scripts</div>
 <div class="ev"><span class="yr">260 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/edicts-of-ashoka.html">Edicts of Ashoka</a> <span class='muted'>· South Asia</span> — Brahmi, Kharosthi, Greek, Aramaic</div>
 <div class="ev"><span class="yr">250 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/dead-sea-scrolls.html">Dead Sea Scrolls</a> <span class='muted'>· Middle East</span> — Hebrew square script</div>
 <div class="ev"><span class="yr">200 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/tolkappiyam-and-sangam-anthologies.html">Tolkappiyam and Sangam anthologies</a> <span class='muted'>· South Asia</span> — Tamil-Brahmi, later Tamil script</div>
+<div class="ev"><span class="yr">200 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/iliad-and-odyssey-papyri.html">Iliad and Odyssey papyri</a> <span class='muted'>· Africa</span> — Greek</div>
+<div class="ev"><span class="yr">140 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/the-art-of-war-bamboo-slips-of-yinqueshan.html">The Art of War (Bamboo slips of Yinqueshan)</a> <span class='muted'>· East Asia</span> — Chinese characters</div>
 <div class="ev"><span class="yr">300 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/bakhshali-manuscript.html">Bakhshali manuscript</a> <span class='muted'>· South Asia</span> — Sharada</div>
 <div class="ev"><span class="yr">350 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/codex-sinaiticus.html">Codex Sinaiticus</a> <span class='muted'>· Europe</span> — Greek uncials</div>
 <div class="ev"><span class="yr">400 CE</span>: 🗣 Semitic: <a href="/wiki/languages/classical-arabic.html">Classical Arabic</a> <span class='muted'>· Middle East</span> — Arabia</div>
@@ -114,19 +118,22 @@ How language families spread and when scripts and key texts appeared, from proto
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (24)
+:::collapse !Late medieval (1000–1500) (27)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 🗣 Indo-Aryan: <a href="/wiki/languages/bengali.html">Bengali</a> <span class='muted'>· South Asia</span> — Bengal</div>
 <div class="ev"><span class="yr">1000</span>: 🗣 Language: <a href="/wiki/languages/odia.html">Odia</a> <span class='muted'>· Global</span> — Odisha</div>
 <div class="ev"><span class="yr">1000</span>: 📜 Manuscript: <a href="/wiki/manuscripts/beowulf-manuscript.html">Beowulf manuscript</a> <span class='muted'>· Europe</span> — Insular script</div>
 <div class="ev"><span class="yr">1010</span>: 📜 Manuscript: <a href="/wiki/manuscripts/tale-of-genji.html">Tale of Genji</a> <span class='muted'>· East Asia</span> — Kana</div>
 <div class="ev"><span class="yr">1025</span>: 📜 Manuscript: <a href="/wiki/manuscripts/ibn-sina-s-canon-of-medicine.html">Ibn Sina&#x27;s Canon of Medicine</a> <span class='muted'>· Middle East</span> — Arabic</div>
+<div class="ev"><span class="yr">1070</span>: 📜 Manuscript: <a href="/wiki/manuscripts/kathasaritsagara.html">Kathasaritsagara</a> <span class='muted'>· South Asia</span> — Devanagari</div>
+<div class="ev"><span class="yr">1077</span>: 📜 Manuscript: <a href="/wiki/manuscripts/bayeux-tapestry.html">Bayeux Tapestry</a> <span class='muted'>· Europe</span> — Latin</div>
 <div class="ev"><span class="yr">1086</span>: 📜 Manuscript: <a href="/wiki/manuscripts/domesday-book.html">Domesday Book</a> <span class='muted'>· Europe</span> — Carolingian minuscule</div>
 <div class="ev"><span class="yr">1100</span>: 🗣 Indo-Aryan: <a href="/wiki/languages/marathi.html">Marathi</a> <span class='muted'>· Global</span> — Maharashtra</div>
 <div class="ev"><span class="yr">1100</span>: 🗣 Indo-Aryan: <a href="/wiki/languages/punjabi.html">Punjabi</a> <span class='muted'>· Global</span> — Punjab</div>
 <div class="ev"><span class="yr">1100</span>: 🗣 Slavic: <a href="/wiki/languages/russian.html">Russian</a> <span class='muted'>· Global</span> — Kievan Rus&#x27;</div>
 <div class="ev"><span class="yr">1100</span>: 🗣 Romance: <a href="/wiki/languages/portuguese.html">Portuguese</a> <span class='muted'>· Global</span> — Portugal</div>
 <div class="ev"><span class="yr">1100</span>: 🗣 Language: <a href="/wiki/languages/gujarati.html">Gujarati</a> <span class='muted'>· Global</span> — Gujarat</div>
+<div class="ev"><span class="yr">1148</span>: 📜 Manuscript: <a href="/wiki/manuscripts/rajatarangini.html">Rajatarangini</a> <span class='muted'>· South Asia</span> — Sharada</div>
 <div class="ev"><span class="yr">1200</span>: 🗣 Indo-Aryan: <a href="/wiki/languages/hindi-urdu-hindustani.html">Hindi–Urdu (Hindustani)</a> <span class='muted'>· South Asia</span> — North India</div>
 <div class="ev"><span class="yr">1200</span>: 🗣 Language: <a href="/wiki/languages/assamese.html">Assamese</a> <span class='muted'>· Global</span> — Assam</div>
 <div class="ev"><span class="yr">1200</span>: 📜 Manuscript: <a href="/wiki/manuscripts/dresden-codex.html">Dresden Codex</a> <span class='muted'>· Americas</span> — Maya script</div>
@@ -143,10 +150,13 @@ How language families spread and when scripts and key texts appeared, from proto
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (7)
+:::collapse Early modern (1500–1800) (10)
 <div class="timeline">
+<div class="ev"><span class="yr">1500</span>: 📜 Manuscript: <a href="/wiki/manuscripts/prithviraj-raso.html">Prithviraj Raso</a> <span class='muted'>· South Asia</span> — Devanagari</div>
 <div class="ev"><span class="yr">1510</span>: 📜 Manuscript: <a href="/wiki/manuscripts/leonardo-s-codex-leicester.html">Leonardo&#x27;s Codex Leicester</a> <span class='muted'>· Europe</span> — Mirror writing</div>
 <div class="ev"><span class="yr">1530</span>: 📜 Manuscript: <a href="/wiki/manuscripts/baburnama.html">Baburnama</a> <span class='muted'>· South Asia</span> — Perso-Arabic</div>
+<div class="ev"><span class="yr">1530</span>: 📜 Manuscript: <a href="/wiki/manuscripts/shahnameh-of-shah-tahmasp.html">Shahnameh of Shah Tahmasp</a> <span class='muted'>· Middle East</span> — Nastaliq</div>
+<div class="ev"><span class="yr">1540</span>: 📜 Manuscript: <a href="/wiki/manuscripts/padmavat.html">Padmavat</a> <span class='muted'>· South Asia</span> — Persian script</div>
 <div class="ev"><span class="yr">1541</span>: 📜 Manuscript: <a href="/wiki/manuscripts/codex-mendoza.html">Codex Mendoza</a> <span class='muted'>· Americas</span> — Aztec pictography</div>
 <div class="ev"><span class="yr">1550</span>: 📜 Manuscript: <a href="/wiki/manuscripts/popol-vuh.html">Popol Vuh</a> <span class='muted'>· Americas</span> — Latin script</div>
 <div class="ev"><span class="yr">1577</span>: 📜 Manuscript: <a href="/wiki/manuscripts/florentine-codex.html">Florentine Codex</a> <span class='muted'>· Americas</span> — Latin script</div>

@@ -12,9 +12,11 @@ def blob(x, ks): return " ".join(str(x.get(k, "")) for k in ks)
 for e in ev: e["link_text"] = blob(e, ("summary", "details", "impact", "region"))
 cre = L("creatures")
 for c in cre: c["link_text"] = blob(c, ("origin", "stories", "belief", "slayers", "connections", "first"))
+bat = L("battles")
+for b in bat: b["link_text"] = blob(b, ("war", "place", "sides", "commanders", "summary", "tactics", "betrayal", "atrocities", "reshaped", "connections"))
 for p in ppl:
     extra = []
-    for coll, ks in ((ev, ("summary", "details")), (civ, ("summary", "rise", "fall", "government", "legacy", "culture")), (dyn, ("founder", "notable", "rise", "fall")), (bel, ("founder", "summary")), (cre, ("stories", "slayers"))):
+    for coll, ks in ((ev, ("summary", "details")), (civ, ("summary", "rise", "fall", "government", "legacy", "culture")), (dyn, ("founder", "notable", "rise", "fall")), (bel, ("founder", "summary")), (cre, ("stories", "slayers")), (bat, ("commanders", "betrayal", "atrocities"))):
         extra += [o["name"] for o in coll if has(blob(o, ks), p["name"])]
     p["link_text"] = " ; ".join([blob(p, ("summary", "known_for", "connections", "region"))] + extra)
 inv, hid = L("inventions"), L("hidden_history")
@@ -23,5 +25,5 @@ for h in hid: h["link_text"] = blob(h, ("claim", "truth", "evidence", "region"))
 eng = L("engineering")
 for e in eng: e["link_text"] = blob(e, ("builders", "summary", "tricks", "legacy", "connections", "where"))
 S("engineering", eng)
-S("creatures", cre); S("people", ppl); S("events", ev); S("inventions", inv); S("hidden_history", hid)
+S("creatures", cre); S("battles", bat); S("people", ppl); S("events", ev); S("inventions", inv); S("hidden_history", hid)
 print("link_text built for", len(ppl), "people and", len(ev), "events")

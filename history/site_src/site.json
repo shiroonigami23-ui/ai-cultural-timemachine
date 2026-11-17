@@ -18,23 +18,23 @@
    "civilisations"
   ],
   [
-   "310",
+   "313",
    "turning points"
   ],
   [
-   "264",
+   "30",
+   "battles & sieges"
+  ],
+  [
+   "278",
    "historical figures"
   ],
   [
-   "50",
+   "61",
    "structures explained"
   ],
   [
-   "43",
-   "legendary creatures"
-  ],
-  [
-   "1,379+",
+   "1,467+",
    "catalog entries"
   ]
  ],
@@ -74,7 +74,8 @@
     "hidden-history-and-conspiracies",
     "engineering-and-construction",
     "invasions-and-conquests",
-    "myths-and-legendary-creatures"
+    "myths-and-legendary-creatures",
+    "battles-betrayals-and-atrocities"
    ]
   },
   {
@@ -398,7 +399,7 @@
    "id": "civilizations",
    "icon": "🏛",
    "title": "Civilisations & Empires",
-   "short": "86 civilisations from Sumer to the USSR",
+   "short": "From Sumer to the Soviet Union: how each rose, ruled and fell",
    "noun": "civilisations",
    "file": "data/civilizations.json",
    "sub_key": "when",
@@ -554,6 +555,12 @@
      "coll": "creatures",
      "theirs": "link_text",
      "label": "🐉 Legends"
+    },
+    {
+     "type": "backname",
+     "coll": "battles",
+     "theirs": "link_text",
+     "label": "⚔ Battles and sieges"
     }
    ],
    "prompt": "Photorealistic, historically accurate reconstruction of a busy street or court in the {name} ({when}) at its height in {region}, with period clothing, architecture and daily life, cinematic, 16:9, no text"
@@ -594,6 +601,12 @@
      "coll": "engineering",
      "theirs": "link_text",
      "label": "🏗 Monuments"
+    },
+    {
+     "type": "backname",
+     "coll": "battles",
+     "theirs": "link_text",
+     "label": "⚔ Battles"
     }
    ],
    "id": "dynasties",
@@ -680,7 +693,7 @@
    "id": "events",
    "icon": "📅",
    "title": "Events That Shaped History",
-   "short": "101 turning points",
+   "short": "Turning points from the ice ages to today, with causes and consequences",
    "noun": "events",
    "file": "data/events.json",
    "sub_key": "when",
@@ -788,8 +801,167 @@
      "coll": "engineering",
      "theirs": "link_text",
      "label": "🏗 Structures"
+    },
+    {
+     "type": "backname",
+     "coll": "battles",
+     "theirs": "link_text",
+     "label": "⚔ Battles"
     }
    ]
+  },
+  {
+   "name_key": "name",
+   "group_key": "group",
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "live_photos": true,
+   "studies": false,
+   "sounds": false,
+   "id": "battles",
+   "icon": "⚔",
+   "title": "Battles, Sieges & Betrayals",
+   "short": "How battles were really fought — tactics, traitors, war crimes and how each reshaped history",
+   "noun": "battles",
+   "file": "data/battles.json",
+   "sub_key": "when",
+   "desc": "The battles and sieges that changed history, told without the glory filter: Thermopylae and Ephialtes's betrayal, Cannae, the Teutoburg ambush, Karbala, Hattin, Agincourt and the killing of prisoners, the Black Dinner, the fall of Constantinople, Tarain, Chittorgarh and its jauhar, Talikota, Plassey and Mir Jafar, Panipat, Saraighat, Seringapatam and Mir Sadiq, Cawnpore and Bibighar, Cajamarca, Glencoe, Wounded Knee, the Somme, Gallipoli, Nanjing, Stalingrad, Dresden, My Lai, Bangladesh 1971 and Srebrenica. Each covers the sides, commanders, forces and casualties; how it was fought; the traitors and backstabbing; the atrocities and war crimes; and how it reshaped history.",
+   "facts": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "war",
+     "War"
+    ],
+    [
+     "place",
+     "Where"
+    ],
+    [
+     "sides",
+     "Sides"
+    ],
+    [
+     "commanders",
+     "Commanders"
+    ],
+    [
+     "forces",
+     "Forces"
+    ],
+    [
+     "casualties",
+     "Casualties"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "Overview"
+    ],
+    [
+     "tactics",
+     "How it was fought"
+    ],
+    [
+     "betrayal",
+     "Traitors, backstabbing and dirty tricks"
+    ],
+    [
+     "atrocities",
+     "Atrocities and war crimes"
+    ],
+    [
+     "reshaped",
+     "How it reshaped history"
+    ]
+   ],
+   "columns": [
+    [
+     "when",
+     "When"
+    ],
+    [
+     "place",
+     "Where"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Battles by era"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "people",
+     "mine": "link_text",
+     "label": "👤 Commanders, heroes and traitors"
+    },
+    {
+     "type": "text",
+     "coll": "civilizations",
+     "mine": "link_text",
+     "label": "🏛 Empires involved"
+    },
+    {
+     "type": "text",
+     "coll": "dynasties",
+     "mine": "link_text",
+     "label": "👑 Dynasties"
+    },
+    {
+     "type": "text",
+     "coll": "events",
+     "mine": "link_text",
+     "label": "📅 Related events"
+    },
+    {
+     "type": "text",
+     "coll": "engineering",
+     "mine": "link_text",
+     "label": "🏰 Forts and engineering"
+    },
+    {
+     "type": "text",
+     "coll": "sites",
+     "mine": "link_text",
+     "label": "🏛 Sites"
+    },
+    {
+     "type": "text",
+     "coll": "beliefs",
+     "mine": "link_text",
+     "label": "🕉 Beliefs"
+    },
+    {
+     "type": "text",
+     "coll": "battles",
+     "mine": "link_text",
+     "label": "⚔ Related battles"
+    },
+    {
+     "type": "text",
+     "coll": "inventions",
+     "mine": "link_text",
+     "label": "⚙ Weapons and technology"
+    },
+    {
+     "type": "text",
+     "coll": "hidden_history",
+     "mine": "link_text",
+     "label": "🔓 Hidden history"
+    }
+   ],
+   "prompt": "Historically accurate painting of the {name} ({when}, {place}), armies and terrain, sombre documentary style, no gore, 16:9, no text"
   },
   {
    "name_key": "name",
@@ -927,6 +1099,12 @@
      "coll": "creatures",
      "theirs": "link_text",
      "label": "🐉 Creatures faced"
+    },
+    {
+     "type": "backname",
+     "coll": "battles",
+     "theirs": "link_text",
+     "label": "⚔ Battles"
     }
    ]
   },
@@ -945,7 +1123,7 @@
    "id": "sites",
    "icon": "🗿",
    "title": "Wonders & Archaeological Sites",
-   "short": "Pyramids to the Taj Mahal",
+   "short": "Pyramids, forts, temples and memorials",
    "noun": "sites",
    "file": "data/sites.json",
    "sub_key": "stype",
@@ -1015,6 +1193,18 @@
      "coll": "dynasties",
      "mine": "built_by",
      "label": "👑 Dynasty"
+    },
+    {
+     "type": "backname",
+     "coll": "battles",
+     "theirs": "link_text",
+     "label": "⚔ Battles"
+    },
+    {
+     "type": "text",
+     "coll": "engineering",
+     "mine": "summary",
+     "label": "🏗 How it was built"
     }
    ]
   },
@@ -1480,6 +1670,12 @@
      "coll": "hidden_history",
      "theirs": "link_text",
      "label": "🔓 Hidden history"
+    },
+    {
+     "type": "backname",
+     "coll": "battles",
+     "theirs": "link_text",
+     "label": "⚔ Used in battles"
     }
    ]
   },
@@ -1616,6 +1812,12 @@
      "coll": "beliefs",
      "mine": "link_text",
      "label": "🕉 Beliefs"
+    },
+    {
+     "type": "backname",
+     "coll": "battles",
+     "theirs": "link_text",
+     "label": "⚔ Sieges here"
     }
    ],
    "prompt": "Cutaway technical illustration showing how {name} was built ({when}, {where}), workers and tools, warm documentary style, 16:9, no text"
@@ -2048,7 +2250,7 @@
    "id": "papers",
    "icon": "📄",
    "title": "Research Papers",
-   "short": "Read or download",
+   "short": "Landmark studies in plain language, with links to read them",
    "noun": "papers",
    "file": "data/papers.json",
    "name_key": "name",
@@ -2163,6 +2365,30 @@
     "palaeogenom",
     "paleogenom"
    ]
+  },
+  {
+   "id": "battlefield",
+   "icon": "⚔",
+   "name": "Battlefield archaeology",
+   "status": "Digs at Kalkriese (Teutoburg), Agincourt and WWI sites",
+   "next": "New finds published each season",
+   "query": "battlefield archaeology",
+   "must": [
+    "battlefield",
+    "battle"
+   ]
+  },
+  {
+   "id": "castles",
+   "icon": "🏰",
+   "name": "Castle & fortification research",
+   "status": "Laser scans and excavations of medieval and Indian forts",
+   "next": "Ongoing",
+   "query": "medieval castle fortification",
+   "must": [
+    "castle",
+    "fort"
+   ]
   }
  ],
  "tracker_page": "data/tracker",
@@ -2182,6 +2408,10 @@
   {
    "id": "engineering",
    "title": "How it was built"
+  },
+  {
+   "id": "battles",
+   "title": "Battles"
   },
   {
    "id": "dynasties",
@@ -2222,6 +2452,7 @@
     "civilizations",
     "dynasties",
     "events",
+    "battles",
     "people"
    ]
   },
@@ -2258,11 +2489,11 @@
  "search_hints": [
   "Mughal Empire",
   "Colosseum",
-  "Ashoka",
+  "Plassey",
+  "Castle",
   "Cu Chi tunnels",
-  "Indus script",
-  "Black Death",
+  "Thermopylae",
   "Medusa",
-  "Dragon"
+  "Black Death"
  ]
 }

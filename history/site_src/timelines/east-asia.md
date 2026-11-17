@@ -1,9 +1,9 @@
 ---
 title: Timeline: East Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (97 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (103 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (97 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (103 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -40,8 +40,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (19)
+:::collapse !Classical age (500 BCE–500 CE) (21)
 <div class="timeline">
+<div class="ev"><span class="yr">400 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/trebuchet.html">Trebuchet</a> — China; Middle East</div>
 <div class="ev"><span class="yr">372 BCE</span>: 👤 Born: <a href="/wiki/people/mencius.html">Mencius</a> — Confucian thinker</div>
 <div class="ev"><span class="yr">300 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/kitsune.html">Kitsune</a> — China and Japan</div>
 <div class="ev"><span class="yr">300 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/guodian-bamboo-slips.html">Guodian bamboo slips</a> — c. 300 BCE</div>
@@ -57,6 +58,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">206 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/han-dynasty.html">Han dynasty</a> — 206 BCE–220 CE</div>
 <div class="ev"><span class="yr">206 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/han-dynasty.html">Han dynasty</a> — Liu Bang, a peasant-born official, rebelled after the Qin collapse and defeated the aristocrat Xiang Yu in 202 BCE, founding the Han. He sof</div>
 <div class="ev"><span class="yr">145 BCE</span>: 👤 Born: <a href="/wiki/people/sima-qian.html">Sima Qian</a> — Records of the Grand Historian</div>
+<div class="ev"><span class="yr">140 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/the-art-of-war-bamboo-slips-of-yinqueshan.html">The Art of War (Bamboo slips of Yinqueshan)</a> — c. 2nd century BCE (Yinqueshan slips)</div>
 <div class="ev"><span class="yr">57 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/goguryeo-baekje-and-silla.html">Goguryeo, Baekje and Silla</a> — 57 BCE–935 CE</div>
 <div class="ev"><span class="yr">105 CE</span>: ⚙ Invention: <a href="/wiki/inventions/paper.html">Paper</a> — China</div>
 <div class="ev"><span class="yr">184 CE</span>: 📅 Uprising: <a href="/wiki/events/yellow-turban-rebellion.html">Yellow Turban rebellion</a> — Han collapse</div>
@@ -86,13 +88,14 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (22)
+:::collapse !Late medieval (1000–1500) (23)
 <div class="timeline">
 <div class="ev"><span class="yr">1010</span>: 📜 Manuscript: <a href="/wiki/manuscripts/tale-of-genji.html">Tale of Genji</a> — c. 1010</div>
 <div class="ev"><span class="yr">1040</span>: ⚙ Invention: <a href="/wiki/inventions/compass.html">Compass</a> — China</div>
 <div class="ev"><span class="yr">1040</span>: ⚙ Invention: <a href="/wiki/inventions/movable-type.html">Movable type</a> — China</div>
 <div class="ev"><span class="yr">1132</span>: ⚙ Invention: <a href="/wiki/inventions/cannon.html">Cannon</a> — China</div>
 <div class="ev"><span class="yr">1162</span>: 👤 Born: <a href="/wiki/people/genghis-khan.html">Genghis Khan</a> — Founded the Mongol Empire</div>
+<div class="ev"><span class="yr">1175</span>: 👤 Born: <a href="/wiki/people/subutai.html">Subutai</a> — Strategist of Mongol conquests</div>
 <div class="ev"><span class="yr">1185</span>: 👑 Dynasty: <a href="/wiki/dynasties/kamakura-shogunate.html">Kamakura shogunate</a> — Minamoto no Yoritomo won the Genpei War and in 1192 was named shogun, creating rule by warriors from Kamakura; the Hōjō family later ruled a</div>
 <div class="ev"><span class="yr">1206</span>: 📅 Conquest: <a href="/wiki/events/mongol-conquests.html">Mongol conquests</a> — ~30–40 million deaths (estimates)</div>
 <div class="ev"><span class="yr">1215</span>: 👤 Born: <a href="/wiki/people/kublai-khan.html">Kublai Khan</a> — Yuan dynasty</div>
@@ -113,19 +116,21 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (7)
+:::collapse Early modern (1500–1800) (9)
 <div class="timeline">
 <div class="ev"><span class="yr">1592</span>: 📅 War: <a href="/wiki/events/imjin-war.html">Imjin War</a> — Japanese invasion repelled</div>
 <div class="ev"><span class="yr">1600</span>: 📅 War: <a href="/wiki/events/battle-of-sekigahara.html">Battle of Sekigahara</a> — Tokugawa peace</div>
 <div class="ev"><span class="yr">1603</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/edo-japan-tokugawa.html">Edo Japan (Tokugawa)</a> — 1603–1868</div>
 <div class="ev"><span class="yr">1603</span>: 👑 Dynasty: <a href="/wiki/dynasties/tokugawa-shogunate.html">Tokugawa shogunate</a> — Tokugawa Ieyasu won the Battle of Sekigahara (1600) and became shogun in 1603, ending a century of civil war.</div>
+<div class="ev"><span class="yr">1609</span>: 🗿 Built / founded: <a href="/wiki/sites/himeji-castle.html">Himeji Castle</a> — Ikeda Terumasa</div>
+<div class="ev"><span class="yr">1609</span>: 🏗 Built: <a href="/wiki/engineering/himeji-castle.html">Himeji Castle</a> — Japan</div>
 <div class="ev"><span class="yr">1644</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/qing-dynasty.html">Qing dynasty</a> — 1644–1912</div>
 <div class="ev"><span class="yr">1644</span>: 👑 Dynasty: <a href="/wiki/dynasties/qing-dynasty.html">Qing dynasty</a> — The Manchus, unified by Nurhaci, took Beijing in 1644 after the Ming collapse.</div>
 <div class="ev"><span class="yr">1644</span>: 📅 Conquest: <a href="/wiki/events/manchu-conquest-of-china.html">Manchu conquest of China</a> — Qing dynasty</div>
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (10)
+:::collapse Industrial and imperial age (1800–1945) (11)
 <div class="timeline">
 <div class="ev"><span class="yr">1850</span>: 📅 Civil war: <a href="/wiki/events/taiping-rebellion.html">Taiping Rebellion</a> — 20–30 million dead</div>
 <div class="ev"><span class="yr">1866</span>: 👤 Born: <a href="/wiki/people/sun-yat-sen.html">Sun Yat-sen</a> — Father of the Republic of China</div>
@@ -137,6 +142,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1927</span>: 📅 Civil war: <a href="/wiki/events/chinese-civil-war.html">Chinese Civil War</a> — Communist victory</div>
 <div class="ev"><span class="yr">1936</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/unit-731-and-the-us-cover-up.html">Unit 731 and the US cover-up</a> — Documented fact</div>
 <div class="ev"><span class="yr">1937</span>: 📅 Invasion: <a href="/wiki/events/japanese-invasion-of-china-and-the-nanjing-massacre.html">Japanese invasion of China and the Nanjing Massacre</a> — Start of the war in Asia</div>
+<div class="ev"><span class="yr">1937</span>: ⚔ Battle: <a href="/wiki/battles/nanjing-massacre.html">Nanjing Massacre</a> — Second Sino-Japanese War</div>
 </div>
 :::
 

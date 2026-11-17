@@ -1,9 +1,9 @@
 ---
 title: Timeline: Middle East
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (99 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (110 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (99 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (110 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -71,7 +71,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (12)
+:::collapse !Classical age (500 BCE–500 CE) (15)
 <div class="timeline">
 <div class="ev"><span class="yr">490 BCE</span>: 📅 War: <a href="/wiki/events/persian-wars.html">Persian Wars</a> — Marathon, Thermopylae, Salamis</div>
 <div class="ev"><span class="yr">400 BCE</span>: 🏗 Built: <a href="/wiki/engineering/yakhch-l-ice-houses-and-windcatchers.html">Yakhchāl ice houses and windcatchers</a> — Persia</div>
@@ -81,23 +81,29 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">250 BCE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/dead-sea-scrolls.html">Dead Sea Scrolls</a> — c. 250 BCE – 68 CE</div>
 <div class="ev"><span class="yr">247 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/parthian-empire.html">Parthian Empire</a> — Arsaces I led the Parni nomads to seize Parthia around 247 BCE; Mithridates I conquered Mesopotamia. Parthian horse archers destroyed a Roma</div>
 <div class="ev"><span class="yr">100 BCE</span>: 🏗 Built: <a href="/wiki/engineering/petra.html">Petra</a> — Jordan</div>
+<div class="ev"><span class="yr">30 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/masada.html">Masada</a> — Herod the Great</div>
 <div class="ev"><span class="yr">30 CE</span>: 📅 Religion: <a href="/wiki/events/crucifixion-of-jesus.html">Crucifixion of Jesus</a> — Birth of Christianity</div>
+<div class="ev"><span class="yr">70 CE</span>: ⚔ Battle: <a href="/wiki/battles/siege-of-jerusalem-70-ce.html">Siege of Jerusalem (70 CE)</a> — First Jewish–Roman War</div>
+<div class="ev"><span class="yr">73 CE</span>: ⚔ Battle: <a href="/wiki/battles/siege-of-masada.html">Siege of Masada</a> — First Jewish–Roman War</div>
 <div class="ev"><span class="yr">224 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/sasanian-empire.html">Sasanian Empire</a> — Ardashir I founded the empire in 224, promoting Zoroastrianism as state religion. Shapur I captured the Roman emperor Valerian (260). Khosro</div>
 <div class="ev"><span class="yr">325 CE</span>: 📅 Religious council: <a href="/wiki/events/council-of-nicaea.html">Council of Nicaea</a> — Defined core Christian doctrine</div>
 <div class="ev"><span class="yr">400 CE</span>: 🐉 Myth: <a href="/wiki/creatures/djinn-jinn.html">Djinn (Jinn)</a> — Arabia and the Islamic world</div>
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (16)
+:::collapse !Early medieval (500–1000) (19)
 <div class="timeline">
 <div class="ev"><span class="yr">537 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/hagia-sophia.html">Hagia Sophia</a> — Justinian</div>
 <div class="ev"><span class="yr">570 CE</span>: 👤 Born: <a href="/wiki/people/prophet-muhammad.html">Prophet Muhammad</a> — Founder of Islam</div>
+<div class="ev"><span class="yr">585 CE</span>: 👤 Born: <a href="/wiki/people/khalid-ibn-al-walid.html">Khalid ibn al-Walid</a> — &#x27;The Sword of God&#x27;; undefeated commander</div>
 <div class="ev"><span class="yr">622 CE</span>: 📅 Religion: <a href="/wiki/events/hijra-and-rise-of-islam.html">Hijra and rise of Islam</a> — Islamic calendar begins</div>
 <div class="ev"><span class="yr">624 CE</span>: 📅 War: <a href="/wiki/events/battle-of-badr.html">Battle of Badr</a> — Early Muslim victory</div>
 <div class="ev"><span class="yr">632 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/rashidun-caliphate.html">Rashidun Caliphate</a> — After Muhammad&#x27;s death in 632, Abu Bakr was chosen caliph and reunited Arabia. Umar&#x27;s armies conquered Syria, Egypt, Iraq and Pers</div>
 <div class="ev"><span class="yr">636 CE</span>: 📅 War: <a href="/wiki/events/battle-of-qadisiyyah.html">Battle of Qadisiyyah</a> — Fall of Sasanian Persia</div>
+<div class="ev"><span class="yr">636 CE</span>: 📅 Battle: <a href="/wiki/events/battle-of-yarmouk.html">Battle of Yarmouk</a> — Opened the Levant to the Arabs</div>
 <div class="ev"><span class="yr">645 CE</span>: 📜 Manuscript: <a href="/wiki/manuscripts/birmingham-quran-manuscript.html">Birmingham Quran manuscript</a> — 568–645 CE (carbon-dated)</div>
 <div class="ev"><span class="yr">661 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/umayyad-caliphate.html">Umayyad Caliphate</a> — Muawiya founded the Umayyad dynasty in Damascus. Its armies reached Spain (711) and Sindh (712). Abd al-Malik built the Dome of the Rock and</div>
+<div class="ev"><span class="yr">680 CE</span>: ⚔ Battle: <a href="/wiki/battles/battle-of-karbala.html">Battle of Karbala</a> — Second Fitna</div>
 <div class="ev"><span class="yr">750 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/abbasid-caliphate.html">Abbasid Caliphate</a> — Founded on the Abbasid revolution in 750; al-Mansur founded Baghdad in 762. Under Harun al-Rashid and al-Mamun the House of Wisdom translate</div>
 <div class="ev"><span class="yr">762 CE</span>: 📅 City founding: <a href="/wiki/events/founding-of-baghdad-and-the-house-of-wisdom.html">Founding of Baghdad and the House of Wisdom</a> — Centre of the Islamic Golden Age</div>
 <div class="ev"><span class="yr">780 CE</span>: 👤 Born: <a href="/wiki/people/al-khwarizmi.html">Al-Khwarizmi</a> — Algebra; &#x27;algorithm&#x27; derives from his name</div>
@@ -109,15 +115,18 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (13)
+:::collapse !Late medieval (1000–1500) (16)
 <div class="timeline">
 <div class="ev"><span class="yr">1025</span>: 📜 Manuscript: <a href="/wiki/manuscripts/ibn-sina-s-canon-of-medicine.html">Ibn Sina&#x27;s Canon of Medicine</a> — 1025</div>
 <div class="ev"><span class="yr">1037</span>: 👑 Dynasty: <a href="/wiki/dynasties/seljuk-empire.html">Seljuk Empire</a> — Tughril Beg led Oghuz Turks to take Baghdad in 1055. Alp Arslan defeated Byzantium at Manzikert (1071), opening Anatolia to Turks; vizier Ni</div>
 <div class="ev"><span class="yr">1071</span>: 📅 War: <a href="/wiki/events/battle-of-manzikert.html">Battle of Manzikert</a> — Turks enter Anatolia</div>
 <div class="ev"><span class="yr">1096</span>: 📅 War: <a href="/wiki/events/first-crusade.html">First Crusade</a> — Crusaders take Jerusalem</div>
 <div class="ev"><span class="yr">1137</span>: 👤 Born: <a href="/wiki/people/saladin.html">Saladin</a> — Retook Jerusalem</div>
+<div class="ev"><span class="yr">1170</span>: 🗿 Built / founded: <a href="/wiki/sites/krak-des-chevaliers.html">Krak des Chevaliers</a> — Knights Hospitaller</div>
+<div class="ev"><span class="yr">1170</span>: 🏗 Built: <a href="/wiki/engineering/krak-des-chevaliers.html">Krak des Chevaliers</a> — Syria</div>
 <div class="ev"><span class="yr">1171</span>: 👑 Dynasty: <a href="/wiki/dynasties/ayyubid-dynasty.html">Ayyubid dynasty</a> — Saladin, a Kurdish general, ended the Fatimids, united Egypt and Syria, and recaptured Jerusalem in 1187.</div>
 <div class="ev"><span class="yr">1187</span>: 📅 War: <a href="/wiki/events/saladin-retakes-jerusalem.html">Saladin retakes Jerusalem</a> — End of the Crusader kingdom&#x27;s core</div>
+<div class="ev"><span class="yr">1187</span>: ⚔ Battle: <a href="/wiki/battles/battle-of-hattin.html">Battle of Hattin</a> — Crusades</div>
 <div class="ev"><span class="yr">1256</span>: 👑 Dynasty: <a href="/wiki/dynasties/ilkhanate.html">Ilkhanate</a> — Hulagu Khan, Genghis Khan&#x27;s grandson, destroyed the Assassins&#x27; fortresses and sacked Baghdad (1258), killing the last Abbasid cali</div>
 <div class="ev"><span class="yr">1258</span>: 📅 Destruction: <a href="/wiki/events/sack-of-baghdad.html">Sack of Baghdad</a> — End of the Abbasid Caliphate; House of Wisdom destroyed</div>
 <div class="ev"><span class="yr">1260</span>: 📅 War: <a href="/wiki/events/battle-of-ain-jalut.html">Battle of Ain Jalut</a> — Mongol advance halted</div>
@@ -127,18 +136,20 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (3)
+:::collapse Early modern (1500–1800) (4)
 <div class="timeline">
 <div class="ev"><span class="yr">1501</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/safavid-iran.html">Safavid Iran</a> — 1501–1736</div>
 <div class="ev"><span class="yr">1501</span>: 👑 Dynasty: <a href="/wiki/dynasties/safavid-dynasty.html">Safavid dynasty</a> — Ismail I, head of a Sufi order, took Tabriz (1501) and imposed Shia Islam. Shah Abbas I (r. 1588–1629) moved the capital to Isfahan.</div>
+<div class="ev"><span class="yr">1530</span>: 📜 Manuscript: <a href="/wiki/manuscripts/shahnameh-of-shah-tahmasp.html">Shahnameh of Shah Tahmasp</a> — c. 1520s–1530s</div>
 <div class="ev"><span class="yr">1789</span>: 👑 Dynasty: <a href="/wiki/dynasties/qajar-dynasty.html">Qajar dynasty</a> — Agha Mohammad Khan, a Turkmen chief, reunited Iran by 1794 and made Tehran his capital.</div>
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (3)
+:::collapse Industrial and imperial age (1800–1945) (4)
 <div class="timeline">
 <div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/mustafa-kemal-atat-rk.html">Mustafa Kemal Atatürk</a> — Turkish Republic</div>
 <div class="ev"><span class="yr">1915</span>: 📅 Genocide: <a href="/wiki/events/armenian-genocide.html">Armenian genocide</a> — About 1 million Armenians killed</div>
+<div class="ev"><span class="yr">1915</span>: ⚔ Battle: <a href="/wiki/battles/gallipoli-campaign.html">Gallipoli campaign</a> — World War I</div>
 <div class="ev"><span class="yr">1923</span>: 📅 Politics: <a href="/wiki/events/turkish-republic-founded.html">Turkish Republic founded</a> — End of Ottoman rule</div>
 </div>
 :::
