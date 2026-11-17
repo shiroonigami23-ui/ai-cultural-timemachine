@@ -35,17 +35,19 @@ A full **history encyclopedia** now ships with the app in [`history/`](history/)
 
 | Catalog | Entries | What's inside |
 |---|---|---|
-| 🌳 Branching timeline | 1,170+ dated items | Civilisations and dynasties of 10 regions side by side, a full timeline for each region, and 11 theme timelines: religions, languages and writing, technology, manuscripts, hidden history, engineering, invasions and conquests, battles betrayals and atrocities, myths and legendary creatures, rulers, wars and disasters |
+| 🌳 Branching timeline | 1,210+ dated items | Civilisations and dynasties of 10 regions side by side, a full timeline for each region, and 11 theme timelines: religions, languages and writing, technology, manuscripts, hidden history, engineering, invasions and conquests, battles betrayals and atrocities, myths and legendary creatures, rulers, wars and disasters |
 | 🦴 Human species | 27 | From *Sahelanthropus* and Lucy to *Homo erectus*, Neanderthals, Denisovans and us: brain size, height, tools, firsts |
 | ⏳ Eras & Ages | 43 | Deep time to the Anthropocene: a full account of each era, how people lived, what they ate, the species of the time |
+| ❓ How & Why | 15 | The big questions: why humans went from hunting to farming, how towns, tribes and states formed, why religion, writing and money appeared, why empires fall, why industry began in Britain, why revolutions and rebellions happen — with competing theories |
 | 🏛 Civilisations & Empires | 86 | Multi-paragraph, researched sections on government, architecture, technology, food, how each rose, how it declined or fell, and its legacy |
 | 👑 Dynasties & Rulers | 98 | Founders, capitals, notable rulers, and detailed accounts of how each gained and lost power |
-| 📅 Events | 313 | Every event has a 'causes, course and consequences' section; Human evolution, ice ages, eruptions, plagues, conquests, the East India Company, 1857, both world wars, Partition; each tagged with its region |
+| 📅 Events | 319 | Every event has a 'causes, course and consequences' section; Human evolution, ice ages, eruptions, plagues, conquests, the East India Company, 1857, both world wars, Partition; each tagged with its region |
 | ⚔ Battles, Sieges & Betrayals | 30 | Thermopylae to Srebrenica — sides, commanders, forces and casualties; how each was fought; the traitors and backstabbing (Ephialtes, Mir Jafar, Mir Sadiq); atrocities and war crimes; and how it reshaped history |
-| 👤 People | 278 | Rulers, queens, tyrants, revolutionaries, prophets, philosophers, scientists, writers (Valmiki, Homer, Shakespeare, Premchand, Tolstoy), artists and entertainers (Tansen, Michelangelo, Charlie Chaplin, Marilyn Monroe) and explorers; each with a biography and links to the empires, dynasties, events and beliefs they belong to |
+| 👤 People | 288 | Rulers, queens, tyrants, revolutionaries, prophets, philosophers, scientists, writers (Valmiki, Homer, Shakespeare, Premchand, Tolstoy), artists and entertainers (Tansen, Michelangelo, Charlie Chaplin, Marilyn Monroe) and explorers; each with a biography and links to the empires, dynasties, events and beliefs they belong to |
 | 🗿 Sites & Wonders | 60 | Göbekli Tepe, Dholavira, the Pyramids, Angkor, the Taj Mahal, plus forts, castles and memorials (Chittorgarh, Kumbhalgarh, Mehrangarh, Krak des Chevaliers, Masada, Jallianwala Bagh) |
 | 🗣 Languages | 67 | Language families, ancient and modern languages, scripts and descendants |
 | 🏹 Peoples & Tribes | 31 | Hunter-gatherers, Adivasi and Indigenous peoples, Neanderthals |
+| 💞 Love, Desire & Society | 31 | How desire, marriage and scandal reshaped history: the hysteria myth and the vibrator, castrati, syphilis, the Pill, Habsburg marriages, Henry VIII, Rasputin, Casanova, harems and eunuchs, the Kama Sutra, tawaifs, devadasis, Section 377, the Magdalene laundries — myth vs evidence, and the industries created. Historical artwork with nudity is blurred until tapped |
 | 🪔 Festivals | 36 | Origins, how they are celebrated, festive food |
 | 🕉 Religions, Philosophies & Scripts | 44 | From animism and Vedic religion to Manichaeism, the Sunni–Shia split, Protestantism and Navayana; scripts from cuneiform to Ol Chiki |
 | ⚙ Inventions | 97 | Fire to AI; major inventions (printing press, telephone, light bulb, AC grid, aeroplane, radio, cinema, penicillin, atomic bomb, DNA, rockets, internet) have the story behind them, the rivalries and hidden history, and how they changed the world |

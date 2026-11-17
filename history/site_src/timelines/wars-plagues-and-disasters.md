@@ -1,9 +1,9 @@
 ---
 title: Timeline: Wars, plagues and disasters
-summary: The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (138 entries)
+summary: The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (140 entries)
 level: Timeline
 ---
-The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (138 entries)
+The shocks that ended empires and reshaped populations: eruptions, ice ages, droughts, pandemics, invasions and world wars. (140 entries)
 
 :::collapse Deep prehistory (before 10,000 BCE) (1)
 <div class="timeline">
@@ -23,10 +23,11 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (5)
+:::collapse !Iron Age (1200–500 BCE) (6)
 <div class="timeline">
 <div class="ev"><span class="yr">1200 BCE</span>: 📅 War: <a href="/wiki/events/trojan-war-traditional.html">Trojan War (traditional)</a> <span class='muted'>· Europe</span> — Legend of Homer&#x27;s Iliad</div>
 <div class="ev"><span class="yr">1177 BCE</span>: 📅 Invasion: <a href="/wiki/events/sea-peoples-raids.html">Sea Peoples&#x27; raids</a> <span class='muted'>· Middle East</span> — Part of the Late Bronze Age collapse</div>
+<div class="ev"><span class="yr">1177 BCE</span>: 📅 Collapse: <a href="/wiki/events/late-bronze-age-collapse.html">Late Bronze Age collapse</a> <span class='muted'>· Middle East</span> — End of the Bronze Age world</div>
 <div class="ev"><span class="yr">612 BCE</span>: 📅 War: <a href="/wiki/events/fall-of-nineveh.html">Fall of Nineveh</a> <span class='muted'>· Middle East</span> — End of Assyria</div>
 <div class="ev"><span class="yr">587 BCE</span>: 📅 Conquest: <a href="/wiki/events/babylonian-captivity.html">Babylonian captivity</a> <span class='muted'>· Middle East</span> — Jewish exile</div>
 <div class="ev"><span class="yr">539 BCE</span>: 📅 Conquest: <a href="/wiki/events/cyrus-takes-babylon.html">Cyrus takes Babylon</a> <span class='muted'>· Middle East</span> — Persian Empire</div>
@@ -73,7 +74,7 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (20)
+:::collapse !Late medieval (1000–1500) (21)
 <div class="timeline">
 <div class="ev"><span class="yr">1025</span>: 📅 War: <a href="/wiki/events/chola-naval-expedition-to-srivijaya.html">Chola naval expedition to Srivijaya</a> <span class='muted'>· Southeast Asia</span> — Chola dominance of sea trade</div>
 <div class="ev"><span class="yr">1025</span>: 📅 Invasion: <a href="/wiki/events/mahmud-of-ghazni-raids-somnath.html">Mahmud of Ghazni raids Somnath</a> <span class='muted'>· South Asia</span> — Plunder of temple wealth</div>
@@ -91,6 +92,7 @@ The shocks that ended empires and reshaped populations: eruptions, ice ages, dro
 <div class="ev"><span class="yr">1315</span>: 📅 Famine: <a href="/wiki/events/great-famine-of-europe.html">Great Famine of Europe</a> <span class='muted'>· Europe</span> — Millions dead</div>
 <div class="ev"><span class="yr">1337</span>: 📅 War: <a href="/wiki/events/hundred-years-war.html">Hundred Years&#x27; War</a> <span class='muted'>· Europe</span> — National identities formed</div>
 <div class="ev"><span class="yr">1346</span>: 📅 Pandemic (Yersinia pestis): <a href="/wiki/events/black-death.html">Black Death</a> <span class='muted'>· Global</span> — 30–60% of Europe died</div>
+<div class="ev"><span class="yr">1381</span>: 📅 Rebellion: <a href="/wiki/events/peasants-revolt.html">Peasants&#x27; Revolt</a> <span class='muted'>· Europe</span> — Labour revolt after the Black Death</div>
 <div class="ev"><span class="yr">1398</span>: 📅 War: <a href="/wiki/events/timur-sacks-delhi.html">Timur sacks Delhi</a> <span class='muted'>· South Asia</span> — Tughlaq collapse</div>
 <div class="ev"><span class="yr">1410</span>: 📅 War: <a href="/wiki/events/battle-of-grunwald.html">Battle of Grunwald</a> <span class='muted'>· Europe</span> — Teutonic Knights defeated</div>
 <div class="ev"><span class="yr">1453</span>: 📅 Conquest: <a href="/wiki/events/fall-of-constantinople.html">Fall of Constantinople</a> <span class='muted'>· Middle East</span> — End of the Byzantine Empire</div>

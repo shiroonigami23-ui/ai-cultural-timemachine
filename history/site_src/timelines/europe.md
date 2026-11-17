@@ -1,9 +1,9 @@
 ---
 title: Timeline: Europe
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (280 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (302 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (280 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Europe, from the earliest evidence to today (302 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (6)
 <div class="timeline">
@@ -137,15 +137,17 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Late medieval (1000–1500) (47)
+:::collapse !Late medieval (1000–1500) (53)
 <div class="timeline">
 <div class="ev"><span class="yr">1000</span>: 📜 Manuscript: <a href="/wiki/manuscripts/beowulf-manuscript.html">Beowulf manuscript</a> — c. 1000</div>
+<div class="ev"><span class="yr">1054</span>: 📅 Religious split: <a href="/wiki/events/great-schism-of-1054.html">Great Schism of 1054</a> — Split of Christianity</div>
 <div class="ev"><span class="yr">1066</span>: 👑 Dynasty: <a href="/wiki/dynasties/normans-and-plantagenets.html">Normans and Plantagenets</a> — William of Normandy won at Hastings in 1066, compiled the Domesday Book and built castles. Henry II founded the Plantagenet line (1154), rul</div>
 <div class="ev"><span class="yr">1066</span>: 📅 Conquest: <a href="/wiki/events/battle-of-hastings.html">Battle of Hastings</a> — Norman conquest</div>
 <div class="ev"><span class="yr">1077</span>: 📜 Manuscript: <a href="/wiki/manuscripts/bayeux-tapestry.html">Bayeux Tapestry</a> — c. 1070s</div>
 <div class="ev"><span class="yr">1078</span>: 🗿 Built / founded: <a href="/wiki/sites/tower-of-london.html">Tower of London</a> — William the Conqueror</div>
 <div class="ev"><span class="yr">1086</span>: 📜 Manuscript: <a href="/wiki/manuscripts/domesday-book.html">Domesday Book</a> — 1086</div>
 <div class="ev"><span class="yr">1100</span>: 🏗 Built: <a href="/wiki/engineering/how-castle-defences-worked.html">How castle defences worked</a> — Europe and the Crusader states</div>
+<div class="ev"><span class="yr">1100</span>: 💞 Society: <a href="/wiki/love/courtly-love-and-troubadours.html">Courtly love and troubadours</a> — 12th century</div>
 <div class="ev"><span class="yr">1140</span>: 🐉 Myth: <a href="/wiki/creatures/goblin.html">Goblin</a> — Medieval Europe (France, England, Germany)</div>
 <div class="ev"><span class="yr">1200</span>: 🗿 Built / founded: <a href="/wiki/sites/carcassonne.html">Carcassonne</a> — Romans, Visigoths, Trencavel lords</div>
 <div class="ev"><span class="yr">1200</span>: 🐉 Myth: <a href="/wiki/creatures/wyvern.html">Wyvern</a> — Medieval England and France</div>
@@ -164,6 +166,8 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1300</span>: 🐉 Myth: <a href="/wiki/creatures/banshee.html">Banshee</a> — Ireland</div>
 <div class="ev"><span class="yr">1315</span>: 📅 Famine: <a href="/wiki/events/great-famine-of-europe.html">Great Famine of Europe</a> — Millions dead</div>
 <div class="ev"><span class="yr">1337</span>: 📅 War: <a href="/wiki/events/hundred-years-war.html">Hundred Years&#x27; War</a> — National identities formed</div>
+<div class="ev"><span class="yr">1347</span>: ❓ How & why: <a href="/wiki/howwhy/how-did-the-black-death-change-the-world.html">How did the Black Death change the world?</a> — 1347–1351</div>
+<div class="ev"><span class="yr">1381</span>: 📅 Rebellion: <a href="/wiki/events/peasants-revolt.html">Peasants&#x27; Revolt</a> — Labour revolt after the Black Death</div>
 <div class="ev"><span class="yr">1400</span>: 👤 Born: <a href="/wiki/people/johannes-gutenberg.html">Johannes Gutenberg</a> — Movable-type printing press</div>
 <div class="ev"><span class="yr">1410</span>: 📅 War: <a href="/wiki/events/battle-of-grunwald.html">Battle of Grunwald</a> — Teutonic Knights defeated</div>
 <div class="ev"><span class="yr">1412</span>: 👤 Born: <a href="/wiki/people/joan-of-arc.html">Joan of Arc</a> — Turned the Hundred Years&#x27; War</div>
@@ -181,15 +185,17 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1455</span>: 📜 Manuscript: <a href="/wiki/manuscripts/gutenberg-bible.html">Gutenberg Bible</a> — c. 1455</div>
 <div class="ev"><span class="yr">1473</span>: 👤 Born: <a href="/wiki/people/nicolaus-copernicus.html">Nicolaus Copernicus</a> — Sun-centred universe</div>
 <div class="ev"><span class="yr">1475</span>: 👤 Born: <a href="/wiki/people/michelangelo.html">Michelangelo</a> — David, Sistine Chapel ceiling</div>
+<div class="ev"><span class="yr">1477</span>: 💞 Society: <a href="/wiki/love/habsburg-marriage-strategy.html">Habsburg marriage strategy</a> — 1477–1700</div>
 <div class="ev"><span class="yr">1480</span>: 👤 Born: <a href="/wiki/people/ferdinand-magellan.html">Ferdinand Magellan</a> — First circumnavigation</div>
 <div class="ev"><span class="yr">1485</span>: 👑 Dynasty: <a href="/wiki/dynasties/tudor-dynasty.html">Tudor dynasty</a> — Henry VII won at Bosworth (1485) and married Elizabeth of York to unite the rival houses. Henry VIII broke with Rome to annul his marriage (</div>
 <div class="ev"><span class="yr">1491</span>: 👤 Born: <a href="/wiki/people/henry-viii.html">Henry VIII</a> — Six wives, break with Rome</div>
 <div class="ev"><span class="yr">1492</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/spanish-empire.html">Spanish Empire</a> — 1492–1976</div>
 <div class="ev"><span class="yr">1492</span>: 📅 War: <a href="/wiki/events/fall-of-granada-and-reconquista.html">Fall of Granada and Reconquista</a> — End of Muslim rule in Iberia</div>
+<div class="ev"><span class="yr">1495</span>: 💞 Society: <a href="/wiki/love/syphilis.html">Syphilis</a> — First epidemic 1495; cured by penicillin from 1943</div>
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (47)
+:::collapse Early modern (1500–1800) (56)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/charles-v.html">Charles V</a> — Empire on which the sun never set</div>
 <div class="ev"><span class="yr">1500</span>: 🏗 Built: <a href="/wiki/engineering/star-forts.html">Star forts</a> — Italy, then worldwide</div>
@@ -199,7 +205,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1529</span>: 📅 Siege: <a href="/wiki/events/ottoman-siege-of-vienna.html">Ottoman siege of Vienna</a> — Limit of Ottoman expansion in Europe</div>
 <div class="ev"><span class="yr">1530</span>: 👤 Born: <a href="/wiki/people/ivan-the-terrible.html">Ivan the Terrible</a> — First tsar; reign of terror</div>
 <div class="ev"><span class="yr">1533</span>: 👤 Born: <a href="/wiki/people/elizabeth-i.html">Elizabeth I</a> — Chartered the East India Company</div>
+<div class="ev"><span class="yr">1534</span>: 💞 Society: <a href="/wiki/love/henry-viii-and-the-break-with-rome.html">Henry VIII and the break with Rome</a> — 1527–1536</div>
 <div class="ev"><span class="yr">1547</span>: 👤 Born: <a href="/wiki/people/miguel-de-cervantes.html">Miguel de Cervantes</a> — Don Quixote</div>
+<div class="ev"><span class="yr">1550</span>: 💞 Society: <a href="/wiki/love/castrati.html">Castrati</a> — c. 1550–1903 (last castrato died 1922)</div>
 <div class="ev"><span class="yr">1564</span>: 👤 Born: <a href="/wiki/people/galileo-galilei.html">Galileo Galilei</a> — Telescope discoveries</div>
 <div class="ev"><span class="yr">1564</span>: 👤 Born: <a href="/wiki/people/william-shakespeare.html">William Shakespeare</a> — Hamlet, Macbeth, Romeo and Juliet</div>
 <div class="ev"><span class="yr">1583</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/british-empire.html">British Empire</a> — 1583–1997</div>
@@ -222,14 +230,21 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1692</span>: ⚔ Battle: <a href="/wiki/battles/glencoe-massacre.html">Glencoe Massacre</a> — Jacobite unrest</div>
 <div class="ev"><span class="yr">1694</span>: 👤 Born: <a href="/wiki/people/voltaire.html">Voltaire</a> — Candide</div>
 <div class="ev"><span class="yr">1701</span>: 👑 Dynasty: <a href="/wiki/dynasties/hohenzollern-prussia-and-germany.html">Hohenzollern (Prussia and Germany)</a> — The Hohenzollerns, electors of Brandenburg, became kings in Prussia in 1701. Frederick William I built a disciplined army, and Frederick the</div>
+<div class="ev"><span class="yr">1705</span>: 👤 Born: <a href="/wiki/people/farinelli.html">Farinelli</a> — The most famous castrato</div>
 <div class="ev"><span class="yr">1712</span>: 👤 Born: <a href="/wiki/people/jean-jacques-rousseau.html">Jean-Jacques Rousseau</a> — The Social Contract</div>
 <div class="ev"><span class="yr">1712</span>: ⚙ Invention: <a href="/wiki/inventions/steam-engine.html">Steam engine</a> — Britain</div>
 <div class="ev"><span class="yr">1721</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/russian-empire.html">Russian Empire</a> — 1721–1917</div>
+<div class="ev"><span class="yr">1721</span>: 👤 Born: <a href="/wiki/people/madame-de-pompadour.html">Madame de Pompadour</a> — Influence at Louis XV&#x27;s court</div>
 <div class="ev"><span class="yr">1725</span>: 🐉 Myth: <a href="/wiki/creatures/vampire.html">Vampire</a> — Eastern Europe</div>
 <div class="ev"><span class="yr">1729</span>: 👤 Born: <a href="/wiki/people/catherine-the-great.html">Catherine the Great</a> — Expanded Russia</div>
+<div class="ev"><span class="yr">1745</span>: 💞 Society: <a href="/wiki/love/royal-mistresses.html">Royal mistresses</a> — 16th–18th centuries</div>
 <div class="ev"><span class="yr">1749</span>: 👤 Born: <a href="/wiki/people/edward-jenner.html">Edward Jenner</a> — Smallpox vaccine</div>
+<div class="ev"><span class="yr">1750</span>: 💞 Society: <a href="/wiki/love/casanova-and-the-libertines.html">Casanova and the libertines</a> — 18th century</div>
 <div class="ev"><span class="yr">1752</span>: 🐉 Myth: <a href="/wiki/creatures/kraken.html">Kraken</a> — Norway and Greenland</div>
 <div class="ev"><span class="yr">1758</span>: 👤 Born: <a href="/wiki/people/maximilien-robespierre.html">Maximilien Robespierre</a> — Reign of Terror</div>
+<div class="ev"><span class="yr">1760</span>: 📅 Transition: <a href="/wiki/events/industrial-revolution.html">Industrial Revolution</a> — Machines and factories</div>
+<div class="ev"><span class="yr">1760</span>: ❓ How & why: <a href="/wiki/howwhy/why-did-the-industrial-revolution-begin-in-britain.html">Why did the Industrial Revolution begin in Britain?</a> — c. 1760–1840</div>
+<div class="ev"><span class="yr">1765</span>: 💞 Society: <a href="/wiki/love/magdalene-laundries.html">Magdalene laundries</a> — 1765–1996</div>
 <div class="ev"><span class="yr">1769</span>: 👤 Born: <a href="/wiki/people/napoleon-bonaparte.html">Napoleon Bonaparte</a> — Napoleonic Code, conquests</div>
 <div class="ev"><span class="yr">1770</span>: 👤 Born: <a href="/wiki/people/ludwig-van-beethoven.html">Ludwig van Beethoven</a> — Ninth Symphony</div>
 <div class="ev"><span class="yr">1775</span>: 👤 Born: <a href="/wiki/people/jane-austen.html">Jane Austen</a> — Pride and Prejudice</div>
@@ -241,7 +256,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (73)
+:::collapse Industrial and imperial age (1800–1945) (80)
 <div class="timeline">
 <div class="ev"><span class="yr">1800</span>: ⚙ Invention: <a href="/wiki/inventions/electric-battery.html">Electric battery</a> — Italy</div>
 <div class="ev"><span class="yr">1802</span>: 👤 Born: <a href="/wiki/people/victor-hugo.html">Victor Hugo</a> — Les Misérables</div>
@@ -249,6 +264,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1807</span>: 👤 Born: <a href="/wiki/people/giuseppe-garibaldi.html">Giuseppe Garibaldi</a> — Italian unification</div>
 <div class="ev"><span class="yr">1808</span>: 👤 Born: <a href="/wiki/people/antonio-meucci.html">Antonio Meucci</a> — Early voice-transmission device</div>
 <div class="ev"><span class="yr">1809</span>: 👤 Born: <a href="/wiki/people/charles-darwin.html">Charles Darwin</a> — Evolution by natural selection</div>
+<div class="ev"><span class="yr">1811</span>: 📅 Protest: <a href="/wiki/events/luddite-movement.html">Luddite movement</a> — Workers against machines</div>
 <div class="ev"><span class="yr">1812</span>: 📅 Invasion: <a href="/wiki/events/napoleon-s-invasion-of-russia.html">Napoleon&#x27;s invasion of Russia</a> — Destroyed Napoleon&#x27;s Grande Armée</div>
 <div class="ev"><span class="yr">1812</span>: 👤 Born: <a href="/wiki/people/charles-dickens.html">Charles Dickens</a> — Oliver Twist, A Christmas Carol</div>
 <div class="ev"><span class="yr">1815</span>: 📅 War: <a href="/wiki/events/battle-of-waterloo.html">Battle of Waterloo</a> — End of Napoleon</div>
@@ -264,9 +280,12 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1845</span>: 📅 Famine: <a href="/wiki/events/irish-great-famine.html">Irish Great Famine</a> — ~1 million dead, 1 million emigrated</div>
 <div class="ev"><span class="yr">1848</span>: 📅 Revolution: <a href="/wiki/events/revolutions-of-1848.html">Revolutions of 1848</a> — Spread of liberalism</div>
 <div class="ev"><span class="yr">1853</span>: 👤 Born: <a href="/wiki/people/vincent-van-gogh.html">Vincent van Gogh</a> — The Starry Night, Sunflowers</div>
+<div class="ev"><span class="yr">1854</span>: 👤 Born: <a href="/wiki/people/oscar-wilde.html">Oscar Wilde</a> — The Importance of Being Earnest; his trial</div>
 <div class="ev"><span class="yr">1858</span>: 👤 Born: <a href="/wiki/people/emmeline-pankhurst.html">Emmeline Pankhurst</a> — Votes for women</div>
 <div class="ev"><span class="yr">1861</span>: ⚙ Invention: <a href="/wiki/inventions/germ-theory.html">Germ theory</a> — France; Germany</div>
+<div class="ev"><span class="yr">1864</span>: 💞 Society: <a href="/wiki/love/contagious-diseases-acts.html">Contagious Diseases Acts</a> — 1864–1886 in Britain; 1868 onward in India</div>
 <div class="ev"><span class="yr">1867</span>: 👤 Born: <a href="/wiki/people/marie-curie.html">Marie Curie</a> — Radioactivity</div>
+<div class="ev"><span class="yr">1869</span>: 👤 Born: <a href="/wiki/people/grigori-rasputin.html">Grigori Rasputin</a> — Influence over the last Tsar</div>
 <div class="ev"><span class="yr">1869</span>: ⚙ Invention: <a href="/wiki/inventions/periodic-table.html">Periodic table</a> — Russia</div>
 <div class="ev"><span class="yr">1870</span>: 👤 Born: <a href="/wiki/people/vladimir-lenin.html">Vladimir Lenin</a> — Bolshevik Revolution</div>
 <div class="ev"><span class="yr">1871</span>: 📅 Politics: <a href="/wiki/events/german-unification.html">German unification</a> — New great power</div>
@@ -275,6 +294,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1878</span>: 👤 Born: <a href="/wiki/people/lise-meitner.html">Lise Meitner</a> — Explained nuclear fission</div>
 <div class="ev"><span class="yr">1879</span>: 👤 Born: <a href="/wiki/people/albert-einstein.html">Albert Einstein</a> — Relativity</div>
 <div class="ev"><span class="yr">1879</span>: ⚙ Invention: <a href="/wiki/inventions/light-bulb.html">Light bulb</a> — USA / Britain</div>
+<div class="ev"><span class="yr">1880</span>: 💞 Society: <a href="/wiki/love/hysteria-and-the-vibrator.html">Hysteria and the vibrator</a> — Hysteria diagnosis: ancient to 1980; electric vibrator: 1880s</div>
 <div class="ev"><span class="yr">1881</span>: 👤 Born: <a href="/wiki/people/pablo-picasso.html">Pablo Picasso</a> — Cubism, Guernica</div>
 <div class="ev"><span class="yr">1883</span>: 👤 Born: <a href="/wiki/people/benito-mussolini.html">Benito Mussolini</a> — Fascism</div>
 <div class="ev"><span class="yr">1884</span>: ⚙ Invention: <a href="/wiki/inventions/machine-gun.html">Machine gun</a> — Britain/USA</div>
@@ -285,8 +305,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1895</span>: 📅 Cultural change: <a href="/wiki/events/lumi-re-brothers-first-film-screening.html">Lumière brothers&#x27; first film screening</a> — Birth of cinema</div>
 <div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/cinema.html">Cinema</a> — Paris, France</div>
 <div class="ev"><span class="yr">1895</span>: ⚙ Invention: <a href="/wiki/inventions/x-rays.html">X-rays</a> — Würzburg, Germany</div>
+<div class="ev"><span class="yr">1895</span>: 💞 Society: <a href="/wiki/love/oscar-wilde-and-alan-turing.html">Oscar Wilde and Alan Turing</a> — 1895 and 1952</div>
 <div class="ev"><span class="yr">1901</span>: 👤 Born: <a href="/wiki/people/enrico-fermi.html">Enrico Fermi</a> — First nuclear reactor</div>
 <div class="ev"><span class="yr">1903</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/protocols-of-the-elders-of-zion.html">Protocols of the Elders of Zion</a> — Proven forgery</div>
+<div class="ev"><span class="yr">1905</span>: 💞 Society: <a href="/wiki/love/rasputin-and-the-fall-of-the-romanovs.html">Rasputin and the fall of the Romanovs</a> — 1905–1916</div>
 <div class="ev"><span class="yr">1912</span>: 👤 Born: <a href="/wiki/people/alan-turing.html">Alan Turing</a> — Turing machine, Enigma codebreaking</div>
 <div class="ev"><span class="yr">1912</span>: 👤 Born: <a href="/wiki/people/wernher-von-braun.html">Wernher von Braun</a> — V-2 and Saturn V</div>
 <div class="ev"><span class="yr">1912</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/piltdown-man.html">Piltdown Man</a> — Proven hoax</div>

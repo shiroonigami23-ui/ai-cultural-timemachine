@@ -5,6 +5,13 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 
 
 
+## [Unreleased] - 2026-11-17 (society)
+### Added
+- Love, Desire & Society catalog (31 topics): story behind each, myth vs evidence, how it reshaped society and the industries it created.
+- How & Why catalog (15 big questions) with short answers, how, why, competing theories and consequences.
+- 6 events (Neolithic Revolution, Industrial Revolution, Late Bronze Age collapse, Peasants' Revolt, Great Schism, Luddites) and 10 people (Rasputin, Casanova, Farinelli, Margaret Sanger, Alfred Kinsey, Oscar Wilde, Madame de Pompadour, Vatsyayana, Gauhar Jaan, Sigmund Freud).
+- Tap-to-reveal blur for images on flagged pages (photo, In-depth and in-site reader), shared across all four encyclopedias.
+
 ## [Unreleased] - 2026-11-17 (battles)
 ### Added
 - Battles, Sieges & Betrayals catalog (30 entries, Thermopylae to Srebrenica): sides, commanders, forces, casualties, how it was fought, traitors and backstabbing, atrocities and war crimes, and how it reshaped history. Linked both ways with people, empires, dynasties, events, forts, sites and weapons.

@@ -1,9 +1,9 @@
 ---
 title: Timeline: East Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (103 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (106 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (103 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in East Asia, from the earliest evidence to today (106 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -29,11 +29,12 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (6)
+:::collapse !Iron Age (1200–500 BCE) (7)
 <div class="timeline">
 <div class="ev"><span class="yr">1046 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/zhou-dynasty.html">Zhou dynasty</a> — 1046–256 BCE</div>
 <div class="ev"><span class="yr">1046 BCE</span>: 👑 Dynasty: <a href="/wiki/dynasties/zhou-dynasty.html">Zhou dynasty</a> — King Wu of Zhou defeated the last Shang king at Muye around 1046 BCE.</div>
 <div class="ev"><span class="yr">700 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/great-wall-of-china.html">Great Wall of China</a> — Many dynasties</div>
+<div class="ev"><span class="yr">700 BCE</span>: 💞 Society: <a href="/wiki/love/eunuchs-in-imperial-courts.html">Eunuchs in imperial courts</a> — Ancient Assyria to 1924</div>
 <div class="ev"><span class="yr">571 BCE</span>: 👤 Born: <a href="/wiki/people/laozi.html">Laozi</a> — Taoism, Tao Te Ching</div>
 <div class="ev"><span class="yr">551 BCE</span>: 👤 Born: <a href="/wiki/people/confucius.html">Confucius</a> — Confucianism</div>
 <div class="ev"><span class="yr">544 BCE</span>: 👤 Born: <a href="/wiki/people/sun-tzu.html">Sun Tzu</a> — The Art of War</div>
@@ -116,7 +117,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (9)
+:::collapse Early modern (1500–1800) (10)
 <div class="timeline">
 <div class="ev"><span class="yr">1592</span>: 📅 War: <a href="/wiki/events/imjin-war.html">Imjin War</a> — Japanese invasion repelled</div>
 <div class="ev"><span class="yr">1600</span>: 📅 War: <a href="/wiki/events/battle-of-sekigahara.html">Battle of Sekigahara</a> — Tokugawa peace</div>
@@ -127,10 +128,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1644</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/qing-dynasty.html">Qing dynasty</a> — 1644–1912</div>
 <div class="ev"><span class="yr">1644</span>: 👑 Dynasty: <a href="/wiki/dynasties/qing-dynasty.html">Qing dynasty</a> — The Manchus, unified by Nurhaci, took Beijing in 1644 after the Ming collapse.</div>
 <div class="ev"><span class="yr">1644</span>: 📅 Conquest: <a href="/wiki/events/manchu-conquest-of-china.html">Manchu conquest of China</a> — Qing dynasty</div>
+<div class="ev"><span class="yr">1750</span>: 💞 Society: <a href="/wiki/love/geisha.html">Geisha</a> — 18th century onward</div>
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (11)
+:::collapse Industrial and imperial age (1800–1945) (12)
 <div class="timeline">
 <div class="ev"><span class="yr">1850</span>: 📅 Civil war: <a href="/wiki/events/taiping-rebellion.html">Taiping Rebellion</a> — 20–30 million dead</div>
 <div class="ev"><span class="yr">1866</span>: 👤 Born: <a href="/wiki/people/sun-yat-sen.html">Sun Yat-sen</a> — Father of the Republic of China</div>
@@ -140,6 +142,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1904</span>: 📅 War: <a href="/wiki/events/russo-japanese-war.html">Russo-Japanese War</a> — First Asian victory over a European power</div>
 <div class="ev"><span class="yr">1911</span>: 📅 Revolution: <a href="/wiki/events/xinhai-revolution.html">Xinhai Revolution</a> — End of imperial China</div>
 <div class="ev"><span class="yr">1927</span>: 📅 Civil war: <a href="/wiki/events/chinese-civil-war.html">Chinese Civil War</a> — Communist victory</div>
+<div class="ev"><span class="yr">1932</span>: 💞 Society: <a href="/wiki/love/comfort-women.html">Comfort women</a> — 1932–1945</div>
 <div class="ev"><span class="yr">1936</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/unit-731-and-the-us-cover-up.html">Unit 731 and the US cover-up</a> — Documented fact</div>
 <div class="ev"><span class="yr">1937</span>: 📅 Invasion: <a href="/wiki/events/japanese-invasion-of-china-and-the-nanjing-massacre.html">Japanese invasion of China and the Nanjing Massacre</a> — Start of the war in Asia</div>
 <div class="ev"><span class="yr">1937</span>: ⚔ Battle: <a href="/wiki/battles/nanjing-massacre.html">Nanjing Massacre</a> — Second Sino-Japanese War</div>

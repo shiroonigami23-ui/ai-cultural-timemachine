@@ -1,9 +1,9 @@
 ---
 title: Timeline: Middle East
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (110 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (115 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (110 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Middle East, from the earliest evidence to today (115 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -13,7 +13,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Neolithic and first farmers (10,000–3000 BCE) (9)
+:::collapse Neolithic and first farmers (10,000–3000 BCE) (11)
 <div class="timeline">
 <div class="ev"><span class="yr">9600 BCE</span>: 🏗 Built: <a href="/wiki/engineering/g-bekli-tepe.html">Göbekli Tepe</a> — Şanlıurfa, Turkey</div>
 <div class="ev"><span class="yr">9500 BCE</span>: 📅 Culture: <a href="/wiki/events/g-bekli-tepe-built.html">Göbekli Tepe built</a> — Monumental building before farming</div>
@@ -21,9 +21,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">8000 BCE</span>: 📅 Construction: <a href="/wiki/events/jericho-walls-and-tower.html">Jericho walls and tower</a> — One of the oldest towns</div>
 <div class="ev"><span class="yr">7100 BCE</span>: 🗿 Built / founded: <a href="/wiki/sites/atalh-y-k.html">Çatalhöyük</a> — Neolithic farmers</div>
 <div class="ev"><span class="yr">4500 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/sumer.html">Sumer</a> — c. 4500–1900 BCE</div>
+<div class="ev"><span class="yr">4000 BCE</span>: ❓ How & why: <a href="/wiki/howwhy/how-did-the-first-towns-and-cities-form.html">How did the first towns and cities form?</a> — c. 9500–3000 BCE</div>
 <div class="ev"><span class="yr">3500 BCE</span>: 📅 Technology: <a href="/wiki/events/wheel-and-wagon.html">Wheel and wagon</a> — Transport revolution</div>
 <div class="ev"><span class="yr">3500 BCE</span>: 📅 Urbanisation: <a href="/wiki/events/uruk-the-first-city.html">Uruk, the first city</a> — Birth of cities and writing</div>
 <div class="ev"><span class="yr">3200 BCE</span>: 📅 Invention: <a href="/wiki/events/invention-of-writing.html">Invention of writing</a> — Recorded history begins</div>
+<div class="ev"><span class="yr">3200 BCE</span>: ❓ How & why: <a href="/wiki/howwhy/why-was-writing-invented.html">Why was writing invented?</a> — c. 3200 BCE</div>
 </div>
 :::
 
@@ -51,11 +53,13 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (15)
+:::collapse !Iron Age (1200–500 BCE) (17)
 <div class="timeline">
 <div class="ev"><span class="yr">1200 BCE</span>: 📅 Technology: <a href="/wiki/events/iron-smelting-spreads.html">Iron smelting spreads</a> — Iron Age begins</div>
 <div class="ev"><span class="yr">1200 BCE</span>: 👤 Born: <a href="/wiki/people/zoroaster.html">Zoroaster</a> — Founded Zoroastrianism</div>
 <div class="ev"><span class="yr">1177 BCE</span>: 📅 Invasion: <a href="/wiki/events/sea-peoples-raids.html">Sea Peoples&#x27; raids</a> — Part of the Late Bronze Age collapse</div>
+<div class="ev"><span class="yr">1177 BCE</span>: 📅 Collapse: <a href="/wiki/events/late-bronze-age-collapse.html">Late Bronze Age collapse</a> — End of the Bronze Age world</div>
+<div class="ev"><span class="yr">1177 BCE</span>: ❓ How & why: <a href="/wiki/howwhy/why-did-the-bronze-age-collapse.html">Why did the Bronze Age collapse?</a> — c. 1200–1150 BCE</div>
 <div class="ev"><span class="yr">1050 BCE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/ancient-israel-and-judah.html">Ancient Israel and Judah</a> — c. 1050–586 BCE</div>
 <div class="ev"><span class="yr">800 BCE</span>: 🏗 Built: <a href="/wiki/engineering/derinkuyu-underground-city.html">Derinkuyu underground city</a> — Cappadocia, Turkey</div>
 <div class="ev"><span class="yr">800 BCE</span>: 🏗 Built: <a href="/wiki/engineering/qanat-underground-canals.html">Qanat underground canals</a> — Iran</div>
@@ -136,8 +140,9 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (4)
+:::collapse Early modern (1500–1800) (5)
 <div class="timeline">
+<div class="ev"><span class="yr">1500</span>: 💞 Society: <a href="/wiki/love/harems-and-the-zenana.html">Harems and the zenana</a> — Ancient to 20th century</div>
 <div class="ev"><span class="yr">1501</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/safavid-iran.html">Safavid Iran</a> — 1501–1736</div>
 <div class="ev"><span class="yr">1501</span>: 👑 Dynasty: <a href="/wiki/dynasties/safavid-dynasty.html">Safavid dynasty</a> — Ismail I, head of a Sufi order, took Tabriz (1501) and imposed Shia Islam. Shah Abbas I (r. 1588–1629) moved the capital to Isfahan.</div>
 <div class="ev"><span class="yr">1530</span>: 📜 Manuscript: <a href="/wiki/manuscripts/shahnameh-of-shah-tahmasp.html">Shahnameh of Shah Tahmasp</a> — c. 1520s–1530s</div>

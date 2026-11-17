@@ -1,9 +1,9 @@
 ---
 title: Timeline: Global
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (138 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (157 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (138 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Global, from the earliest evidence to today (157 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (7)
 <div class="timeline">
@@ -17,9 +17,11 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Neolithic and first farmers (10,000–3000 BCE) (9)
+:::collapse Neolithic and first farmers (10,000–3000 BCE) (12)
 <div class="timeline">
 <div class="ev"><span class="yr">10,000 yr ago</span>: 📅 Extinction: <a href="/wiki/events/quaternary-megafauna-extinction.html">Quaternary megafauna extinction</a> — Mammoths, giant sloths, cave lions vanish</div>
+<div class="ev"><span class="yr">10,000 yr ago</span>: 📅 Transition: <a href="/wiki/events/neolithic-revolution.html">Neolithic Revolution</a> — Birth of farming</div>
+<div class="ev"><span class="yr">10,000 yr ago</span>: ❓ How & why: <a href="/wiki/howwhy/why-did-humans-switch-from-hunting-to-farming.html">Why did humans switch from hunting to farming?</a> — c. 10,000–5,000 BCE</div>
 <div class="ev"><span class="yr">9500 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/agriculture.html">Agriculture</a> — Fertile Crescent and elsewhere</div>
 <div class="ev"><span class="yr">9500 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/domestication-of-plants.html">Domestication of plants</a> — Fertile Crescent</div>
 <div class="ev"><span class="yr">6000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/irrigation-canals.html">Irrigation canals</a> — Mesopotamia</div>
@@ -27,32 +29,37 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">4000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/plough-ard.html">Plough (ard)</a> — Mesopotamia; Indus</div>
 <div class="ev"><span class="yr">4000 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/potters-wheel.html">Potter&#x27;s wheel</a> — Mesopotamia</div>
 <div class="ev"><span class="yr">4000 BCE</span>: 🏗 Built: <a href="/wiki/engineering/potter-s-wheel-and-kiln-fired-pottery.html">Potter&#x27;s wheel and kiln-fired pottery</a> — East Asia (pottery); Mesopotamia (wheel)</div>
+<div class="ev"><span class="yr">3500 BCE</span>: ❓ How & why: <a href="/wiki/howwhy/how-did-bands-become-tribes-chiefdoms-and-states.html">How did bands become tribes, chiefdoms and states?</a> — Prehistory to c. 3000 BCE</div>
 <div class="ev"><span class="yr">3300 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/bronze.html">Bronze</a> — Near East</div>
 </div>
 :::
 
-:::collapse !Bronze Age (3000–1200 BCE) (7)
+:::collapse !Bronze Age (3000–1200 BCE) (9)
 <div class="timeline">
 <div class="ev"><span class="yr">3000 BCE</span>: 📅 Migration: <a href="/wiki/events/indo-european-migrations.html">Indo-European migrations</a> — Spread Indo-European languages from Ireland to India</div>
+<div class="ev"><span class="yr">3000 BCE</span>: ❓ How & why: <a href="/wiki/howwhy/why-did-organised-religion-arise.html">Why did organised religion arise?</a> — Prehistory onward</div>
 <div class="ev"><span class="yr">2600 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/planned-drainage.html">Planned drainage</a> — Indus Valley</div>
 <div class="ev"><span class="yr">2500 BCE</span>: ⚙ Invention: <a href="/wiki/inventions/glass.html">Glass</a> — Mesopotamia</div>
 <div class="ev"><span class="yr">2334 BCE</span>: 👤 Born: <a href="/wiki/people/sargon-of-akkad.html">Sargon of Akkad</a> — Founded the first empire</div>
 <div class="ev"><span class="yr">2285 BCE</span>: 👤 Born: <a href="/wiki/people/enheduanna.html">Enheduanna</a> — First named author in history</div>
 <div class="ev"><span class="yr">2200 BCE</span>: 📅 Mega-drought: <a href="/wiki/events/4-2-kiloyear-drought.html">4.2-kiloyear drought</a> — Collapse of Akkad, Egypt&#x27;s Old Kingdom; Indus decline</div>
+<div class="ev"><span class="yr">1850 BCE</span>: 💞 Society: <a href="/wiki/love/contraception-before-the-pill.html">Contraception before the Pill</a> — c. 1850 BCE onward</div>
 <div class="ev"><span class="yr">1600 BCE</span>: 📅 Volcanic eruption: <a href="/wiki/events/thera-santorini-eruption.html">Thera (Santorini) eruption</a> — Weakened the Minoans</div>
 </div>
 :::
 
-:::collapse !Iron Age (1200–500 BCE) (3)
+:::collapse !Iron Age (1200–500 BCE) (4)
 <div class="timeline">
 <div class="ev"><span class="yr">1000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/giants.html">Giants</a> — Worldwide</div>
 <div class="ev"><span class="yr">1000 BCE</span>: 🐉 Myth: <a href="/wiki/creatures/mermaid.html">Mermaid</a> — Near East, Europe, worldwide</div>
+<div class="ev"><span class="yr">600 BCE</span>: ❓ How & why: <a href="/wiki/howwhy/why-was-money-invented.html">Why was money invented?</a> — Coins c. 600 BCE</div>
 <div class="ev"><span class="yr">558 BCE</span>: 👤 Born: <a href="/wiki/people/bimbisara.html">Bimbisara</a> — Founder of Magadha&#x27;s power</div>
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (14)
+:::collapse !Classical age (500 BCE–500 CE) (16)
 <div class="timeline">
+<div class="ev"><span class="yr">500 BCE</span>: ❓ How & why: <a href="/wiki/howwhy/why-do-empires-rise-and-fall.html">Why do empires rise and fall?</a> — All of history</div>
 <div class="ev"><span class="yr">495 BCE</span>: 👤 Born: <a href="/wiki/people/pericles.html">Pericles</a> — Led Athens in its golden age</div>
 <div class="ev"><span class="yr">470 BCE</span>: 👤 Born: <a href="/wiki/people/socrates.html">Socrates</a> — Socratic method</div>
 <div class="ev"><span class="yr">428 BCE</span>: 👤 Born: <a href="/wiki/people/plato.html">Plato</a> — The Republic, the Academy</div>
@@ -65,6 +72,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">18 BCE</span>: 👤 Born: <a href="/wiki/people/arminius.html">Arminius</a> — Destroying three Roman legions at the Teutoburg Forest</div>
 <div class="ev"><span class="yr">4 BCE</span>: 👤 Born: <a href="/wiki/people/jesus-of-nazareth.html">Jesus of Nazareth</a> — Central figure of Christianity</div>
 <div class="ev"><span class="yr">78 CE</span>: 👤 Born: <a href="/wiki/people/kanishka.html">Kanishka</a> — Patron of Buddhism</div>
+<div class="ev"><span class="yr">79 CE</span>: 💞 Society: <a href="/wiki/love/erotic-art-of-temples-and-pompeii.html">Erotic art of temples and Pompeii</a> — Pompeii 1st century CE; Khajuraho c. 950–1050</div>
 <div class="ev"><span class="yr">165 CE</span>: 📅 Pandemic (likely smallpox): <a href="/wiki/events/antonine-plague.html">Antonine Plague</a> — Millions dead</div>
 <div class="ev"><span class="yr">482 CE</span>: 👤 Born: <a href="/wiki/people/justinian-i.html">Justinian I</a> — Justinian Code, Hagia Sophia</div>
 </div>
@@ -105,9 +113,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (24)
+:::collapse Early modern (1500–1800) (27)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 👤 Born: <a href="/wiki/people/tansen.html">Tansen</a> — Hindustani classical music</div>
+<div class="ev"><span class="yr">1500</span>: ❓ How & why: <a href="/wiki/howwhy/why-did-europe-colonise-most-of-the-world.html">Why did Europe colonise most of the world?</a> — c. 1500–1914</div>
 <div class="ev"><span class="yr">1524</span>: 👤 Born: <a href="/wiki/people/rani-durgavati.html">Rani Durgavati</a> — Fighting Akbar&#x27;s army</div>
 <div class="ev"><span class="yr">1525</span>: 👤 Born: <a href="/wiki/people/rani-abbakka-chowta.html">Rani Abbakka Chowta</a> — Fought the Portuguese</div>
 <div class="ev"><span class="yr">1532</span>: 👤 Born: <a href="/wiki/people/tulsidas.html">Tulsidas</a> — Ramcharitmanas, Hanuman Chalisa</div>
@@ -119,6 +128,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1700</span>: 👤 Born: <a href="/wiki/people/bajirao-i.html">Bajirao I</a> — Never lost a battle</div>
 <div class="ev"><span class="yr">1724</span>: 👤 Born: <a href="/wiki/people/immanuel-kant.html">Immanuel Kant</a> — Critique of Pure Reason</div>
 <div class="ev"><span class="yr">1725</span>: 👤 Born: <a href="/wiki/people/ahilyabai-holkar.html">Ahilyabai Holkar</a> — Builder of temples</div>
+<div class="ev"><span class="yr">1725</span>: 👤 Born: <a href="/wiki/people/giacomo-casanova.html">Giacomo Casanova</a> — Seduction and his memoirs</div>
 <div class="ev"><span class="yr">1730</span>: 👤 Born: <a href="/wiki/people/velu-nachiyar.html">Velu Nachiyar</a> — Fought the British</div>
 <div class="ev"><span class="yr">1732</span>: 👤 Born: <a href="/wiki/people/george-washington.html">George Washington</a> — Led the American Revolution</div>
 <div class="ev"><span class="yr">1736</span>: 👤 Born: <a href="/wiki/people/james-watt.html">James Watt</a> — Improved steam engine</div>
@@ -129,13 +139,16 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1756</span>: 👤 Born: <a href="/wiki/people/wolfgang-amadeus-mozart.html">Wolfgang Amadeus Mozart</a> — The Magic Flute, Requiem</div>
 <div class="ev"><span class="yr">1778</span>: 👤 Born: <a href="/wiki/people/rani-chennamma-of-kittur.html">Rani Chennamma of Kittur</a> — Early armed resistance to the East India Company</div>
 <div class="ev"><span class="yr">1780</span>: 👤 Born: <a href="/wiki/people/maharaja-ranjit-singh.html">Maharaja Ranjit Singh</a> — Sikh Empire</div>
+<div class="ev"><span class="yr">1789</span>: ❓ How & why: <a href="/wiki/howwhy/why-do-revolutions-happen.html">Why do revolutions happen?</a> — All of history</div>
 <div class="ev"><span class="yr">1791</span>: 👤 Born: <a href="/wiki/people/hari-singh-nalwa.html">Hari Singh Nalwa</a> — Conquering Peshawar and holding the Khyber</div>
 <div class="ev"><span class="yr">1797</span>: 👤 Born: <a href="/wiki/people/mirza-ghalib.html">Mirza Ghalib</a> — Urdu and Persian ghazals</div>
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (33)
+:::collapse Industrial and imperial age (1800–1945) (37)
 <div class="timeline">
+<div class="ev"><span class="yr">1800</span>: ❓ How & why: <a href="/wiki/howwhy/why-did-nations-and-nationalism-appear.html">Why did nations and nationalism appear?</a> — 18th–20th centuries</div>
+<div class="ev"><span class="yr">1807</span>: ❓ How & why: <a href="/wiki/howwhy/why-did-slavery-exist-and-why-was-it-abolished.html">Why did slavery exist and why was it abolished?</a> — Ancient times to 20th century</div>
 <div class="ev"><span class="yr">1809</span>: 👤 Born: <a href="/wiki/people/abraham-lincoln.html">Abraham Lincoln</a> — Ended slavery, preserved the Union</div>
 <div class="ev"><span class="yr">1817</span>: 📅 Pandemic: <a href="/wiki/events/cholera-pandemics.html">Cholera pandemics</a> — Millions dead</div>
 <div class="ev"><span class="yr">1818</span>: 👤 Born: <a href="/wiki/people/frederick-douglass.html">Frederick Douglass</a> — Narrative of the Life of Frederick Douglass</div>
@@ -146,6 +159,8 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1847</span>: 👤 Born: <a href="/wiki/people/thomas-edison.html">Thomas Edison</a> — Light bulb, phonograph</div>
 <div class="ev"><span class="yr">1848</span>: 👤 Born: <a href="/wiki/people/raja-ravi-varma.html">Raja Ravi Varma</a> — Paintings of Hindu deities and epics</div>
 <div class="ev"><span class="yr">1856</span>: 👤 Born: <a href="/wiki/people/nikola-tesla.html">Nikola Tesla</a> — Alternating current</div>
+<div class="ev"><span class="yr">1856</span>: 👤 Born: <a href="/wiki/people/sigmund-freud.html">Sigmund Freud</a> — Psychoanalysis and theories of sexuality</div>
+<div class="ev"><span class="yr">1857</span>: ❓ How & why: <a href="/wiki/howwhy/why-do-rebellions-break-out.html">Why do rebellions break out?</a> — All of history</div>
 <div class="ev"><span class="yr">1864</span>: 👤 Born: <a href="/wiki/people/reginald-dyer.html">Reginald Dyer</a> — Jallianwala Bagh massacre</div>
 <div class="ev"><span class="yr">1870</span>: 👤 Born: <a href="/wiki/people/dadasaheb-phalke.html">Dadasaheb Phalke</a> — Raja Harishchandra (1913), father of Indian cinema</div>
 <div class="ev"><span class="yr">1875</span>: 👤 Born: <a href="/wiki/people/birsa-munda.html">Birsa Munda</a> — Ulgulan rebellion for tribal land rights</div>
@@ -172,7 +187,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (16)
+:::collapse Contemporary (1945–today) (20)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Politics: <a href="/wiki/events/united-nations-founded.html">United Nations founded</a> — Postwar order</div>
 <div class="ev"><span class="yr">1945</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-paperclip.html">Operation Paperclip</a> — Documented fact</div>
@@ -180,10 +195,14 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1953</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/mkultra.html">MKUltra</a> — Documented fact</div>
 <div class="ev"><span class="yr">1953</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/tobacco-industry-cover-up.html">Tobacco industry cover-up</a> — Documented fact</div>
 <div class="ev"><span class="yr">1957</span>: ⚙ Invention: <a href="/wiki/inventions/space-flight.html">Space flight</a> — USSR</div>
+<div class="ev"><span class="yr">1960</span>: 💞 Society: <a href="/wiki/love/sexual-revolution.html">Sexual revolution</a> — 1960s–1970s</div>
 <div class="ev"><span class="yr">1969</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/moon-landing-hoax.html">Moon landing hoax</a> — Debunked</div>
 <div class="ev"><span class="yr">1981</span>: 📅 Pandemic: <a href="/wiki/events/hiv-aids-pandemic.html">HIV/AIDS pandemic</a> — ~40 million deaths</div>
+<div class="ev"><span class="yr">1981</span>: 💞 Society: <a href="/wiki/love/aids-crisis-and-activism.html">AIDS crisis and activism</a> — 1981 onward</div>
 <div class="ev"><span class="yr">1989</span>: 📅 Technology: <a href="/wiki/events/invention-of-the-world-wide-web.html">Invention of the World Wide Web</a> — The information age</div>
 <div class="ev"><span class="yr">1991</span>: 📅 Political: <a href="/wiki/events/dissolution-of-the-soviet-union.html">Dissolution of the Soviet Union</a> — 15 new countries</div>
+<div class="ev"><span class="yr">1995</span>: 💞 Society: <a href="/wiki/love/online-dating.html">Online dating</a> — 1995 onward</div>
+<div class="ev"><span class="yr">1998</span>: 💞 Society: <a href="/wiki/love/viagra.html">Viagra</a> — 1998</div>
 <div class="ev"><span class="yr">2003</span>: 📅 Science: <a href="/wiki/events/human-genome-project-completed.html">Human Genome Project completed</a> — Read the human DNA</div>
 <div class="ev"><span class="yr">2008</span>: 📅 Economic: <a href="/wiki/events/2008-financial-crisis.html">2008 financial crisis</a> — Great Recession</div>
 <div class="ev"><span class="yr">2013</span>: 📅 Revelation: <a href="/wiki/events/snowden-revelations.html">Snowden revelations</a> — Exposed mass surveillance</div>

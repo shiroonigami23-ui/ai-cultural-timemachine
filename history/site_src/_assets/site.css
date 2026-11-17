@@ -323,3 +323,8 @@ details[open]>.dbody,details.coll[open]>.collin{animation:fadein .35s ease}
 .hints{margin-top:10px;font-size:.9rem;opacity:.9}.hints a{display:inline-block;margin:4px 4px 0 0;padding:4px 10px;border-radius:999px;background:var(--chip);color:var(--fg);text-decoration:none}
 .megahead{grid-column:1/-1;font-weight:700;font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;opacity:.7;margin:.6rem 0 0}
 .herosearch input{font-size:1.15rem;padding:16px 20px;max-width:720px}
+
+.blurwrap{position:relative;display:inline-block;overflow:hidden;cursor:pointer;max-width:100%}
+.blurwrap img{filter:blur(22px) saturate(.6);transform:scale(1.05);transition:filter .3s}
+.blurwrap::after{content:"👁 Historical artwork — tap to show";position:absolute;inset:auto 0 0 0;padding:6px 8px;font-size:.78rem;background:rgba(0,0,0,.6);color:#fff;text-align:center}
+.blurwrap.shown img{filter:none;transform:none}.blurwrap.shown::after{display:none}

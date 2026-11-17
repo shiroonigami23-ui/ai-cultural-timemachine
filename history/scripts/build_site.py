@@ -356,10 +356,13 @@ def build_collections(env, write, sections, search, built):
                 except KeyError:
                     prompt = f"Scientific illustration of {name}"
                 wk = urllib.parse.unquote(str(it.get(c.get("photo_key", "wiki"), ""))).replace("_", " ") if c.get("live_photos") else ""
+                if wk and it.get("sensitive"):
+                    WIKIMAP.setdefault("__blur", []).append(wk.lower())
                 if wk:
                     WIKIMAP[wk.lower()] = f"wiki/{cid}/{slug}.html"
                     PHOTOS.append(dict(wiki=wk, name=name, save=f"assets/img/{cid}/{slug}.png", coll=c["title"]))
                 da = f' data-wiki="{html.escape(str(wk))}" data-save="assets/img/{cid}/{slug}.png"' if wk else ""
+                if it.get("sensitive"): da += ' data-blur="1"'
                 pic = f'<div class="livepic big"{da}>{placeholder(icon, name, sub, hue)}</div>'
                 thumb = f'<div class="livepic"{da}>{placeholder(icon, name, sub, hue)}</div>'
                 if not c.get("no_prompt"):

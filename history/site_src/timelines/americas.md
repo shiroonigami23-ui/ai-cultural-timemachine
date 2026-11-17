@@ -1,9 +1,9 @@
 ---
 title: Timeline: Americas
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (97 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (103 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (97 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in Americas, from the earliest evidence to today (103 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (3)
 <div class="timeline">
@@ -84,7 +84,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (29)
+:::collapse Industrial and imperial age (1800–1945) (32)
 <div class="timeline">
 <div class="ev"><span class="yr">1810</span>: 📅 Independence: <a href="/wiki/events/latin-american-independence.html">Latin American independence</a> — New republics</div>
 <div class="ev"><span class="yr">1846</span>: ⚙ Invention: <a href="/wiki/inventions/anaesthesia.html">Anaesthesia</a> — USA</div>
@@ -93,14 +93,17 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1863</span>: 👤 Born: <a href="/wiki/people/henry-ford.html">Henry Ford</a> — Mass-produced cars</div>
 <div class="ev"><span class="yr">1867</span>: 👤 Born: <a href="/wiki/people/wright-brothers.html">Wright brothers</a> — First controlled powered aeroplane</div>
 <div class="ev"><span class="yr">1871</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/meucci-invented-the-telephone.html">Meucci invented the telephone</a> — Partly true</div>
+<div class="ev"><span class="yr">1873</span>: 💞 Society: <a href="/wiki/love/comstock-laws.html">Comstock laws</a> — 1873</div>
 <div class="ev"><span class="yr">1876</span>: 📅 Invention: <a href="/wiki/events/first-telephone-call.html">First telephone call</a> — Birth of telecommunications</div>
 <div class="ev"><span class="yr">1876</span>: ⚙ Invention: <a href="/wiki/inventions/telephone.html">Telephone</a> — USA</div>
+<div class="ev"><span class="yr">1879</span>: 👤 Born: <a href="/wiki/people/margaret-sanger.html">Margaret Sanger</a> — Founding the birth-control movement</div>
 <div class="ev"><span class="yr">1882</span>: 📅 Invention: <a href="/wiki/events/edison-s-light-and-pearl-street-station.html">Edison&#x27;s light and Pearl Street station</a> — Start of electric utilities</div>
 <div class="ev"><span class="yr">1882</span>: 👤 Born: <a href="/wiki/people/franklin-d-roosevelt.html">Franklin D. Roosevelt</a> — New Deal, WWII</div>
 <div class="ev"><span class="yr">1883</span>: 🏗 Built: <a href="/wiki/engineering/brooklyn-bridge.html">Brooklyn Bridge</a> — New York, USA</div>
 <div class="ev"><span class="yr">1884</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/edison-stole-tesla-s-inventions.html">Edison stole Tesla&#x27;s inventions</a> — Mostly myth</div>
 <div class="ev"><span class="yr">1888</span>: ⚙ Invention: <a href="/wiki/inventions/alternating-current-power-grid.html">Alternating current power grid</a> — USA</div>
 <div class="ev"><span class="yr">1890</span>: ⚔ Battle: <a href="/wiki/battles/wounded-knee-massacre.html">Wounded Knee Massacre</a> — American Indian Wars</div>
+<div class="ev"><span class="yr">1894</span>: 👤 Born: <a href="/wiki/people/alfred-kinsey.html">Alfred Kinsey</a> — The Kinsey Reports</div>
 <div class="ev"><span class="yr">1895</span>: 📅 Invention: <a href="/wiki/events/niagara-falls-power-plant.html">Niagara Falls power plant</a> — Victory of alternating current</div>
 <div class="ev"><span class="yr">1903</span>: 📅 Technology: <a href="/wiki/events/wright-brothers-flight.html">Wright brothers&#x27; flight</a> — Powered flight</div>
 <div class="ev"><span class="yr">1903</span>: ⚙ Invention: <a href="/wiki/inventions/aeroplane.html">Aeroplane</a> — USA</div>
@@ -118,12 +121,13 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Contemporary (1945–today) (24)
+:::collapse Contemporary (1945–today) (27)
 <div class="timeline">
 <div class="ev"><span class="yr">1945</span>: 📅 Science and war: <a href="/wiki/events/trinity-nuclear-test.html">Trinity nuclear test</a> — The first nuclear explosion</div>
 <div class="ev"><span class="yr">1945</span>: ⚙ Invention: <a href="/wiki/inventions/atomic-bomb.html">Atomic bomb</a> — Los Alamos, USA</div>
 <div class="ev"><span class="yr">1947</span>: ⚙ Invention: <a href="/wiki/inventions/transistor.html">Transistor</a> — USA</div>
 <div class="ev"><span class="yr">1947</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/area-51-and-roswell.html">Area 51 and Roswell</a> — Partly true</div>
+<div class="ev"><span class="yr">1948</span>: 💞 Society: <a href="/wiki/love/kinsey-reports.html">Kinsey Reports</a> — 1948 and 1953</div>
 <div class="ev"><span class="yr">1950</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/lavender-scare.html">Lavender scare</a> — Documented fact</div>
 <div class="ev"><span class="yr">1955</span>: 👤 Born: <a href="/wiki/people/steve-jobs.html">Steve Jobs</a> — Apple, the iPhone</div>
 <div class="ev"><span class="yr">1955</span>: ⚙ Invention: <a href="/wiki/inventions/polio-vaccine.html">Polio vaccine</a> — USA</div>
@@ -131,6 +135,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1958</span>: ⚙ Invention: <a href="/wiki/inventions/microchip.html">Microchip</a> — USA</div>
 <div class="ev"><span class="yr">1958</span>: 🐉 Myth: <a href="/wiki/creatures/bigfoot-sasquatch.html">Bigfoot (Sasquatch)</a> — Pacific Northwest, USA and Canada</div>
 <div class="ev"><span class="yr">1960</span>: ⚙ Invention: <a href="/wiki/inventions/contraceptive-pill.html">Contraceptive pill</a> — USA</div>
+<div class="ev"><span class="yr">1960</span>: 💞 Society: <a href="/wiki/love/the-birth-control-pill.html">The birth-control pill</a> — Approved in the USA 1960</div>
 <div class="ev"><span class="yr">1962</span>: 📅 Cold War: <a href="/wiki/events/cuban-missile-crisis.html">Cuban Missile Crisis</a> — Nuclear brink</div>
 <div class="ev"><span class="yr">1962</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/operation-northwoods.html">Operation Northwoods</a> — Documented fact (proposed, rejected)</div>
 <div class="ev"><span class="yr">1963</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/jfk-assassination.html">JFK assassination</a> — Disputed</div>
@@ -138,6 +143,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1969</span>: 📅 Exploration: <a href="/wiki/events/moon-landing.html">Moon landing</a> — First humans on the Moon</div>
 <div class="ev"><span class="yr">1969</span>: 📅 Invention: <a href="/wiki/events/arpanet-s-first-message.html">ARPANET&#x27;s first message</a> — Birth of the internet</div>
 <div class="ev"><span class="yr">1969</span>: ⚙ Invention: <a href="/wiki/inventions/internet.html">Internet</a> — USA, CERN</div>
+<div class="ev"><span class="yr">1969</span>: 💞 Society: <a href="/wiki/love/stonewall-riots.html">Stonewall riots</a> — 28 June 1969</div>
 <div class="ev"><span class="yr">1972</span>: 🔓 Hidden history: <a href="/wiki/hidden_history/watergate.html">Watergate</a> — Documented fact</div>
 <div class="ev"><span class="yr">1995</span>: 🐉 Myth: <a href="/wiki/creatures/chupacabra.html">Chupacabra</a> — Puerto Rico and Latin America</div>
 <div class="ev"><span class="yr">2001</span>: 📅 Terrorism: <a href="/wiki/events/september-11-attacks.html">September 11 attacks</a> — ~3,000 killed; wars in Afghanistan and Iraq</div>

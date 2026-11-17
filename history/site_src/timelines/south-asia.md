@@ -1,9 +1,9 @@
 ---
 title: Timeline: South Asia
-summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (295 entries).
+summary: Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (301 entries).
 level: Timeline
 ---
-Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (295 entries).
+Every catalogued civilisation, dynasty, event, person, monument, invention and human species in South Asia, from the earliest evidence to today (301 entries).
 
 :::collapse Deep prehistory (before 10,000 BCE) (2)
 <div class="timeline">
@@ -53,7 +53,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Classical age (500 BCE–500 CE) (54)
+:::collapse !Classical age (500 BCE–500 CE) (56)
 <div class="timeline">
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/panini.html">Panini</a> — Ashtadhyayi Sanskrit grammar</div>
 <div class="ev"><span class="yr">500 BCE</span>: 👤 Born: <a href="/wiki/people/valmiki.html">Valmiki</a> — Ramayana</div>
@@ -94,6 +94,8 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">127 CE</span>: 📅 Religion: <a href="/wiki/events/kanishkas-council.html">Kanishka&#x27;s council</a> — Spread of Mahayana Buddhism</div>
 <div class="ev"><span class="yr">150 CE</span>: 👤 Born: <a href="/wiki/people/nagarjuna.html">Nagarjuna</a> — Madhyamaka</div>
 <div class="ev"><span class="yr">250 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/vakataka-dynasty.html">Vakataka dynasty</a> — Founded by Vindhyashakti around 250 CE in the Deccan after the Satavahanas collapsed, the Vakatakas performed Vedic sacrifices and ruled cen</div>
+<div class="ev"><span class="yr">250 CE</span>: 👤 Born: <a href="/wiki/people/vatsyayana.html">Vatsyayana</a> — Writing the Kama Sutra</div>
+<div class="ev"><span class="yr">250 CE</span>: 💞 Society: <a href="/wiki/love/kama-sutra.html">Kama Sutra</a> — c. 3rd century CE</div>
 <div class="ev"><span class="yr">275 CE</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/pallava-dynasty.html">Pallava dynasty</a> — 275–897 CE</div>
 <div class="ev"><span class="yr">300 CE</span>: 🗿 Built / founded: <a href="/wiki/sites/gwalior-fort.html">Gwalior Fort</a> — Many dynasties</div>
 <div class="ev"><span class="yr">300 CE</span>: ⚙ Invention: <a href="/wiki/inventions/stirrup.html">Stirrup</a> — China / India (toe stirrups earlier)</div>
@@ -112,7 +114,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse !Early medieval (500–1000) (31)
+:::collapse !Early medieval (500–1000) (32)
 <div class="timeline">
 <div class="ev"><span class="yr">500 CE</span>: 👑 Dynasty: <a href="/wiki/dynasties/pushyabhuti-vardhana-dynasty.html">Pushyabhuti (Vardhana) dynasty</a> — The Pushyabhutis ruled Thanesar (Haryana) and rose by fighting the Hunas. Harshavardhana (r. 606–647) took over Kannauj after his sister&#x2</div>
 <div class="ev"><span class="yr">500 CE</span>: ⚙ Invention: <a href="/wiki/inventions/zero-and-decimal-place-value.html">Zero and decimal place value</a> — India</div>
@@ -124,6 +126,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">598 CE</span>: 👤 Born: <a href="/wiki/people/brahmagupta.html">Brahmagupta</a> — Rules for zero and negatives</div>
 <div class="ev"><span class="yr">600 CE</span>: ⚙ Invention: <a href="/wiki/inventions/stepwells.html">Stepwells</a> — India</div>
 <div class="ev"><span class="yr">600 CE</span>: ⚙ Invention: <a href="/wiki/inventions/chess-chaturanga.html">Chess (chaturanga)</a> — India</div>
+<div class="ev"><span class="yr">600 CE</span>: 💞 Society: <a href="/wiki/love/devadasis.html">Devadasis</a> — c. 6th century CE to 1988</div>
 <div class="ev"><span class="yr">602 CE</span>: 👤 Born: <a href="/wiki/people/xuanzang.html">Xuanzang</a> — Pilgrimage to India</div>
 <div class="ev"><span class="yr">629 CE</span>: 📅 Travel: <a href="/wiki/events/xuanzangs-journey-to-india.html">Xuanzang&#x27;s journey to India</a> — Chinese record of Indian life</div>
 <div class="ev"><span class="yr">630 CE</span>: 📅 Religious movement: <a href="/wiki/events/spread-of-islam-to-india-via-kerala.html">Spread of Islam to India via Kerala</a> — Peaceful trade-based arrival of Islam</div>
@@ -198,7 +201,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Early modern (1500–1800) (59)
+:::collapse Early modern (1500–1800) (60)
 <div class="timeline">
 <div class="ev"><span class="yr">1500</span>: 📜 Manuscript: <a href="/wiki/manuscripts/prithviraj-raso.html">Prithviraj Raso</a> — Attributed to Chand Bardai; texts from the 16th century</div>
 <div class="ev"><span class="yr">1508</span>: 👤 Born: <a href="/wiki/people/humayun.html">Humayun</a> — Lost and regained the empire</div>
@@ -253,6 +256,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1767</span>: 📅 War: <a href="/wiki/events/first-anglo-mysore-war-to-fourth.html">First Anglo-Mysore War to Fourth</a> — Britain conquers Mysore</div>
 <div class="ev"><span class="yr">1770</span>: 📅 Famine: <a href="/wiki/events/great-bengal-famine.html">Great Bengal Famine</a> — ~10 million dead (about a third of Bengal)</div>
 <div class="ev"><span class="yr">1772</span>: 👤 Born: <a href="/wiki/people/raja-ram-mohan-roy.html">Raja Ram Mohan Roy</a> — Campaigned against sati</div>
+<div class="ev"><span class="yr">1775</span>: 💞 Society: <a href="/wiki/love/tawaifs-of-lucknow.html">Tawaifs of Lucknow</a> — 18th–20th centuries</div>
 <div class="ev"><span class="yr">1780</span>: ⚙ Invention: <a href="/wiki/inventions/mysorean-rockets.html">Mysorean rockets</a> — Mysore, India</div>
 <div class="ev"><span class="yr">1793</span>: 📅 Colonialism: <a href="/wiki/events/permanent-settlement.html">Permanent Settlement</a> — Zamindari system</div>
 <div class="ev"><span class="yr">1799</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/sikh-empire.html">Sikh Empire</a> — 1799–1849</div>
@@ -262,7 +266,7 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 </div>
 :::
 
-:::collapse Industrial and imperial age (1800–1945) (52)
+:::collapse Industrial and imperial age (1800–1945) (54)
 <div class="timeline">
 <div class="ev"><span class="yr">1800</span>: 🏗 Built: <a href="/wiki/engineering/living-root-bridges.html">Living root bridges</a> — Meghalaya</div>
 <div class="ev"><span class="yr">1814</span>: 👤 Born: <a href="/wiki/people/tatya-tope.html">Tatya Tope</a> — Leading the 1857 rebellion</div>
@@ -282,8 +286,10 @@ Every catalogued civilisation, dynasty, event, person, monument, invention and h
 <div class="ev"><span class="yr">1858</span>: 🏛 Civilisation begins: <a href="/wiki/civilizations/british-raj.html">British Raj</a> — 1858–1947</div>
 <div class="ev"><span class="yr">1858</span>: 👤 Born: <a href="/wiki/people/jagadish-chandra-bose.html">Jagadish Chandra Bose</a> — Radio waves, plant physiology</div>
 <div class="ev"><span class="yr">1861</span>: 👤 Born: <a href="/wiki/people/rabindranath-tagore.html">Rabindranath Tagore</a> — Gitanjali, Nobel 1913; national anthems</div>
+<div class="ev"><span class="yr">1861</span>: 💞 Society: <a href="/wiki/love/hijras-and-section-377.html">Hijras and Section 377</a> — 1861–2018</div>
 <div class="ev"><span class="yr">1863</span>: 👤 Born: <a href="/wiki/people/swami-vivekananda.html">Swami Vivekananda</a> — Chicago speech (1893)</div>
 <div class="ev"><span class="yr">1869</span>: 👤 Born: <a href="/wiki/people/mahatma-gandhi.html">Mahatma Gandhi</a> — Satyagraha, non-violence, Salt March</div>
+<div class="ev"><span class="yr">1873</span>: 👤 Born: <a href="/wiki/people/gauhar-jaan.html">Gauhar Jaan</a> — India&#x27;s first recording star</div>
 <div class="ev"><span class="yr">1875</span>: 👤 Born: <a href="/wiki/people/sardar-vallabhbhai-patel.html">Sardar Vallabhbhai Patel</a> — Integrated 560+ princely states</div>
 <div class="ev"><span class="yr">1876</span>: 📅 Famine: <a href="/wiki/events/great-famine-of-1876-78.html">Great Famine of 1876–78</a> — 5.5–10 million dead</div>
 <div class="ev"><span class="yr">1879</span>: 👤 Born: <a href="/wiki/people/sarojini-naidu.html">Sarojini Naidu</a> — First woman governor in India</div>

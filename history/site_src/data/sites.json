@@ -426,7 +426,8 @@
 "wiki": "Konark_Sun_Temple",
 "group": "Prehistoric & ancient sites",
 "emoji": "🗿",
-"slug": "konark-sun-temple"
+"slug": "konark-sun-temple",
+"sensitive": true
 },
 {
 "name": "Khajuraho temples",
@@ -439,7 +440,8 @@
 "wiki": "Khajuraho_Group_of_Monuments",
 "group": "Prehistoric & ancient sites",
 "emoji": "🗿",
-"slug": "khajuraho-temples"
+"slug": "khajuraho-temples",
+"sensitive": true
 },
 {
 "name": "Great Zimbabwe",
