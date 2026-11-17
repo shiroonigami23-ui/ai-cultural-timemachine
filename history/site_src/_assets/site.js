@@ -203,7 +203,8 @@ document.addEventListener('DOMContentLoaded',function(){
  var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').split('?')[0].replace('assets/site/site.css','');
 
  function clean(node,map){
-  node.querySelectorAll('sup.reference,.mw-editsection,style,link,.hatnote,.navbox,.metadata,.reflist,.mw-empty-elt,table,.gallery,.noprint,.shortdescription,.ambox,.sidebar,.infobox').forEach(function(n){n.remove()});
+  node.querySelectorAll('sup.reference,.mw-editsection,style,link,.hatnote,.navbox,.navbox-styles,.metadata,.reflist,.mw-empty-elt,.noprint,.shortdescription,.ambox,.sidebar,.portalbox,.sistersitebox,.side-box,.authority-control').forEach(function(n){n.remove()});
+  node.querySelectorAll('table').forEach(function(tb){if(tb.closest('.rdtable,.rdinfo'))return;var w=document.createElement('div');w.className=tb.classList.contains('infobox')?'rdinfo':'rdtable';tb.parentNode.insertBefore(w,tb);w.appendChild(tb)});
   node.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
    if(h.indexOf('./')===0||h.indexOf('/wiki/')===0){var t=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]).replace(/_/g,' ').toLowerCase();
     var orig=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]);if(/^(File|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk|Module|Draft):/i.test(orig)){wkUnwrap(a);return}
@@ -223,19 +224,26 @@ document.addEventListener('DOMContentLoaded',function(){
     var h2=el.tagName==='H2'?el:(el.classList&&el.classList.contains('mw-heading2')?el.querySelector('h2'):null);
     if(h2){cur={title:h2.textContent.trim(),nodes:[]};secs.push(cur);return}
     if(!cur){cur={title:'Introduction',nodes:[]};secs.push(cur)}
-    if(el.classList&&(el.classList.contains('mw-heading3')||el.classList.contains('mw-heading4'))){var hh=el.querySelector('h3,h4');if(hh){var x=document.createElement('h3');x.textContent=hh.textContent.trim();cur.nodes.push(x)}return}
-    if(/^(P|UL|OL|DL|BLOCKQUOTE|H3|H4)$/.test(el.tagName))cur.nodes.push(el);
+    if(el.classList&&(el.classList.contains('mw-heading3')||el.classList.contains('mw-heading4'))||/^H[34]$/.test(el.tagName)){var hh=/^H[34]$/.test(el.tagName)?el:el.querySelector('h3,h4');if(hh){var x=document.createElement('h3');x.textContent=hh.textContent.trim();x.id='w-'+cur.title.toLowerCase().replace(/[^a-z0-9]+/g,'-')+'--'+x.textContent.toLowerCase().replace(/[^a-z0-9]+/g,'-');cur.nodes.push(x);(cur.subs=cur.subs||[]).push([x.id,x.textContent])}return}
+    if(el.tagName==='STYLE'||el.tagName==='LINK'||(el.classList&&(el.classList.contains('navbox')||el.classList.contains('reflist'))))return;
+    cur.nodes.push(el);
    });
+   var ibox=root.querySelector('table.infobox'),facts='';
+   if(ibox){var fd=document.createElement('div');fd.appendChild(document.importNode(ibox,true));clean(fd,map);facts='<details class="dsec dfacts" id="w-key-facts" open><summary>📋 Key facts</summary><div class="dbody">'+fd.innerHTML+'</div></details>'}
    secs=secs.filter(function(s){return !SKIP.test(s.title)&&s.nodes.some(function(n){return n.textContent.trim().length>40})});
    if(!secs.length)throw 0;
-   var html='',n=0;
+   var html='',n=0,tocs=[];
    secs.forEach(function(s,i){if(s.title==='Introduction')return;
     var div=document.createElement('div');s.nodes.forEach(function(nd){div.appendChild(document.importNode(nd,true))});clean(div,map);
     if(div.textContent.trim().length<40)return;
     var id='w-'+s.title.toLowerCase().replace(/[^a-z0-9]+/g,'-');
-    html+='<details class="dsec" id="'+id+'"'+(n<3?' open':'')+'><summary>'+icon(s.title)+' '+s.title.replace(/</g,'&lt;')+'</summary><div class="dbody">'+div.innerHTML+'</div></details>';n++;});
-   box.innerHTML='<h2 id="in-depth">📚 In depth: '+n+' sections</h2>'+html+'<div class="wsrc">Text from the Wikipedia article <a href="https://en.wikipedia.org/wiki/'+encodeURIComponent(j.parse.title.replace(/ /g,'_'))+'" target="_blank" rel="noopener">'+j.parse.title+'</a>, CC BY-SA 4.0, loaded live and kept up to date. Links with a dashed underline open pages in this encyclopedia.</div>';if(BLUR)wkBlur(box);
-   var toc=document.querySelector('.toc ul');if(toc){var li=document.createElement('li');li.innerHTML='<a href="#in-depth">📚 In depth ('+n+')</a>';toc.appendChild(li);var li2=document.createElement('li');li2.innerHTML='<a href="#research">🔬 Research & studies</a>';if(document.getElementById('research'))toc.appendChild(li2)}
+    if(BLUR)wkBlur(div);
+    html+='<details class="dsec" id="'+id+'"'+(n<3?' open':'')+'><summary>'+icon(s.title)+' '+s.title.replace(/</g,'&lt;')+'</summary><div class="dbody">'+div.innerHTML+'</div></details>';n++;
+    tocs.push([id,icon(s.title)+' '+s.title,(s.subs||[]).filter(function(x){return div.querySelector('#'+CSS.escape(x[0]))})]);});
+   var esc2=function(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+   var contents=tocs.length>2?'<details class="rdtoc dcontents" open><summary>📑 Contents</summary><ol>'+tocs.map(function(t){return '<li><a href="#'+t[0]+'">'+esc2(t[1])+'</a>'+(t[2].length?'<ul>'+t[2].map(function(u){return '<li><a href="#'+u[0]+'">'+esc2(u[1])+'</a></li>'}).join('')+'</ul>':'')+'</li>'}).join('')+'</ol></details>':'';
+   box.innerHTML='<h2 id="in-depth">📚 In depth: '+n+' sections</h2>'+contents+facts+html+'<div class="wsrc">Text from the Wikipedia article <a href="https://en.wikipedia.org/wiki/'+encodeURIComponent(j.parse.title.replace(/ /g,'_'))+'" target="_blank" rel="noopener">'+j.parse.title+'</a>, CC BY-SA 4.0, loaded live and kept up to date. Links with a dashed underline open pages in this encyclopedia.</div>';if(BLUR)wkBlur(box);
+   var toc=document.querySelector('.toc ul');if(toc){var li=document.createElement('li');li.innerHTML='<a href="#in-depth">📚 In depth ('+n+')</a>'+(tocs.length?'<ul class="tocsub">'+tocs.map(function(t){return '<li><a href="#'+t[0]+'">'+esc2(t[1])+'</a></li>'}).join('')+'</ul>':'');toc.appendChild(li);var li2=document.createElement('li');li2.innerHTML='<a href="#research">🔬 Research & studies</a>';if(document.getElementById('research'))toc.appendChild(li2)}
   }).catch(function(){box.innerHTML='<h2 id="in-depth">📚 In depth</h2><p class="small muted">The full article could not be loaded right now. <a href="https://en.wikipedia.org/wiki/'+encodeURIComponent(t.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Read it on Wikipedia</a>.</p>'});
  }
  document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('section.deepwiki');if(b)run(b)});
@@ -342,7 +350,8 @@ document.addEventListener('DOMContentLoaded',function(){
     if(cur)cur.html+=el.outerHTML;else if(!/^contents$/i.test(el.textContent.trim()))intro+=el.outerHTML});
    secs=secs.filter(function(x){return x.html.replace(/<[^>]+>/g,'').trim().length>20});
    var ic=window.wkIcon||function(){return '📄'};
-   var toc=secs.map(function(x){return '<li><a href="#'+x.id+'">'+ic(x.title)+' '+esc(x.title)+'</a></li>'}).join('');
+   var toc=secs.map(function(x){var subs=[],re=/<h3[^>]*\sid="([^"]+)"[^>]*>([\s\S]*?)<\/h3>/g,m;while((m=re.exec(x.html)))subs.push('<li><a href="#'+m[1]+'">'+esc(m[2].replace(/<[^>]+>/g,'').trim())+'</a></li>');
+    return '<li><a href="#'+x.id+'">'+ic(x.title)+' '+esc(x.title)+'</a>'+(subs.length?'<ul>'+subs.join('')+'</ul>':'')+'</li>'}).join('');
    var body=secs.map(function(x,k){return '<details class="dsec" id="'+x.id+'"'+(k<2?' open':'')+'><summary>'+ic(x.title)+' '+esc(x.title)+'</summary><div class="dbody">'+x.html+'</div></details>'}).join('');
    // breadcrumbs: Home › Catalog › Parent › Article
    var isP=/<th>(Born|Died)<\/th>/.test(facts.join(''));
@@ -357,7 +366,7 @@ document.addEventListener('DOMContentLoaded',function(){
     (pe?'<p class="small muted rdpart">Part of <a href="'+base+par+'">'+pe[1]+' '+esc(pe[0])+'</a> in <a href="'+base+'wiki/'+pe[2]+'/index.html">'+esc(co[0])+'</a></p>':'')+
     ((pic||facts.length)?'<div class="entry-top rdtop"><div class="entry-pic"></div>'+(facts.length?'<table class="factbox">'+facts.join('')+'</table>':'')+'</div>':'')+
     '<article class="prose rdbody">'+intro+'</article>'+
-    (toc?'<details class="rdtoc" open><summary>📑 Sections</summary><ol>'+toc+'</ol></details>':'')+
+    (toc?'<details class="rdtoc dcontents" open><summary>📑 Contents</summary><ol>'+toc+'</ol></details>':'')+
     '<div class="rdbody">'+body+'</div>'+
     '<div class="wsrc">Article “'+esc(title)+'” from <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(title.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Wikipedia</a> by its contributors, licensed CC BY-SA 4.0, loaded live. Dashed links open our own pages; other links stay inside this reader.</div>';
    var ep=box.querySelector('.rdtop .entry-pic');if(ep){if(pic)ep.appendChild(pic);else ep.remove()}
@@ -376,3 +385,6 @@ document.addEventListener('DOMContentLoaded',function(){
  function scan(r){(r||document).querySelectorAll('.card img,.entry-pic img,.livepic img').forEach(function(i){if(i.complete)mark(i);else i.addEventListener('load',function(){mark(i)},{once:true})})}
  document.addEventListener('DOMContentLoaded',function(){scan();if('MutationObserver' in window)new MutationObserver(function(ms){ms.forEach(function(m){m.addedNodes.forEach(function(n){if(n.nodeType!==1)return;if(n.tagName==='IMG'&&n.closest&&n.closest('.card,.entry-pic,.livepic')){if(n.complete)mark(n);else n.addEventListener('load',function(){mark(n)},{once:true})}else if(n.querySelectorAll)scan(n)})})}).observe(document.body,{childList:true,subtree:true})});
 })();
+
+// clicking a link to a section inside a collapsed card opens it first
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href^="#"]');if(!a)return;var id=decodeURIComponent(a.getAttribute('href').slice(1));if(!id)return;var el=document.getElementById(id);if(!el)return;var d=el.tagName==='DETAILS'?el:el.closest('details');if(d&&!d.open){d.open=true}var p=d&&d.parentElement&&d.parentElement.closest('details');if(p)p.open=true;if(d){e.preventDefault();el.scrollIntoView({behavior:'smooth',block:'start'});history.replaceState(null,'','#'+id)}});

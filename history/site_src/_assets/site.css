@@ -330,3 +330,10 @@ details[open]>.dbody,details.coll[open]>.collin{animation:fadein .35s ease}
 .blurwrap.shown img{filter:none;transform:none}.blurwrap.shown::after{display:none}
 
 .rdtop{clear:both}.rdtop .factbox td img{max-width:100%;height:auto}.rdtop .entry-pic img{aspect-ratio:4/3;object-fit:cover}.rdpart{margin:.2rem 0 .6rem}.rdtoc ol{list-style:none;padding-left:0}
+
+.dcontents ol{display:block;columns:2;column-gap:2rem;padding-left:1.2rem}.dcontents li{break-inside:avoid;margin:.15rem 0}.dcontents ul{list-style:none;padding-left:.9rem;margin:.1rem 0 .3rem;font-size:.9em;opacity:.85}
+.toc .tocsub{list-style:none;padding-left:.8rem;margin:.2rem 0;font-size:.92em}.toc .tocsub li{margin:.1rem 0}
+.dbody ul.gallery,.rdbody ul.gallery{display:flex;flex-wrap:wrap;gap:10px;list-style:none;padding:0;margin:.8rem 0}.dbody .gallerybox,.rdbody .gallerybox{width:auto!important;max-width:200px}.dbody .gallerybox img,.rdbody .gallerybox img{max-height:160px;width:auto}
+.dbody .thumbinner,.dbody .tmulti{max-width:100%!important;width:auto!important}.dbody .rdinfo{float:right;clear:right;max-width:min(340px,100%);margin:0 0 1rem 1rem;font-size:.85em}
+.dfacts .dbody .rdinfo{float:none;max-width:100%;margin:0}.dfacts .infobox{width:100%}
+@media(max-width:700px){.dcontents ol{columns:1}.dbody .rdinfo{float:none;max-width:100%;margin:1rem 0}}
