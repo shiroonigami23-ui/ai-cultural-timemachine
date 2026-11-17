@@ -3,82 +3,82 @@
  "streams": {
   "herculaneum": [
    {
-    "title": "The Dacian Wars: Towards a Tale of Trajan’s Column Revisited Through AI Applications. Study Project and Research Methodology",
-    "date": "2026-11-09",
-    "venue": "Studia Universitatis Babeș-Bolyai Historia",
-    "url": "https://doi.org/10.24193/subbhist.2026.sp.iss.1.08"
-   },
-   {
-    "title": "The early Roman animal cemetery in Berenike (Red Sea, Egypt): estimating its range (fieldwork in 2023–2025)",
-    "date": "2026-11-03",
-    "venue": "Polish Archaeology in the Mediterranean",
-    "url": "https://doi.org/10.37343/uw.2083-537x.pam35.1.10"
-   },
-   {
     "title": "Artificial Intelligence, Synchrotron Imaging, and the Virtual Unwrapping of the Herculaneum Papyri",
     "date": "2026-10-16",
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "url": "https://doi.org/10.5281/zenodo.23423772"
+   },
+   {
+    "title": "Volumetric Texture Analysis for Unsupervised Ink Detection in Herculaneum Papyri",
+    "date": "2026-06-19",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.20766168"
+   },
+   {
+    "title": "Ink detection from surface topography of the Herculaneum papyri",
+    "date": "2026-06-18",
+    "venue": "Scientific Reports",
+    "url": "https://doi.org/10.1038/s41598-026-58467-1"
    }
   ],
   "keeladi": [
    {
-    "title": "Oil Composition Governs the Formation and Nanoarchitecture of Lamp Combustion-Derived Carbon",
-    "date": "2026-11-01",
-    "venue": "Carbon Trends",
-    "url": "https://doi.org/10.1016/j.cartre.2026.100713"
+    "title": "Archaeometric characterisation of Sangam-period pottery from Keeladi, Tamil Nadu, India using XRF and CHNS analysis",
+    "date": "2026-10-28",
+    "venue": "Radiation Physics and Chemistry",
+    "url": "https://doi.org/10.1016/j.radphyschem.2026.114591"
    },
    {
-    "title": "Autonomous Southern Kingdoms within a Mauryan-Centred Order AND Emperor Aśoka's Relations with the Cholas, Pandyas, Keralaputras and Satiyaputras in the Third Century BCE",
-    "date": "2026-10-31",
-    "venue": "International Journal For Multidisciplinary Research",
-    "url": "https://doi.org/10.36948/ijfmr.2026.v08i05.91057"
+    "title": "A Sustainable Tourism Model for Keeladi and the Sangam Landscape",
+    "date": "2026-02-12",
+    "venue": "Shanlax International Journal of Management",
+    "url": "https://doi.org/10.34293/management.v13is1-i2-feb.10400"
    },
    {
-    "title": "THE VAIYAI AND HISTORICAL RECORDS",
-    "date": "2026-09-26",
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.22974178"
+    "title": "Ancient potteries of Keeladi: A multidisciplinary analysis using Fourier transform infrared spectroscopy, X‐ray powder diffraction and X‐ray fluorescence spectroscopy",
+    "date": "2025-03-12",
+    "venue": "Archaeometry",
+    "url": "https://doi.org/10.1111/arcm.13070"
    }
   ],
   "indus": [
    {
-    "title": "Learning to Become Persians. Achaemenid Afġānistān in the Making. An Imperial Experience",
-    "date": "2026-11-15",
-    "venue": "UCL Discovery (University College London)",
-    "url": "https://openalex.org/W7225839018"
+    "title": "Deciphering the Indus Script: Rebus Metaphors of Bronze Age Metallurgy and Maritime Cargo Manifests",
+    "date": "2026-11-11",
+    "venue": "Current Science",
+    "url": "https://openalex.org/W7226044687"
    },
    {
-    "title": "Natural and anthropogenic factors associated with agricultural productivity in selected Sub-Saharan African countries: The role of water resources",
-    "date": "2026-11-14",
-    "venue": "Agricultural Water Management",
-    "url": "https://doi.org/10.1016/j.agwat.2026.110949"
-   },
-   {
-    "title": "The Indus Stream: Progenitor Mass and Energy Budgets of a Wide Southern Halo Stream",
-    "date": "2026-11-14",
+    "title": "The Paperwork of Meluhha: What the Indus Script Was For — A State of the Evidence",
+    "date": "2026-11-01",
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24219012"
+    "url": "https://doi.org/10.5281/zenodo.24018945"
+   },
+   {
+    "title": "Counting, measuring and marking: the Indus script on pottery, unit tablets and stamps",
+    "date": "2026-10-31",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.23845820"
    }
   ],
   "adna": [
    {
-    "title": "Balancing Root-Zone Oxygenation and Rhizosphere Stability: The Impact of Aeration and Hypoxia on Hydroponic Plant Growth",
-    "date": "2026-12-01",
-    "venue": "Digital Commons - USU (Utah State University)",
-    "url": "https://openalex.org/W7213377292"
+    "title": "A preliminary ancient DNA study of fragmented faunal remains from the Shandun Site, Anji, Zhejiang Province",
+    "date": "2026-11-04",
+    "venue": "Asian Archaeology",
+    "url": "https://doi.org/10.1007/s41826-026-00127-4"
    },
    {
-    "title": "Sex-Dependent Modulation of the Endocannabinoid System in Pain Processing",
-    "date": "2026-12-01",
-    "venue": "Digital Commons - USU (Utah State University)",
-    "url": "https://openalex.org/W7225844876"
+    "title": "Ancient DNA charts spread of Celtic and Germanic languages",
+    "date": "2026-11-04",
+    "venue": "Nature",
+    "url": "https://doi.org/10.1038/d41586-026-03582-2"
    },
    {
-    "title": "Signatures of selection underlying adaptation and production traits in tropical Bos indicus cattle: A systematic review",
-    "date": "2026-11-16",
-    "venue": "Animal Bioscience",
-    "url": "https://doi.org/10.5713/ab.260639"
+    "title": "Precise taxonomic identification of antler arrowheads from the Jianjiapo Cemetery, Xinjiang, China, using ancient DNA",
+    "date": "2026-11-02",
+    "venue": "Journal of Archaeological Science",
+    "url": "https://doi.org/10.1016/j.jas.2026.106736"
    }
   ]
  }
