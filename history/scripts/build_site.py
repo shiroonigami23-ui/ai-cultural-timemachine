@@ -617,7 +617,7 @@ def main():
     totalwords = sum(p["words"] for p in allpages)
     hints = ('<div class="hints">Try: ' + " ".join(f'<a href="/wiki/search.html?q={html.escape(h.replace(" ", "+"))}">{html.escape(h)}</a>' for h in CFG.get("search_hints", [])) + '</div>') if CFG.get("search_hints") else ""
     content = f'''<section class="hero"><div class="wrap"><div class="kicker">{CFG["kicker"]}</div><h1>{CFG["logo"]} {CFG["name"]}</h1><p class="lede">{CFG["tagline"]}</p>
-<form class="herosearch" action="/wiki/search.html"><input name="q" placeholder="🔎 Search {len(allpages)} articles and {nentries} catalog entries…" aria-label="Search"></form>{hints}
+<form class="herosearch" action="/wiki/search.html"><input name="q" placeholder="🔎 Search this encyclopedia and all of Wikipedia…" aria-label="Search"></form>{hints}
 <div class="stats">{stats}</div></div></section>
 <main class="wrap home">{collblock}<h2>In-depth articles by section</h2><div class="secgrid compact">{seccards}</div>
 <h2>Featured deep dives</h2><div class="cards">{featcards}</div>
