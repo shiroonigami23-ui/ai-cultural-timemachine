@@ -308,3 +308,11 @@ details[open]>.dbody,details.coll[open]>.collin{animation:fadein .35s ease}
 .card img.tall,.livepic img.tall{object-position:50% 12%}
 .entry-pic img.tall,.livepic.big img.tall{object-fit:contain;background:radial-gradient(circle,rgba(127,127,127,.18),rgba(0,0,0,.35))}
 
+
+/* images inside Wikipedia-sourced text (reader and In depth) */
+.rdbody img.icon,.dbody img.icon{display:inline;vertical-align:middle;max-height:1.2em;width:auto;border-radius:0}
+.dbody img{max-width:100%;height:auto;border-radius:8px}
+.dbody .dfig{float:right;clear:right;max-width:min(300px,45%);margin:.3rem 0 1rem 1rem;font-size:.85em}
+.rdbody figcaption,.dbody figcaption,.rdbody .thumbcaption{opacity:.8;margin-top:.3rem}
+.rdbody .infobox img{border-radius:6px}
+@media(max-width:700px){.dbody .dfig{float:none;max-width:100%;margin:1rem 0}}

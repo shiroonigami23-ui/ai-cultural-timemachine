@@ -191,14 +191,18 @@ document.addEventListener('DOMContentLoaded',function(){
  var ICON=[[/descr|anatom|morpholog|appear|character|physical|structure|size|composition/i,'🔎'],[/habitat|distribut|range|ecolog|location|geograph/i,'🗺'],[/diet|feed|predat|hunt|forag|prey/i,'🍽'],[/reprod|breed|mating|life cycle|spawn|lifespan|growth|develop/i,'🥚'],[/behavio|social|communicat|vocal|song|intelligen/i,'🧠'],[/migrat|movement|navigat/i,'🧭'],[/conserv|threat|status|human|fisher|pollut|climate|protect/i,'🛡'],[/taxonom|evolut|phylogen|classif|etymolog|name/i,'🧬'],[/research|study|scien|discover|observ|explor|mission|history/i,'🔬'],[/atmosph|surface|geolog|interior|orbit|rotation|magnet|formation|moon|ring/i,'🪐'],[/cultur|myth|religion|popular/i,'🎭']];
  function icon(t){for(var i=0;i<ICON.length;i++)if(ICON[i][0].test(t))return ICON[i][1];return '📄'}
  var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').split('?')[0].replace('assets/site/site.css','');
+
+function wkUnwrap(a){if(a.querySelector('img')){var f=document.createDocumentFragment();while(a.firstChild)f.appendChild(a.firstChild);a.replaceWith(f)}else a.replaceWith(document.createTextNode(a.textContent))}
+function wkImgs(root){root.querySelectorAll('img').forEach(function(i){['src','srcset','data-src'].forEach(function(k){var v=i.getAttribute(k);if(v)i.setAttribute(k,v.replace(/(^|\s|,)\/\//g,'$1https://'))});if(!i.getAttribute('src')&&i.getAttribute('data-src'))i.setAttribute('src',i.getAttribute('data-src'));i.loading='lazy';i.decoding='async';i.referrerPolicy='no-referrer';i.removeAttribute('width');i.removeAttribute('height');var w=+(i.getAttribute('data-file-width')||0);if(w&&w<40)i.classList.add('icon')});
+ root.querySelectorAll('.lazy-image-placeholder').forEach(function(p){var src=p.getAttribute('data-src');if(!src)return;var im=document.createElement('img');im.src=src.replace(/^\/\//,'https://');if(p.getAttribute('data-srcset'))im.srcset=p.getAttribute('data-srcset').replace(/(^|\s|,)\/\//g,'$1https://');im.alt=p.getAttribute('data-alt')||'';im.loading='lazy';p.replaceWith(im)})}
  function clean(node,map){
-  node.querySelectorAll('sup.reference,.mw-editsection,style,link,.hatnote,.navbox,.metadata,.reflist,.mw-empty-elt,table,figure,.thumb,.gallery,.noprint,.shortdescription,.ambox,.sidebar,.infobox').forEach(function(n){n.remove()});
+  node.querySelectorAll('sup.reference,.mw-editsection,style,link,.hatnote,.navbox,.metadata,.reflist,.mw-empty-elt,table,.gallery,.noprint,.shortdescription,.ambox,.sidebar,.infobox').forEach(function(n){n.remove()});
   node.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
    if(h.indexOf('./')===0||h.indexOf('/wiki/')===0){var t=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]).replace(/_/g,' ').toLowerCase();
-    var orig=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]);if(/^(File|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk|Module|Draft):/i.test(orig)){a.replaceWith(document.createTextNode(a.textContent));return}
+    var orig=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]);if(/^(File|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk|Module|Draft):/i.test(orig)){wkUnwrap(a);return}
     if(map[t]){a.href=base+map[t];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=base+'wiki/read.html?t='+encodeURIComponent(orig);a.className='rdl';a.title='Read here'}}
    else if(h.charAt(0)==='#'){a.replaceWith(document.createTextNode(a.textContent))}});
-  node.querySelectorAll('img').forEach(function(i){i.remove()});
+  wkImgs(node);node.querySelectorAll('figure,.thumb').forEach(function(f){f.classList.add('dfig')});
   return node;
  }
  function run(box){
@@ -300,11 +304,11 @@ document.addEventListener('DOMContentLoaded',function(){
    root.querySelectorAll('sup.reference,.mw-editsection,style,link,.navbox,.navbox-styles,.metadata,.mw-empty-elt,.noprint,.shortdescription,.ambox,.sidebar,.reflist,.references,.mw-references-wrap,.hatnote,.portalbox,.authority-control,.sistersitebox,.side-box').forEach(function(n){n.remove()});
    // drop tail sections
    var kill=false;[].slice.call(root.children).forEach(function(el){var h=el.querySelector&&el.querySelector('h2');var ht=(el.tagName==='H2'?el:h);if(ht&&/^(see also|references|notes|external links|further reading|bibliography|sources|citations|footnotes|works cited)$/i.test(ht.textContent.trim()))kill=true;else if(ht&&el.classList.contains('mw-heading2'))kill=false;if(kill)el.remove()});
-   root.querySelectorAll('img').forEach(function(i){['src','srcset'].forEach(function(k){var v=i.getAttribute(k);if(v)i.setAttribute(k,v.replace(/(^|\s|,)\/\//g,'$1https://'))});i.loading='lazy';i.removeAttribute('width');i.removeAttribute('height')});
+   wkImgs(root);
    root.querySelectorAll('table').forEach(function(tb){var w=document.createElement('div');w.className=tb.classList.contains('infobox')?'rdinfo':'rdtable';tb.parentNode.insertBefore(w,tb);w.appendChild(tb)});
    root.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
     if(/^\.\/|^\/wiki\//.test(h)){var raw=h.replace(/^\.\/|^\/wiki\//,''),parts=raw.split('#'),tt;try{tt=decodeURIComponent(parts[0]).replace(/_/g,' ')}catch(e){tt=parts[0]}
-     if(/^(File|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk):/i.test(tt)){a.replaceWith(document.createTextNode(a.textContent));return}
+     if(/^(File|Image|Media|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk|Module|Draft):/i.test(tt)){wkUnwrap(a);return}
      var k=tt.toLowerCase();if(map[k]){a.href=base+map[k];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=readURL(tt,parts[1]?'#'+parts[1]:'')}}
     else if(h.charAt(0)!=='#'){a.target='_blank';a.rel='noopener'}});
    // TOC
