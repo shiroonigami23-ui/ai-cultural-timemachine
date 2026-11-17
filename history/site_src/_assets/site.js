@@ -306,7 +306,7 @@ document.addEventListener('DOMContentLoaded',function(){
   fetch(api).then(function(r){return r.json()}).then(function(j){
    if(!j||!j.parse){
     return fetch('https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=10&srsearch='+encodeURIComponent(t)).then(function(r){return r.json()}).then(function(s){
-     var hits=(s.query&&s.query.search)||[];box.innerHTML='<h1>'+esc(t)+'</h1>'+(hits.length?'<p>No article with exactly this title. Did you mean:</p>':'<p class="muted">No article found for this title. Try the search at the top of the page.</p>')+'<ul class="rdhits">'+hits.map(function(h){return '<li><a href="'+readURL(h.title)+'"><b>'+esc(h.title)+'</b></a><div class="sm">'+h.snippet+'…</div></li>'}).join('')+'</ul>'})}
+     var hits=(s.query&&s.query.search)||[];box.innerHTML='<h1>'+esc(t)+'</h1>'+(hits.length?'<p>No article with exactly this title. Did you mean:</p>':'<p class="muted">No article found for this title. Try the search at the top of the page.</p>')+'<ul class="rdhits">'+hits.map(function(h){return '<li><a href="'+base+'wiki/read.html?t='+encodeURIComponent(h.title.replace(/ /g,'_'))+'"><b>'+esc(h.title)+'</b></a><div class="sm">'+h.snippet+'…</div></li>'}).join('')+'</ul>'})}
    var title=j.parse.title,doc=new DOMParser().parseFromString(j.parse.text,'text/html'),root=doc.querySelector('.mw-parser-output')||doc.body;
    root.querySelectorAll('sup.reference,.mw-editsection,style,link,.navbox,.navbox-styles,.metadata,.mw-empty-elt,.noprint,.shortdescription,.ambox,.sidebar,.reflist,.references,.mw-references-wrap,.hatnote,.portalbox,.authority-control,.sistersitebox,.side-box').forEach(function(n){n.remove()});
    // drop tail sections
@@ -345,11 +345,12 @@ document.addEventListener('DOMContentLoaded',function(){
    var toc=secs.map(function(x){return '<li><a href="#'+x.id+'">'+ic(x.title)+' '+esc(x.title)+'</a></li>'}).join('');
    var body=secs.map(function(x,k){return '<details class="dsec" id="'+x.id+'"'+(k<2?' open':'')+'><summary>'+ic(x.title)+' '+esc(x.title)+'</summary><div class="dbody">'+x.html+'</div></details>'}).join('');
    // breadcrumbs: Home › Catalog › Parent › Article
+   var isP=/<th>(Born|Died)<\/th>/.test(facts.join(''));
    var cr=document.querySelector('.crumbs'),pe=par&&PG[par],co=pe&&CO[pe[2]],here=self;
    if(!pe&&here&&PG[here]){pe=null}
-   if(cr){cr.innerHTML='<a href="'+base+'index.html">Home</a> › '+(co?'<a href="'+base+'wiki/'+pe[2]+'/index.html">'+esc(co[0])+'</a> › <a href="'+base+par+'">'+esc(pe[0])+'</a> › ':(here&&PG[here]&&CO[PG[here][2]]?'<a href="'+base+'wiki/'+PG[here][2]+'/index.html">'+esc(CO[PG[here][2]][0])+'</a> › ':'📖 Encyclopedia › '))+esc(title)}
+   if(cr){cr.innerHTML='<a href="'+base+'index.html">Home</a> › '+(co?'<a href="'+base+'wiki/'+pe[2]+'/index.html">'+esc(co[0])+'</a> › <a href="'+base+par+'">'+esc(pe[0])+'</a> › ':(here&&PG[here]&&CO[PG[here][2]]?'<a href="'+base+'wiki/'+PG[here][2]+'/index.html">'+esc(CO[PG[here][2]][0])+'</a> › ':(isP?'👤 Notable people › ':'📖 Encyclopedia › ')))+esc(title)}
    var props=j.parse.properties||{},sd='';if(Array.isArray(props)){props.forEach(function(p){if(p.name==='wikibase-shortdesc')sd=p['*']})}else sd=props['wikibase-shortdesc']||'';
-   var emo=pe?pe[1]:(here&&PG[here]?PG[here][1]:'📖');
+   var emo=pe?pe[1]:(here&&PG[here]?PG[here][1]:(isP?'👤':'📖'));
    document.title=title+' · '+(document.title.split('·').pop()||'').trim();
    box.innerHTML='<div class="rdhead"><h1>'+emo+' '+j.parse.displaytitle+'</h1>'+(here?'<a class="btn" href="'+base+here+'">📘 Open our article on '+esc(title)+'</a>':'')+'</div>'+
     (sd?'<p class="lede">'+esc(sd.charAt(0).toUpperCase()+sd.slice(1))+'.</p>':'')+
@@ -366,7 +367,7 @@ document.addEventListener('DOMContentLoaded',function(){
   }).catch(function(e){if(window.console)console.error('reader',e);box.innerHTML='<h1>'+esc(t)+'</h1><p class="muted">Could not load this article right now. <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(t.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Open the original</a>.</p>'});
  }
  document.addEventListener('DOMContentLoaded',function(){var box=document.getElementById('reader');if(!box)return;var ph=[].slice.call(document.querySelectorAll('h1')).filter(function(h){return !box.contains(h)})[0];if(ph)ph.style.display='none';
-  var f=document.getElementById('rdform');if(f)f.onsubmit=function(e){e.preventDefault();var v=f.querySelector('input').value.trim();if(v)location.href=readURL(v)};
+  var f=document.getElementById('rdform');if(f)f.onsubmit=function(e){e.preventDefault();var v=f.querySelector('input').value.trim();if(v)location.href=base+'wiki/read.html?t='+encodeURIComponent(v.replace(/ /g,'_'))};
   var t=new URLSearchParams(location.search).get('t');if(!t){box.innerHTML='<p class="muted">Open any link in an article to read it here, or use the search at the top of the page.</p>';return}
   t=t.replace(/_/g,' ');if(f)f.querySelector('input').value=t;getMap().then(function(map){render(box,map,t)})});
 })();
