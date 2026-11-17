@@ -337,3 +337,8 @@ details[open]>.dbody,details.coll[open]>.collin{animation:fadein .35s ease}
 .dbody .thumbinner,.dbody .tmulti{max-width:100%!important;width:auto!important}.dbody .rdinfo{float:right;clear:right;max-width:min(340px,100%);margin:0 0 1rem 1rem;font-size:.85em}
 .dfacts .dbody .rdinfo{float:none;max-width:100%;margin:0}.dfacts .infobox{width:100%}
 @media(max-width:700px){.dcontents ol{columns:1}.dbody .rdinfo{float:none;max-width:100%;margin:1rem 0}}
+
+.toc .tocsub>li{display:grid;grid-template-columns:1.1rem 1fr;align-items:start}.toc .tocsub>li>ul{grid-column:2}
+.toc .tgl{border:0;background:none;color:var(--muted);cursor:pointer;padding:0;font-size:1rem;line-height:1.2;transition:transform .2s}.toc .tgl.open{transform:rotate(90deg)}
+.toc .tocsub2{list-style:none;padding-left:.4rem;margin:.15rem 0 .3rem;border-left:2px solid var(--line);font-size:.92em}.toc .tocsub2 li{margin:.12rem 0}
+.toc a.on{color:var(--accent);font-weight:700}
