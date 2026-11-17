@@ -1,0 +1,85 @@
+{
+ "updated": "2026-11-17",
+ "streams": {
+  "herculaneum": [
+   {
+    "title": "The Dacian Wars: Towards a Tale of Trajan’s Column Revisited Through AI Applications. Study Project and Research Methodology",
+    "date": "2026-11-09",
+    "venue": "Studia Universitatis Babeș-Bolyai Historia",
+    "url": "https://doi.org/10.24193/subbhist.2026.sp.iss.1.08"
+   },
+   {
+    "title": "The early Roman animal cemetery in Berenike (Red Sea, Egypt): estimating its range (fieldwork in 2023–2025)",
+    "date": "2026-11-03",
+    "venue": "Polish Archaeology in the Mediterranean",
+    "url": "https://doi.org/10.37343/uw.2083-537x.pam35.1.10"
+   },
+   {
+    "title": "Artificial Intelligence, Synchrotron Imaging, and the Virtual Unwrapping of the Herculaneum Papyri",
+    "date": "2026-10-16",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.23423772"
+   }
+  ],
+  "keeladi": [
+   {
+    "title": "Oil Composition Governs the Formation and Nanoarchitecture of Lamp Combustion-Derived Carbon",
+    "date": "2026-11-01",
+    "venue": "Carbon Trends",
+    "url": "https://doi.org/10.1016/j.cartre.2026.100713"
+   },
+   {
+    "title": "Autonomous Southern Kingdoms within a Mauryan-Centred Order AND Emperor Aśoka's Relations with the Cholas, Pandyas, Keralaputras and Satiyaputras in the Third Century BCE",
+    "date": "2026-10-31",
+    "venue": "International Journal For Multidisciplinary Research",
+    "url": "https://doi.org/10.36948/ijfmr.2026.v08i05.91057"
+   },
+   {
+    "title": "THE VAIYAI AND HISTORICAL RECORDS",
+    "date": "2026-09-26",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.22974178"
+   }
+  ],
+  "indus": [
+   {
+    "title": "Learning to Become Persians. Achaemenid Afġānistān in the Making. An Imperial Experience",
+    "date": "2026-11-15",
+    "venue": "UCL Discovery (University College London)",
+    "url": "https://openalex.org/W7225839018"
+   },
+   {
+    "title": "Natural and anthropogenic factors associated with agricultural productivity in selected Sub-Saharan African countries: The role of water resources",
+    "date": "2026-11-14",
+    "venue": "Agricultural Water Management",
+    "url": "https://doi.org/10.1016/j.agwat.2026.110949"
+   },
+   {
+    "title": "The Indus Stream: Progenitor Mass and Energy Budgets of a Wide Southern Halo Stream",
+    "date": "2026-11-14",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24219012"
+   }
+  ],
+  "adna": [
+   {
+    "title": "Balancing Root-Zone Oxygenation and Rhizosphere Stability: The Impact of Aeration and Hypoxia on Hydroponic Plant Growth",
+    "date": "2026-12-01",
+    "venue": "Digital Commons - USU (Utah State University)",
+    "url": "https://openalex.org/W7213377292"
+   },
+   {
+    "title": "Sex-Dependent Modulation of the Endocannabinoid System in Pain Processing",
+    "date": "2026-12-01",
+    "venue": "Digital Commons - USU (Utah State University)",
+    "url": "https://openalex.org/W7225844876"
+   },
+   {
+    "title": "Signatures of selection underlying adaptation and production traits in tropical Bos indicus cattle: A systematic review",
+    "date": "2026-11-16",
+    "venue": "Animal Bioscience",
+    "url": "https://doi.org/10.5713/ab.260639"
+   }
+  ]
+ }
+}
