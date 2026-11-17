@@ -151,6 +151,7 @@ IMG_EXT = (".webp", ".png", ".jpg", ".jpeg")
 PROMPTS = []
 PHOTOS = []
 WIKIMAP = {}
+SITEMAP = []
 
 
 def find_img(cid, slug):
@@ -530,6 +531,20 @@ def main():
                         cur_sec=cur_sec, npages=len(allpages), built=TRACKED or built, bodyclass=bodyclass, tracker=CFG.get("tracker", []))
         out = os.path.join(ROOT, rel); os.makedirs(os.path.dirname(out), exist_ok=True)
         page = page.replace('assets/site/site.js"', f'assets/site/site.js?v={VER:x}"').replace('assets/site/site.css"', f'assets/site/site.css?v={VER:x}"')
+        su = CFG.get("site_url", "").rstrip("/")
+        if su:
+            url = su + "/" + ("" if rel == "index.html" else rel)
+            if rel != "wiki/read.html": SITEMAP.append(url)
+            img = CFG.get("og_image", "")
+            extra = (f'<link rel="canonical" href="{url}">\n<meta property="og:type" content="website">'
+                     f'<meta property="og:site_name" content="{html.escape(CFG["name"])}">'
+                     f'<meta property="og:title" content="{html.escape(title)}">'
+                     f'<meta property="og:description" content="{html.escape(summary or CFG.get("tagline", ""))}">'
+                     f'<meta property="og:url" content="{url}">' + (f'<meta property="og:image" content="{img}">' if img else "")
+                     + '<meta name="twitter:card" content="summary_large_image">')
+            if CFG.get("google_verify") and rel == "index.html":
+                extra += f'\n<meta name="google-site-verification" content="{CFG["google_verify"]}">'
+            page = page.replace("</head>", extra + "\n</head>", 1)
         open(out, "w", encoding="utf-8").write(relativize(page, depth))
 
     A, S, P = env.from_string(ARTICLE), env.from_string(SECTION), env.from_string(PLAIN)
@@ -628,6 +643,10 @@ def main():
     write("index.html", CFG["name"], content, 0, CFG["tagline"], bodyclass="homepage")
     if os.environ.get("SKIP_PDF") != "1":
         export_pdfs(sections)
+    if SITEMAP:
+        today = datetime.date.today().isoformat() if "datetime" in globals() else ""
+        xs = "".join(f"<url><loc>{html.escape(u)}</loc>{f'<lastmod>{today}</lastmod>' if today else ''}</url>" for u in sorted(set(SITEMAP)))
+        open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + xs + "</urlset>\n")
     print(f"built {len(allpages)} articles, {len(biblio)} sources, ~{totalwords} words")
 
 
