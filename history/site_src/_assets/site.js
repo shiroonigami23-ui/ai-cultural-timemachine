@@ -1,3 +1,5 @@
+window.wkFrom=function(){var q=new URLSearchParams(location.search);if(document.getElementById('reader'))return window.__rdFrom||q.get('from')||'';var l=document.querySelector('link[href*="site.css"]');if(!l)return '';var root=new URL((l.getAttribute('href')||'').split('?')[0].replace('assets/site/site.css',''),location.href).pathname,p=location.pathname;if(p.indexOf(root)===0)p=p.slice(root.length);return /^wiki\/[^\/]+\/[^\/]+\.html$/.test(p)&&!/\/index\.html$/.test(p)?p:''};
+window.wkFromQ=function(){var f=wkFrom();return f?'&from='+encodeURIComponent(f):''};
 window.wkBlur=function(root){root.querySelectorAll('img').forEach(function(i){if(i.closest('.blurwrap')||i.classList.contains('icon'))return;var w=document.createElement('span');w.className='blurwrap';w.title='Tap to show image';i.parentNode.insertBefore(w,i);w.appendChild(i)})};
 document.addEventListener('click',function(e){var w=e.target.closest&&e.target.closest('.blurwrap:not(.shown)');if(w){e.preventDefault();e.stopPropagation();w.classList.add('shown')}},true);
 document.addEventListener('DOMContentLoaded',function(){var obs=function(){document.querySelectorAll('.livepic[data-blur]').forEach(function(b){wkBlur(b)})};obs();var mo=new MutationObserver(obs);document.querySelectorAll('.livepic[data-blur]').forEach(function(b){mo.observe(b,{childList:true,subtree:true})})});
@@ -196,7 +198,8 @@ document.addEventListener('DOMContentLoaded',function(){
 (function(){
  var SKIP=/^(see also|references|notes|external links|further reading|bibliography|sources|citations|footnotes|gallery|explanatory notes|works cited|general references|literature cited)$/i;
  var ICON=[[/descr|anatom|morpholog|appear|character|physical|structure|size|composition/i,'🔎'],[/habitat|distribut|range|ecolog|location|geograph/i,'🗺'],[/diet|feed|predat|hunt|forag|prey/i,'🍽'],[/reprod|breed|mating|life cycle|spawn|lifespan|growth|develop/i,'🥚'],[/behavio|social|communicat|vocal|song|intelligen/i,'🧠'],[/migrat|movement|navigat/i,'🧭'],[/conserv|threat|status|human|fisher|pollut|climate|protect/i,'🛡'],[/taxonom|evolut|phylogen|classif|etymolog|name/i,'🧬'],[/research|study|scien|discover|observ|explor|mission|history/i,'🔬'],[/atmosph|surface|geolog|interior|orbit|rotation|magnet|formation|moon|ring/i,'🪐'],[/cultur|myth|religion|popular/i,'🎭']];
- function icon(t){for(var i=0;i<ICON.length;i++)if(ICON[i][0].test(t))return ICON[i][1];return '📄'}
+ ICON=ICON.concat([[/crop|agricult|farm|harvest|irrigat/i,'🌾'],[/livestock|animal|cattle/i,'🐄'],[/relig|belief|god|temple|ritual|myth|worship|church|mosque/i,'🕉'],[/war|militar|battle|army|conquest|invasion|siege|weapon/i,'⚔'],[/econom|trade|tax|money|commerce|industr/i,'💰'],[/art|music|literat|culture|architect|dance/i,'🎨'],[/histor|origin|background|chronolog|period|dynast|reign/i,'📜'],[/govern|politic|law|administ|society|class/i,'🏛'],[/legacy|influence|impact|aftermath|consequen/i,'🏺'],[/tool|technolog|science|engineer|invent/i,'⚙'],[/language|writing|script|literacy/i,'🗣'],[/death|burial|tomb|funer/i,'⚱'],[/food|cuisine|diet/i,'🍲']]);
+ function icon(t){for(var i=0;i<ICON.length;i++)if(ICON[i][0].test(t))return ICON[i][1];return '📄'}window.wkIcon=icon;
  var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').split('?')[0].replace('assets/site/site.css','');
 
  function clean(node,map){
@@ -204,7 +207,7 @@ document.addEventListener('DOMContentLoaded',function(){
   node.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
    if(h.indexOf('./')===0||h.indexOf('/wiki/')===0){var t=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]).replace(/_/g,' ').toLowerCase();
     var orig=decodeURIComponent(h.replace(/^\.\/|^\/wiki\//,'').split('#')[0]);if(/^(File|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk|Module|Draft):/i.test(orig)){wkUnwrap(a);return}
-    if(map[t]){a.href=base+map[t];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=base+'wiki/read.html?t='+encodeURIComponent(orig);a.className='rdl';a.title='Read here'}}
+    if(map[t]){a.href=base+map[t];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=base+'wiki/read.html?t='+encodeURIComponent(orig)+wkFromQ();a.className='rdl';a.title='Read here'}}
    else if(h.charAt(0)==='#'){a.replaceWith(document.createTextNode(a.textContent))}});
   wkImgs(node);node.querySelectorAll('figure,.thumb').forEach(function(f){f.classList.add('dfig')});
   return node;
@@ -285,7 +288,7 @@ document.addEventListener('DOMContentLoaded',function(){
  var base=(document.querySelector('link[href*="site.css"]')||{getAttribute:function(){return ''}}).getAttribute('href').split('?')[0].replace('assets/site/site.css','');
  var MAP=null;function getMap(){if(!MAP)MAP=fetch(base+'assets/site/wikimap.json').then(function(r){return r.json()}).catch(function(){return {}});return MAP}
  function titleOf(href){var m=href.match(/^(?:https?:)?\/\/en\.(?:m\.)?wikipedia\.org\/wiki\/([^?#]+)(#.*)?/);if(!m)return null;try{return {t:decodeURIComponent(m[1]).replace(/_/g,' '),h:m[2]||''}}catch(e){return {t:m[1].replace(/_/g,' '),h:''}}}
- function readURL(t,h){return base+'wiki/read.html?t='+encodeURIComponent(t.replace(/ /g,'_'))+(h||'')}
+ function readURL(t,h){return base+'wiki/read.html?t='+encodeURIComponent(t.replace(/ /g,'_'))+wkFromQ()+(h||'')}
  // 1. rewrite every Wikipedia link on normal pages
  document.addEventListener('DOMContentLoaded',function(){
   var links=[].slice.call(document.querySelectorAll('a[href*="wikipedia.org/wiki/"]')).filter(function(a){return !a.hasAttribute('data-keep')});
@@ -299,7 +302,7 @@ document.addEventListener('DOMContentLoaded',function(){
  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
  function render(box,map,t){
   box.innerHTML='<div class="loadingbar"></div><p class="muted">Loading “'+esc(t)+'”…</p>';
-  var api='https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&origin=*&redirects=1&prop=text|displaytitle|sections&disableeditsection=1&disablelimitreport=1&page='+encodeURIComponent(t.replace(/ /g,'_'));
+  var api='https://en.wikipedia.org/w/api.php?action=parse&format=json&formatversion=2&origin=*&redirects=1&prop=text|displaytitle|sections|properties&disableeditsection=1&disablelimitreport=1&page='+encodeURIComponent(t.replace(/ /g,'_'));
   fetch(api).then(function(r){return r.json()}).then(function(j){
    if(!j||!j.parse){
     return fetch('https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srlimit=10&srsearch='+encodeURIComponent(t)).then(function(r){return r.json()}).then(function(s){
@@ -310,21 +313,53 @@ document.addEventListener('DOMContentLoaded',function(){
    var kill=false;[].slice.call(root.children).forEach(function(el){var h=el.querySelector&&el.querySelector('h2');var ht=(el.tagName==='H2'?el:h);if(ht&&/^(see also|references|notes|external links|further reading|bibliography|sources|citations|footnotes|works cited)$/i.test(ht.textContent.trim()))kill=true;else if(ht&&el.classList.contains('mw-heading2'))kill=false;if(kill)el.remove()});
    wkImgs(root);if((map.__blur||[]).indexOf(title.toLowerCase())>=0||(map.__blur||[]).indexOf(String(t).toLowerCase())>=0)wkBlur(root);
    root.querySelectorAll('table').forEach(function(tb){var w=document.createElement('div');w.className=tb.classList.contains('infobox')?'rdinfo':'rdtable';tb.parentNode.insertBefore(w,tb);w.appendChild(tb)});
+   // where does this article belong? 1) the page it was opened from, 2) the first catalog link in the lead, 3) the most-linked catalog page
+   var PG=map.__pages||{},CO=map.__colls||{},self=(map[title.toLowerCase()]||map[String(t).toLowerCase()]);
+   var par=new URLSearchParams(location.search).get('from');if(!(par&&PG[par]))par=null;
+   if(!par&&!self){var tl=function(a){var h=(a.getAttribute('href')||'').replace(/^\.\/|^\/wiki\//,'').split('#')[0];try{h=decodeURIComponent(h)}catch(e){}return map[h.replace(/_/g,' ').toLowerCase()]};
+    var lead=[];for(var ch=root.firstElementChild;ch;ch=ch.nextElementSibling){if(ch.tagName==='H2'||(ch.classList&&ch.classList.contains('mw-heading2')))break;if(ch.tagName==='P')lead.push(ch)}
+    lead.some(function(pp){return [].slice.call(pp.querySelectorAll('a')).some(function(a){var u=tl(a);if(u&&PG[u]){par=u;return true}})});
+    if(!par){var cnt={};root.querySelectorAll('a').forEach(function(a){var u=tl(a);if(u&&PG[u])cnt[u]=(cnt[u]||0)+1});var best=0;for(var u in cnt)if(cnt[u]>best){best=cnt[u];par=u}}}
+   if(self&&PG[self])par=null;window.__rdFrom=par||'';
    root.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
     if(/^\.\/|^\/wiki\//.test(h)){var raw=h.replace(/^\.\/|^\/wiki\//,''),parts=raw.split('#'),tt;try{tt=decodeURIComponent(parts[0]).replace(/_/g,' ')}catch(e){tt=parts[0]}
      if(/^(File|Image|Media|Special|Help|Wikipedia|Template|Category|Portal|Talk|Template talk|Module|Draft):/i.test(tt)){wkUnwrap(a);return}
      var k=tt.toLowerCase();if(map[k]){a.href=base+map[k];a.className='intl';a.title='Open in this encyclopedia'}else{a.href=readURL(tt,parts[1]?'#'+parts[1]:'')}}
     else if(h.charAt(0)!=='#'){a.target='_blank';a.rel='noopener'}});
-   // TOC
-   var heads=[].slice.call(root.querySelectorAll('h2,h3'));heads.forEach(function(h,i){if(!h.id)h.id='s'+i});
-   var toc=heads.filter(function(h){return h.tagName==='H2'}).map(function(h){return '<li><a href="#'+h.id+'">'+esc(h.textContent.trim())+'</a></li>'}).join('');
-   var here=map[title.toLowerCase()]||map[t.toLowerCase()];
+   // lead picture + facts card from the infobox
+   var ib=root.querySelector('table.infobox'),facts=[],pic=null;
+   if(ib){ib.querySelectorAll('tr').forEach(function(tr){var th=tr.querySelector('th.infobox-label,th[scope=row]'),td=tr.querySelector('td.infobox-data,td');if(th&&td&&facts.length<14&&td.textContent.trim())facts.push('<tr><th>'+esc(th.textContent.trim())+'</th><td>'+td.innerHTML+'</td></tr>')});
+    var im=ib.querySelector('img');if(im&&!im.classList.contains('icon'))pic=im.closest('.blurwrap')||im;
+    if(facts.length>=2){var w=ib.closest('.rdinfo')||ib;if(pic)pic.parentNode.removeChild(pic);w.remove()}else{facts=[];pic=null}}
+   if(!pic){for(var ch=root.firstElementChild;ch;ch=ch.nextElementSibling){if(ch.tagName==='H2'||(ch.classList&&ch.classList.contains('mw-heading2')))break;var fi=ch.matches&&ch.matches('figure,.thumb')?ch:null;if(fi&&fi.querySelector('img')){pic=fi.querySelector('.blurwrap')||fi.querySelector('img');fi.remove();break}}}
+   // split into collapsible sections like our own pages
+   var intro='',secs=[],cur=null;
+   [].slice.call(root.children).forEach(function(el){var h2=el.tagName==='H2'?el:(el.classList&&el.classList.contains('mw-heading2')?el.querySelector('h2'):null);
+    if(h2){var tt=h2.textContent.trim();cur=/^contents$/i.test(tt)?null:{title:tt,id:h2.id||('w-'+tt.toLowerCase().replace(/[^a-z0-9]+/g,'-')),html:''};if(cur)secs.push(cur);return}
+    if(cur)cur.html+=el.outerHTML;else if(!/^contents$/i.test(el.textContent.trim()))intro+=el.outerHTML});
+   secs=secs.filter(function(x){return x.html.replace(/<[^>]+>/g,'').trim().length>20});
+   var ic=window.wkIcon||function(){return '📄'};
+   var toc=secs.map(function(x){return '<li><a href="#'+x.id+'">'+ic(x.title)+' '+esc(x.title)+'</a></li>'}).join('');
+   var body=secs.map(function(x,k){return '<details class="dsec" id="'+x.id+'"'+(k<2?' open':'')+'><summary>'+ic(x.title)+' '+esc(x.title)+'</summary><div class="dbody">'+x.html+'</div></details>'}).join('');
+   // breadcrumbs: Home › Catalog › Parent › Article
+   var cr=document.querySelector('.crumbs'),pe=par&&PG[par],co=pe&&CO[pe[2]],here=self;
+   if(!pe&&here&&PG[here]){pe=null}
+   if(cr){cr.innerHTML='<a href="'+base+'index.html">Home</a> › '+(co?'<a href="'+base+'wiki/'+pe[2]+'/index.html">'+esc(co[0])+'</a> › <a href="'+base+par+'">'+esc(pe[0])+'</a> › ':(here&&PG[here]&&CO[PG[here][2]]?'<a href="'+base+'wiki/'+PG[here][2]+'/index.html">'+esc(CO[PG[here][2]][0])+'</a> › ':'📖 Encyclopedia › '))+esc(title)}
+   var props=j.parse.properties||{},sd='';if(Array.isArray(props)){props.forEach(function(p){if(p.name==='wikibase-shortdesc')sd=p['*']})}else sd=props['wikibase-shortdesc']||'';
+   var emo=pe?pe[1]:(here&&PG[here]?PG[here][1]:'📖');
    document.title=title+' · '+(document.title.split('·').pop()||'').trim();
-   box.innerHTML='<div class="rdhead"><h1>'+j.parse.displaytitle+'</h1>'+(here?'<a class="btn" href="'+base+here+'">📘 Open our article on '+esc(title)+'</a>':'')+'</div>'+
-    (toc?'<details class="rdtoc" open><summary>Contents</summary><ol>'+toc+'</ol></details>':'')+
-    '<article class="prose rdbody">'+root.innerHTML+'</article>'+
+   box.innerHTML='<div class="rdhead"><h1>'+emo+' '+j.parse.displaytitle+'</h1>'+(here?'<a class="btn" href="'+base+here+'">📘 Open our article on '+esc(title)+'</a>':'')+'</div>'+
+    (sd?'<p class="lede">'+esc(sd.charAt(0).toUpperCase()+sd.slice(1))+'.</p>':'')+
+    (pe?'<p class="small muted rdpart">Part of <a href="'+base+par+'">'+pe[1]+' '+esc(pe[0])+'</a> in <a href="'+base+'wiki/'+pe[2]+'/index.html">'+esc(co[0])+'</a></p>':'')+
+    ((pic||facts.length)?'<div class="entry-top rdtop"><div class="entry-pic"></div>'+(facts.length?'<table class="factbox">'+facts.join('')+'</table>':'')+'</div>':'')+
+    '<article class="prose rdbody">'+intro+'</article>'+
+    (toc?'<details class="rdtoc" open><summary>📑 Sections</summary><ol>'+toc+'</ol></details>':'')+
+    '<div class="rdbody">'+body+'</div>'+
     '<div class="wsrc">Article “'+esc(title)+'” from <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(title.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Wikipedia</a> by its contributors, licensed CC BY-SA 4.0, loaded live. Dashed links open our own pages; other links stay inside this reader.</div>';
-   if(location.hash){var el=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(el)el.scrollIntoView()}else scrollTo(0,0);
+   var ep=box.querySelector('.rdtop .entry-pic');if(ep){if(pic)ep.appendChild(pic);else ep.remove()}
+   var openTo=function(id){var el=document.getElementById(id);if(!el)return;var d=el.closest('details');if(d)d.open=true;el.scrollIntoView()};
+   box.querySelectorAll('.rdtoc a').forEach(function(a){a.addEventListener('click',function(e){e.preventDefault();openTo(a.getAttribute('href').slice(1))})});
+   if(location.hash){openTo(decodeURIComponent(location.hash.slice(1)))}else scrollTo(0,0);
   }).catch(function(e){if(window.console)console.error('reader',e);box.innerHTML='<h1>'+esc(t)+'</h1><p class="muted">Could not load this article right now. <a data-keep href="https://en.wikipedia.org/wiki/'+encodeURIComponent(t.replace(/ /g,'_'))+'" target="_blank" rel="noopener">Open the original</a>.</p>'});
  }
  document.addEventListener('DOMContentLoaded',function(){var box=document.getElementById('reader');if(!box)return;var ph=[].slice.call(document.querySelectorAll('h1')).filter(function(h){return !box.contains(h)})[0];if(ph)ph.style.display='none';

@@ -344,6 +344,8 @@ def build_collections(env, write, sections, search, built):
         cards, rows = [], []
         for i, it in enumerate(items):
             slug = it["slug"]; name = it[nk]; sub = str(it.get(sk, "")) if sk and it.get(sk) is not None else ""; name = str(name)
+            WIKIMAP.setdefault("__pages", {})[f"wiki/{cid}/{slug}.html"] = [name, it.get("emoji", c["icon"]), cid]
+            WIKIMAP.setdefault("__colls", {})[cid] = [c["title"], c["icon"]]
             hue = zlib.crc32(str(it.get(c.get("group_key", "group"), "")).encode()) % 360
             img = find_img(cid, slug)
             if img:
