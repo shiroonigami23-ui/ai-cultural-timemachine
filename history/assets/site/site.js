@@ -315,11 +315,14 @@ document.addEventListener('DOMContentLoaded',function(){
    root.querySelectorAll('table').forEach(function(tb){var w=document.createElement('div');w.className=tb.classList.contains('infobox')?'rdinfo':'rdtable';tb.parentNode.insertBefore(w,tb);w.appendChild(tb)});
    // where does this article belong? 1) the page it was opened from, 2) the first catalog link in the lead, 3) the most-linked catalog page
    var PG=map.__pages||{},CO=map.__colls||{},self=(map[title.toLowerCase()]||map[String(t).toLowerCase()]);
+   var tl=function(a){var h=(a.getAttribute('href')||'').replace(/^\.\/|^\/wiki\//,'').split('#')[0];try{h=decodeURIComponent(h)}catch(e){}return map[h.replace(/_/g,' ').toLowerCase()]};
    var par=new URLSearchParams(location.search).get('from');if(!(par&&PG[par]))par=null;
-   if(!par&&!self){var tl=function(a){var h=(a.getAttribute('href')||'').replace(/^\.\/|^\/wiki\//,'').split('#')[0];try{h=decodeURIComponent(h)}catch(e){}return map[h.replace(/_/g,' ').toLowerCase()]};
+   // only keep the page we came from if this article really links to it
+   if(par&&![].slice.call(root.querySelectorAll('a')).some(function(a){return tl(a)===par}))par=null;
+   if(!par&&!self){
     var lead=[];for(var ch=root.firstElementChild;ch;ch=ch.nextElementSibling){if(ch.tagName==='H2'||(ch.classList&&ch.classList.contains('mw-heading2')))break;if(ch.tagName==='P')lead.push(ch)}
     lead.some(function(pp){return [].slice.call(pp.querySelectorAll('a')).some(function(a){var u=tl(a);if(u&&PG[u]){par=u;return true}})});
-    if(!par){var cnt={};root.querySelectorAll('a').forEach(function(a){var u=tl(a);if(u&&PG[u])cnt[u]=(cnt[u]||0)+1});var best=0;for(var u in cnt)if(cnt[u]>best){best=cnt[u];par=u}}}
+    if(!par){var cnt={};root.querySelectorAll('a').forEach(function(a){var u=tl(a);if(u&&PG[u])cnt[u]=(cnt[u]||0)+1});var best=3;for(var u in cnt)if(cnt[u]>best){best=cnt[u];par=u}}}
    if(self&&PG[self])par=null;window.__rdFrom=par||'';
    root.querySelectorAll('a').forEach(function(a){var h=a.getAttribute('href')||'';
     if(/^\.\/|^\/wiki\//.test(h)){var raw=h.replace(/^\.\/|^\/wiki\//,''),parts=raw.split('#'),tt;try{tt=decodeURIComponent(parts[0]).replace(/_/g,' ')}catch(e){tt=parts[0]}
