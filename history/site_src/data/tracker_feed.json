@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-23",
  "streams": {
   "herculaneum": [
    {
@@ -9,16 +9,16 @@
     "url": "https://doi.org/10.5281/zenodo.23423772"
    },
    {
-    "title": "Volumetric Texture Analysis for Unsupervised Ink Detection in Herculaneum Papyri",
-    "date": "2026-06-19",
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.20766168"
-   },
-   {
     "title": "Ink detection from surface topography of the Herculaneum papyri",
     "date": "2026-06-18",
     "venue": "Scientific Reports",
     "url": "https://doi.org/10.1038/s41598-026-58467-1"
+   },
+   {
+    "title": "Near-infrared focus-stacking photogrammetry for surface morphology analysis and text recovery in Herculaneum papyri",
+    "date": "2026-02-04",
+    "venue": "Digital Applications in Archaeology and Cultural Heritage",
+    "url": "https://doi.org/10.1016/j.daach.2026.e00516"
    }
   ],
   "keeladi": [
@@ -63,6 +63,12 @@
   ],
   "adna": [
    {
+    "title": "Digging deeper: Plant sedimentary ancient DNA in archaeobotanical studies",
+    "date": "2026-11-18",
+    "venue": "Archeologické rozhledy",
+    "url": "https://doi.org/10.35686/ar.2026.332"
+   },
+   {
     "title": "A preliminary ancient DNA study of fragmented faunal remains from the Shandun Site, Anji, Zhejiang Province",
     "date": "2026-11-04",
     "venue": "Asian Archaeology",
@@ -73,13 +79,28 @@
     "date": "2026-11-04",
     "venue": "Nature",
     "url": "https://doi.org/10.1038/d41586-026-03582-2"
+   }
+  ],
+  "battlefield": [
+   {
+    "title": "POPULAR ARCHEOLOGY USA - THE 2026 BATTLEFIELD ARCHAEOLOGY OF THE BATTLE OF CERIGNOLA (1503)",
+    "date": "2026-10-22",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.23555845"
    },
    {
-    "title": "Precise taxonomic identification of antler arrowheads from the Jianjiapo Cemetery, Xinjiang, China, using ancient DNA",
-    "date": "2026-11-02",
-    "venue": "Journal of Archaeological Science",
-    "url": "https://doi.org/10.1016/j.jas.2026.106736"
+    "title": "A theoretical and epistemological approach to battlefield archaeology",
+    "date": "2026-01-01",
+    "venue": "Forensic Research & Criminology International Journal",
+    "url": "https://doi.org/10.15406/frcij.2026.14.00481"
+   },
+   {
+    "title": "Gua Jepang di Perbukitan Pengklik: Studi Battlefield Archaeology tentang Reverse Slope Defence",
+    "date": "2025-12-10",
+    "venue": "JANUS",
+    "url": "https://doi.org/10.22146/janus.24134"
    }
-  ]
+  ],
+  "castles": []
  }
 }
